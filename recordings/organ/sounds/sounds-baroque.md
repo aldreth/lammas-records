@@ -69,7 +69,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  We would like to thank the Paroch
       <td class="column1">
         Toccata secunda in G minor <span class="composer">Georg Muffat</span>
         <p>
-          Voluntary in G major <span class="composer">Henry Purcell</span><a href="cliplinks/baroque.ram"><img alt="Listen to this track" src="/web/20121018000535im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></p>
+          Voluntary in G major <span class="composer">Henry Purcell</span></p>
         <p>
           Kyries (Messe pour les Paroisses) <span class="composer">François Couperin</span><br>
           Plein chant du premier Kyrie, en Taille<br>

@@ -93,7 +93,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Sheffield Cathedral o
         <p>
           <span class="trackname">Give unto the Lord</span><span class="composer"> Edward Elgar</span></p>
         <p>
-          <span class="trackname">Ave verum corpus </span> <span class="composer">Edward Elgar</span><span class="trackname"><a href="cliplinks/verum133%20.ram"><img alt="Listen to this track" src="/web/20120720021144im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></span></p>
+          <span class="trackname">Ave verum corpus </span> <span class="composer">Edward Elgar</span><span class="trackname"></span></p>
         <p>
           <span class="trackname">Ave Maria </span> <span class="composer">Edward Elgar</span></p>
         <p>

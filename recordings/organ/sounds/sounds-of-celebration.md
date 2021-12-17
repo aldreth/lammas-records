@@ -126,7 +126,7 @@ recordingDetailsHtml: |-
           <span class="composer">Three Fancies for Pedal and Left Hand<br>
           </span>Your feet’s too big<br>
           Misty<br>
-          A Yorkshire Christmas<a href="cliplinks/celeb%20.ram"><img alt="Listen to this track" src="/web/20161225034918im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          A Yorkshire Christmas</p>
         <p>
           <span class="composer">The Shadow of the Sun</span></p>
       </td>

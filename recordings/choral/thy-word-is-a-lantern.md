@@ -51,7 +51,7 @@ recordingDetailsHtml: ''
   <tbody>
     <tr>
       <td class="column1">
-        I was glad <span class="composer">David Hurd</span><a href="cliplinks/iwasglad%20.ram"><img alt="Listen to this track" src="/web/20120408104959im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        I was glad <span class="composer">David Hurd</span><br>
         Come, my way<span class="composer"> David Cooper</span><br>
         Behold now, praise the Lord <span class="composer">William Harris</span><br>
         I will sing with the Spirit <span class="composer">David Goodenough</span><br>

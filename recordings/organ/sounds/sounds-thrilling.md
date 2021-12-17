@@ -82,7 +82,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Blackburn Cathedral o
         <span class="trackname">Symphony ‘Missa pro defunctis’ </span> <span class="composer">David Briggs</span><br>
         <span class="trackname"> Prélude<br>
           Arioso<br>
-          Intermezzo</span><a href="cliplinks/thrilling%20.ram"><img alt="Listen to this track" src="/web/20120917044845im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          Intermezzo</span><br>
         <span class="trackname"> Toccata<br>
           Agité<br>
           Adagio<br>

@@ -44,7 +44,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Cathedral and Abb
           Suite Modale <span class="composer">Flor Peeters</span><br>
           Koraal<br>
           <span class="composer"> </span>Scherzo<br>
-          Adagio<a href="cliplinks/soundsta%20.ram"><img alt="Listen to this track" src="/web/20120719220146im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+          Adagio<br>
           Toccata</p>
         <p>
           Moto Ostinato from Ned<font face="Verdana">ě</font>lni hudba <span class="composer">Petr Eben</span></p>

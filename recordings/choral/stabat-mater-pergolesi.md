@@ -226,7 +226,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Cathedral and Abb
           <span class="trackname"> Stabat mater dolorosa<br>
             Cujus animam gementem<br>
             O quam tristis et afflicta<br>
-            Quae moerebat et dolebat</span><a href="cliplinks/stabmat%20.ram"><img alt="Listen to this track" src="/web/20160702084230im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+            Quae moerebat et dolebat</span><br>
           <span class="trackname"> Quis est homo<br>
             Vidit suum dulcem natum<br>
             Eja mater fons amoris<br>

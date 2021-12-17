@@ -69,7 +69,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  xRecorded in Blackburn Cathedral 
         <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">John Tavener</span><br>
         <span class="trackname"> Nunc Dimittis Collegium Regale</span><span class="composer"> John Tavener</span><br>
         <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">Herbert Howells</span><br>
-        <span class="trackname"> Nunc Dimittis Collegium Regale </span> <span class="composer">Herbert Howells </span><a href="cliplinks/collreg%20.ram"> <img alt="Listen to this track" src="/web/20120720021326im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a>
+        <span class="trackname"> Nunc Dimittis Collegium Regale </span> <span class="composer">Herbert Howells </span>
         <p>
           <span id="playingtime">Total playing time 65m 13s</span></p>
       </td>

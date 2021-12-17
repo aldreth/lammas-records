@@ -67,7 +67,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Justorum Animae </span> <span class="composer"> Charles Stanford</span></p>
         <p>
-          <span class="trackname">Coelos Ascendit Hodie </span> <span class="composer"> Charles Stanford</span><a href="cliplinks/heaven%20.ram"><img alt="Listen to this track" src="/web/20120408112457im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></p>
+          <span class="trackname">Coelos Ascendit Hodie </span> <span class="composer"> Charles Stanford</span></p>
         <p>
           <span class="trackname">Beati Quorum Via </span> <span class="composer"> Charles Stanford</span></p>
         <p>

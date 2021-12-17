@@ -122,7 +122,7 @@ recordingDetailsHtml: |-
         <p>
           Messe Basse pour les défunts Op. 62 <span class="composer">Louis Vierne</span><br>
           Prélude<br>
-          Introït<a href="cliplinks/paris.ram"><img alt="Listen to this track" src="/web/20160321125412im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+          Introït<br>
           Offertoire<br>
           Élévation<br>
           Communion<br>

@@ -42,7 +42,7 @@ recordingDetailsHtml: |-
         Sanctus<br>
         Benedictus<br>
         Agnus Dei
-        <p>					Salve Regina <span class="composer">Pierre Villette</span><a href="cliplinks/salve%20.ram"><img alt="Listen to this track" src="/web/20170101001640im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+        <p>					Salve Regina <span class="composer">Pierre Villette</span></p>
         <p>					Magnificat <span class="composer">Gerald Finzi</span></p>
         <p>					Nunc Dimittis <span class="composer">Gustav Holst<br>
           </span><br>

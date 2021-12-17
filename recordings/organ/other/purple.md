@@ -79,7 +79,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Cathedral and Abb
         <p>
           <span class="trackname">Reading: </span> <span class="composer">Luke 20.1-8 &amp; 20-26</span></p>
         <p>
-          <span class="trackname">Meditation 2 </span> <span class="composer">Jesus is questioned in the temple</span><a href="cliplinks/purple%20.ram"><img alt="Listen to this track" src="/web/20120718184233im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Meditation 2 </span> <span class="composer">Jesus is questioned in the temple</span></p>
         <p>
           <span class="trackname">Reading: </span> <span class="composer">Luke 22.7-20</span></p>
         <p>

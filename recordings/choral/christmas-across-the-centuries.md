@@ -49,7 +49,7 @@ recordingDetailsHtml: |-
         <span class="trackname"> Ne timeas </span> <span class="composer">Maria Plainchant</span><br>
         <span class="trackname"> Angelus ad </span> <span class="trackname">Virginem</span><span class="composer"> arr. David Willcocks</span><br>
         <span class="trackname"> Vom Himmel hoch</span><span class="composer"> Luther arr. M Praetorius </span><br>
-        <span class="trackname"> Vom Himmel hoch </span> <span class="composer">Luther arr. J S Bach</span><span class="trackname"> <a href="cliplinks/vonhimmel%20.ram"><img alt="Listen to this track" src="/web/20160702084513im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> Vom Himmel hoch </span> <span class="composer">Luther arr. J S Bach</span><span class="trackname"> <br>
           Nowel: Owt of your slepe </span> <span class="composer">Anon</span><br>
         <span class="trackname"> Hodie Christus natus est</span><span class="composer"> Plainchant</span><br>
         <span class="trackname"> Alleluya: A nywe werk</span><span class="composer"> Anon </span><br>

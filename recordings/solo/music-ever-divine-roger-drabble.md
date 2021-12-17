@@ -64,7 +64,7 @@ recordingDetailsHtml: |-
         Ex ore innocentium <span class="composer">John Ireland</span><br>
         Come, my way, my truth, my life <span class="composer">Alexander Brent-Smith</span><br>
         A Hymn to the Virgin<span class="composer"> Malcolm Archer</span><br>
-        Pie Jesu Domine<span class="composer"> Gabriel Fauré</span><a href="cliplinks/piejesu.ram"><img alt="Listen to this track" src="/web/20120408110832im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        Pie Jesu Domine<span class="composer"> Gabriel Fauré</span><br>
         Hymn to the Holy Spirit<span class="composer"> Malcolm Archer</span><br>
         The Call<span class="composer"> Ralph Vaughan Williams</span><br>
         In the bleak mid-winter <span class="composer">Gustav Holst</span><br>

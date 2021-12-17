@@ -92,7 +92,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Blackburn Cathedral o
         <p>
           <span class="trackname">Thy hand, O God has guided </span> <span class="composer">Basil Harwood, descant Richard Tanner</span></p>
         <p>
-          <span class="trackname">Walking in the Garden </span> <span class="composer">Irish, arr. Richard Tanner</span><a href="cliplinks/shepherd%20.ram"><img alt="Listen to this track" src="/web/20120720022645im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Walking in the Garden </span> <span class="composer">Irish, arr. Richard Tanner</span></p>
         <p>
           <span class="trackname">O God of earth and altar </span> <span class="composer">Traditional, arr. Richard Tanner</span></p>
         <p>

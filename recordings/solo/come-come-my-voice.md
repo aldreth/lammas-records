@@ -75,7 +75,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Ex ore innocentium </span> <span class="composer">John Ireland</span></p>
         <p>
-          <span class="trackname">Lully, lulla, thou little tiny child </span> <span class="composer"> Kenneth Leighton</span><a href="cliplinks/lully.ram"><img alt="Listen to this track" src="/web/20120720022536im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></p>
+          <span class="trackname">Lully, lulla, thou little tiny child </span> <span class="composer"> Kenneth Leighton</span></p>
         <p>
           <span class="trackname">Magnificat in D </span> <span class="composer">Herbert Kennedy Andrews</span></p>
         <p>

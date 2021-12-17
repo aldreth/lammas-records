@@ -47,7 +47,7 @@ recordingDetailsHtml: "<div id=\"details\">\n   Recorded in St Mary's Cathedral
         <span class="trackname"> Magnificat Quinti toni </span> <span class="composer">Hieronymous Praetorius</span><br>
         <span class="trackname"> Ave maris stella </span> <span class="composer">Claudio Monteverdi</span><br>
         <span class="trackname"> Hymn to the Mother of God </span> <span class="composer">John Tavener</span><br>
-        <span class="trackname"> Hymn of St Columba </span> <span class="composer">Benjamin Britten</span><a href="cliplinks/columba2.ram"><img alt="Listen to this track" src="/web/20160928113849im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> Hymn of St Columba </span> <span class="composer">Benjamin Britten</span><br>
         <span class="trackname"> Adam lay ybounden </span> <span class="composer">Howard Skempton</span><br>
         <span class="trackname"> Det ‘r en ros utsprungen </span> <span class="composer">Jan Sandström</span><br>
         <span class="trackname"> Hills of the North, rejoice </span> <span class="composer">Martin Shaw</span><br>

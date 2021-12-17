@@ -61,7 +61,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Sheffield Cathedral o
          <span class="trackname">Tantum Ergo </span> <span class="composer">Déodat de Séverac</span><br>
         <span class="trackname"> Litanies à la Vierge Noire </span> <span class="composer">Francis Poulenc</span><br>
         <span class="trackname"> Love is come again </span> <span class="composer">French arr. Michael Nicholas</span><br>
-        <span class="trackname"> This joyful Eastertide</span><span class="composer"> Dutch arr. Charles Wood</span><a href="cliplinks/joyful%20.ram"><img alt="Listen to this track" src="/web/20120718235935im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> This joyful Eastertide</span><span class="composer"> Dutch arr. Charles Wood</span><br>
         <span class="trackname"> Haec Dies </span> <span class="composer">William</span><span class="trackname"> </span> <span class="composer">Byrd</span><br>
         <span class="trackname"> Easter Anthems </span> <span class="composer">John</span><span class="trackname"> </span> <span class="composer">Scott</span><br>
         <span class="trackname"> Ye Choirs of new Jerusalem </span> <span class="composer">Richard</span><span class="trackname"> </span> <span class="composer">Shephard

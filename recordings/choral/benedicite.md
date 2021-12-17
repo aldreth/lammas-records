@@ -51,7 +51,7 @@ recordingDetailsHtml: ''
       </td>
       <td class="column2">
         <span class="trackname">Jubilate in B minor </span> <span class="composer">Tertius Noble</span><br>
-        <span class="trackname"> The Birds </span> <span class="composer">Basil Smallman</span><span class="trackname"><a href="cliplinks/thebirds.ram"><img alt="Listen to this track" src="/web/20120720021107im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> The Birds </span> <span class="composer">Basil Smallman</span><span class="trackname"><br>
           Laudate Dominum </span> <span class="composer">Geoffrey Burgon </span><br>
         <span class="trackname"> Benedicite in G</span><span class="composer"> Francis Jackson </span><br>
         <span class="trackname"> Holy is the true light </span> <span class="composer">William Harris</span><br>

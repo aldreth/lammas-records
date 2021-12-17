@@ -69,7 +69,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Manchester Cathedral 
       </td>
       <td class="column2">
         Six Short Preludes and Postludes, set 2 op.105 <span class="composer">C V Stanford</span><br>
-        I. On a theme of Orlando Gibbons (Song 34) The Angel’s Song<a href="cliplinks/angelsong%20.ram"><img alt="Listen to this track" src="/web/20120718133756im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        I. On a theme of Orlando Gibbons (Song 34) The Angel’s Song<br>
         II. On a theme of Orlando Gibbons (Song 22)<br>
         III. Lento<br>
         IV. On a theme of Orlando Gibbons (Song 24)<br>

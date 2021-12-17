@@ -29,11 +29,11 @@ recordingDetailsHtml: |-
       <td class="column1">
         <span class="trackname">Toccata and Fugue in D minor </span><span class="composer">J S Bach</span>
         <p>
-          <span class="trackname">The Prince of Denmark's March (Trumpet Voluntary) </span><span class="composer"> Jeremiah Clarke</span><a href="cliplinks/trumpetv.ram"><img alt="Listen to this track" src="/web/20120717035558im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">The Prince of Denmark's March (Trumpet Voluntary) </span><span class="composer"> Jeremiah Clarke</span></p>
         <p>
           <span class="trackname">Jesu, joy of man's desiring</span><span class="composer"> J S Bach</span></p>
         <p>
-          <span class="trackname">Arrival of the Queen of Sheba</span><span class="composer"> G F Handel</span><a href="cliplinks/quesheba%20%20.ram"><img alt="Listen to this track" src="/web/20120717035558im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Arrival of the Queen of Sheba</span><span class="composer"> G F Handel</span></p>
         <p>
           <span class="trackname">Te Deum (Hymne d'actions de grce) </span> <span class="composer">Jean Langlais</span></p>
         <p>

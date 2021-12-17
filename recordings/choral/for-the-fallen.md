@@ -65,7 +65,7 @@ recordingDetailsHtml: |-
         <br>
         Lord let me know mine end <span class="composer">Maurice Greene</span><br>
         <br>
-        Give us the wings of faith <span class="composer">Ernest Bullock</span><a href="cliplinks/givewing%20.ram"><img alt="Listen to this track" src="/web/20120719220057im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Give us the wings of faith <span class="composer">Ernest Bullock</span><br>
         <br>
         For the fallen <span class="composer">Douglas Guest<br>
         </span>

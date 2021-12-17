@@ -105,7 +105,7 @@ recordingDetailsHtml: |-
            </p>
       </td>
       <td class="column2">
-        Festival Toccata (Opus 37)<a href="cliplinks/jackson%20.ram"><img alt="Listen to this track" src="/web/20120718133653im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a>
+        Festival Toccata (Opus 37)
         <p>
           Improvisation on a Chant</p>
         <p>

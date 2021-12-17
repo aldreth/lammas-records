@@ -90,7 +90,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Ampleforth Abbey on 2
         <p>
           Lux aeterna <span class="composer">Nadia Boulanger</span></p>
         <p>
-          If with all your hearts <span class="composer">Felix Mendelssohn</span><a href="cliplinks/brevis.ram"><img alt="Listen to this track" src="/web/20160407040114im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></p>
+          If with all your hearts <span class="composer">Felix Mendelssohn</span></p>
         <p>
           The Call <span class="composer">Ralph Vaughan Williams</span></p>
         <p>

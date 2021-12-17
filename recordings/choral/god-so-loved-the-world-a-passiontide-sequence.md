@@ -103,7 +103,7 @@ recordingDetailsHtml: |-
       <td class="column1">
         <span class="trackname">God so loved the world </span> <span class="composer"> John Stainer</span>
         <p>
-          <span class="trackname">Drop, drop, slow tears </span> <span class="composer"> Kenneth Leighton</span><a href="cliplinks/soloved%20.ram"><img alt="Listen to this track" src="/web/20130202021035im_/http://www.lammas.co.uk/god-so-loved-the-world-a-passiontide-sequence/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Drop, drop, slow tears </span> <span class="composer"> Kenneth Leighton</span></p>
         <p>
           <span class="trackname">The Lamentation </span> <span class="composer"> Edward Bairstow</span></p>
         <p>

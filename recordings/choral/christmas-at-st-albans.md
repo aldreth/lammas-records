@@ -24,7 +24,7 @@ recordingDetailsHtml: |-
         <span class="trackname">The Shepherd's Pipe Carol </span> <span class="composer">John Rutter</span><br>
         <span class="trackname"> What Child is this? </span> <span class="composer">Trad arr.</span><span class="trackname"> </span> <span class="composer">Walford Davies<br>
         </span> <span class="trackname">I sing of a maiden </span> <span class="composer">Patrick Hadley<br>
-        </span> <span class="trackname">Before the Marvel of this Night</span><span class="composer"> Carl Schalk</span><span class="trackname"> </span><a href="cliplinks/marvelni.ram"> <img alt="Listen to this track" src="/web/20120407001727im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        </span> <span class="trackname">Before the Marvel of this Night</span><span class="composer"> Carl Schalk</span><span class="trackname"> </span><br>
         <span class="trackname"> There is no Rose of such</span><span class="composer"> </span> <span class="trackname">Virtue </span> <span class="composer">Gerald Hendrie</span><br>
         <span class="trackname"> The Zither Carol </span> <span class="composer">Czech arr. Malcolm Sargent<br>
         </span> <span class="trackname">Good King Wenceslas </span> <span class="composer">Trad. J M Neale<br>

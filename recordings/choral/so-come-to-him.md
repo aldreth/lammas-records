@@ -43,7 +43,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Jubilate Deo (Psalm 100) </span> <span class="composer"> Benjamin Britten</span><a href="cliplinks/jubilate%20.ram"><img alt="Listen to this track" src="/web/20120720022653im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">Jubilate Deo (Psalm 100) </span> <span class="composer"> Benjamin Britten</span><br>
         <span class="trackname"> Peace Like a River </span> <span class="composer">Spiritual, arranged Philip E. Baker</span><br>
         <span class="trackname"> Psalm 23 </span> <span class="composer">Chant by Sir Henry Walford Davies</span><br>
         <span class="trackname"> Psalm 121 </span> <span class="composer">Chant by Sir Henry Walford Davies</span><br>

@@ -85,7 +85,7 @@ recordingDetailsHtml: |-
         <span class="trackname">Symphony No. 5 in B flat D485 </span> <span class="composer">Franz Schubert</span><br>
         <span class="trackname"> First movement - Allegro<br>
           Second movement - Andante con moto</span><br>
-        <span class="trackname"> Third movement - Allegro molto</span><a href="cliplinks/orchestral.ram"><img alt="Listen to this track" src="/web/20120720021252im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> Third movement - Allegro molto</span><br>
         <span class="trackname"> Fourth movement - Allegro vivace</span>
       </td>
       <td class="column2">

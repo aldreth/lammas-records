@@ -80,7 +80,7 @@ recordingDetailsHtml: |-
       </td>
       <td class="column2">
         The Little Road to Bethlehem Treble solo only<span class="composer"> Michael Head</span><br>
-        Sussex Carol <span class="composer">trad. arr. David Willcocks</span><a href="cliplinks/sussex%20.ram"><img alt="Listen to this track" src="/web/20120720021243im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Sussex Carol <span class="composer">trad. arr. David Willcocks</span><br>
         The little drummer boy Men only <span class="composer">arr. John McCarthy</span><br>
         I wonder as I wander <span class="composer">trad. arr. John Rutter</span><br>
         The Three Kings <span class="composer">Peter Cornelius</span><br>

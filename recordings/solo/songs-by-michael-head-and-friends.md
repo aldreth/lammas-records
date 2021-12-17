@@ -32,7 +32,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Green Rain </span> <span class="composer">Michael Head</span></p>
         <p>
-          <span class="trackname">A piper </span> <span class="composer">Michael Head</span><a href="piper.ram"><img alt="Listen to this track" src="/web/20160702104333im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">A piper </span> <span class="composer">Michael Head</span></p>
         <p>
           <span class="trackname">A green cornfield </span> <span class="composer">Michael Head</span></p>
         <p>

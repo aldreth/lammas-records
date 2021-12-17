@@ -118,7 +118,7 @@ recordingDetailsHtml: |-
         Sanctus and Benedictus<br>
         Pie Jesu<br>
         Agnus Dei<br>
-        Lux aeterna<a href="cliplinks/mdur%20.ram"><img alt="Listen to this track" src="/web/20120720022614im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Lux aeterna<br>
         Libera me<br>
         In paradisum</td>
       <td class="column2">

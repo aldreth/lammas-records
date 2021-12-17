@@ -117,7 +117,7 @@ recordingDetailsHtml: |-
         <span class="trackname"> Phos Hilaron (Song of the Light) </span> <span class="composer">Andrew March</span><br>
         <span class="trackname"> Sub tuum praesidium </span> <span class="composer">Tarik O'Regan</span><br>
         <span class="trackname"> Ave Maria </span> <span class="composer">Anton Bruckner</span><br>
-        <span class="trackname"> Joys Seven </span> <span class="composer">arr. Stephen Cleobury</span><a href="cliplinks/regina%20.ram"><img alt="Listen to this track" src="/web/20120719204457im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> Joys Seven </span> <span class="composer">arr. Stephen Cleobury</span><br>
         <span class="trackname"> A Hymn to the Virgin </span> <span class="composer">Benjamin Britten</span><br>
         <span class="trackname"> Ave Maris Stella </span> <span class="composer">Edvard Grieg</span><br>
         <span class="trackname"> Nunc Dimittis </span> <span class="composer">Andrew March</span><br>

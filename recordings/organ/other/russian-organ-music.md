@@ -55,11 +55,11 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Prayer without words</span><span class="composer"> Vladimir Odoyevsky</span></p>
         <p>
-          <span class="trackname">Prelude in G major </span> <span class="composer">Constantin Homilius</span><a href="cliplinks/preludeg%20.ram"><img alt="Listen to this track" src="/web/20120720021310im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Prelude in G major </span> <span class="composer">Constantin Homilius</span></p>
         <p>
           <span class="trackname">Prelude and Fugue in D major </span> <span class="composer">Alexander Glazunov</span></p>
         <p>
-          <span class="trackname">Canon </span><span class="composer">Yevgeny Gunst</span><a href="cliplinks/gunstcan.ram"><img alt="Listen to this track" src="/web/20120720021310im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Canon </span><span class="composer">Yevgeny Gunst</span></p>
       </td>
       <td class="column2">
         <span class="trackname">Fugue in E flat minor </span> <span class="composer">Leonid Nikolayev</span>

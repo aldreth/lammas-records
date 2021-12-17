@@ -116,7 +116,7 @@ recordingDetailsHtml: |-
         <p>
           Maundy Thursday (Ubi Caritas)</p>
         <p>
-          Good Friday (Passion Chorale)<a href="cliplinks/spon%20.ram"><img alt="Listen to this track" src="/web/20120720022704im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          Good Friday (Passion Chorale)</p>
       </td>
       <td class="column2">
         Easter (Victimæ Paschali)

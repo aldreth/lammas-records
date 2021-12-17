@@ -58,7 +58,7 @@ recordingDetailsHtml: |-
           Passacaglia</p>
         <p>
           <span class="composer">Sinfonietta<br>
-          </span>Prelude (Tantum Ergo)<a href="cliplinks/clucas%20.ram"><img alt="Listen to this track" src="/web/20160415225951im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          </span>Prelude (Tantum Ergo)<br>
           Chorale (Soll’s Sein)<br>
           Toccata (Suo-Gn)<br>
            </p>

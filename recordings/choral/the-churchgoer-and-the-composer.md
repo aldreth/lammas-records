@@ -38,7 +38,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><a href="cliplinks/sanctiss%20.ram"><img alt="Listen to this track" src="/web/20160702183600im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><br>
         <span class="trackname"> De'un Maestro de capilla </span> <span class="composer">Antonio Soler</span><br>
         <span class="trackname"> ¡Ay, qué dolor! </span> <span class="composer">Joan Cererols</span><br>
         <span class="trackname"> La Justa </span> <span class="composer">Mateo Flecha</span><br>

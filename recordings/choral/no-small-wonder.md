@@ -41,7 +41,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recordings made on:<br>\n  7th Ma
   <tbody>
     <tr>
       <td class="column1">
-        No small wonder<a href="cliplinks/nosmall.ram"><img alt="Listen to this track" src="/web/20131207002743im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        No small wonder<br>
         In Memoriam<br>
         Strong Son of God<br>
         Ad amicum absentem suspiria<br>

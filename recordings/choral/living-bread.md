@@ -72,7 +72,7 @@ recordingDetailsHtml: |-
         <span class="trackname">Wash me throughly </span> <span class="composer">Samuel Sebastian Wesley</span>
         <p><span class="trackname">Ego sum panis vivus </span> <span class="composer">G P da Palestrina</span></p>
         <p><span class="trackname">Hear my prayer </span> <span class="composer">Felix Mendelssohn</span></p>
-        <p><span class="trackname">O Lord, look down from heaven </span> <span class="composer">Jonathan Battishill</span><a href="cliplinks/bread%20.ram"><img alt="Listen to this track" src="/web/20120720021113im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+        <p><span class="trackname">O Lord, look down from heaven </span> <span class="composer">Jonathan Battishill</span></p>
         <p><span class="trackname">Miserere mei, Deus </span> <span class="composer">Gregorio Allegri</span></p>
         <p><span class="trackname">A Litany </span> <span class="composer">William Walton</span></p>
       </td>

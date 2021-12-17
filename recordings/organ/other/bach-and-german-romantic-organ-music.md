@@ -19,7 +19,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Fantasia and Fugue in G minor BWV542 </span><span class="composer">J S Bach</span><a href="fantasia.ram"><img alt="Listen to this track" src="/web/20120408102933im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px; "></a>
+        <span class="trackname">Fantasia and Fugue in G minor BWV542 </span><span class="composer">J S Bach</span>
         <p>
           <span class="trackname">An Wasserflüssen Babylon BWV653b </span> <span class="composer">J S Bach</span></p>
         <p>

@@ -170,7 +170,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Truro Cathedral o
         <p>					<span class="trackname"> In the bleak mid-winter</span><span class="composer"> Harold Darke</span></p>
         <p>					<span class="trackname"> I saw three ships</span><span class="composer"> traditional, arranged Philip Marshall</span></p>
         <p>					<span class="trackname"> A New Year Carol </span><span class="composer">Benjamin Britten</span></p>
-        <p>					<span class="trackname"> The Lamb </span><span class="composer">John Tavener</span><a href="cliplinks/lamb%20.ram"><img alt="Listen to this track" src="/web/20120720021222im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+        <p>					<span class="trackname"> The Lamb </span><span class="composer">John Tavener</span></p>
         <p>					<span class="trackname"> Quem vidistis pastores </span><span class="composer">Francis Poulenc</span></p>
         <p>					<span class="trackname"> Away in a manger</span><span class="composer"> W J Kirkpatrick, arranged David Willcocks</span></p>
         <p>					<span class="trackname"> Noël nouvelet </span><span class="composer"> traditional French, arranged Stephen Jackson</span><br>

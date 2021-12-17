@@ -26,7 +26,7 @@ recordingDetailsHtml: ''
   <tbody>
     <tr>
       <td class="column1">
-        Ave Maria <span class="composer">Franz Schubert</span><a href="cliplinks/avemaria.ram"><img alt="Listen to this track" src="/web/20160926212438im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Ave Maria <span class="composer">Franz Schubert</span><br>
         The little road to Bethlehem <span class="composer">Michael Head</span><br>
         The Lord's my Shepherd <span class="composer">Jessie Irvine, harm. T C L Pritchard</span><br>
         Pie Jesu from the Requiem<span class="composer"> Gabriel Fauré</span><br>
@@ -43,7 +43,7 @@ recordingDetailsHtml: ''
         Panis angelicus <span class="composer">César Franck</span><br>
         Morning has broken<span class="composer"> Trad. Gaelic</span><br>
         Ave Maria <span class="composer">J S Bach, adapted Charles Gounod</span><br>
-        O for the wings of a dove<span class="composer"> Felix Mendelssohn</span><a href="cliplinks/dovewing.ram"><img alt="Listen to this track" src="/web/20160926212438im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        O for the wings of a dove<span class="composer"> Felix Mendelssohn</span><br>
         Dear Lord and Father of mankind <span class="composer">Hubert Parry</span><br>
         Amazing Grace <span class="composer">Trad. American arr. Malcolm Archer</span><br>
         Love one another <span class="composer">Samuel Sebastian Wesley</span><br>

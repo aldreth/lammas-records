@@ -26,7 +26,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">All things bright and beautiful</span><span class="composer"> John Rutter</span><span class="trackname"><a href="cliplinks/beautifu%20.ram"><img alt="Listen to this track" src="/web/20120720021811im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">All things bright and beautiful</span><span class="composer"> John Rutter</span><span class="trackname"><br>
           O mysterium ineffabile </span> <span class="composer">J F Lallouette</span><br>
         <span class="trackname"> Ave verum corpus </span> <span class="composer">Arthur Wills</span><br>
         <span class="trackname"> Magnificat in D</span><span class="composer"> Charles Villiers Stanford</span><br>

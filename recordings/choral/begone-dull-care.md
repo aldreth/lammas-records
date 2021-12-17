@@ -49,7 +49,7 @@ recordingDetailsHtml: |-
         <span class="trackname">The Song of the Tree of Life </span> <span class="composer"> Ralph Vaughan Williams</span><br>
         <span class="trackname"> Nunc Dimittis from the Service in C minor </span> <span class="composer"> George Dyson</span><br>
         <span class="trackname"> Friday Afternoons </span> <span class="composer">Benjamin Britten</span><br>
-        <span class="trackname"> The Salley Gardens</span><span class="composer"> Benjamin Britten</span><a href="cliplinks/begone.ram"><img alt="Listen to this track" src="/web/20120408095750im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> The Salley Gardens</span><span class="composer"> Benjamin Britten</span><br>
         <span class="trackname"> Oliver Cromwell</span><span class="composer"> Benjamin Britten<br>
         </span><br>
         <span id="playingtime">Total playing time 59m 43s</span>

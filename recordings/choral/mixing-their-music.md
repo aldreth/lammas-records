@@ -61,7 +61,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded on July 9th and 10th 200
         <p>
           Antiphon <span class="composer">Benjamin Britten</span></p>
         <p>
-          Jubilate <span class="composer">Malcolm Singer</span><a href="cliplinks/mixing%20.ram"><img alt="Listen to this track" src="/web/20120720022625im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          Jubilate <span class="composer">Malcolm Singer</span></p>
         <p>					<span id="playingtime">Total playing time 68m 00s</span></p>
       </td>
     </tr>

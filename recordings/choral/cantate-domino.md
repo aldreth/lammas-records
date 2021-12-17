@@ -69,7 +69,7 @@ recordingDetailsHtml: |-
       </td>
       <td class="column2">
         <span class="trackname">Magnificat from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
-        <span class="trackname"> Nunc Dimittis from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><a href="cliplinks/nunc.ram"><img alt="Listen to this track" src="/web/20160702093822im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> Nunc Dimittis from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
         <span class="trackname"> Ave Maria</span><span class="composer"> Robert Parsons</span><br>
         <span class="trackname"> Hymn: Love of the Father </span> <span class="composer">Orlando Gibbons</span><br>
         <span class="trackname"> If ye love me </span> <span class="composer">Thomas Tallis</span><br>

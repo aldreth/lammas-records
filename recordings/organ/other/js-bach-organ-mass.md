@@ -64,7 +64,7 @@ recordingDetailsHtml: |-
           <span class="trackname"> Dies sind die heilgen zehn Gebot </span> <span class="composer">BWV 678</span></p>
       </td>
       <td class="column2">
-        <span class="trackname">Wir glauben all an einen Gott </span> <span class="composer"> BWV 680</span><a href="cliplinks/wirglaub%20.ram"><img alt="Listen to this track" src="/web/20120719204448im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">Wir glauben all an einen Gott </span> <span class="composer"> BWV 680</span><br>
         <span class="trackname"> Vater unser im Himmelreich</span><span class="composer"> BWV 682</span><br>
         <span class="trackname"> Christ, unser Herr, zum Jordan kam</span><span class="composer"> BWV 684</span><br>
         <span class="trackname"> Aus tiefer Not schrei ich zu dir</span><span class="composer"> BWV 686</span><br>

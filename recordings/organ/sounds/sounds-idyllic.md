@@ -100,7 +100,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Peter Dyke would like to thank La
       <td class="column2">
         <span class="composer">SIX SHORT PRELUDES AND POSTLUDES, Op. 101 Charles Villiers Stanford</span><br>
         Allegretto in F<br>
-        Allegro non troppo e pesante in G minor<a href="cliplinks/idyllic.ram"><img alt="Listen to this track" src="/web/20120719220121im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Allegro non troppo e pesante in G minor<br>
         Allegro non troppo in E flat<br>
         Andante tranquillo in F<br>
         Andante maestoso in G<br>

@@ -93,7 +93,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Entrée Grand Orgue</span><span class="composer"> Pierre Cochereau (from 'Les Offices du Dimance,' 1974) transcribed by David Briggs</span><a href="cliplinks/french.ram"><img alt="Listen to this track" src="/web/20160406194716im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a>
+        <span class="trackname">Entrée Grand Orgue</span><span class="composer"> Pierre Cochereau (from 'Les Offices du Dimance,' 1974) transcribed by David Briggs</span>
         <p>
           <span class="trackname">Scherzo Symphonique</span><span class="composer"> (1968) Pierre Cochereau transcribed by David Briggs</span></p>
         <p>

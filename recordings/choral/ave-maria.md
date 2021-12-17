@@ -159,7 +159,7 @@ recordingDetailsHtml: |-
         <span class="trackname">Ave Maria </span> <span class="composer">Camille Saint-Saëns</span>
         <p><span class="trackname">How like an Angel </span> <span class="composer">Malcolm Archer</span></p>
         <p><span class="trackname">Magnificat The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
-        <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span><a href="cliplinks/avemariawells.ram"><img alt="Listen to this track" src="/web/20140328101952im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+        <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
         <p><span class="trackname">Ave Maria </span> <span class="composer">Daniel Roth</span></p>
         <p><span class="trackname">Ave verum, Op. 65 No. 1 </span> <span class="composer">Gabriel Fauré</span></p>
         <p><span class="trackname">The Tree </span> <span class="composer">Jonathan Harvey</span></p>

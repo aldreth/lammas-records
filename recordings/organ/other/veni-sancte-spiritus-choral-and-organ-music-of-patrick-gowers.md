@@ -88,7 +88,7 @@ recordingDetailsHtml: |-
         <p><span class="composer">Cantata</span><br>
           <span class="trackname"> No. 1: Each inmost peece<br>
             No. 2: But loe, thy love<br>
-            No. 3: To shunn thy notice</span><a href="cliplinks/gowers.ram"><img alt="Listen to this track" src="/web/20120720021202im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+            No. 3: To shunn thy notice</span><br>
           <span class="trackname"> No. 4: O Lord, thou hast searched me out<br>
             No. 5: Ev’n before Kings</span></p>
         <p><span class="composer">Adagio</span><span class="trackname"> organ</span></p>

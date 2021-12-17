@@ -106,7 +106,7 @@ recordingDetailsHtml: |-
             Benedictus<br>
             Agnus</span></p>
         <p>
-          <span class="trackname">Give us the wings of faith </span> <span class="composer">Mark Blatchly</span><span class="trackname"><a href="cliplinks/closerwk%20.ram"><img alt="Listen to this track" src="/web/20120720022715im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></span></p>
+          <span class="trackname">Give us the wings of faith </span> <span class="composer">Mark Blatchly</span><span class="trackname"></span></p>
         <p>
           <span class="trackname">Short Mass for Sheffield </span> <span class="composer">Gloria</span></p>
         <p>						<span id="playingtime">Total playing time 69m 00s</span></p>

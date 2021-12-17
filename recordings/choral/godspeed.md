@@ -85,7 +85,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        I was glad <span class="composer">C H H Parry</span><a href="cliplinks/godspeed%20.ram"><img alt="Listen to this track" src="/web/20120719204443im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        I was glad <span class="composer">C H H Parry</span><br>
         Ave verum<span class="composer"> W A Mozart</span><br>
         Magnificat in G <span class="composer">C V Stanford</span><br>
         Gloria<span class="composer"> W A Mozart</span><br>

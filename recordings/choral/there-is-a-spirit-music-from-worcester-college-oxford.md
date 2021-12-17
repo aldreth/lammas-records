@@ -83,7 +83,7 @@ recordingDetailsHtml: |-
           <span class="trackname"> Kyrie<br>
             Gloria<br>
             Sanctus<br>
-            Benedictus</span><a href="cliplinks/worcester%20.ram"><img alt="Listen to this track" src="/web/20151021220605im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+            Benedictus</span><br>
           <span class="trackname"> Agnus Dei</span></p>
         <p>
           <span class="trackname">And when the builders </span> <span class="composer">Edmund Rubbra</span></p>

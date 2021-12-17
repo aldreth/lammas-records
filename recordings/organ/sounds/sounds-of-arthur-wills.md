@@ -34,7 +34,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  With grateful thanks to David Sal
         Very slow<br>
         Turbulent; As at first
         <p>
-          <span class="composer">Lullaby for a Royal Prince</span><a href="cliplinks/wills%20.ram"><img alt="Listen to this track" src="/web/20120720021903im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="composer">Lullaby for a Royal Prince</span></p>
         <p>
           <span class="composer">Trio Sonata<br>
           </span>Allegro<br>

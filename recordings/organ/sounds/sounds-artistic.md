@@ -58,7 +58,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        An Occasional Trumpet Voluntary <span class="composer">Patrick Gowers after Jeremiah Clarke</span><a href="cliplinks/trumpet.ram"><img alt="Listen to this track" src="/web/20120922082623im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a>
+        An Occasional Trumpet Voluntary <span class="composer">Patrick Gowers after Jeremiah Clarke</span>
         <p>
           Cathédrales (Pièces de Fantaisie)<span class="composer"> Louis Vierne</span><br>
           Suite de Danses Improvisées Pierre Cochereau transcribed by David Briggs<br>

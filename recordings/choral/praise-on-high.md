@@ -41,7 +41,7 @@ recordingDetailsHtml: |-
       <td class="column2">
         Magnificat in B flat <span class="composer">Mark Blatchly </span><br>
         Whence is that goodly fragrance flowing? <span class="composer"> Arr.A.E.Baker </span><br>
-        Ave verum corpus <span class="composer">Edward Elgar</span><a href="cliplinks/aveverum%20.ram"><img alt="Listen to this track" src="/web/20160405055352im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Ave verum corpus <span class="composer">Edward Elgar</span><br>
         How blest are they that fear the Lord <span class="composer">Stephen Oliver </span><br>
         Risen Lord <span class="composer">Barry Rose</span><br>
         My song is in sighing <span class="composer">Anne-Marie Boylan</span><br>

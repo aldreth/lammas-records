@@ -62,7 +62,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Wells Cathedral on 1s
           </span><span class="trackname">Magnificat<br>
             Nunc Dimittis</span></p>
         <p>
-          <span class="composer">Blest are the pure in heart</span><a href="cliplinks/blest%20.ram"><img alt="Listen to this track" src="/web/20120408111701im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="composer">Blest are the pure in heart</span></p>
         <p>
           <span class="composer">The Clifton Service<br>
           </span><span class="trackname">Magnificat<br>

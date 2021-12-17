@@ -112,7 +112,7 @@ recordingDetailsHtml: |-
       <td class="column2">
         <span class="composer">Master Tallis’s Testament</span>
         <p>
-          <span class="composer">Saraband In modo elegiaco<a href="cliplinks/saraband.ram"><img alt="Listen to this track" src="/web/20120720022511im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></span></p>
+          <span class="composer">Saraband In modo elegiaco</span></p>
         <p>
           <span class="composer">Partita</span><br>
           <span class="trackname"> Intrata<br>

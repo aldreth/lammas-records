@@ -49,7 +49,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Humphrey Clucas’ Psalm Prelude 
              ‘Woman, behold thy son…Behold thy mother’<br>
              ‘My God, my God, why hast thou forsaken me?’<br>
              ‘Verily I say unto thee: Today shalt thou be with me in paradise’<br>
-             ‘I thirst’</span><a href="cliplinks/awesome.ram"><img alt="Listen to this track" src="/web/20120922085010im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+             ‘I thirst’</span><br>
           <span class="trackname">  ‘It is finished’<br>
              ‘Father, into thy hands I commend my spirit’</span></p>
       </td>

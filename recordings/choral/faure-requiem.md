@@ -98,7 +98,7 @@ recordingDetailsHtml: |-
         <span class="trackname">Requiem<br>
           Introit and Kyrie<br>
           Offertory<br>
-          Sanctus<a href="cliplinks/sanctuse%20.ram"><img alt="Listen to this track" src="/web/20120720021823im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          Sanctus<br>
           Pie Jesu<br>
           Agnus Dei<br>
           Libera me<br>

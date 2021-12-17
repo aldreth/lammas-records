@@ -64,7 +64,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Sicilienne Malcolm Archer</span></p>
         <p>
-          <span class="trackname">Prelude on 'Noel Nouvelet' </span> <span class="composer">Malcolm Archer</span> <a href="cliplinks/nouvelet%20.ram"> <img alt="Listen to this track" src="/web/20120719220122im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Prelude on 'Noel Nouvelet' </span> <span class="composer">Malcolm Archer</span> </p>
         <p>
           <span class="trackname">Largo </span> <span class="composer">Flor Peeters</span></p>
         <p>

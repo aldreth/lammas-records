@@ -56,7 +56,7 @@ recordingDetailsHtml: |-
       <td class="column1">
         <span class="trackname">Calling Bell<br>
           Opening voluntary: Prelude No.5 in G (Opus 101) </span> <span class="composer"> C.V.Stanford</span><br>
-        <span class="trackname"> Introit: Justorum animae</span><span class="composer"> C.V. Stanford</span><a href="cliplinks/justorum%20.ram"><img alt="Listen to this track" src="/web/20120408100144im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> Introit: Justorum animae</span><span class="composer"> C.V. Stanford</span><br>
         <span class="trackname"> Welcome and Preces </span> <span class="composer">Bernard Rose</span><br>
         <span class="trackname"> Psalm 149 Chant by </span> <span class="composer">J. Turle</span><br>
         <span class="trackname"> Psalm 150 Chant by</span><span class="composer"> C.V.Stanford</span><br>

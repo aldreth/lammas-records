@@ -65,7 +65,7 @@ recordingDetailsHtml: |-
       <td class="column2">
         <span class="composer">Pastorella in F Major BWV 590 (Tamburini Organ)<br>
         </span>Pastorella<br>
-        Allemanda<a href="cliplinks/bach.ram"><img alt="Listen to this track" src="/web/20150908110306im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Allemanda<br>
         Aria<br>
         Giga
         <p><span class="composer">Vom Himmel hoch da komm ich her BWV 738 </span>(Tamburini Organ)</p>

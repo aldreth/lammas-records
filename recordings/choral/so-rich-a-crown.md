@@ -61,7 +61,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in St Edmundsbury Cathed
         Sing joyfully <span class="composer">William Byrd</span><br>
         Blessed city, heavenly Salem <span class="composer">Edward Bairstow</span><br>
         Justorum animae <span class="composer">Charles Villiers Stanford</span><br>
-        Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span><a href="cliplinks/rich%20.ram"><img alt="Listen to this track" src="/web/20120720021306im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span><br>
         O sacrum convivium <span class="composer">Thomas Tallis</span><br>
         Vox dicentes: Clama <span class="composer">Edward Woodall Naylor</span><br>
         If ye love me <span class="composer">Thomas Tallis</span>

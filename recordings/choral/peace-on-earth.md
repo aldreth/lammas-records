@@ -60,7 +60,7 @@ recordingDetailsHtml: |-
         <span class="trackname">The silver swan</span>
         <p><span class="trackname">Song 1</span></p>
         <p><span class="trackname">Almighty and Everlasting</span></p>
-        <p><span class="trackname">Great Lord of Lords</span><a href="cliplinks/peace.ram"><img alt="Listen to this track" src="/web/20120720022635im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+        <p><span class="trackname">Great Lord of Lords</span></p>
         <p><span class="trackname">Song 46</span></p>
         <p><span class="trackname">Prelude</span></p>
         <p><span class="trackname">Hosanna</span></p>

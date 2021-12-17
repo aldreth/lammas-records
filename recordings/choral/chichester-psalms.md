@@ -70,7 +70,7 @@ recordingDetailsHtml: |-
       <td class="column1">
         <span class="trackname">Chichester Psalms </span> <span class="composer">Leonard Bernstein</span><br>
         <span class="trackname"> I Psalm 108 v.2, Psalm 100</span><br>
-        <span class="composer"> </span> <span class="trackname">II Psalm 23, Psalm 2 vv.1-4</span><a href="cliplinks/chichest%20.ram"><img alt="Listen to this track" src="/web/20160702100723im_/http://www.lammas.co.uk/node/images/listen.gif" width="180"></a><br>
+        <span class="composer"> </span> <span class="trackname">II Psalm 23, Psalm 2 vv.1-4</span><br>
         <span class="trackname"> III Psalm 131, Psalm 133 v.1</span>
         <p>
           <span class="trackname">A Song of Freedom </span> <span class="composer">Charles Villiers Stanford</span></p>

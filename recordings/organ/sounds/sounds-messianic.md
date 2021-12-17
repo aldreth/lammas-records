@@ -68,7 +68,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in St Paul’s Episcopal
         Sept Visions Brèves de la Vie des Ressuscités - Seven Brief Visions of the Life of the Resurrected
         <p>
           Subtilité des Corps Glorieux - The Subtleness of the Glorified Bodies<br>
-          Les Eaux de la Grce - The Waters of Grace<a href="cliplinks/messian%20.ram"><img alt="Listen to this track" src="/web/20160312125550im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          Les Eaux de la Grce - The Waters of Grace<br>
           L’Ange aux Parfums - The Angel of the Incense<br>
           Combat de la Mort et de la Vie - The Struggle Between Death and Life<br>
           Force et Agilité des Corps Glorieux - The Power and Agility of the Glorified Bodies<br>

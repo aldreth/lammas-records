@@ -80,7 +80,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  The Gough Duo would like to thank
       <td class="column1">
         <span class="composer">Symphonic Chorale “Ach bleib mit deiner Gnade”, op. 87, no. 1</span> for organ
         <p>
-          <span class="composer">Völlige Hingabe, op.66, no.1</span> for voice, violin and organ <a href="cliplinks/canzon%20.ram"> <img alt="Listen to this track" src="/web/20120720021131im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="composer">Völlige Hingabe, op.66, no.1</span> for voice, violin and organ </p>
         <p>
           <span class="composer">Sphärenmusik, op. 66, no. 2</span> for voice, violin and organ</p>
         <p>

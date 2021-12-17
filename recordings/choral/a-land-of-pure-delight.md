@@ -56,7 +56,7 @@ recordingDetailsHtml: |-
       <td class="column2">
         <span class="trackname">Come, labour on </span> <span class="composer">T. Tertius Noble</span><br>
         <span class="trackname"> Peccantem me quotidie </span><span class="composer">Cristobel Morales</span><br>
-        <span class="trackname"> Nobody knows the trouble I’ve seen </span><span class="composer">arr. Bob Chilcott<a href="cliplinks/nobody%20.ram"><img alt="Listen to this track" src="/web/20160702074847im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></span><br>
+        <span class="trackname"> Nobody knows the trouble I’ve seen </span><span class="composer">arr. Bob Chilcott</span><br>
         <span class="trackname"> The last journey </span><span class="composer">John Bell</span><br>
         <span class="trackname"> Civitas sancti tui </span><span class="composer">William Byrd</span><br>
         <span class="trackname"> Be still for the presence of the Lord </span><span class="composer">arr. Robert Ramskill</span><br>

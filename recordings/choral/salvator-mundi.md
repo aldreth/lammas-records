@@ -45,7 +45,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the chapel of Merton 
       <td class="column2">
         <span class="trackname">Drop, drop, slow tears </span> <span class="composer">James Davy</span><br>
         <span class="trackname"> Remember not, Lord, our offences </span> <span class="composer">Henry Purcell</span><br>
-        <span class="trackname"> Salvator Mundi </span> <span class="composer">John Blow</span><a href="cliplinks/salvator%20.ram"><img alt="Listen to this track" src="/web/20170101001135im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> Salvator Mundi </span> <span class="composer">John Blow</span><br>
         <span class="trackname"> Agnus Dei Tomas</span><span class="composer"> Luis de Victoria</span><br>
         <span class="trackname"> I heard a voice from Heaven </span> <span class="composer">Herbert Howells</span>
         <p>

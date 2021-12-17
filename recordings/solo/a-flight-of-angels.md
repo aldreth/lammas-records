@@ -53,7 +53,7 @@ recordingDetailsHtml: |-
         <p>
           Cradle song <span class="composer">William Yeates Hurlestone</span></p>
         <p>
-          Like as the hart <span class="composer">Alan Ridout</span><a href="cliplinks/flight.ram"><img alt="Listen to this track" src="/web/20160702062256im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a></p>
+          Like as the hart <span class="composer">Alan Ridout</span></p>
         <p>
           Wilt thou forgive the sin?<span class="composer"> John Hilton</span></p>
         <p>

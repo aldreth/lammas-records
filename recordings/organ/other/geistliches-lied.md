@@ -98,7 +98,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">O welt, ich muß dich lassen ORGAN </span> <span class="composer">Johannes Brahms</span></p>
         <p>
-          <span class="trackname">Abendlied Op. 69 No. 3 </span> <span class="composer">Josef Rheinberger</span><a href="cliplinks/abendlied%20.ram"><img alt="Listen to this track" src="/web/20120720021839im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Abendlied Op. 69 No. 3 </span> <span class="composer">Josef Rheinberger</span></p>
         <p>
           <span class="trackname">Cantus Missae (Mass in E flat) Op. 109 </span> <span class="composer">Josef Rheinberger</span><br>
           <span class="trackname"> Kyrie<br>

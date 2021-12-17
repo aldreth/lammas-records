@@ -74,7 +74,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">No small wonder</span><span class="composer"> Paul Edwards</span></p>
         <p>
-          <span class="trackname">A New Year Carol </span> <span class="composer">Benjamin Britten</span><a href="carol.ram"><img alt="Listen to this track" src="/web/20160407191640im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">A New Year Carol </span> <span class="composer">Benjamin Britten</span></p>
         <p>
           <span class="trackname">Nunc dimittis</span><span class="composer"> Geoffrey Burgon</span></p>
         <p>

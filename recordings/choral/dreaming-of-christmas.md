@@ -53,7 +53,7 @@ recordingDetailsHtml: |-
         <span class="trackname"> The blessed son of God from Hodie </span> <span class="composer">Ralph Vaughan Williams </span><br>
         <span class="trackname"> Ou s'en vont ces gais bergers?</span><span class="composer"> Claude Balbastre</span><br>
         <span class="trackname"> Infant Holy, infant lowly </span> <span class="composer">Polish, arr. David Willcocks</span><br>
-        <span class="trackname"> I'm dreaming of a white Christmas</span><span class="composer"> Irving Berlin, arr. Malcolm Archer</span><span class="trackname"><a href="cliplinks/christmas%20.ram"><img alt="Listen to this track" src="/web/20160702072229im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> I'm dreaming of a white Christmas</span><span class="composer"> Irving Berlin, arr. Malcolm Archer</span><span class="trackname"><br>
           The twelve days of Christmas</span><span class="composer"> Trad. English, arr. Malcolm Archer </span><br>
         <span class="trackname"> </span><br>
         <span id="playingtime">Total playing time 65m 03s</span>

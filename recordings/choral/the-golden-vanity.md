@@ -174,7 +174,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Christ Church Cat
         <span class="composer">Missa Brevis in D</span>
         <p>
           <span class="trackname">Kyrie<br>
-            Gloria</span><a href="cliplinks/gloria%20.ram"><img alt="Listen to this track" src="/web/20150907151938im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+            Gloria</span><br>
           <span class="trackname"> Sanctus and Benedictu<br>
             Agnus Dei</span></p>
         <p>

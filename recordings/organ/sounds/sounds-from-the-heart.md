@@ -108,7 +108,7 @@ recordingDetailsHtml: |-
               iii Récit en dialogue</span></span></p>
         <p>
           <span class="composer">Toccata and Fugue in D minor BWV 565 <span class="composer">Johann Sebastian Bach<br>
-              i Toccata<a href="cliplinks/heart%20.ram"><img alt="Listen to this track" src="/web/20160702182046im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+              i Toccata<br>
               ii Fugue</span></span></p>
         <p>
           <span class="composer">Jesu, Joy of Man’s Desiring <span class="composer">Johann Sebastian Bach</span></span></p>

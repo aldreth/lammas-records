@@ -73,7 +73,7 @@ recordingDetailsHtml: |-
         <span class="trackname">There is no rose </span><br>
         <span class="trackname">Out of your sleep</span><br>
         <span class="trackname">That younge child </span><br>
-        <span class="trackname">Sweet was the song</span><a href="cliplinks/sweet%20.ram"><img alt="Listen to this track" src="/web/20120720021318im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">Sweet was the song</span><br>
         <span class="trackname">Susanni</span><br>
         <span class="trackname"> </span><br>
         <span class="trackname">Let all the World in every Corner Sing</span><span class="composer"> Kenneth Leighton</span>

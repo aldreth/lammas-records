@@ -160,7 +160,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in Guildford Cathedral o
         </span><span class="composer">Hymn: </span> <span class="trackname">I adore Thee<br>
         </span><span class="composer">Recitative &amp; men’s chorus:</span><span class="trackname"> When Jesus therefore saw his mother<br>
         </span><span class="composer">Recitative: </span> <span class="trackname">Is it nothing to you?<br>
-        </span><span class="composer">Chorus: </span> <span class="trackname">From the Throne of His Cross</span><span class="composer"> <a href="cliplinks/throne%20.ram"> <img alt="Listen to this track" src="/web/20160428225302im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></span><br>
+        </span><span class="composer">Chorus: </span> <span class="trackname">From the Throne of His Cross</span><span class="composer"> </span><br>
         <span class="trackname"> </span><span class="composer">Recitative &amp; men’s chorus: </span> <span class="trackname">After this, Jesus knowing that all things were now accomplished<br>
         </span><span class="composer">Hymn:</span><span class="trackname"> All for Jesus</span>
         <p>

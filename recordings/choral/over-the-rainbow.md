@@ -28,12 +28,12 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        Here I am, Lord <span class="composer">Fr. Dan Schutte S.J.</span><a href="cliplinks/herelord%20.ram"><img alt="Listen to this track" src="/web/20130723075746im_/http://www.lammas.co.uk/images/listen.gif" style="width: 34px; height: 26px;" width="180"></a><br>
+        Here I am, Lord <span class="composer">Fr. Dan Schutte S.J.</span><br>
         The Kingdom of Heaven <span class="composer">Otto Olsson arr. Barry Rose</span><br>
         Lord, when you came to earth <span class="composer">Alice Tegnér arr. Barry Rose</span><br>
         Jesus Christ the apple tree <span class="composer">Anthony Piccolo</span><br>
         Give us the wings of faith <span class="composer">Mark Blatchly</span><br>
-        Somewhere over the rainbow <span class="composer">Harold Arlen arr. Martin</span> <span class="composer">Pickard</span><a href="cliplinks/rainbow1%20.ram"><img alt="Listen to this track" src="/web/20130723075746im_/http://www.lammas.co.uk/images/listen.gif" style="width: 34px; height: 26px;" width="180"></a><br>
+        Somewhere over the rainbow <span class="composer">Harold Arlen arr. Martin</span> <span class="composer">Pickard</span><br>
         Is you is, or is you ain't my baby?<span class="composer"> Louis Jordan arr. James Oxley</span><br>
         All wisdom cometh from the Lord <span class="composer">Philip Moore</span><br>
         Prevent us, O Lord <span class="composer">Alan Ridout</span><br>
@@ -48,7 +48,7 @@ recordingDetailsHtml: |-
         Ave Maria, gratia plena<span class="composer"> Franz Biebl</span><br>
         Saviour, prize of the world<span class="composer"> Gustaf Nordqvist</span><br>
         Light of the world <span class="composer">John Dankworth</span><br>
-        When I'm sixty-four <span class="composer">lyrics and music by John Lennon and Paul McCartney arr. Nicholas Hare</span><a href="cliplinks/whenim64%20.ram"><img alt="Listen to this track" src="/web/20130723075746im_/http://www.lammas.co.uk/images/listen.gif" style="width: 34px; height: 26px;" width="180"></a>
+        When I'm sixty-four <span class="composer">lyrics and music by John Lennon and Paul McCartney arr. Nicholas Hare</span>
         <p>					<span id="playingtime">Total playing time 68m 00s</span></p>
       </td>
     </tr>

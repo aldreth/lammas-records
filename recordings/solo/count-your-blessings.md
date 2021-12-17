@@ -68,7 +68,7 @@ recordingDetailsHtml: ''
         O rest in the Lord <span class="composer">Felix Mendelssohn</span><br>
         Ave Maria<span class="composer"> Simon Lindley</span><br>
         Ave verum corpus <span class="composer">Wolfgang Amadeus Mozart</span><br>
-        Count your blessings<span class="composer"> Reginald Morgan</span><a href="cliplinks/blessing.ram"><img alt="Listen to this track" src="/web/20151120011224im_/http://www.lammas.co.uk/files/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        Count your blessings<span class="composer"> Reginald Morgan</span><br>
         Hear my prayer <span class="composer">Felix Mendelssohn</span><br>
         The little road to Bethlehem <span class="composer">Michael Head</span><br>
         Be still, for the presence of the Lord <span class="composer">David Evans arr. Norman Warren</span><br>
@@ -82,7 +82,7 @@ recordingDetailsHtml: ''
         Panis Angelicus <span class="composer">César Franck</span><br>
         Sun of my soul <span class="composer">Herbert Oakley</span><br>
         Sleep song from Hansel and Gretel <span class="composer">Engelbert Humperdinck</span><br>
-        Walking in the air from The Snowman<span class="composer"> Howard Blake</span><a href="./walking.ram"><img alt="Listen to this track" src="/web/20151120011224im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Walking in the air from The Snowman<span class="composer"> Howard Blake</span><br>
         Ave verum corpus <span class="composer">Edward Elgar</span><br>
         Pie Jesu from the Requiem Mass <span class="composer">Gabriel Faur</span><br>
         Brother James' Air Psalm 23 <span class="composer">James Leith MacBeth Bain</span><br>

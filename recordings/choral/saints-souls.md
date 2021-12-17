@@ -98,7 +98,7 @@ recordingDetailsHtml: |-
         Give us the wings of faith <span class="composer">Mark Blatchly</span><br>
         Antiphon II<span class="composer"> Mode i</span><br>
         The souls of the righteous <span class="composer">Geraint Lewis</span><br>
-        In Paradisum from the Requiem <span class="composer">Gabriel Fauré</span><a href="cliplinks/paradisu%20.ram"><img alt="Listen to this track" src="/web/20120719215448im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        In Paradisum from the Requiem <span class="composer">Gabriel Fauré</span><br>
         Antiphon III <span class="composer">Mode i</span><br>
         This is the record of John <span class="composer">Orlando Gibbons</span><br>
         Antiphon IV  <span class="composer">Mode i</span>

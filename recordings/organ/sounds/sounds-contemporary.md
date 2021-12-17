@@ -36,7 +36,7 @@ recordingDetailsHtml: |-
     <tr>
       <td class="column1">
         <span class="trackname">Suite Bretonne (Le Tombeau de Jean-Claude Jegat) </span> <span class="composer">Alan Ridout</span><br>
-        <span class="trackname"> i) Fortissimo </span><a href="cliplinks/bretonne.ram"> <img alt="Listen to this track" src="/web/20120718133648im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> i) Fortissimo </span><br>
         <span class="trackname"> ii) Espressivo<br>
           iii) Piano (quasi una tambour)<br>
           iv) Fortissimo</span>

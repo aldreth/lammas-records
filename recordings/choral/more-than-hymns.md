@@ -42,7 +42,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Wells Cathedral o
         <span class="trackname">Fight the good fight</span><span class="composer"> John Gardner</span><br>
         <span class="trackname"> Let all mortal flesh keep silence</span><span class="composer"> Arr. Rogers Covey-Crump</span><br>
         <span class="trackname"> Be still, for the presence of the Lord </span> <span class="composer">David J. Evans arr. Indra Hughes</span><br>
-        <span class="trackname"> King of glory, King of peace </span> <span class="composer">Henry Walford Davies</span><a href="cliplinks/king%20.ram"><img alt="Listen to this track" src="/web/20160501124914im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname"> King of glory, King of peace </span> <span class="composer">Henry Walford Davies</span><br>
         <span class="trackname"> When I needed a neighbour, were you there?</span><span class="composer"> Sydney Carter arr. Barry Rose</span><br>
         <span class="trackname"> Blesséd are the pure in heart </span> <span class="composer">Henry Walford Davies</span><br>
         <span class="trackname"> Let all mortal flesh keep silence </span> <span class="composer">Arr. Stephen Jackson</span><br>

@@ -28,7 +28,7 @@ recordingDetailsHtml: |-
       <td class="column1">
         <span class="trackname">Blow out the trumpet </span> <span class="composer">Martin Peerson</span><br>
         <span class="trackname"> O, had I wings like to a dove </span> <span class="composer">John Milton</span><br>
-        <span class="trackname"> Alas that I offended</span><span class="composer"> Edmund Hooper</span><a href="cliplinks/behold.ram"><img alt="Listen to this track" src="/web/20120408103005im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> Alas that I offended</span><span class="composer"> Edmund Hooper</span><br>
         <span class="trackname"> O, clap your hands together </span> <span class="composer">Orlando Gibbons</span><br>
         <span class="trackname"> The Blessed Lamb </span> <span class="composer">Edmund Hooper</span><br>
         <span class="trackname"> A song of joy </span> <span class="composer">Orlando Gibbons</span><br>

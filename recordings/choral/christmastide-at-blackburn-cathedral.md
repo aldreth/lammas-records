@@ -31,7 +31,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">I saw three ships</span><span class="composer"> arr Robert Gower</span><a href="cliplinks/threeshi%20.ram"><img alt="Listen to this track" src="/web/20120720022526im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">I saw three ships</span><span class="composer"> arr Robert Gower</span><br>
         <span class="trackname"> The holly and the ivy </span> <span class="composer">arr John Rutter</span><br>
         <span class="trackname"> Adam lay ybounden </span> <span class="composer">Boris Ord </span><br>
         <span class="trackname"> The crown of roses</span><span class="composer"> Peter Ilyich Tchaikovsky</span><br>

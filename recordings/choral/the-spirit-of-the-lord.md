@@ -81,7 +81,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in the Manchester Cathed
         <p>
           Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span></p>
         <p>
-          Beati quorum via <span class="composer">Charles Villiers Stanford</span><a href="cliplinks/spiritlord%20.ram"><img alt="Listen to this track" src="/web/20120719215509im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          Beati quorum via <span class="composer">Charles Villiers Stanford</span></p>
         <p>
           A Song of Peace <span class="composer">Charles Villiers Stanford</span></p>
         <p>

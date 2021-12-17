@@ -47,7 +47,7 @@ recordingDetailsHtml: |-
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Festal Flourish</span><span class="composer"> Gordon Jacob</span><a href="cliplinks/flourish%20.ram"><img alt="Listen to this track" src="/web/20160702091755im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a>
+        <span class="trackname">Festal Flourish</span><span class="composer"> Gordon Jacob</span>
         <p>
           <span class="trackname">Méditation from Symphonie I</span><span class="composer"> Charles-Marie Widor</span></p>
         <p>
@@ -68,7 +68,7 @@ recordingDetailsHtml: |-
         <p>
           <span class="trackname">Church Parade </span> <span class="composer"> Richard Lloyd</span></p>
         <p>
-          <span class="trackname">Knightsbridge March</span><span class="composer"> Eric Coates arr. Sharpe</span><a href="cliplinks/knightbr%20.ram"><img alt="Listen to this track" src="/web/20160702091755im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          <span class="trackname">Knightsbridge March</span><span class="composer"> Eric Coates arr. Sharpe</span></p>
         <p>
           <span id="playingtime">Total playing time 70m 28s</span></p>
       </td>

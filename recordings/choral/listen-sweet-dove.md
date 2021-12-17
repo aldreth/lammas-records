@@ -72,7 +72,7 @@ recordingDetailsHtml: |-
         Psalm 122 <span class="composer">Chant by Barry Rose</span><br>
         Sing joyfully <span class="composer">John Mundy</span><br>
         O praise God in his holiness <span class="composer">Andrew Millington</span><br>
-        If ye love me <span class="composer">Thomas Tallis</span><a href="cliplinks/ifyelove%20.ram"><img alt="Listen to this track" src="/web/20160821075527im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        If ye love me <span class="composer">Thomas Tallis</span><br>
         One thing have I desired of the<span class="composer"> Lord Philip Moore</span><br>
         I will lift up mine eyes <span class="composer">Humphrey Clucas</span><br>
         Gracious Spirit <span class="composer">Sebastian Forbes</span>

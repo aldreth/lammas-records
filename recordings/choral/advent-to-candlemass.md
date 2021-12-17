@@ -80,7 +80,7 @@ recordingDetailsHtml: ''
         <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
         <span class="trackname"> Expectans expectavi</span><span class="composer"> Charles Wood</span><br>
         <span class="trackname"> On Jordan's banks the Baptist's cry Winchester New </span> <span class="composer">German chorale</span><br>
-        <span class="trackname"> I wonder as I wander </span> <span class="composer">Appalachian carol arr. John Rutter</span><a href="cliplinks/aswander.ram"><img alt="Listen to this track" src="/web/20120408110746im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> I wonder as I wander </span> <span class="composer">Appalachian carol arr. John Rutter</span><br>
         <span class="trackname"> Hosanna to the son of David </span> <span class="composer">Thomas Weelkes</span><br>
         <span class="trackname"> Up! good Christen folk </span> <span class="composer">harm. G R Woodward </span><br>
         <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn arr. David Willcocks</span><br>

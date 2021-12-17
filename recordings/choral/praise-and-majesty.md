@@ -33,12 +33,12 @@ recordingDetailsHtml: |-
         Sanctus &amp; Benedictus<span class="composer"> Peter Hurford</span><br>
         Agnus Dei P<span class="composer">eter Hurford</span><br>
         Let all mortal flesh keep silence <span class="composer">Edward Bairstow</span><br>
-        Panis Angelicus <span class="composer">César Franck</span><a href="cliplinks/angelicu%20.ram"><img alt="Listen to this track" src="/web/20120407001931im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        Panis Angelicus <span class="composer">César Franck</span><br>
         I will lift up mine eyes unto the hills <span class="composer">Ernest Walker</span><br>
         Te Deum laudamus in G <span class="composer">Herbert Sumsion</span><br>
         Blake's Cradle Song <span class="composer">Christopher Head</span><br>
         I give you a new commandment <span class="composer">John Shepherd</span><br>
-        A Hymne to God the Father <span class="composer">Pelham Humfrey</span><a href="cliplinks/hymnegod%20.ram"><img alt="Listen to this track" src="/web/20120407001931im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        A Hymne to God the Father <span class="composer">Pelham Humfrey</span><br>
         Though I speak with the tongues of men <span class="composer">Edward Bairstow</span>
       </td>
       <td class="column2">

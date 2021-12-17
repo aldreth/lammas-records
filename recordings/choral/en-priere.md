@@ -96,7 +96,7 @@ recordingDetailsHtml: |-
         <p>
           Benedictus <span class="composer">André Caplet</span></p>
         <p>
-          In Paradisum (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span><a href="cliplinks/paradisum%20.ram"><img alt="Listen to this track" src="/web/20120720021258im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          In Paradisum (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span></p>
         <p>					<span id="playingtime">Total playing time 54m 06s</span></p>
       </td>
     </tr>

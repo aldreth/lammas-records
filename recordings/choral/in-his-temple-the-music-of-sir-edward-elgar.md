@@ -86,7 +86,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in St Paul’s, Rock Cre
         <p>
           O salutaris hostia</p>
         <p>
-          Doubt not thy Father’s care<a href="cliplinks/temple%20.ram"><img alt="Listen to this track" src="/web/20120408111652im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a></p>
+          Doubt not thy Father’s care</p>
         <p>
           Te Deum laudamus, Opus 34, No 1</p>
         <p>

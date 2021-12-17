@@ -44,7 +44,7 @@ recordingDetailsHtml: |-
         <p>
           Fantaisie in A major <span class="composer">César Franck</span></p>
         <p>
-          Prélude sur l'Introit de l'Epiphanie <span class="composer">Maurice Duruflé</span><a href="cliplinks/durufle%20.ram"><img alt="Listen to this track" src="/web/20120720022710im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          Prélude sur l'Introit de l'Epiphanie <span class="composer">Maurice Duruflé</span><br>
            </p>
       </td>
       <td class="column2">

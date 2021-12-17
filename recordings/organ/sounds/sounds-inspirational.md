@@ -72,7 +72,7 @@ recordingDetailsHtml: |-
           Fugue à 5<br>
           Duo<br>
           Récit de Cromorne<br>
-          Dialogue sur les Grands Jeux<a href="cliplinks/inspir%20.ram"><img alt="Listen to this track" src="/web/20160306083027im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+          Dialogue sur les Grands Jeux<br>
            </p>
       </td>
       <td class="column2">

@@ -73,7 +73,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded in St Mary and All Saint
           <span class="trackname">Four movements from Messe pour les Couvents</span><span class="composer"> François Couperin</span><br>
           <span class="trackname"> Plein jeu</span><br>
           <span class="composer"> </span><span class="trackname">Fugue sur la Trompette<br>
-            Elevation (Tierce en Taille)</span><a href="cliplinks/fother%20.ram"><img alt="Listen to this track" src="/web/20120917045150im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+            Elevation (Tierce en Taille)</span><br>
           <span class="trackname"> Dialogue sur les grands jeux</span></p>
         <p>
           <span class="trackname">Variations on Unter der Linden Grüne</span><span class="composer"> Jan Pieterszoon Sweelinck</span></p>

@@ -91,7 +91,7 @@ recordingDetailsHtml: "<div id=\"details\">\n  Recorded from the Nave in Glouces
   <tbody>
     <tr>
       <td class="column1">
-        <span class="trackname">Gaudete! anon.</span><span class="composer"> arr. Ian Ball</span><a href="cliplinks/gaudate.ram"><img alt="Listen to this track" src="/web/20130328121519im_/http://www.lammas.co.uk/images/listen.gif" width="180"></a><br>
+        <span class="trackname">Gaudete! anon.</span><span class="composer"> arr. Ian Ball</span><br>
         <span class="trackname"> Lo, he comes with clouds descending </span> <span class="composer">T. Oliver. Descant by Ian Ball</span><br>
         <span class="trackname">Alma redemptoris mater</span><span class="composer"> anon. English 15th-century, edited Ian Ball</span><br>
         <span class="trackname">Riu, riu, chiu</span><span class="composer"> ascribed to Mateo Flecha the elder</span><br>
