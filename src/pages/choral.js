@@ -71,7 +71,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       filter: { fields: { collection: { eq: "choral" } } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___new_slug], order: ASC }
     ) {
       nodes {
         excerpt
@@ -79,9 +79,7 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
           title
-          description
         }
       }
     }

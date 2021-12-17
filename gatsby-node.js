@@ -10,7 +10,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     `
       {
         allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: ASC }
+          sort: { fields: [frontmatter___title], order: ASC }
           limit: 1000
         ) {
           nodes {
@@ -80,24 +80,13 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Frontmatter {
+      new_slug: String
       title: String
-      description: String
-      date: Date @dateformat
+      serialNumber: String
       performer: String
-      directors: [Director]
-      content: [String]
-      details: [Detail]
-      recordingDetails: [String]
-    }
-
-    type Director {
-      name: String
-      title: String
-    }
-
-    type Detail {
-      title: String
-      content: [String]
+      directors: [String]
+      contentHtml: String
+      recordingDetailsHtml: String
     }
 
     type Fields {
