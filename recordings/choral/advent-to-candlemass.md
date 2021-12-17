@@ -1,0 +1,108 @@
+---
+new_slug: advent-to-candlemass
+title: Advent to Candlemass
+serialNumber: LAMM115
+performer: St Edmundsbury Choir
+directors:
+- 'Director: James Thomas'
+- 'Organ: Scott Farrell'
+contentHtml: |-
+  <h1>
+    Advent to Candlemass</h1>
+  <p>
+     </p>
+  <h2>
+    Advent</h2>
+  <p>
+    It is appropriate that this recording begins with I look from afar, the text translated from the early medieval Latin of the First Responsory of Advent Sunday in the Office of Matins, and the music adapted from a Magnificat by Giovanni Pierluigi da Palestrina. Palestrina is the earliest of the musicians represented on this disc, his birth date reckoned to be 17th December 1525, which falls in Advent. He died (conveniently for our purposes) on 2nd February 1594, the feast of Candlemass (the Presentation of Christ in the Temple). His entire career was that of a religious musician, beginning as a choirboy in Rome. He held many posts as maestro di cappella and was for a time a member of the Sistine Chapel, despite being married. In 1891 Verdi wrote 'I am particularly glad for the performance of the music of Palestrina. He is the true King of sacred music and the Eternal Father of Italian music', but it is Debussy, writing only two years later, who sums up Palestrina's art exactly; '...They sang a Palestrina mass, for unaccompanied voices. It was marvelously beautiful; this music, although written in a severe style, gives the effect of complete whiteness, and emotion is not represented (as it has been in more recent times) by cries, but by melodic arabesques which create their effect through contour and through interweaving, which produces something which strikes one as unique - harmony is made of melodies!'</p>
+  <p>
+    The popular Advent hymn Lo! he comes with clouds descending with words by Charles Wesley (Senior) is sung to the tune Helmsley, a melody noted by Thomas Olivers (1725-1799) and included in Charles Wesley's Select Hymns of 1765. Olivers also composed the words to another impressive hymn 'The God of Abraham praise' , setting it to the tune Leoni, a Hebrew melody which he noted from the singing of Meyer Lyon in the London Great Synagogue in Aldgate.</p>
+  <p>
+    Felix Mendelssohn-Bartholdy (1809-1847) first achieved recognition as a composer when he conducted his First Symphony at the London Philharmonic Concert on 25th May 1829. Having suffered the sneers of Berlin audiences, he so appreciated his first English reception that he returned to these islands nine times during his regrettably short life. At the end of July 1839 the Chairman of the Leipzig Town Council Committee, Dr Raymond Härtel, approached Mendelssohn for two compositions for the Gutenberg Festival of June 1840. The two compositions were the Festgesang for male chorus and orchestra (No.2 of which was adapted to fit the words 'Hark! the herald angels sing') and the Lobegesang Op. 52, a symphony-cantata for chorus, soloists and orchestra. The Lobegesang (Hymn of Praise) is in fact Mendelssohn's Second Symphony and is in ten parts, No.5 being for soprano duet and chorus and entitled I waited for the Lord. The work was first performed at St. Thomas's Church, Leipzig (where J.S.Bach was organist from 1723-1750) on 25th June 1840 and in Birmingham on 23rd September 1840, with Mendelssohn conducting at both performances. I waited for the Lord, based on verses 1, 4 and 5 of Psalm 40, gives the impression of being canonic and is in a style reminiscent of some of the Songs without Words.</p>
+  <p>
+    Orlando Gibbons (1583-1625) was born in Oxford, brought up in Cambridge and died suddenly in Canterbury whilst on a visit to welcome the bride of Charles I. From 1596 to 1598 he was a chorister of King's College, Cambridge and from 1605 to 1625 he was organist to The Chapel Royal. In 1606 he was granted the Cambridge degree of Mus.B., receiving a D.Mus. from Oxford in 1622. The following year he also held the post of organist at Westminster Abbey. A musician of enviable calibre! The principle source of This is the record of John is the full score in the library of Christ Church, Oxford, where the text is headed; 'This anthem was made for Dr Laud presedent of Saint John's. [Oxford] for St. John Baptists day'. The manuscript begins with Benjamin Rogers's statement 'this Scorebooke was done formerly by that rare musitian, Mr Orlando Gibbons'. It is a verse anthem scored for alto, five viols, and a five-part choir, the altos being divided.</p>
+  <p>
+    Charles Wood (1866-1926) was born in Armagh. He studied at the Royal College of Music from 1883 to 1887 with Stanford and Bridge, winning the Morley Scholarship for composition and, on the death of Stanford in 1924, was elected Professor of Music at Cambridge University. Although best known for his harmonizations and arrangements of well-known carols including 'This Joyful Eastertide' and 'Ding Dong! merrily on high', he is highly regarded for his other religious music, much of which was written late in his career. Expectans Expectavi is a distillation of Psalm 40 'I waited patiently for the Lord' with words by Charles Hamilton Sorley, a close friend of Wood. It was one of three anthems published in 1919 and is likely to be a direct response to the tragic events of the Great War.</p>
+  <p>
+    The Advent hymn On Jordan's bank with words by John Chandler, translated from the Latin of Charles Coffin (1676-1749) is sung to the tune Winchester New, the music adapted from a chorale in Musicalisches Hand-Buch of Hamburg, dated 1690.</p>
+  <p>
+    John Rutter was born in London in 1945 and studied music at Clare College, Cambridge, where he was Director of Music from 1975 to 1979. He has a particular interest in composing for young people and amateurs and has achieved this aim on a grand scale, being known for his music in most congregations, through many recordings, radio broadcasts, his work with the Cambridge Singers and through his involvement both as contributor and co-editor in the ubiquitous Carols for Choirs series. The melody of I wonder as I wander was based on a fragment of a carol heard by John Niles in the Courthouse Square, Murphy, Cherokee County, North Carolina, and written out in 1933. Rutter has followed the melodic line closely and has set it in the key of A minor in sympathy with the inherent harmony of the tune, unexpectedly changing to D major in the final four bars.</p>
+  <p>
+    Thomas Weelkes (baptized 1576, died 1623) or perhaps Weeke, was an outstanding madrigalist and major contributor to English church music. By 1597 his first volume of madrigals had already been published, and the following year he was appointed organist of Winchester College at a salary of 13s.4d. (67 pence!) per quarter, with board and lodging. Some time in 1602 he joined the choir of Chichester Cathedral as organist and choirmaster. He was now paid £25 2s.4d. per annum with board and lodging. On 13th July 1602 he was awarded a B.Mus. degree from New College, Oxford, but by 1609 his behaviour was showing signs of deterioration beginning with a charge of unauthorised absence throughout the bishopÕs visitation, a charge in 1613 for being drunk in public, and finally a dismissal from his post at the cathedral in 1617 on the grounds that he was 'noted and famed for a common drunckard and notorious swearer and blasphemer'. It is therefore all the more reason for the listener to be grateful for the publication of the six-part (SSATBB) anthem Hosanna to the Son of David, a masterpiece of particular brilliance and power. There is little doubt that it would have been written whilst he was at Chichester Cathedral.</p>
+  <h2>
+    Christmas</h2>
+  <p>
+    The melody of Up! good Christen folk, and listen is from Piæ Cantiones (1582) but the words and harmony are both from the pen of G.R. Woodward (1848-1934). Woodward was a close friend of Charles Wood and the two collaborated on several projects. Woodward for example wrote the words for 'This Joyful Eastertide' and edited three volumes; Songs of Syon, the Cowley Carol Book and An Italian Carol Book, to all of which Charles Wood supplied harmonizations and settings. 'Up! good Christen folk, and listen' is taken from the Cowley Carol Book and is in four-part harmony of a type characteristic of the first half of the eighteenth century.</p>
+  <p>
+    The words of Hark! the herald angels sing were written by Charles Wesley in 1743, G Whitefield in 1753, and M. Madan in 1760, amongst others!</p>
+  <p>
+    Tchaikovsky's Crown of Roses (also known as Tchaikovsky's Legend) is taken from his Chansons pour la jeunesse, published in Moscow in 1883. Plechtchéev wrote the words, which were translated into German by Hans Schmidt and from which Geoffrey Dearmer wrote the English words used here. The melody is that used by Anton Arensky in his Variations on a Theme by Tchaikovsky.</p>
+  <p>
+    Adam Lay Ybounden is a medieval carol from no later than the fifteenth century, appearing in the Sloane Manuscript. It has been set to music by several notable musicians including Peter Warlock, Benjamin Britten and Boris Ord, who gave us this version. Boris (really Bernhard) Ord was born in Bristol in 1897. In 1920 he became the organ scholar of Corpus Christi College, Cambridge and by 1923 had founded the Cambridge University Madrigal Society. His outstanding and far-reaching contribution was as Director of Music of KingÕs College, Cambridge (1929 to 1957) which became internationally famous because of regular Christmas Eve broadcasts, foreign tours and recordings. When Sir David Willcocks took over in 1957, he inherited a choir of the highest reputation.</p>
+  <p>
+    Mary's Lullaby, also by John Rutter, has a frequently repeated arched theme, more suggestive of swaying than of rocking and is set in the key of G flat major. It was published in 1979.</p>
+  <p>
+    Stephen Cleobury was born in 1948. He served as a chorister in Worcester Cathedral, went on to win a scholarship to KingÕs School, Worcester, subsequently winning a place at St. John's College, Cambridge (1967 to 1971). From 1971 to 1974 he was organist of St. MatthewÕs Church, Northampton and following this became the sub-organist of Westminster Abbey until 1978. He was Master of Music at Westminster Cathedral from 1979 to 1982 and since then has been the Organist and Director of Music at KingÕs College, Cambridge. He arranged the English traditional carol Joys Seven, which appears in the fifteenth century Sloane Manuscript, in 1984.</p>
+  <p>
+    The death of William Mathias (born Whitland, Carmarthenshire 1934) in 1992, shocking as it was, is perhaps even now too recent to have effected its full impact. He composed a considerable quantity of music in all fields including music for plays, films and television and has been especially celebrated for his choral and organ music. His style can be both lyrical and angular, is always highly rhythmic and his orchestration superb, using percussion most imaginatively. Above all he is a vivid and direct composer, highly refreshing at a time when so much music had become unintelligible to the layman. A babe is born Op.55, was commissioned by the Cardiff Polyphonic Choir in association with the Welsh Arts Council in 1971. The words are fifteenth century and Mathias has headed the score Giocoso, alla danza, using syncopation and parallel fourths from the first bar. It therefore displays the chief characteristics for which Mathias is famous.</p>
+  <p>
+    O come, all ye faithful (Adeste fideles) is not rooted so far back in history as one might think. The Latin words are eighteenth century and were translated by Frederick Oakeley (1802-1880) and others. The melody is equally 'recent' and was probably written by John Francis Wade (1711-1786). Indeed, it is quite likely that Wade wrote the Latin words.</p>
+  <h2>
+    Epiphany</h2>
+  <p>
+    Bethlehem, of noblest cities was translated by Edward Caswall (1814-1878) from the Latin of Aurelius Prudentius Clemens (348-c405 AD), the greatest of the Christian Latin poets. The music (Stuttgart) is adapted from a melody in C.F. Witt's Harmonia Sacra Gotha, dated 1715.</p>
+  <p>
+    The Three Kings is one of only a few songs and an opera composed by Peter Cornelius (1824-1874) which have stood the test of time. Cornelius came from a German theatrical family in Mainz and at first he was trained to follow their example, taking violin lessons in addition. By 1843 his father had died and it was decided that he should concentrate on music. In 1852 he met Liszt who recognised CorneliusÕs talents and welcomed him into the Weimar circle. He also befriended Brahms and Wagner, becoming Wagner's private répétiteur in 1865. It seems that his determination not to be influenced by any particular school caused him to be eclipsed by those who were. Originally 'Die Könige' was a Weinachtslied (Christmas Song) with a non-choral accompaniment using the chorale 'Wie schön leuchtet der Morgenstern' (How brightly shines the Morning Star) composed no later than 1599 and probably by Johann Nicolai. The familiar choral arrangement was made by Sir Ivor Atkins (1869-1953).</p>
+  <p>
+    It is extraordinary that William Crotch has been described as 'a child prodigy without parallel in the history of music' as his name carries little weight alongside comparable prodigies such as Mozart or Saint-Saëns. It is recorded that shortly after his second birthday he had taught himself to play God save the King including a bass accompaniment. He also showed remarkable artistic talents at an early age, later becoming a friend of John Constable. He was born in Norwich in 1775, and died whilst visiting his son, the Rev. W.R. Crotch, in Taunton in 1847. In the Norwich and Norfolk Record Office there are 1200 of his paintings and drawings, together with his plays and writings on all kinds of subjects including astronomy, gunnery, physics and pyrotechnics. The two pieces which have remained popular in cathedral music are Lo! star-led chiefs, taken from his oratorio Palestine, and the other a glee or 'motet' called 'Methinks I hear the full celestial choir'. Palestine was first performed in London on 21st April 1812.</p>
+  <h2>
+    Candlemass</h2>
+  <p>
+    The Belgian, Joseph Fétis, one of the most respected music teachers and critics in Europe in the first half of the nineteenth century made the following observation in his Biographie Universelle des Musiciens of 1867; '...that he (Byrd) is the inferior of no Italian or Belgian master of his time... One might say without exaggeration that Byrd was the Palestrina or Orlandus Lassus of his time'. Byrd was a convinced Catholic even though born during the Reformation period. He was a pupil of Thomas Tallis and in spite of his religious sympathies was granted a licence by Queen Elizabeth giving him and Tallis virtually exclusive rights to print and publish music. In 1563 he was appointed organist of Lincoln Cathedral, having been born in this city (it is believed) twenty years before, and then shared the duties of organist at The Chapel Royal with Tallis from 1572 until his death in 1623. He was equally at home writing music to either Latin or English words and had a particular skill for word-painting. This is evident at the very beginning of the motet Senex Puerum, the dotted rhythm suggesting the staggering gait of Simeon fitting perfectly with the words 'Senex puerum portabat' (The old man was carrying the child..). The rhythm becomes more solid and the key changes from minor to major showing the childÕs dominance over the old man. There is a short duet with closer harmony suggesting the intimacy of the birth of Christ and the writing is far more decorated and intense with the repetition of the word 'adoravit' (she adored). This piece is taken from Gradualia ad Cantiones Sacræ Liber Primus, 1605, which contains twenty four-part motets including the celebrated 'Ave Verum'.</p>
+  <p>
+    Johannes Eccard was born in MŸhlhausen in 1553 and died in Berlin in 1611. He studied in Munich with Orlandus Lassus and wrote a large number of sacred and secular works, developed from the Lutheran chorales. When to the Temple Mary went, published in 1598 for the feast of Candlemass, was written when Eccard was vice Kappellmeister at Königsberg. It is a motet for six voices and consists of two verses, each beginning with the dominant chord and reaching a powerful climax in the tonic major key. The first verse ends with Simeon's recognition of Christ as the Light of the World and the second depicting our reward in heaven should we follow Simeon's example. It is a piece of great simplicity yet also of luminosity and powerful beauty.</p>
+  <p>
+    The race that long in darkness pined are the the words of John Morison (1750-1798) which he based on Isaiah IX, 2-7. The tune is Dundee as adapted by Christopher Tye (c. 1497-1573) in his ÒActs of the ApostlesÓ and found in the Scottish Psalter of 1615.</p>
+  <p>
+    The programme fittingly ends with the Nunc Dimittis, the Song of Simeon, as set to music in 1979 by the English composer Geoffrey Burgon (born 1941, Hambledon, Hampshire). Burgon, originally a trumpeter, is now better known for his music in the televised version of Evelyn Waugh's Brideshead Revisited, and for the use of this 'Nunc Dimittis' in Tinker, Tailor, Soldier, Spy adapted from John le Carre's novel. He has written many works including a Requiem and a Trumpet Concerto.</p>
+  <p>
+    Grant Vicat 1999</p>
+recordingDetailsHtml: ''
+---
+
+<table class="tracktable">
+  <tbody>
+    <tr>
+      <td class="column1">
+        <span class="trackname">Matin responsory </span><span class="composer">Palestrina</span><br>
+        <span class="trackname"> Lo! he comes with clouds descending </span> <span class="composer">Helmsley desc. James Thomas</span><br>
+        <span class="trackname"> I waited for the Lord </span><span class="composer">Felix Mendelssohn</span><br>
+        <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
+        <span class="trackname"> Expectans expectavi</span><span class="composer"> Charles Wood</span><br>
+        <span class="trackname"> On Jordan's banks the Baptist's cry Winchester New </span> <span class="composer">German chorale</span><br>
+        <span class="trackname"> I wonder as I wander </span> <span class="composer">Appalachian carol arr. John Rutter</span><a href="cliplinks/aswander.ram"><img alt="Listen to this track" src="/web/20120408110746im_/http://www.lammas.co.uk/sites/default/files/mobileplugin/180x180/47790a0917f8459f5d041f2791e4566b.gif" style="width: 34px; height: 26px;"></a><br>
+        <span class="trackname"> Hosanna to the son of David </span> <span class="composer">Thomas Weelkes</span><br>
+        <span class="trackname"> Up! good Christen folk </span> <span class="composer">harm. G R Woodward </span><br>
+        <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn arr. David Willcocks</span><br>
+        <span class="trackname"> The crown of roses </span> <span class="composer">Peter Ilyich Tchaikovsky<br>
+        </span>
+      </td>
+      <td class="column2">
+        <span class="trackname">Adam lay bounden </span> <span class="composer">Boris Ord</span><br>
+        <span class="trackname"> Mary's lullaby </span> <span class="composer">John Rutter</span><br>
+        <span class="trackname">Joys seven </span> <span class="composer">arr Stephen Cleobury</span><br>
+        <span class="trackname"> A babe is born </span> <span class="composer">William Mathias</span><br>
+        <span class="trackname"> O come, all ye faithful Adeste fidelis </span> <span class="composer">arr David Willcocks</span><br>
+        <span class="trackname"> Bethlehem of noblest cities Stuttgart </span> <span class="composer">German</span><br>
+        <span class="trackname"> The three kings </span> <span class="composer">Peter Cornelius arr Ivor Atkins</span><br>
+        <span class="trackname"> Lo! star-led chiefs (from 'Palestine') </span> <span class="composer">William Crotch</span><br>
+        <span class="trackname"> Senex puerum </span> <span class="composer">William Byrd<br>
+        </span><span class="trackname">When to the temple Mary went </span> <span class="composer">Johannes Eccard<br>
+        </span><span class="trackname">The race that long in darkness pined </span> <span class="composer">Scottish</span><br>
+        <span class="trackname"> Nunc Dimittis </span> <span class="composer">Geoffrey Burgon</span>
+        <p>
+          <span id="playingtime">Total playing time 72m 06s</span></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
