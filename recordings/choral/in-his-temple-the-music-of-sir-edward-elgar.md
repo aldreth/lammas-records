@@ -1,7 +1,7 @@
 ---
 new_slug: in-his-temple-the-music-of-sir-edward-elgar
 title: In His Temple - the music of Sir Edward Elgar
-serialNumber: LAMM187D
+serialNumber: LAMM187
 performer: The Choir and Organ of St Paul’s, Rock Creek Parish, Washington DC USA
 directors:
 - 'Director & Solo Organist: Graham Elliott'

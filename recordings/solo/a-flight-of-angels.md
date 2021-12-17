@@ -1,7 +1,7 @@
 ---
 new_slug: a-flight-of-angels
 title: A Flight of Angels
-serialNumber: LAMM109D
+serialNumber: LAMM109
 performer: Recorded in Lancing College Chapel
 directors:
 - 'Soprano: Sarah Stobart'

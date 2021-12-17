@@ -1,7 +1,7 @@
 ---
 new_slug: veni-sancte-spiritus-choral-and-organ-music-of-patrick-gowers
 title: Veni, Sancte Spiritus - Choral and Organ music of Patrick Gowers
-serialNumber: LAMM196D
+serialNumber: LAMM196
 performer: "Guildford Philharmonic Orchestra\n\t\tGuildford Camerata\n\t\tGuildford
   Cathedral Choir"
 directors:

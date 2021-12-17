@@ -1,7 +1,7 @@
 ---
 new_slug: god-so-loved-the-world-a-passiontide-sequence
 title: God So Loved The World - A Passiontide Sequence
-serialNumber: LAMM193D
+serialNumber: LAMM193
 performer: The Chapel Choir of University College, Durham
 directors:
 - 'Director: David Jackson'

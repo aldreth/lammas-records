@@ -1,7 +1,7 @@
 ---
 new_slug: st-albans-nowell
 title: St Albans Nowell
-serialNumber: LAMM136D
+serialNumber: LAMM136
 performer: St Albans Cathedral Choir
 directors:
 - 'Director: Andrew Lucas'

@@ -1,7 +1,7 @@
 ---
 new_slug: en-priere
 title: En Prière
-serialNumber: LAMM170D
+serialNumber: LAMM170
 performer: The Girl Choristers of All Saints’ Church, Northampton
 directors:
 - 'Director: Edward Whiting'

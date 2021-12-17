@@ -1,7 +1,7 @@
 ---
 new_slug: peace-on-earth
 title: Peace on Earth
-serialNumber: LAMM190D
+serialNumber: LAMM190
 performer: Truro Cathedral Choir
 directors:
 - 'Director: Robert Sharpe'

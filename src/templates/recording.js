@@ -21,6 +21,11 @@ const RecordingTemplate = ({ data, location }) => {
         {recording.frontmatter.directors.map((director, idx) => (
           <div key={`director-${idx}`}>{director}</div>
         ))}
+        <div
+          dangerouslySetInnerHTML={{
+            __html: recording.frontmatter.serialNumber,
+          }}
+        />
       </header>
       <div dangerouslySetInnerHTML={{ __html: recording.html }} />
       <h2>{recording.frontmatter.title}</h2>
@@ -55,6 +60,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+        serialNumber
         performer
         directors
         contentHtml

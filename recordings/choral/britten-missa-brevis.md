@@ -1,7 +1,7 @@
 ---
 new_slug: britten-missa-brevis
 title: Britten - Missa Brevis
-serialNumber: LAMM171D0
+serialNumber: LAMM1710
 performer: Britten - Missa Brevis and other works for treble voices featuring Kieran
   White
 directors:

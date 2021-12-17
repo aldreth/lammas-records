@@ -1,7 +1,7 @@
 ---
 new_slug: when-he-is-king
 title: When He Is  King
-serialNumber: LAMM158D
+serialNumber: LAMM158
 performer: Truro Cathedral Choir
 directors:
 - 'Director: Robert Sharpe'

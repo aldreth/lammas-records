@@ -1,7 +1,7 @@
 ---
 new_slug: my-spirit-rejoiceth
 title: My Spirit Rejoiceth
-serialNumber: LAMM131D
+serialNumber: LAMM131
 performer: Blackburn Cathedral Choir, Blackburn Cathedral Girls’ Choir and The Renaissance
   Singers of Blackburn Cathedral
 directors:

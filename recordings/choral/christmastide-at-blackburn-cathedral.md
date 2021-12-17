@@ -1,7 +1,7 @@
 ---
 new_slug: christmastide-at-blackburn-cathedral
 title: Christmastide at Blackburn Cathedral
-serialNumber: LAMM123D
+serialNumber: LAMM123
 performer: Blackburn Cathedral's Choir of Men and Boys Girls' Choir Young People's
   Choir and Renaissance Singers
 directors:

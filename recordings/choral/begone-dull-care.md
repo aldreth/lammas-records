@@ -1,7 +1,7 @@
 ---
 new_slug: begone-dull-care
 title: Begone Dull Care
-serialNumber: LAMM107D
+serialNumber: LAMM107
 performer: The Choristers of Lichfield Cathedral
 directors:
 - 'Director: Andrew Lumsden'

@@ -1,7 +1,7 @@
 ---
 new_slug: a-crown-of-light
 title: A Crown of Light
-serialNumber: LAMM078D
+serialNumber: LAMM078
 performer: "Choral and Organ music from The Cathedral and Abbey Church of St. Alban\n\t\tWith
   the Cathedral Choir"
 directors:

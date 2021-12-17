@@ -1,7 +1,7 @@
 ---
 new_slug: jubilate-agno
 title: Jubilate Agno
-serialNumber: LAMM137D
+serialNumber: LAMM137
 performer: The Arcadian Singers of Oxford University
 directors:
 - 'Director: Matthew O’Donovan'

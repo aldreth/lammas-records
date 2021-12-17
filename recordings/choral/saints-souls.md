@@ -1,7 +1,7 @@
 ---
 new_slug: saints-souls
 title: Saints & Souls
-serialNumber: LAMM120D
+serialNumber: LAMM120
 performer: The Choirs of All Saints' Church, Northampton
 directors:
 - 'Director: Simon Johnson'

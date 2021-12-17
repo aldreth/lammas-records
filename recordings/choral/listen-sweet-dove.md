@@ -1,7 +1,7 @@
 ---
 new_slug: listen-sweet-dove
 title: Listen Sweet Dove
-serialNumber: LAMM087D
+serialNumber: LAMM087
 performer: Guildford Cathedral Choir
 directors:
 - 'Director: Andrew Millington'

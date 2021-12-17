@@ -1,7 +1,7 @@
 ---
 new_slug: a-celebration-of-british-cathedral-music
 title: A Celebration of British Cathedral Music
-serialNumber: LAMM091D
+serialNumber: LAMM091
 performer: The Choirs of All Saints, Northampton
 directors:
 - 'Director: Richard Tanner'

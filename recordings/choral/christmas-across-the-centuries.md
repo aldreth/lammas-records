@@ -1,7 +1,7 @@
 ---
 new_slug: christmas-across-the-centuries
 title: Christmas Across the Centuries
-serialNumber: LAMM128D
+serialNumber: LAMM128
 performer: St. Albans Chamber Choir
 directors:
 - 'Director: David Hansell'

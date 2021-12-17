@@ -1,7 +1,7 @@
 ---
 new_slug: geistliches-lied
 title: Geistliches Lied
-serialNumber: LAMM167D
+serialNumber: LAMM167
 performer: German Choral and Organ Music in the Romantic Tradition
 directors:
 - 'Director: Andrew Lucas'

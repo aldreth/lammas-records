@@ -1,7 +1,7 @@
 ---
 new_slug: malcolm-archer-cathedral-music
 title: Malcolm Archer - Cathedral Music
-serialNumber: LAMM165D
+serialNumber: LAMM165
 performer: Wells Cathedral Choir
 directors:
 - 'Director: Malcolm Archer'

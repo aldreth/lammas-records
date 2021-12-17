@@ -1,7 +1,7 @@
 ---
 new_slug: in-tune-with-heaven
 title: In Tune with Heaven
-serialNumber: LAMM169D
+serialNumber: LAMM169
 performer: The Girls and Men of Norwich Cathedral Choir
 directors:
 - 'Director: Julian Thomas'

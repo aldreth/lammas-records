@@ -1,7 +1,7 @@
 ---
 new_slug: so-rich-a-crown
 title: So Rich a Crown
-serialNumber: LAMM172D
+serialNumber: LAMM172
 performer: The Choir of St Edmundsbury Cathedral
 directors:
 - 'Director: James Thomas'

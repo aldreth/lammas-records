@@ -1,7 +1,7 @@
 ---
 new_slug: angelus-ad-virginem
 title: Angelus ad Virginem
-serialNumber: LAMM122D
+serialNumber: LAMM122
 performer: Choir of St Mary's Cathedral, Edinburgh
 directors:
 - 'Director: Matthew Owens'

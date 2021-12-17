@@ -1,7 +1,7 @@
 ---
 new_slug: godspeed
 title: Godspeed
-serialNumber: LAMM135D
+serialNumber: LAMM135
 performer: St Edmundsbury Cathedral Choir
 directors:
 - 'Director: James Thomas'

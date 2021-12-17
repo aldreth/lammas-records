@@ -1,7 +1,7 @@
 ---
 new_slug: come-come-my-voice
 title: Come, Come, My Voice
-serialNumber: LAMM141D
+serialNumber: LAMM141
 performer: "Treble Solos sung by Nicholas Fletcher\n\t\twith Southwell Minster Choir"
 directors:
 - 'Director: Paul Hale'

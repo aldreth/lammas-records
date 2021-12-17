@@ -1,7 +1,7 @@
 ---
 new_slug: maurice-durufle-complete-sacred-choral-works
 title: Maurice Duruflé - complete sacred choral works
-serialNumber: LAMM174D
+serialNumber: LAMM174
 performer: Truro Cathedral Choir with Dawid Kimberg Baritone
 directors:
 - 'Director: Robert Sharpe'
