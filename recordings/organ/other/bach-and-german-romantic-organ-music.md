@@ -2,6 +2,7 @@
 new_slug: bach-and-german-romantic-organ-music
 title: Bach and German Romantic Organ Music
 serialNumber: LAMM108
+coverImage: "../../../src/images/bach-and-german-romantic-organ-music.jpg"
 performer: Alexander Fiseisky on the Klais organ in the Stadtkirche, Rotenburg/Wümme,
   Germany
 directors:

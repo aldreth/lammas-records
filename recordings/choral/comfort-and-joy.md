@@ -2,6 +2,7 @@
 new_slug: comfort-and-joy
 title: Comfort And Joy
 serialNumber: LAMM129
+coverImage: "../../src/images/comfort-and-joy.jpg"
 performer: The Saint Cecilia Singers
 directors:
 - 'Director: Ian Ball'

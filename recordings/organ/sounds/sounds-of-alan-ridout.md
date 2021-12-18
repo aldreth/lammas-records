@@ -2,6 +2,7 @@
 new_slug: sounds-of-alan-ridout
 title: Sounds of Alan Ridout
 serialNumber: LAMM161
+coverImage: "../../../src/images/sounds-of-alan-ridout.jpg"
 performer: Robert Crowley plays organ music of Alan Ridout at Canterbury Cathedral
 directors: []
 contentHtml: |-

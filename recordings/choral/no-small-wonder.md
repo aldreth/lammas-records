@@ -2,6 +2,7 @@
 new_slug: no-small-wonder
 title: No Small Wonder
 serialNumber: LAMM139
+coverImage: "../../src/images/no-small-wonder.jpg"
 performer: The Concord Singers
 directors:
 - 'Director: Mary Bainbridge'

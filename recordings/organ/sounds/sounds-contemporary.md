@@ -2,6 +2,7 @@
 new_slug: sounds-contemporary
 title: Sounds Contemporary
 serialNumber: LAMM103
+coverImage: "../../../src/images/sounds-contemporary.jpg"
 performer: Organ music by Alan Ridout, Humphrey Clucas and Bernard Rose
 directors: []
 contentHtml: |-

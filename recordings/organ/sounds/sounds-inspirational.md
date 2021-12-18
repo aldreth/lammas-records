@@ -2,6 +2,7 @@
 new_slug: sounds-inspirational
 title: Sounds Inspirational
 serialNumber: LAMM159
+coverImage: "../../../src/images/sounds-inspirational.jpg"
 performer: Greg Morris
 directors: []
 contentHtml: |-

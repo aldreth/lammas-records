@@ -2,6 +2,7 @@
 new_slug: behold-it-is-christ
 title: Behold, It Is Christ
 serialNumber: LAMM096
+coverImage: "../../src/images/behold-it-is-christ.jpg"
 performer: The Choir of Selwyn College, Cambridge
 directors:
 - 'Director: Andrew Gant'

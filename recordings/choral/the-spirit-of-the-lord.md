@@ -2,6 +2,7 @@
 new_slug: the-spirit-of-the-lord
 title: The Spirit of the Lord
 serialNumber: LAMM163
+coverImage: "../../src/images/the-spirit-of-the-lord.jpg"
 performer: Manchester Cathedral Choir
 directors:
 - 'Director: Christopher Stokes'

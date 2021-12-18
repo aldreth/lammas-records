@@ -2,6 +2,7 @@
 new_slug: toccatas-from-coventry
 title: Toccatas from Coventry
 serialNumber: LAMM097
+coverImage: "../../../src/images/toccatas-from-coventry.jpg"
 performer: David Poulter on the Organ of Coventry Cathedral
 directors: []
 contentHtml: |-

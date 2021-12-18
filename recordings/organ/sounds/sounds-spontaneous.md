@@ -2,6 +2,7 @@
 new_slug: sounds-spontaneous
 title: Sounds Spontaneous
 serialNumber: LAMM176
+coverImage: "../../../src/images/sounds-spontaneous.jpg"
 performer: Improvisations Through the Church’s Year by Malcolm Archer and David Bednall
   at the organ of Blackburn Cathedral
 directors: []

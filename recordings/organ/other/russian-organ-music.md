@@ -2,6 +2,7 @@
 new_slug: russian-organ-music
 title: Russian Organ Music
 serialNumber: LAMM101
+coverImage: "../../../src/images/russian-organ-music.jpg"
 performer: Alexander Fiseisky on the Lobback Organ in the Kreuzkirche, Hamburg-Ottensen,
   Germany
 directors: []

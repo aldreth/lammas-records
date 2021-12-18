@@ -2,6 +2,7 @@
 new_slug: stabat-mater-pergolesi
 title: Stabat Mater - Pergolesi
 serialNumber: LAMM184
+coverImage: "../../src/images/stabat-mater-pergolesi.jpg"
 performer: "St Albans Abbey Girls Choir\n\t\tEmma Kirkby\n\t\tCatherine Denley\n\t\tLondon
   Baroque"
 directors:

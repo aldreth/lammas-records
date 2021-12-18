@@ -2,6 +2,7 @@
 new_slug: sounds-magnificent
 title: Sounds Magnificent
 serialNumber: LAMM112
+coverImage: "../../../src/images/sounds-magnificent.jpg"
 performer: Malcolm Archer plays the organ of Wells Cathedral
 directors: []
 contentHtml: |-

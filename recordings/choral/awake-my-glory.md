@@ -2,6 +2,7 @@
 new_slug: awake-my-glory
 title: Awake my Glory
 serialNumber: LAMM1060
+coverImage: "../../src/images/awake-my-glory.jpg"
 performer: The Choirs of Jesus College, Cambridge
 directors:
 - 'Organ Scholars: Greg Morris and Julian Thomas'

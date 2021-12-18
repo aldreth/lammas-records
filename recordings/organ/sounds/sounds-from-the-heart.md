@@ -2,6 +2,7 @@
 new_slug: sounds-from-the-heart
 title: Sounds from the Heart
 serialNumber: LAMM185
+coverImage: "../../../src/images/sounds-from-the-heart.jpg"
 performer: Peter St.John Stokes plays the Copeman Hart organ of St Silas Church, Kentish
   Town
 directors: []

@@ -2,6 +2,7 @@
 new_slug: sounds-of-francis-jackson
 title: Sounds of Francis Jackson
 serialNumber: LAMM127
+coverImage: "../../../src/images/sounds-of-francis-jackson.jpg"
 performer: Organ works of Francis Jackson
 directors: []
 contentHtml: |-

@@ -2,6 +2,7 @@
 new_slug: there-is-a-spirit-music-from-worcester-college-oxford
 title: There is a Spirit - Music from Worcester College, Oxford
 serialNumber: LAMM195
+coverImage: "../../src/images/there-is-a-spirit-music-from-worcester-college-oxford.jpg"
 performer: The Chapel Choir of Worcester College
 directors:
 - 'Director: Thomas Primrose'

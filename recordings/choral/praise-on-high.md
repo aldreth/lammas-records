@@ -2,6 +2,7 @@
 new_slug: praise-on-high
 title: Praise On High
 serialNumber: LAMM117
+coverImage: "../../src/images/praise-on-high.jpg"
 performer: The Boys of St.George's Parish Church Choir, Belfast
 directors:
 - 'Director: Nigel McClintock'

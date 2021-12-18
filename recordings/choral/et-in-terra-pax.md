@@ -2,6 +2,7 @@
 new_slug: et-in-terra-pax
 title: Et in Terra Pax
 serialNumber: LAMM124
+coverImage: "../../src/images/et-in-terra-pax.jpg"
 performer: The Girls and Men of Sheffield Cathedral Choir
 directors:
 - 'Director: Neil Taylor'

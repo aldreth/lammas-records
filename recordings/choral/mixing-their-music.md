@@ -2,6 +2,7 @@
 new_slug: mixing-their-music
 title: Mixing their Music
 serialNumber: LAMM173
+coverImage: "../../src/images/mixing-their-music.jpg"
 performer: St Albans Chamber Choir
 directors:
 - 'Director: David Hansell'

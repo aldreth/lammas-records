@@ -2,6 +2,7 @@
 new_slug: purple
 title: Purple
 serialNumber: LAMM177
+coverImage: "../../../src/images/purple.jpg"
 performer: Simon Johnson at the organ of St Albans Cathedral
 directors: []
 contentHtml: |-

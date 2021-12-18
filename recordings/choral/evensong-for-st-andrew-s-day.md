@@ -2,6 +2,7 @@
 new_slug: evensong-for-st-andrew-s-day
 title: Evensong for St Andrew's Day
 serialNumber: LAMM134
+coverImage: "../../src/images/evensong-for-st-andrew-s-day.jpg"
 performer: Wells Cathedral Choir
 directors:
 - 'Director: Malcolm Archer'

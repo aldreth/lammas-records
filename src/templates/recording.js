@@ -1,5 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -7,6 +8,7 @@ import Seo from "../components/seo"
 const RecordingTemplate = ({ data, location }) => {
   const recording = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
+  const image = getImage(recording.frontmatter.coverImage)
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -17,6 +19,10 @@ const RecordingTemplate = ({ data, location }) => {
 
       <header>
         <h1>{recording.frontmatter.title}</h1>
+        <GatsbyImage
+          image={image}
+          alt={`${recording.frontmatter.title} cover picture`}
+        />
         <p>{recording.frontmatter.performer}</p>
         {recording.frontmatter.directors.map((director, idx) => (
           <div key={`director-${idx}`}>{director}</div>
@@ -65,6 +71,12 @@ export const pageQuery = graphql`
         directors
         contentHtml
         recordingDetailsHtml
+        new_slug
+        coverImage {
+          childImageSharp {
+            gatsbyImageData(width: 300, placeholder: BLURRED)
+          }
+        }
       }
     }
   }

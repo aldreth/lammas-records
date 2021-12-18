@@ -2,6 +2,7 @@
 new_slug: sounds-exuberant
 title: Sounds Exuberant
 serialNumber: LAMM143
+coverImage: "../../../src/images/sounds-exuberant.jpg"
 performer: Neil Weston plays organ at Spencerville Seventh Day Adventist Church, Maryland,
   USA
 directors: []

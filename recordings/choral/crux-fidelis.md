@@ -2,6 +2,7 @@
 new_slug: crux-fidelis
 title: Crux Fidelis
 serialNumber: LAMM147
+coverImage: "../../src/images/crux-fidelis.jpg"
 performer: The Girls and Men of Sheffield Cathedral Choir
 directors:
 - 'Director: Neil Taylor'

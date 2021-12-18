@@ -2,6 +2,7 @@
 new_slug: sounds-majestic
 title: Sounds Majestic
 serialNumber: LAMM114
+coverImage: "../../../src/images/sounds-majestic.jpg"
 performer: "The organ of Lichfield Cathedral\n\t\tplayed by Robert Sharpe"
 directors: []
 contentHtml: |-

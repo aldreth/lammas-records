@@ -2,6 +2,7 @@
 new_slug: regina-caeli
 title: Regina Caeli
 serialNumber: LAMM188
+coverImage: "../../src/images/regina-caeli.jpg"
 performer: The Chapel Choir of Corpus Christi College, Cambridge
 directors:
 - 'Director: Daniel Soper and Rebecca Drake'

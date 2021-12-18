@@ -2,6 +2,7 @@
 new_slug: sounds-messianic
 title: Sounds Messianic
 serialNumber: LAMM145
+coverImage: "../../../src/images/sounds-messianic.jpg"
 performer: Jamie Hitel plays the organ of St Paul's Episcopal Church, Akron, Ohio,
   USA
 directors: []

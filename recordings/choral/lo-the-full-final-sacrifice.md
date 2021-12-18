@@ -2,6 +2,7 @@
 new_slug: lo-the-full-final-sacrifice
 title: lo, the full, final sacrifice
 serialNumber: LAMM155
+coverImage: "../../src/images/lo-the-full-final-sacrifice.jpg"
 performer: St Albans Abbey Girls Choir - Lay Clerks of St Albans Cathedral Choir
 directors:
 - 'Director: Simon Johnson'

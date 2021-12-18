@@ -2,6 +2,7 @@
 new_slug: chichester-psalms
 title: Chichester Psalms
 serialNumber: LAMM125
+coverImage: "../../src/images/chichester-psalms.jpg"
 performer: The Boys And Men Of Wells Cathedral Choir
 directors:
 - 'Director: Malcolm Archer'

@@ -2,6 +2,7 @@
 new_slug: dance-my-heart
 title: Dance, my heart
 serialNumber: LAMM133
+coverImage: "../../src/images/dance-my-heart.jpg"
 performer: The Girls and Men of Sheffield Cathedral Choir
 directors:
 - 'Director: Neil Taylor'

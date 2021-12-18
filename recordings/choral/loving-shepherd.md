@@ -2,6 +2,7 @@
 new_slug: loving-shepherd
 title: Loving Shepherd
 serialNumber: LAMM180
+coverImage: "../../src/images/loving-shepherd.jpg"
 performer: Hymns sung by the Choirs and Congregation of Blackburn Cathedral
 directors:
 - 'Director: Richard Tanner'

@@ -2,6 +2,7 @@
 new_slug: js-bach-organ-mass
 title: JS Bach Organ Mass
 serialNumber: LAMM092
+coverImage: "../../../src/images/js-bach-organ-mass.jpg"
 performer: 
 directors:
 - 'Organ: Peter Dyke'

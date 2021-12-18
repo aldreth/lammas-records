@@ -2,6 +2,7 @@
 new_slug: so-come-to-him
 title: So Come to Him
 serialNumber: LAMM142
+coverImage: "../../src/images/so-come-to-him.jpg"
 performer: The choir of St Paul’s, Rock Creek Parish, Washington DC, USA
 directors:
 - 'Director: Graham Elliott'

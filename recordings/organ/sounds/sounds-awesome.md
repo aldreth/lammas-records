@@ -2,6 +2,7 @@
 new_slug: sounds-awesome
 title: Sounds Awesome
 serialNumber: LAMM183
+coverImage: "../../../src/images/sounds-awesome.jpg"
 performer: Robert Crowley plays music by Alan Ridout, Humphrey Clucas, Peter Wishart
   and Humphrey Searle on the organ of Canterbury Cathedral
 directors: []

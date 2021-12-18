@@ -2,6 +2,7 @@
 new_slug: sounds-atmospheric
 title: Sounds Atmospheric
 serialNumber: LAMM192
+coverImage: "../../../src/images/sounds-atmospheric.jpg"
 performer: Organ Music of Herbert Howells played by Christopher Stokes on the organ
   of Manchester Cathedral
 directors: []

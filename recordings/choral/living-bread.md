@@ -2,6 +2,7 @@
 new_slug: living-bread
 title: Living Bread
 serialNumber: LAMM166
+coverImage: "../../src/images/living-bread.jpg"
 performer: Truro Cathedral Choir
 directors:
 - 'Director: Robert Sharpe'
