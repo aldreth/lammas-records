@@ -5,7 +5,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const ChoralIndex = ({ data, location }) => {
+const OrganOtherIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const recordings = data.allMarkdownRemark.nodes
 
@@ -34,7 +34,7 @@ const ChoralIndex = ({ data, location }) => {
   )
 }
 
-export default ChoralIndex
+export default OrganOtherIndex
 
 export const pageQuery = graphql`
   query {
@@ -44,7 +44,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { fields: { collection: { eq: "choral" } } }
+      filter: { fields: { collection: { eq: "organ-other" } } }
       sort: { fields: [frontmatter___new_slug], order: ASC }
     ) {
       nodes {
