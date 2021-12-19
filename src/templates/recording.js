@@ -33,7 +33,16 @@ const RecordingTemplate = ({ data, location }) => {
           }}
         />
       </header>
-      <div dangerouslySetInnerHTML={{ __html: recording.html }} />
+      <div className="tracks">
+        {recording.frontmatter.trackListingsHtml.map((tlHtlm, index) => (
+          <div
+            key={`tracks-inner-${index}`}
+            dangerouslySetInnerHTML={{
+              __html: tlHtlm,
+            }}
+          />
+        ))}
+      </div>
       <h2>{recording.frontmatter.title}</h2>
       <div
         className="content"
@@ -62,8 +71,6 @@ export const pageQuery = graphql`
     }
     markdownRemark(id: { eq: $id }) {
       id
-      excerpt(pruneLength: 160)
-      html
       frontmatter {
         title
         serialNumber
@@ -71,6 +78,7 @@ export const pageQuery = graphql`
         directors
         contentHtml
         recordingDetailsHtml
+        trackListingsHtml
         new_slug
         coverImage {
           childImageSharp {

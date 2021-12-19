@@ -9,8 +9,7 @@ directors:
 - 'Organ: Christopher Gray'
 contentHtml: |-
   <p id="cdtitle">Sacred and Secular Music by Orlando Gibbons</p>
-  <h1>
-    Orlando Gibbons, 1583 - 1625</h1>
+  <h1>Orlando Gibbons, 1583 - 1625</h1>
   <p>Orlando Gibbons came from a family of musicians. His elder brother Edward was Master of the Choristers at King’s College Cambridge, and he himself was a chorister there until 1598, becoming a college student the following year. His son Christopher became a famous keyboard player and organist of Winchester Cathedral, only to see the great organ broken down and the choral services stopped by the soldiers of the Commonwealth.</p>
   <p>Orlando was likewise best known in his time as a keyboard player. He became the private virginals player to Prince Charles, then organist both of the Chapel Royal of James I and of Westminster Abbey, though neither of those positions involved choir-training. Some hint of the universal high regard in which he was held is given in an account of a royal ceremony: “...the organ was touched by the best finger of that age, Mr Orlando Gibbons...”</p>
   <p>In 1625, James I died and the court moved to Canterbury to await the arrival of Charles I’s new queen, Henrietta Maria, from France. While they were there, Gibbons himself died suddenly, on Whitsunday. That is the reason that his monument is to be found in Canterbury Cathedral - he had no other connection with the city.</p>
@@ -28,57 +27,46 @@ contentHtml: |-
   <p>The four keyboard pieces recorded here may have been played on the virginals, harpsichord or organ. Here they are heard (like the accompaniments to the anthems) on the cathedral’s 1997 Kenneth Tickell chamber organ.</p>
   <p>David Cheetham<br>
     September 2005</p>
-  <h2>
-    Truro Cathedral Choir</h2>
+  <h2>Truro Cathedral Choir</h2>
   <p>The choir of Truro Cathedral consists of eighteen boy choristers and twelve gentlemen. At the present time, there are seven lay vicars and five choral scholars; the lay vicars reside locally and have employment in or around Truro in addition to their duties at the cathedral, and the choral scholars spend a year in Truro either before or after higher education. The choristers are all educated at Polwhele House School, to which they receive generous scholarships from the cathedral.</p>
   <p>The choir’s primary function is to provide music which is carefully integrated with the magnificent ceremonial and liturgical excellence which characterises the cathedral’s worship. Each week there are six choral services, usually with the full choir, comprising Sung Mass and Evensong each Sunday and either Evensong or Solemn Mass on four weekdays. The music for these services is chosen to complement the liturgical themes of each season or festival.</p>
   <p>In addition, the choir presents a termly concert in the cathedral and regularly sings in other venues around the Duchy of Cornwall, carrying the mission of the cathedral out into the diocese. The choristers take part in a flourishing outreach project each term, going out to local schools with their music before hosting the school choirs for a concert of their own in the cathedral. The choir records and broadcasts regularly and undertakes a major international tour every two years or so. During 2004, they toured Austria, Switzerland, Lichtenstein and Germany.</p>
   <p>For further details about the choir, and information about choristerships and choral scholarships, visit their <a href="https://web.archive.org/web/20120720022635/http://www.trurocathedral.org.uk/"> website</a>.</p>
-  <h2>
-    Robert Sharpe</h2>
+  <h2>Robert Sharpe</h2>
   <p class="staff">Robert Sharpe took up the appointment of Director of Music and Organist of Truro Cathedral in September 2002, having previously held the post of Assistant Organist at Lichfield Cathedral. Prior to this, he held organ scholarships at St Albans Abbey, working with Barry Rose, and at Exeter College, Oxford, where he was responsible for training the men and boys choir.</p>
   <p class="staff">Robert Sharpe has performed as both soloist and accompanist on television and radio, both in the UK and in many parts of Europe and the USA, working with Andrew Lumsden and the choir of Lichfield Cathedral and with Paul Spicer and the Birmingham Bach Choir as well as with the choir of Truro Cathedral. He has released various organ recordings in recent years which have been well-received by the critics.</p>
   <p class="staff">Robert Sharpe studied the organ with Roger Bryan, the late Nicholas Danby and with David Sanger and performs frequently in concert. His future plans as a soloist include a recording of Paul Spicer’s organ music which he has championed regularly in concert.</p>
   <p class="staff">This recording is the fourth on the LAMMAS label with the choir of Truro Cathedral. Earlier ones, which have all received critical acclaim, are <a href="king.htm">When He is King</a>, <a href="bread.htm">Living Bread</a> and the Complete sacred choral music of <a href="mdur.htm">Maurice Duruflé</a>.</p>
   <p class="staff">Robert Sharpe is also Musical Director of Three Spires Singers and Orchestra. His non-musical interests include old furniture and clocks, real ale, wine and gastronomy. He is a Fellow of the Royal Society of Arts.</p>
-  <h2>
-    Christopher Gray</h2>
+  <h2>Christopher Gray</h2>
   <p class="staff">Christopher Gray was appointed Assistant Organist of Truro Cathedral in September 2000, having previously held organ scholarships at Pembroke College, Cambridge and at Guildford Cathedral. Born in Bangor, Northern Ireland, he was a boy chorister with the Gryphon Consort and subsequently Assistant Organist at St George’s Church, Belfast. During this period, he accompanied the choir on three recordings.</p>
   <p class="staff">Whilst in Cambridge, Christopher Gray directed the choir of Pembroke College and undertook concerts and tours both in this country and in Switzerland, Finland, Estonia, Northern Ireland and Japan. He studied the organ with David Sanger and Nicolas Kynaston and subsequently with Margaret Phillips at the Royal College of Music where he was a prizewinner. At Truro, he has appeared many times with the cathedral choir on radio and television.</p>
   <p class="staff">In January 2004, Christopher Gray was appointed to the new full-time post of Assistant Director of Music at Truro Cathedral. He is also conductor of the Cornwall County Junior Choir and of St Mary’s Singers, the cathedral’s voluntary choir.</p>
 recordingDetailsHtml: |-
-  <div id="details">
-    Recorded in Truro Cathedral on 20th, 21st and 23rd June 2005 by kind permission of the Chapter
+  <div id="details">Recorded in Truro Cathedral on 20th, 21st and 23rd June 2005 by kind permission of the Chapter
     <p>Produced by Sarah Baldock<br>
       Recorded and edited by Lance Andrews</p>
   </div>
+trackListingsHtml:
+- |-
+  <span class="trackname">The silver swan</span>
+  <p><span class="trackname">Song 1</span></p>
+  <p><span class="trackname">Almighty and Everlasting</span></p>
+  <p><span class="trackname">Great Lord of Lords</span></p>
+  <p><span class="trackname">Song 46</span></p>
+  <p><span class="trackname">Prelude</span></p>
+  <p><span class="trackname">Hosanna</span></p>
+  <p><span class="trackname">Nay let me weep</span></p>
+  <p><span class="trackname">Record of John</span></p>
+  <p><span class="trackname">O Thou the central orb</span></p>
+- |-
+  <span class="trackname">Ground</span>
+  <p><span class="trackname">Oh God the King</span></p>
+  <p><span class="trackname">Oh Lord in thy wrath</span></p>
+  <p><span class="trackname">What is our life</span></p>
+  <p><span class="trackname">Pavan</span></p>
+  <p><span class="trackname">Song 44</span></p>
+  <p><span class="trackname">See see the word</span></p>
+  <p><span id="playingtime">Total playing time 67m 03s</span></p>
 ---
 
-<table class="tracktable">
-  <tbody>
-    <tr>
-      <td class="column1">
-        <span class="trackname">The silver swan</span>
-        <p><span class="trackname">Song 1</span></p>
-        <p><span class="trackname">Almighty and Everlasting</span></p>
-        <p><span class="trackname">Great Lord of Lords</span></p>
-        <p><span class="trackname">Song 46</span></p>
-        <p><span class="trackname">Prelude</span></p>
-        <p><span class="trackname">Hosanna</span></p>
-        <p><span class="trackname">Nay let me weep</span></p>
-        <p><span class="trackname">Record of John</span></p>
-        <p><span class="trackname">O Thou the central orb</span></p>
-      </td>
-      <td class="column2">
-        <span class="trackname">Ground</span>
-        <p><span class="trackname">Oh God the King</span></p>
-        <p><span class="trackname">Oh Lord in thy wrath</span></p>
-        <p><span class="trackname">What is our life</span></p>
-        <p><span class="trackname">Pavan</span></p>
-        <p><span class="trackname">Song 44</span></p>
-        <p><span class="trackname">See see the word</span></p>
-        <p>					<span id="playingtime">Total playing time 67m 03s</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>

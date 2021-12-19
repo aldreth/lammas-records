@@ -88,6 +88,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       contentHtml: String
       recordingDetailsHtml: String
       coverImage: File @fileByRelativePath
+      trackListingsHtml: [String]
     }
 
     type Fields {

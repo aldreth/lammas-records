@@ -8,8 +8,7 @@ performer: The Choir of Selwyn College, Cambridge with the Selwyn College Instru
 directors:
 - 'Director: Andrew Gant'
 contentHtml: |-
-  <h1>
-    The Churchgoer And The Composer</h1>
+  <h1>The Churchgoer And The Composer</h1>
   <p>Spanish sacred music has always had its own traditions, its own forms, its own sound. Throughout the 250-year period covered by this recording there is a unique cross-fertilisation between the styles of the sacred and the secular, even the profane; there are texts assembled from different sources and in different languages; musical plays instead of Christmas carols, jousts and shipwrecks on the way to Bethlehem, the sounds of the Italian cantata and the Renaissance madrigal, to the accompaniment of the guitar, the harp and the organ; and throughout all there is the expressive power of the Spanish and Catalan languages, the inspiration for a group of uniquely original and inventive compositional minds, the creators of some of the most engaging and beautiful music of the age, though some of the least familiar.</p>
   <p>The earliest composer on this disc is Mateo Flecha, the most celebrated exponent, (and, according to his nephew, the inventor) of the "Ensalada", or "salad". This musical "salad" is a typically Spanish reinvention of what the rest of Europe was doing: part madrigal, part quodlibet, they are lively, zestful pieces for four voices which tell a cheerfully worldly narrative, usually involving some kind of physical trial or exertion, to draw a devotional conclusion. The texts are a jumble of fragments in different languages, often, as here, quoting snatches of Latin liturgy in the middle of the story. One early "Ensalada" from the Cançionero del Palaçio of 1500 contains a jumble of drinking songs sung in several languages at once to imitate a wayside inn, and in another the composer has four complete "villancicos" running simultaneously, while the bass voice comments ironically "loquebantur variis linquis" ("they spoke in a variety of tongues") - a typically irreverent borrowing of a phrase from the liturgy. Mateo Flecha was born in 1523. He was a choirboy and later "maestro de capilla" at Lérida Cathedral, spending the years 1523-1531 under the patronage of the Duque del Infantido and the decade 1534-44 in Valencia. In 1543 he became "maestro de capilla" to the Infantas María and Juana, younger sisters of Philip II. Flecha died in 1553. His eight "Ensaladas" were published by his nephew after his death, though they were clearly popular in his lifetime. They are by far the longest Spanish-text Renaissance pieces, (a slightly shortened version is used here) and they put the singers through a variety of extremities: fire, battle, shipwreck, and in this case a joust, on the way to salvation. The text is a mixture of ungrammatical bravado and snatches of Latin, with his characteristic nonsense syllables thrown in to imitate the sounds of the tourney. Flecha also quotes from Jannequin"s celebrated madrigal "La bataille". It is also interesting to note the appearance of several themes which reappear through the Spanish music of this period - "nuestro Adán", "our Adam", or Christ, come to undo the disobedience of the first Adam, is a figure who appears again in Soler more than two centuries later. A "vihuela" part was published separately in 1554, suggesting that these pieces could be accompanied - a modern guitar is used here.</p>
   <p>The name of Francisco Guerrero is by now familiar to lovers of Renaissance polyphony, although being a Spaniard he did not confine himself to smooth and elegant pieties. His life was nothing if not eventful - born in 1528, early study with Morales and employment as a singer in Seville led to his appointment as "Maestro de capilla" at Jaén Cathedral at the age of seventeen. He neglected his duties there and was dismissed, but successfully sued for reinstatement. In 1549 he rejoined Seville Cathedral as a singer, but his fame was such that in 1551 and again in 1554 Málaga Cathedral attempted to secure his services as "maestro de capilla" : Seville countered by making him associate "maestro" and giving him the right to succeed the ageing incumbent (although in the event he did not enter into that particular inheritance until 1574). He published much of his own work and enjoyed a great reputation and much patronage: on one occassion a Mass of his was sung to the Emperor Charles V, on another he met and kissed the hand of King Philip II. He was largely absent from his duties in Seville, travelling to Rome, Venice (where these pieces were published), the Holy Land, and France, where he was twice attacked by pirates and once held for ransom. The costs of his publishing ventures caught up with him, and in 1591 he was imprisoned for debt, being bailed out by his long-suffering employers at Seville Cathedral. He published a book about his travels in the Holy Land, and died in 1599.</p>
@@ -30,31 +29,22 @@ contentHtml: |-
     Andrew Gant</p>
 recordingDetailsHtml: |-
   <div id="details">
-    <p>
-      Produced, recorded and edited by Lance Andrews</p>
+    <p>Produced, recorded and edited by Lance Andrews</p>
   </div>
+trackListingsHtml:
+- |-
+  <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><br>
+  <span class="trackname"> De'un Maestro de capilla </span> <span class="composer">Antonio Soler</span><br>
+  <span class="trackname"> ¡Ay, qué dolor! </span> <span class="composer">Joan Cererols</span><br>
+  <span class="trackname"> La Justa </span> <span class="composer">Mateo Flecha</span><br>
+  <span class="trackname"> Cantat mater</span><span class="composer"> Joan Verdalet</span><br>
+  <span class="trackname"> En piélagos inmensos </span> <span class="composer">Antonio Soler</span>
+- |-
+  <span class="trackname"> O beata virgo </span> <span class="composer">Cristobál Galán</span><br>
+  <span class="trackname"> Ave Sanctissima Maria </span> <span class="composer">Cristobál Galán</span><br>
+  <span class="trackname"> O celestial medicina </span> <span class="composer">Francisco Guererro</span><br>
+  <span class="trackname"> O virgen </span> <span class="composer">Francisco Guererro</span><br>
+  <span class="trackname"> Congregante e Festero </span> <span class="composer">Antonio Soler</span>
+  <p><span id="playingtime">Total playing time 67m 00s</span></p>
 ---
 
-<table class="tracktable">
-  <tbody>
-    <tr>
-      <td class="column1">
-        <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><br>
-        <span class="trackname"> De'un Maestro de capilla </span> <span class="composer">Antonio Soler</span><br>
-        <span class="trackname"> ¡Ay, qué dolor! </span> <span class="composer">Joan Cererols</span><br>
-        <span class="trackname"> La Justa </span> <span class="composer">Mateo Flecha</span><br>
-        <span class="trackname"> Cantat mater</span><span class="composer"> Joan Verdalet</span><br>
-        <span class="trackname"> En piélagos inmensos </span> <span class="composer">Antonio Soler</span>
-      </td>
-      <td class="column2">
-        <span class="trackname"> O beata virgo </span> <span class="composer">Cristobál Galán</span><br>
-        <span class="trackname"> Ave Sanctissima Maria </span> <span class="composer">Cristobál Galán</span><br>
-        <span class="trackname"> O celestial medicina </span> <span class="composer">Francisco Guererro</span><br>
-        <span class="trackname"> O virgen </span> <span class="composer">Francisco Guererro</span><br>
-        <span class="trackname"> Congregante e Festero </span> <span class="composer">Antonio Soler</span>
-        <p>
-          <span id="playingtime">Total playing time 67m 00s</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>

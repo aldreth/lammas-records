@@ -7,7 +7,7 @@ performer: The Girl Choristers of Wells Cathedral
 directors:
 - 'Director: Malcolm Archer'
 - 'Organ: Rupert Gough'
-contentHtml: "<h1>\n  Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Fauré (1845-1924)
+contentHtml: "<h1>Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Fauré (1845-1924)
   worked in the most fashionable church in Paris, the Madeleine, parish church of
   the Elysée. Despite serving the church for almost fifty years between them, both
   were essentially atheist and took church employment until they could achieve financial
@@ -88,7 +88,7 @@ contentHtml: "<h1>\n  Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Faur�
   beneath the violin's high held F sharp. After one final Credo in vitam venturi saeculi
   by the choir, the organ steals in to support the final Amens, while the violin relinquishes
   its high inverted pedal point to wreath a final arabesque to the hushed ending.</p>\n<p>Rupert
-  Gough, Wells 2001<br>\n  Karg-Elert note © Felix Aprahamian 1968</p>\n<h2>\n  Malcolm
+  Gough, Wells 2001<br>\n  Karg-Elert note © Felix Aprahamian 1968</p>\n<h2>Malcolm
   Archer</h2>\n<p class=\"staff\">Malcolm Archer was appointed Organist and Master
   of the Choristers at Wells Cathedral in 1996 where he directs and trains the Cathedral
   choirs for the daily services in the Cathedral as well as being Director for Wells
@@ -118,25 +118,25 @@ contentHtml: "<h1>\n  Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Faur�
   which will be held in St Paul's Cathedral in 2004.Malcolm Archer is an examiner
   and council member for the Royal College of Organists and an examiner for the Associated
   Board of the Royal Schools of Music. He is also a member of the Cathedrals Liturgy
-  Group and the Association of English Cathedrals working party for music funding.</p>\n<h2>\n
-  \ Rupert Gough</h2>\n<p class=\"staff\">Rupert Gough was appointed Assistant Organist
-  of Wells Cathedral in 1994 where he accompanies and assists in directing the nine
-  sung services every week. He appears regularly with the choir in concerts all over
-  the world, on the radio and can be heard on many different recordings. His cathedral
+  Group and the Association of English Cathedrals working party for music funding.</p>\n<h2>Rupert
+  Gough</h2>\n<p class=\"staff\">Rupert Gough was appointed Assistant Organist of
+  Wells Cathedral in 1994 where he accompanies and assists in directing the nine sung
+  services every week. He appears regularly with the choir in concerts all over the
+  world, on the radio and can be heard on many different recordings. His cathedral
   duties are combined with teaching and concert work and he is Organ Tutor for Wells
   Cathedral Specialist Music School. He won third prize in the St. Albans International
   Organ Competition in 2001 and has been a finalist in the Royal College of Organists
   Performer of the Year competition. He also enjoys a busy career as recitalist, conductor
-  and accompanist and has travelled widely across Europe, Brazil and the USA.</p>\n<h2>\n
-  \ Rachel Gough</h2>\n<p class=\"staff\">Rachel Gough learnt the violin with Gillian
-  Sansom for eleven years before attending the University of East Anglia, where she
-  won performance scholarships enabling her to study with Hugh Maguire. With a scholarship
-  from The Wall Trust she entered the Royal College of Music, studying with Frances
-  Mason and receiving regular chamber music coaching from the Chilingirian Quartet.
-  She graduated in 1997 with an MMus Degree in Advanced Performance. Rachel is a violin
-  tutor at Wells Cathedral Specialist Music School and pursues a busy freelance career
-  in the West of England working regularly with a number of chamber ensembles as well
-  as other solo and orchestral work.</p>\n<p class=\"staff\">Rachel and Rupert formed
+  and accompanist and has travelled widely across Europe, Brazil and the USA.</p>\n<h2>Rachel
+  Gough</h2>\n<p class=\"staff\">Rachel Gough learnt the violin with Gillian Sansom
+  for eleven years before attending the University of East Anglia, where she won performance
+  scholarships enabling her to study with Hugh Maguire. With a scholarship from The
+  Wall Trust she entered the Royal College of Music, studying with Frances Mason and
+  receiving regular chamber music coaching from the Chilingirian Quartet. She graduated
+  in 1997 with an MMus Degree in Advanced Performance. Rachel is a violin tutor at
+  Wells Cathedral Specialist Music School and pursues a busy freelance career in the
+  West of England working regularly with a number of chamber ensembles as well as
+  other solo and orchestral work.</p>\n<p class=\"staff\">Rachel and Rupert formed
   the Gough Duo in 1997 to explore the original repertoire of music for violin and
   organ. Being the only regular violin and organ duo in Britain, their performances
   have aroused much interest and they now pursue a international concert career performing
@@ -145,44 +145,36 @@ contentHtml: "<h1>\n  Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Faur�
   first commercial CD was released in the same year. For more information about the
   Gough Duo visit their website: <a href=\"https://web.archive.org/web/20140328101952/http://www.goughduo.co.uk/\">www.goughduo.co.uk</a></p>"
 recordingDetailsHtml: |-
-  <div id="details">
-    Recorded in Wells Cathedral on 27th February, 1st March and 27th April 2001 by kind permission of the Dean and Chapter.
+  <div id="details">Recorded in Wells Cathedral on 27th February, 1st March and 27th April 2001 by kind permission of the Dean and Chapter.
     <p>Produced by Barry Rose and David Terry</p>
     <p>Recorded and edited by Lance Andrews</p>
     <p>Cover photograph: Mary Andrews of a 13th Century stall in the Cathedral of St Peter, Poitiers.</p>
   </div>
+trackListingsHtml:
+- |-
+  <span class="trackname">Ave Maria </span> <span class="composer">Camille Saint-Saëns</span>
+  <p><span class="trackname">How like an Angel </span> <span class="composer">Malcolm Archer</span></p>
+  <p><span class="trackname">Magnificat The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
+  <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
+  <p><span class="trackname">Ave Maria </span> <span class="composer">Daniel Roth</span></p>
+  <p><span class="trackname">Ave verum, Op. 65 No. 1 </span> <span class="composer">Gabriel Fauré</span></p>
+  <p><span class="trackname">The Tree </span> <span class="composer">Jonathan Harvey</span></p>
+  <p><span class="trackname">Ave Maria, Op. 93 </span> <span class="composer">Gabriel Fauré</span></p>
+- |-
+  <span class="trackname">Mass in E flat, Op. 155 </span> <span class="composer">Joseph Rheinberger</span><br>
+  <span class="trackname"> Kyrie<br>
+    Gloria<br>
+    Credo<br>
+    Sanctus<br>
+    Benedictus<br>
+    Agnus Dei</span>
+  <p><span class="trackname">My song is in sighing </span> <span class="composer">Martin Dalby</span></p>
+  <p><span class="trackname">Third Symphonic Canzona, Op. 85, No. 3</span><span class="composer"> Sigfrid Karg-Elert</span><br>
+    <span class="trackname"> Fugue<br>
+      Canzona<br>
+      Epilogue<br>
+      Violin: Rachel Gough<br>
+    </span><br>
+    <span id="playingtime">Total playing time 63m 08s</span></p>
 ---
 
-<table class="tracktable">
-  <tbody>
-    <tr>
-      <td class="column1">
-        <span class="trackname">Ave Maria </span> <span class="composer">Camille Saint-Saëns</span>
-        <p><span class="trackname">How like an Angel </span> <span class="composer">Malcolm Archer</span></p>
-        <p><span class="trackname">Magnificat The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
-        <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
-        <p><span class="trackname">Ave Maria </span> <span class="composer">Daniel Roth</span></p>
-        <p><span class="trackname">Ave verum, Op. 65 No. 1 </span> <span class="composer">Gabriel Fauré</span></p>
-        <p><span class="trackname">The Tree </span> <span class="composer">Jonathan Harvey</span></p>
-        <p><span class="trackname">Ave Maria, Op. 93 </span> <span class="composer">Gabriel Fauré</span></p>
-      </td>
-      <td class="column2">
-        <span class="trackname">Mass in E flat, Op. 155 </span> <span class="composer">Joseph Rheinberger</span><br>
-        <span class="trackname"> Kyrie<br>
-          Gloria<br>
-          Credo<br>
-          Sanctus<br>
-          Benedictus<br>
-          Agnus Dei</span>
-        <p><span class="trackname">My song is in sighing </span> <span class="composer">Martin Dalby</span></p>
-        <p><span class="trackname">Third Symphonic Canzona, Op. 85, No. 3</span><span class="composer"> Sigfrid Karg-Elert</span><br>
-          <span class="trackname"> Fugue<br>
-            Canzona<br>
-            Epilogue<br>
-            Violin: Rachel Gough<br>
-          </span><br>
-          <span id="playingtime">Total playing time 63m 08s</span></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
