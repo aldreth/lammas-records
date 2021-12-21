@@ -34,7 +34,7 @@ const RecordingTemplate = ({ data, location }) => {
         />
       </header>
       <div className="tracks">
-        {recording.frontmatter.trackListingsHtml.map((tlHtlm, index) => (
+        {recording.frontmatter.trackListingsHtml?.map((tlHtlm, index) => (
           <div
             key={`tracks-inner-${index}`}
             dangerouslySetInnerHTML={{

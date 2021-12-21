@@ -1,74 +1,57 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Seo title="All posts" />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
+const SiteIndex = ({ data, location }) => {
+  const siteTitle = data.site.siteMetadata?.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="" />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                </header>
-              </article>
-            </li>
-          )
-        })}
-      </ol>
+      <Seo title={siteTitle} />
+      <p>
+        Listen to the choirs, the treble and soprano soloists and the organ
+        solos from Britain's historic cathedrals and churches at St Albans,
+        Wells, Edinburgh, Chichester, Gloucester, St Edmundsbury, Northampton,
+        Blackburn, Coventry, Sheffield, Lichfield, Cambridge, and more....
+      </p>
+      <h2>About Lammas Records</h2>
+      <p>
+        LAMMAS RECORDS was founded and run by Lance Andrews. Lance lives in
+        York, UK and previously in St Albans, UK, where he had lived for thirty
+        four years.
+      </p>
+      <p>
+        Once a boy chorister at Ely Cathedral, he subsequently joined the Sound
+        Department of BBC television, where he was one of their top Sound
+        Engineers for many years.
+      </p>
+      <p>
+        On retiring from the BBC he established Lammas Records - specialising in
+        choral and organ music. Building on his reputation for recording
+        excellence he has many titles to his credit, including commissions by
+        other leading publishers. Dr. Barry Rose was associated with many of
+        these.
+      </p>
+      <p>
+        Lance used the latest digital sound equipment to create the best in
+        professional sound recordings. He produced the master recording,
+        designed the artwork and completed the typesetting on his own systems.
+        Only the volume production was outsourced; while maintaining careful
+        attention to quality of the finished product.
+      </p>
     </Layout>
   )
 }
 
-export default BlogIndex
+export default SiteIndex
 
 export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
         title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___new_slug], order: ASC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          title
-        }
       }
     }
   }
