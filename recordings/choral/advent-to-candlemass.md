@@ -2,7 +2,7 @@
 new_slug: advent-to-candlemass
 title: Advent to Candlemass
 serialNumber: LAMM115
-coverImage: "../../src/images/advent-to-candlemass.jpg"
+coverImage: "../../src/images/recordings/advent-to-candlemass.jpg"
 performer: St Edmundsbury Choir
 directors:
 - 'Director: James Thomas'

@@ -2,7 +2,7 @@
 new_slug: sounds-of-celebration
 title: Sounds of Celebration
 serialNumber: LAMM182
-coverImage: "../../../src/images/sounds-of-celebration.jpg"
+coverImage: "../../../src/images/recordings/sounds-of-celebration.jpg"
 performer: Kevin Bowyer plays the organ works of Paul Fisher at Blackburn Cathedral
 directors:
 - 'Flute: Claudia Lashmore'

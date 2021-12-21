@@ -2,7 +2,7 @@
 new_slug: more-than-hymns
 title: More than Hymns
 serialNumber: LAMM149
-coverImage: "../../src/images/more-than-hymns.jpg"
+coverImage: "../../src/images/recordings/more-than-hymns.jpg"
 performer: Wells Cathedral Choir
 directors:
 - 'Director: Malcolm Archer'

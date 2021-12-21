@@ -2,7 +2,7 @@
 new_slug: over-the-rainbow
 title: Over The Rainbow
 serialNumber: LAMM085
-coverImage: "../../src/images/over-the-rainbow.jpg"
+coverImage: "../../src/images/recordings/over-the-rainbow.jpg"
 performer: The Boys and Men of the Choir The Cathedral and Abbey Church of St Albans
 directors:
 - 'Director: Barry Rose'

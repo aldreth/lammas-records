@@ -2,7 +2,7 @@
 new_slug: sounds-of-humphrey-clucas
 title: Sounds of Humphrey Clucas
 serialNumber: LAMM151
-coverImage: "../../../src/images/sounds-of-humphrey-clucas.jpg"
+coverImage: "../../../src/images/recordings/sounds-of-humphrey-clucas.jpg"
 performer: Robert Crowley plays the organ of the Cathedral and Abbey Church of St
   Albans
 directors: []

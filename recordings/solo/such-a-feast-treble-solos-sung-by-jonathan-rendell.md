@@ -2,7 +2,7 @@
 new_slug: such-a-feast-treble-solos-sung-by-jonathan-rendell
 title: Such a Feast - Treble solos sung by Jonathan Rendell
 serialNumber: LAMM138
-coverImage: "../../src/images/such-a-feast-treble-solos-sung-by-jonathan-rendell.jpg"
+coverImage: "../../src/images/recordings/such-a-feast-treble-solos-sung-by-jonathan-rendell.jpg"
 performer: 
 directors:
 - 'Director/Organ: Matthew Owens'

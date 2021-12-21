@@ -2,7 +2,7 @@
 new_slug: the-churchgoer-and-the-composer
 title: The Churchgoer And The Composer
 serialNumber: LAMM094
-coverImage: "../../src/images/the-churchgoer-and-the-composer.jpg"
+coverImage: "../../src/images/recordings/the-churchgoer-and-the-composer.jpg"
 performer: The Choir of Selwyn College, Cambridge with the Selwyn College Instrumental
   Ensemble
 directors:

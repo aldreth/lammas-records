@@ -2,7 +2,7 @@
 new_slug: sounds-romantic
 title: Sounds Romantic
 serialNumber: LAMM160
-coverImage: "../../../src/images/sounds-romantic.jpg"
+coverImage: "../../../src/images/recordings/sounds-romantic.jpg"
 performer: Organ Music of Elgar and Stanford played by Christopher Stokes on the organ
   of Manchester Cathedral
 directors: []

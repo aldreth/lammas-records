@@ -2,7 +2,7 @@
 new_slug: sounds-idyllic
 title: Sounds Idyllic
 serialNumber: LAMM148
-coverImage: "../../../src/images/sounds-idyllic.jpg"
+coverImage: "../../../src/images/recordings/sounds-idyllic.jpg"
 performer: Peter Dyke
 directors: []
 contentHtml: |-

@@ -2,7 +2,7 @@
 new_slug: sigfrid-karg-elert-symphonic-canzonas
 title: Sigfrid Karg-Elert - Symphonic Canzonas
 serialNumber: LAMM186
-coverImage: "../../../src/images/sigfrid-karg-elert-symphonic-canzonas.jpg"
+coverImage: "../../../src/images/recordings/sigfrid-karg-elert-symphonic-canzonas.jpg"
 performer: Gough Duo
 directors:
 - 'Organ: Rupert Gough'

@@ -2,7 +2,7 @@
 new_slug: benedicite
 title: Benedicite
 serialNumber: LAMM118
-coverImage: "../../src/images/benedicite.jpg"
+coverImage: "../../src/images/recordings/benedicite.jpg"
 performer: Chichester Cathedral Choir
 directors:
 - 'Director: Alan Thurlow'

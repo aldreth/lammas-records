@@ -2,7 +2,7 @@
 new_slug: sounds-thrilling
 title: Sounds Thrilling
 serialNumber: LAMM189
-coverImage: "../../../src/images/sounds-thrilling.jpg"
+coverImage: "../../../src/images/recordings/sounds-thrilling.jpg"
 performer: Stephen Farr plays the organ in Blackburn Cathedral
 directors: []
 contentHtml: |-

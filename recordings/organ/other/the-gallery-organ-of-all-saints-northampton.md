@@ -2,7 +2,7 @@
 new_slug: the-gallery-organ-of-all-saints-northampton
 title: The Gallery Organ of All Saints, Northampton
 serialNumber: LAMM1000
-coverImage: "../../../src/images/the-gallery-organ-of-all-saints-northampton.jpg"
+coverImage: "../../../src/images/recordings/the-gallery-organ-of-all-saints-northampton.jpg"
 performer: The Gallery Organ of All Saints, Northampton
 directors:
 - 'Organ: Richard Tanner'

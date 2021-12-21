@@ -2,7 +2,7 @@
 new_slug: thy-word-is-a-lantern
 title: Thy Word is a Lantern
 serialNumber: LAMM119
-coverImage: "../../src/images/thy-word-is-a-lantern.jpg"
+coverImage: "../../src/images/recordings/thy-word-is-a-lantern.jpg"
 performer: Blackburn Cathedral Choir, The Renaissance Singers of Blackburn Cathedral
   and Zeneka Brass
 directors:

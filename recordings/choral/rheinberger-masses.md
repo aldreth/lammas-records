@@ -2,7 +2,7 @@
 new_slug: rheinberger-masses
 title: Rheinberger Masses
 serialNumber: LAMM156
-coverImage: "../../src/images/rheinberger-masses.jpg"
+coverImage: "../../src/images/recordings/rheinberger-masses.jpg"
 performer: The Choirs of Blackburn Cathedral sing the music of Josef Rheinberger
 directors:
 - 'Director: Richard Tanner'

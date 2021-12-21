@@ -2,7 +2,7 @@
 new_slug: the-crucifixion
 title: The Crucifixion
 serialNumber: LAMM154
-coverImage: "../../src/images/the-crucifixion.jpg"
+coverImage: "../../src/images/recordings/the-crucifixion.jpg"
 performer: Guildford Philharmonic Orchestra
 directors:
 - "Director: Barry Rose\n\t\tOrgan: Stephen Farr\n\t\tTenor: Peter Auty\n\t\tBaritone:

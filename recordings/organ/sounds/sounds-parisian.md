@@ -2,7 +2,7 @@
 new_slug: sounds-parisian
 title: Sounds Parisian
 serialNumber: LAMM175
-coverImage: "../../../src/images/sounds-parisian.jpg"
+coverImage: "../../../src/images/recordings/sounds-parisian.jpg"
 performer: 
 directors: []
 contentHtml: |-

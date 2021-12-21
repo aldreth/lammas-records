@@ -2,7 +2,7 @@
 new_slug: faure-requiem
 title: Fauré Requiem
 serialNumber: LAMM130
-coverImage: "../../src/images/faure-requiem.jpg"
+coverImage: "../../src/images/recordings/faure-requiem.jpg"
 performer: Choir of St Mary's Cathedral, Edinburgh
 directors:
 - 'Director: Matthew Owens'

@@ -2,7 +2,7 @@
 new_slug: the-complete-orgelbuchlein
 title: The Complete Orgelbüchlein
 serialNumber: LAMM099
-coverImage: "../../../src/images/the-complete-orgelbuchlein.jpg"
+coverImage: "../../../src/images/recordings/the-complete-orgelbuchlein.jpg"
 performer: 45 Chorale Preludes by Johann Sebastian Bach played on the historic Arp
   Schnitger organ in Steinkirchen, Germany
 directors: []

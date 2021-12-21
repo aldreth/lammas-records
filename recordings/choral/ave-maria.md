@@ -2,7 +2,7 @@
 new_slug: ave-maria
 title: Ave Maria
 serialNumber: LAMM132
-coverImage: "../../src/images/ave-maria.jpg"
+coverImage: "../../src/images/recordings/ave-maria.jpg"
 performer: The Girl Choristers of Wells Cathedral
 directors:
 - 'Director: Malcolm Archer'

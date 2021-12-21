@@ -2,7 +2,7 @@
 new_slug: count-your-blessings
 title: Count Your Blessings
 serialNumber: LAMM121
-coverImage: "../../src/images/count-your-blessings.jpg"
+coverImage: "../../src/images/recordings/count-your-blessings.jpg"
 performer: David Wigram
 directors:
 - 'Organ: Christopher Muhley'

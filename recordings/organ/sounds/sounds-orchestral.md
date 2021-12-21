@@ -2,7 +2,7 @@
 new_slug: sounds-orchestral
 title: Sounds Orchestral
 serialNumber: LAMM197
-coverImage: "../../../src/images/sounds-orchestral.jpg"
+coverImage: "../../../src/images/recordings/sounds-orchestral.jpg"
 performer: "Symphonies by Schubert and Mendelssohn\n\t\ttranscribed for Organ Duet
   by David Gibbs"
 directors: []

@@ -2,7 +2,7 @@
 new_slug: sounds-baroque
 title: Sounds Baroque
 serialNumber: LAMM181
-coverImage: "../../../src/images/sounds-baroque.jpg"
+coverImage: "../../../src/images/recordings/sounds-baroque.jpg"
 performer: Terence Charlston plays the IOFS organ in St Saviour’s Church, St Albans
 directors: []
 contentHtml: |-

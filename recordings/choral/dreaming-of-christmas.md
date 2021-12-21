@@ -2,7 +2,7 @@
 new_slug: dreaming-of-christmas
 title: Dreaming Of Christmas
 serialNumber: LAMM116
-coverImage: "../../src/images/dreaming-of-christmas.jpg"
+coverImage: "../../src/images/recordings/dreaming-of-christmas.jpg"
 performer: Wells Cathedral Choir
 directors:
 - 'Director: Malcolm Archer'

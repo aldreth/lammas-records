@@ -2,7 +2,7 @@
 new_slug: salvator-mundi
 title: Salvator Mundi
 serialNumber: LAMM152
-coverImage: "../../src/images/salvator-mundi.jpg"
+coverImage: "../../src/images/recordings/salvator-mundi.jpg"
 performer: The Arcadian Singers of Oxford University
 directors:
 - 'Director: Matthew O’Donovan'

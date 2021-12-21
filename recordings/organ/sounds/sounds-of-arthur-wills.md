@@ -2,7 +2,7 @@
 new_slug: sounds-of-arthur-wills
 title: Sounds of Arthur Wills
 serialNumber: LAMM168
-coverImage: "../../../src/images/sounds-of-arthur-wills.jpg"
+coverImage: "../../../src/images/recordings/sounds-of-arthur-wills.jpg"
 performer: Robert Crowley plays the music of Arthur Wills on the organ of Ely Cathedral
 directors:
 - 'Organ: Robert Crowley'

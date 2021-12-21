@@ -2,7 +2,7 @@
 new_slug: sounds-symphonic
 title: Sounds Symphonic
 serialNumber: LAMM126
-coverImage: "../../../src/images/sounds-symphonic.jpg"
+coverImage: "../../../src/images/recordings/sounds-symphonic.jpg"
 performer: Ian Ball plays the organ in Gloucester Cathedral
 directors: []
 contentHtml: |-

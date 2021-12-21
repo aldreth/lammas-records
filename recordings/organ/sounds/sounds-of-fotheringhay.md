@@ -2,7 +2,7 @@
 new_slug: sounds-of-fotheringhay
 title: Sounds of Fotheringhay
 serialNumber: LAMM191
-coverImage: "../../../src/images/sounds-of-fotheringhay.jpg"
+coverImage: "../../../src/images/recordings/sounds-of-fotheringhay.jpg"
 performer: Malcolm Archer plays the Vincent Woodstock organ at St Mary and All Saints
   Church, Fotheringhay
 directors: []

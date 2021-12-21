@@ -2,7 +2,7 @@
 new_slug: the-golden-vanity
 title: The Golden Vanity
 serialNumber: LAMM146
-coverImage: "../../src/images/the-golden-vanity.jpg"
+coverImage: "../../src/images/recordings/the-golden-vanity.jpg"
 performer: Music for Boys' Voices by Benjamin Britten - The Choristers of Christ Church
   Cathedral, Oxford
 directors:

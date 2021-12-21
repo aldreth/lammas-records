@@ -2,7 +2,7 @@
 new_slug: praise-and-majesty
 title: Praise And Majesty
 serialNumber: LAMM095
-coverImage: "../../src/images/praise-and-majesty.jpg"
+coverImage: "../../src/images/recordings/praise-and-majesty.jpg"
 performer: The Men and Boys Choir of the Cathedral and Abbey Church of St Alban
 directors:
 - 'Director: Barry Rose'

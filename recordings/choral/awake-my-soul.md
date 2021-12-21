@@ -2,7 +2,7 @@
 new_slug: awake-my-soul
 title: Awake My Soul
 serialNumber: LAMM111
-coverImage: "../../src/images/awake-my-soul.jpg"
+coverImage: "../../src/images/recordings/awake-my-soul.jpg"
 performer: St Albans Abbey Girls Choir and Lay-clerks of the Cathedral and Abbey Church
   of St Alban
 directors:

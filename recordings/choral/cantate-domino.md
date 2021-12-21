@@ -2,7 +2,7 @@
 new_slug: cantate-domino
 title: Cantate Domino
 serialNumber: LAMM162
-coverImage: "../../src/images/cantate-domino.jpg"
+coverImage: "../../src/images/recordings/cantate-domino.jpg"
 performer: The Chapel Choir Of University College, Durham
 directors:
 - 'Director: Christopher Totney'

@@ -2,7 +2,7 @@
 new_slug: a-celebration-in-music
 title: A Celebration In Music
 serialNumber: LAMM089
-coverImage: "../../src/images/a-celebration-in-music.jpg"
+coverImage: "../../src/images/recordings/a-celebration-in-music.jpg"
 performer: The choirs of Jesus College Cambridge
 directors:
 - 'Director: Duncan Aspden'

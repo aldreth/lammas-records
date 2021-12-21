@@ -2,7 +2,7 @@
 new_slug: music-ever-divine-roger-drabble
 title: Music Ever Divine - Roger Drabble
 serialNumber: LAMM105
-coverImage: "../../src/images/music-ever-divine-roger-drabble.jpg"
+coverImage: "../../src/images/recordings/music-ever-divine-roger-drabble.jpg"
 performer: Roger Drabble
 directors:
 - 'Organ: Malcolm Archer'

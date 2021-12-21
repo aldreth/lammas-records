@@ -2,7 +2,7 @@
 new_slug: sounds-artistic
 title: Sounds Artistic
 serialNumber: LAMM153
-coverImage: "../../../src/images/sounds-artistic.jpg"
+coverImage: "../../../src/images/recordings/sounds-artistic.jpg"
 performer: David Briggs plays the organ of Blackburn Cathedral
 directors: []
 contentHtml: |-

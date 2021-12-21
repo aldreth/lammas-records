@@ -2,7 +2,7 @@
 new_slug: sounds-of-bach
 title: Sounds of Bach
 serialNumber: LAMM150
-coverImage: "../../../src/images/sounds-of-bach.jpg"
+coverImage: "../../../src/images/recordings/sounds-of-bach.jpg"
 performer: Music by Johann Sebastian Bach
 directors: []
 contentHtml: |-

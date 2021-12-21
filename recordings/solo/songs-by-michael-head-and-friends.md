@@ -2,7 +2,7 @@
 new_slug: songs-by-michael-head-and-friends
 title: Songs by Michael Head and Friends
 serialNumber: LAMM179
-coverImage: "../../src/images/songs-by-michael-head-and-friends.jpg"
+coverImage: "../../src/images/recordings/songs-by-michael-head-and-friends.jpg"
 performer: 
 directors:
 - 'Tenor: Richard Rowntree'

@@ -2,7 +2,7 @@
 new_slug: golden-treble-solos-david-meredith
 title: Golden Treble Solos - David Meredith
 serialNumber: LAMM093
-coverImage: "../../src/images/golden-treble-solos-david-meredith.jpg"
+coverImage: "../../src/images/recordings/golden-treble-solos-david-meredith.jpg"
 performer: David Meredith
 directors:
 - 'Organ: Malcolm Archer'

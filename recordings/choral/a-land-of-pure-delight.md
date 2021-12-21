@@ -2,7 +2,7 @@
 new_slug: a-land-of-pure-delight
 title: A Land of Pure Delight
 serialNumber: LAMM140
-coverImage: "../../src/images/a-land-of-pure-delight.jpg"
+coverImage: "../../src/images/recordings/a-land-of-pure-delight.jpg"
 performer: RSCM Millennium Youth Choir
 directors:
 - 'Director: Gordon Stewart'

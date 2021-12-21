@@ -2,7 +2,7 @@
 new_slug: sounds-french
 title: Sounds French
 serialNumber: LAMM164
-coverImage: "../../../src/images/sounds-french.jpg"
+coverImage: "../../../src/images/recordings/sounds-french.jpg"
 performer: David Briggs plays the organ of Blackburn Cathedral
 directors:
 - 'Organ: David Briggs'

@@ -2,7 +2,7 @@
 new_slug: sounds-from-st-albans
 title: Sounds from St Albans
 serialNumber: LAMM178
-coverImage: "../../../src/images/sounds-from-st-albans.jpg"
+coverImage: "../../../src/images/recordings/sounds-from-st-albans.jpg"
 performer: David Humphreys plays the organ at St Albans Cathedral
 directors: []
 contentHtml: |-

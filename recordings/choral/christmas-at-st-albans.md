@@ -2,7 +2,7 @@
 new_slug: christmas-at-st-albans
 title: Christmas At St Albans
 serialNumber: LAMM081
-coverImage: "../../src/images/christmas-at-st-albans.jpg"
+coverImage: "../../src/images/recordings/christmas-at-st-albans.jpg"
 performer: The Cathedral Choir and St Albans Bach Choir
 directors:
 - 'Director: Barry Rose'

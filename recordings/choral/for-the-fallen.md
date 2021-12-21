@@ -2,7 +2,7 @@
 new_slug: for-the-fallen
 title: For The Fallen
 serialNumber: LAMM113
-coverImage: "../../src/images/for-the-fallen.jpg"
+coverImage: "../../src/images/recordings/for-the-fallen.jpg"
 performer: Waltham Abbey Choir
 directors:
 - 'Director: Jamie Hitel'
