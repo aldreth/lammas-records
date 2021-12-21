@@ -1,15 +1,13 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const SiteIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title
-
+const SiteIndex = ({ location }) => {
   return (
-    <Layout location={location} title={siteTitle}>
-      <Seo title={siteTitle} />
+    <Layout location={location}>
+      <Seo />
       <p>
         Listen to the choirs, the treble and soprano soloists and the organ
         solos from Britain's historic cathedrals and churches at St Albans,
@@ -18,6 +16,11 @@ const SiteIndex = ({ data, location }) => {
       </p>
       <h2>About Lammas Records</h2>
       <p>
+        <StaticImage
+          src="../images/lance.jpg"
+          width="300"
+          style={{ float: "right", marginLeft: 10 }}
+        />
         LAMMAS RECORDS was founded and run by Lance Andrews. Lance lives in
         York, UK and previously in St Albans, UK, where he had lived for thirty
         four years.
@@ -46,13 +49,3 @@ const SiteIndex = ({ data, location }) => {
 }
 
 export default SiteIndex
-
-export const pageQuery = graphql`
-  query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-  }
-`

@@ -5,24 +5,10 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const AllIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const recordings = data.allMarkdownRemark.nodes
 
-  if (recordings.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Seo title="All Recordsings" />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
-
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location}>
       <Seo title="All recordings" />
       <ol style={{ listStyle: `none` }}>
         {recordings.map(post => {
@@ -42,11 +28,6 @@ export default AllIndex
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(sort: { fields: [frontmatter___new_slug], order: ASC }) {
       nodes {
         excerpt

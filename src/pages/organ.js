@@ -6,12 +6,11 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const OrganIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const recordings = data.allMarkdownRemark.nodes
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <Seo title="Choral Recordings" />
+    <Layout location={location}>
+      <Seo title="Organ Recordings" />
       <div className="recordings">
         {recordings.map(recording => {
           return (
@@ -38,11 +37,6 @@ export default OrganIndex
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       filter: {
         fields: { collection: { in: ["organ-other", "organ-sounds"] } }

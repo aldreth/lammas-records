@@ -7,14 +7,13 @@ import Seo from "../components/seo"
 
 const RecordingTemplate = ({ data, location }) => {
   const recording = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const image = getImage(recording.frontmatter.coverImage)
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location}>
       <Seo
         title={recording.frontmatter.title}
-        description={recording.frontmatter.description || recording.excerpt}
+        description={recording.frontmatter.description}
       />
 
       <header>
@@ -64,11 +63,6 @@ export default RecordingTemplate
 
 export const pageQuery = graphql`
   query RecordingBySlug($id: String!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     markdownRemark(id: { eq: $id }) {
       id
       frontmatter {

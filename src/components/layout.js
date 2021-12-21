@@ -1,12 +1,24 @@
 import * as React from "react"
-import { Link } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, children }) => {
+  const { site } = useStaticQuery(
+    graphql`
+      query {
+        site {
+          siteMetadata {
+            title
+          }
+        }
+      }
+    `
+  )
+
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
   let header = (
     <h1 className="main-heading">
-      <Link to="/">{title}</Link>
+      <Link to="/">{site.siteMetadata?.title}</Link>
     </h1>
   )
 

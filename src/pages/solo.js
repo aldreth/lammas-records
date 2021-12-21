@@ -6,12 +6,11 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const SoloIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const recordings = data.allMarkdownRemark.nodes
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <Seo title="Choral Recordings" />
+    <Layout location={location}>
+      <Seo title="Solo Recordings" />
       <div className="recordings">
         {recordings.map(recording => {
           return (
@@ -38,11 +37,6 @@ export default SoloIndex
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       filter: { fields: { collection: { eq: "solo" } } }
       sort: { fields: [frontmatter___new_slug], order: ASC }

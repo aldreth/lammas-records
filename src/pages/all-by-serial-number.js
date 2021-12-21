@@ -5,11 +5,10 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const AllBySerialNumberIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
   const recordings = data.allMarkdownRemark.nodes
 
   return (
-    <Layout location={location} title={siteTitle}>
+    <Layout location={location}>
       <Seo title="All recordings" />
       <ol style={{ listStyle: `none` }}>
         {recordings.map(post => {
@@ -29,11 +28,6 @@ export default AllBySerialNumberIndex
 
 export const pageQuery = graphql`
   query {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
       sort: { fields: [frontmatter___serialNumber], order: ASC }
     ) {
