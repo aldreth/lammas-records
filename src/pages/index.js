@@ -15,16 +15,17 @@ const SiteIndex = ({ location }) => {
         Blackburn, Coventry, Sheffield, Lichfield, Cambridge, and more....
       </p>
       <h2>About Lammas Records</h2>
-      <p>
+      <div>
         <StaticImage
           src="../images/lance.jpg"
-          width="300"
+          width={300}
           style={{ float: "right", marginLeft: 10 }}
+          alt="Lance Andrews"
         />
         LAMMAS RECORDS was founded and run by Lance Andrews. Lance lives in
         York, UK and previously in St Albans, UK, where he had lived for thirty
         four years.
-      </p>
+      </div>
       <p>
         Once a boy chorister at Ely Cathedral, he subsequently joined the Sound
         Department of BBC television, where he was one of their top Sound
