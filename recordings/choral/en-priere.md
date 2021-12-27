@@ -20,7 +20,7 @@ contentHtml: |-
     NN1 1DF<br>
     Telephone/Facsimile: 01604 632845<br>
     Email: <a href="https://web.archive.org/web/20120720021258/mailto:edward.whiting@btconnect.com">Edward Whiting</a><br>
-    <a href="https://web.archive.org/web/20120720021258/http://www.allsaintschurchnorthampton.co.uk/">All Saints' Northampton website.</a></p>
+    <a href="http://www.allsaintschurchnorthampton.co.uk/">All Saints' Northampton website.</a></p>
   <h2>The Girl Choristers of All Saints’ Church, Northampton</h2>
   <p>In 1994, a Girls’ Choir was formed at All Saints’ Church, Northampton, to complement the choir of Boys and Men which has sung for services for over 450 years. This recording was made to mark this tenth anniversary. The girls sing twice each week, on Tuesdays and Thursdays, as well as joining the Layclerks and Choral Scholars for occasional Sunday services. They regularly sing for major services, and have recently performed Duruflé’s Requiem and Britten’s Ceremony of Carols at the Liturgies for All Souls’ Day and Candlemas. The girls have undertaken tours with the men of the choir to South Carolina, Tuscany and France.</p>
   <p>On the final track of the CD, Duruflé’s In Paradisum, the girls are joined by a specially assembled group of Oxford-based gentlemen.</p>

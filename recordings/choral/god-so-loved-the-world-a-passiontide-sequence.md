@@ -47,7 +47,7 @@ contentHtml: |-
   <h2>York Minster Development Campaign</h2>
   <p class="staff">This CD was recorded in York Minster, by kind permission of the Dean and Chapter. The recording coincided with the launch of a development campaign, designed to do three things: first, to conserve, repair and restore the east front and east window; second, to establish an endowment fund for the Minster's music and thirdly to ensure the future of the Minster's educational programme through the Centre for School Visits and the Minster Library.</p>
   <p class="staff">The East Front Project is the largest and most important conservation project in Europe at the present time (2005). The 15th century stonework has come to the end of its life, and the replacing of the delicate tracery in the window necessitates the complete removal of all of the priceless mediaeval stained glass. The Great East Window - described as the Sistine Chapel of stained glass - is about the size of a tennis court.</p>
-  <p class="staff">The Dean and Chapter hope that many people will come to visit York Minster as the work progresses. More information can be found and donations made at the York Minster <a href="https://web.archive.org/web/20130202021035/http://www.yorkminster.org/">website</a>.</p>
+  <p class="staff">The Dean and Chapter hope that many people will come to visit York Minster as the work progresses. More information can be found and donations made at the York Minster <a href="http://www.yorkminster.org/">website</a>.</p>
 recordingDetailsHtml: |-
   <div id="details">Recorded in York Minster on 15th, 16th and 17th July 2005 by kind permission of the Dean and Chapter
     <p>Produced by Stephen Shipley<br>

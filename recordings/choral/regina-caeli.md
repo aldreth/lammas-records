@@ -47,7 +47,7 @@ contentHtml: |-
   <p>Francis Letschka<br>
     Cambridge 2005</p>
   <h2>The Chapel Choir of Corpus Christi College, Cambridge</h2>
-  <p>The College of Corpus Christi and the Blessed Virgin Mary was founded in 1352 and is one of the oldest Colleges in the University of Cambridge. The <a href="https://web.archive.org/web/20120719204457/http://www.corpus.cam.ac.uk/choir">chapel choir</a> is made up of students (some Choral Scholars, some volunteers) from across the University studying a wide range of subjects and sings for three services a week during term time. It has until now been rehearsed, directed and accompanied solely by the two undergraduate Organ Scholars, which made it an attractive college for organ scholars wishing to develop their conducting skills. As of 2005, the College has appointed a Director of Music to oversee the running of the choir and to ensure that high standards continue through successive years, as well as encouraging music outside chapel. There are annual choir tours, going abroad every three years, and the choir has been to Prague, Venice and U.S.A. in recent years, as well as to Salisbury and Bristol Cathedrals.</p>
+  <p>The College of Corpus Christi and the Blessed Virgin Mary was founded in 1352 and is one of the oldest Colleges in the University of Cambridge. The <a href="http://www.corpus.cam.ac.uk/choir">chapel choir</a> is made up of students (some Choral Scholars, some volunteers) from across the University studying a wide range of subjects and sings for three services a week during term time. It has until now been rehearsed, directed and accompanied solely by the two undergraduate Organ Scholars, which made it an attractive college for organ scholars wishing to develop their conducting skills. As of 2005, the College has appointed a Director of Music to oversee the running of the choir and to ensure that high standards continue through successive years, as well as encouraging music outside chapel. There are annual choir tours, going abroad every three years, and the choir has been to Prague, Venice and U.S.A. in recent years, as well as to Salisbury and Bristol Cathedrals.</p>
   <h2>Daniel Soper</h2>
   <p class="staff">Daniel Soper was born in Croydon in 1983 and was a chorister at Canterbury Cathedral from the age of eight. Whilst completing his A-levels at Trinity School, Croydon, he was Organ Scholar at Croydon Parish Church, and he spent his Gap Year at Chelmsford Cathedral as Organ Scholar.</p>
   <p class="staff">This CD marks the end of Daniel's three years as Organ Scholar of Corpus Christi College, Cambridge where he read for a Music Degree. He is now Assistant Organist of Winchester College, and it is his intention to pursue a career in Cathedral music. He is an Associate of the Royal College of Organists.</p>
@@ -58,7 +58,7 @@ recordingDetailsHtml: |-
   <div id="details">Recorded in the Chapel of Corpus Christi College, Cambridge on 21st and 22nd March 2005 by kind permission of the Master and Fellows
     <p>Produced by Philip White-Jones<br>
       Recorded and edited by Lance Andrews<br>
-      Photograph: <a href="https://web.archive.org/web/20120719204457/http://www.derringer.co.uk/">Michael Derringer</a></p>
+      Photograph: <a href="http://www.derringer.co.uk/">Michael Derringer</a></p>
   </div>
 trackListingsHtml:
   - |-

@@ -144,7 +144,7 @@ contentHtml:
   regularly across Europe and the USA. During 2000 they were invited to perform a
   programme of Karg-Elert's music as a part of the Third Karg-Elert Festival. Their
   first commercial CD was released in the same year. For more information about the
-  Gough Duo visit their website: <a href=\"https://web.archive.org/web/20140328101952/http://www.goughduo.co.uk/\">www.goughduo.co.uk</a></p>"
+  Gough Duo visit their website: <a href=\"http://www.goughduo.co.uk/\">www.goughduo.co.uk</a></p>"
 recordingDetailsHtml: |-
   <div id="details">Recorded in Wells Cathedral on 27th February, 1st March and 27th April 2001 by kind permission of the Dean and Chapter.
     <p>Produced by Barry Rose and David Terry</p>

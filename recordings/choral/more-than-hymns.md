@@ -19,7 +19,7 @@ contentHtml: |-
   <h2>Rupert Gough</h2>
   <p class="staff">Rupert Gough enjoys a busy career as recitalist, conductor and accompanist. He has been involved in some twenty commercial recordings as an organ soloist, accompanist, harpsichordist and conductor on many labels. He won Third Prize in the 2000 St. Albans International Organ Competition and has previously been a finalist in the Royal College of Organists ‘Performer of the year’ competition.<br>
     Since 1994 Rupert has been Assistant Organist at Wells Cathedral where he accompanies and assists in directing the nine sung services every week. He appears regularly with the choir in concerts all over the world, on the radio, television and can be heard on many different recordings. He also teaches organ at Wells Cathedral School where he has prepared a number of pupils for Oxbridge scholarships and study in Conservatoires.</p>
-  <p class="staff">Rupert has also established a successful organ and violin duo with his wife Rachel. Recent engagements included premiering a new work by Timothy Salter in St. John’s, Smith Square. They are now represented in the USA by<a href="https://web.archive.org/web/20160501124914/http://www.concertartists.com/"> Phillip Truckenbrod Concert Artists.</a></p>
+  <p class="staff">Rupert has also established a successful organ and violin duo with his wife Rachel. Recent engagements included premiering a new work by Timothy Salter in St. John’s, Smith Square. They are now represented in the USA by<a href="http://www.concertartists.com/"> Phillip Truckenbrod Concert Artists.</a></p>
 recordingDetailsHtml: |-
   <div id="details">Recorded in the Wells Cathedral on 2nd, 3rd and 10th October 2002 by kind permission of the Chapter.
     <p>Produced by Barry Rose<br>

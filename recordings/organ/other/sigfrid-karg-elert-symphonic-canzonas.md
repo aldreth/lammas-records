@@ -16,13 +16,13 @@ contentHtml: |-
   <p>In 1930, Karg-Elert took part in a Karg-Elert Festival in London, and a year later he was asked to perform in the USA, where he presented more than twenty organ concerts. He was offered the position of organ teacher at the Carnegie Institute in Pittsburgh, but due to his failing health, he declined. He died on September 4, 1933, and was buried in the Leipzig Südfriedhof.</p>
   <p>Although Karg-Elert wrote a number of songs for voice and piano, he composed very few for voice and organ; these are of exceptional interest, not only for their imaginative word-setting but also for characteristically resourceful accompaniments.</p>
   <p>Notes on the music written by Anthony Caldicott</p>
-  <p>For more information visit the <a href="https://web.archive.org/web/20120720021131/http://www..karg-elert-archive.org.uk/">Karg-Elert Archive</a>.</p>
+  <p>For more information visit the <a href="http://www..karg-elert-archive.org.uk/">Karg-Elert Archive</a>.</p>
   <p>Karg-Elert’s Third Symphonic Canzona op. 85 no. 3 has previously been recorded by the Gough Duo and the Girl Choristers of Wells Cathedral on the Lammas Records CD <a href="./avemaria.htm">Ave Maria</a>.</p>
   <h2>Gough Duo - Rachel Gough &amp; Rupert Gough</h2>
   <p>The Gough Duo was formed in 1997 to explore the original repertoire of music for violin and organ. Being the only regular violin and organ duo in Britain, their performances have aroused much interest and they now pursue their concert career across the U.K. and abroad. The Duo regularly tours the USA and has performed widely from New York to Dallas and Florida to Alaska. They have also been featured at a number of Music Festivals in England, Denmark and Italy.</p>
   <p>The Duo enjoy the challenge of performing in a variety of venues, and with organs ranging from 2-stop chamber instruments to 5-manual cathedral and concert organs. Critics have praised them for their ensemble and musical interpretations.</p>
   <p>They are committed to promoting new music for violin and organ and have had many pieces especially composed for them.</p>
-  <p>More information about the Duo can be found on their <a href="https://web.archive.org/web/20120720021131/http://www.goughduo.co.uk/">website</a>.</p>
+  <p>More information about the Duo can be found on their <a href="http://www.goughduo.co.uk/">website</a>.</p>
   <h2>Rachel Gough</h2>
   <p class="staff">Rachel Gough attended the University of East Anglia, where she won performance scholarships enabling her to study with Hugh Maguire, and graduated with First Class Honours in Music. With a scholarship from The Wall Trust she entered the Royal College of Music, studying with Frances Mason. She graduated in 1997 with an MMus Degree in Advanced Performance. Rachel is a violin tutor at Wells Cathedral Specialist Music School, and performs and records regularly as a chamber and solo violinist.</p>
   <h2>Rupert Gough</h2>
