@@ -1,11 +1,11 @@
 ---
-new_slug: sounds-french
+slug: sounds-french
 title: Sounds French
 serialNumber: LAMM164
 coverImage: "../../../src/images/recordings/sounds-french.jpg"
 performer: David Briggs plays the organ of Blackburn Cathedral
 directors:
-- 'Organ: David Briggs'
+  - "Organ: David Briggs"
 contentHtml: |-
   <h1>Sounds French</h1>
   <p>Entrée Grand Orgue Pierre Cochereau (1924-84) (from ‘Les Offices du Dimanche’, 1974) transcribed by David Briggs</p>
@@ -52,24 +52,23 @@ recordingDetailsHtml: |-
       Photograph by Brian Newton</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Entrée Grand Orgue</span><span class="composer"> Pierre Cochereau (from 'Les Offices du Dimance,' 1974) transcribed by David Briggs</span>
-  <p><span class="trackname">Scherzo Symphonique</span><span class="composer"> (1968) Pierre Cochereau transcribed by David Briggs</span></p>
-  <p><span class="trackname">Choral No.1 </span> <span class="composer">Cesar Franck</span></p>
-  <p><span class="trackname">Symphonie en Improvisation </span><span class="composer">(22 June 2003) David Brigg</span><span class="trackname">s<br>
-      Moderato<br>
-      Scherzo<br>
-      Adagio<br>
-      Final </span></p>
-- |-
-  <span class="trackname">Messe Alme Pater</span><span class="composer"> (1985) Jean Langlais </span><br>
-  <span class="trackname"> Kyrie<br>
-    Gloria<br>
-    Sanctus<br>
-    Agnus Dei</span>
-  <p><span class="trackname">Incantation pour un jour Saint </span> <span class="composer">Jean Langlais</span></p>
-  <p><span class="trackname">Attende Domine </span> <span class="composer">Jeanne Demessieux</span></p>
-  <p><span class="trackname">Allegro Deciso (Evocation, Op 37) </span> <span class="composer">Marcel Dupre</span></p>
-  <p><span id="playingtime">Total playing time 67m 47s</span></p>
+  - |-
+    <span class="trackname">Entrée Grand Orgue</span><span class="composer"> Pierre Cochereau (from 'Les Offices du Dimance,' 1974) transcribed by David Briggs</span>
+    <p><span class="trackname">Scherzo Symphonique</span><span class="composer"> (1968) Pierre Cochereau transcribed by David Briggs</span></p>
+    <p><span class="trackname">Choral No.1 </span> <span class="composer">Cesar Franck</span></p>
+    <p><span class="trackname">Symphonie en Improvisation </span><span class="composer">(22 June 2003) David Brigg</span><span class="trackname">s<br>
+        Moderato<br>
+        Scherzo<br>
+        Adagio<br>
+        Final </span></p>
+  - |-
+    <span class="trackname">Messe Alme Pater</span><span class="composer"> (1985) Jean Langlais </span><br>
+    <span class="trackname"> Kyrie<br>
+      Gloria<br>
+      Sanctus<br>
+      Agnus Dei</span>
+    <p><span class="trackname">Incantation pour un jour Saint </span> <span class="composer">Jean Langlais</span></p>
+    <p><span class="trackname">Attende Domine </span> <span class="composer">Jeanne Demessieux</span></p>
+    <p><span class="trackname">Allegro Deciso (Evocation, Op 37) </span> <span class="composer">Marcel Dupre</span></p>
+    <p><span id="playingtime">Total playing time 67m 47s</span></p>
 ---
-

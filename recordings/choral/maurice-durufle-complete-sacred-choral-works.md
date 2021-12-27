@@ -1,12 +1,12 @@
 ---
-new_slug: maurice-durufle-complete-sacred-choral-works
+slug: maurice-durufle-complete-sacred-choral-works
 title: Maurice Duruflé - complete sacred choral works
 serialNumber: LAMM174
 coverImage: "../../src/images/recordings/maurice-durufle-complete-sacred-choral-works.jpg"
 performer: Truro Cathedral Choir with Dawid Kimberg Baritone
 directors:
-- 'Director: Robert Sharpe'
-- 'Organ: Christopher Gray'
+  - "Director: Robert Sharpe"
+  - "Organ: Christopher Gray"
 contentHtml: |-
   <h1>Gregorian Chant and the nineteenth century revival</h1>
   <p>By the time of Pope Gregory the Great (590 - 604) the form of the Mass was more or less settled. The sung parts consisted of the Ordinary, which remained constant every day, and the Proper, texts appropriate to the events or to the Saints to be commemorated at the services for each day of the year. It was Gregory's wish to regularise the music sung at the Mass and at other ceremonies throughout the Western church, associating a set melody, to be sung in unison and unaccompanied, for each Proper text.</p>
@@ -61,30 +61,29 @@ recordingDetailsHtml: |-
       Photograph and cover design by Sheila Gill-Sparrow</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Messe de Requiem opus 9 (1947)</span><br>
-  Introit<br>
-  Kyrie<br>
-  Domine Jesu Christe<br>
-  Sanctus and Benedictus<br>
-  Pie Jesu<br>
-  Agnus Dei<br>
-  Lux aeterna<br>
-  Libera me<br>
-  In paradisum
-- |-
-  <span class="composer">Quatre Motets opus 10 (1960)</span><br>
-  Ubi caritas et amor<br>
-  Tota pulchra es Maria<br>
-  Tu es Petrus<br>
-  Tantum ergo
-  <p><span class="composer">Messe cum jubilo opus 11 (1966)</span><br>
+  - |-
+    <span class="composer">Messe de Requiem opus 9 (1947)</span><br>
+    Introit<br>
     Kyrie<br>
-    Gloria<br>
-    Sanctus<br>
-    Benedictus<br>
-    Agnus Dei</p>
-  <p><span class="composer">Nôtre Père opus 14 (1978)</span></p>
-  <p><span id="playingtime">Total playing time 63m 30s</span></p>
+    Domine Jesu Christe<br>
+    Sanctus and Benedictus<br>
+    Pie Jesu<br>
+    Agnus Dei<br>
+    Lux aeterna<br>
+    Libera me<br>
+    In paradisum
+  - |-
+    <span class="composer">Quatre Motets opus 10 (1960)</span><br>
+    Ubi caritas et amor<br>
+    Tota pulchra es Maria<br>
+    Tu es Petrus<br>
+    Tantum ergo
+    <p><span class="composer">Messe cum jubilo opus 11 (1966)</span><br>
+      Kyrie<br>
+      Gloria<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</p>
+    <p><span class="composer">Nôtre Père opus 14 (1978)</span></p>
+    <p><span id="playingtime">Total playing time 63m 30s</span></p>
 ---
-

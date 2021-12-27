@@ -1,12 +1,12 @@
 ---
-new_slug: the-spirit-of-the-lord
+slug: the-spirit-of-the-lord
 title: The Spirit of the Lord
 serialNumber: LAMM163
 coverImage: "../../src/images/recordings/the-spirit-of-the-lord.jpg"
 performer: Manchester Cathedral Choir
 directors:
-- 'Director: Christopher Stokes'
-- 'Organ: Jeffrey Makinson'
+  - "Director: Christopher Stokes"
+  - "Organ: Jeffrey Makinson"
 contentHtml: |-
   <h1>The Spirit of the Lord</h1>
   <h2>Charles Villiers Stanford</h2>
@@ -45,21 +45,20 @@ recordingDetailsHtml: |-
       Photograph by Paul Denby</p>
   </div>
 trackListingsHtml:
-- |-
-  Justorum animae <span class="composer">Charles Villiers Stanford</span>
-  <p>Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span></p>
-  <p>Beati quorum via <span class="composer">Charles Villiers Stanford</span></p>
-  <p>A Song of Peace <span class="composer">Charles Villiers Stanford</span></p>
-  <p>Pray that Jerusalem may have peace <span class="composer">Charles Villiers Stanford</span></p>
-  <p>Magnificat in A <span class="composer">Charles Villiers Stanford</span></p>
-  <p>Nunc Dimittis in A <span class="composer">Charles Villiers Stanford</span></p>
-- |-
-  For lo, I raise up <span class="composer">Charles Villiers Stanford</span>
-  <p>Light of the World <span class="composer">Edward Elgar</span></p>
-  <p>Seek him that maketh the seven stars <span class="composer">Edward Elgar</span></p>
-  <p>Doubt not thy Father’s care <span class="composer">Edward Elgar</span></p>
-  <p>The Spirit of the Lord is upon me <span class="composer">Edward Elgar</span></p>
-  <p>Give unto the Lord <span class="composer">Edward Elgar</span></p>
-  <p><span id="playingtime">Total playing time 64m 06s</span></p>
+  - |-
+    Justorum animae <span class="composer">Charles Villiers Stanford</span>
+    <p>Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span></p>
+    <p>Beati quorum via <span class="composer">Charles Villiers Stanford</span></p>
+    <p>A Song of Peace <span class="composer">Charles Villiers Stanford</span></p>
+    <p>Pray that Jerusalem may have peace <span class="composer">Charles Villiers Stanford</span></p>
+    <p>Magnificat in A <span class="composer">Charles Villiers Stanford</span></p>
+    <p>Nunc Dimittis in A <span class="composer">Charles Villiers Stanford</span></p>
+  - |-
+    For lo, I raise up <span class="composer">Charles Villiers Stanford</span>
+    <p>Light of the World <span class="composer">Edward Elgar</span></p>
+    <p>Seek him that maketh the seven stars <span class="composer">Edward Elgar</span></p>
+    <p>Doubt not thy Father’s care <span class="composer">Edward Elgar</span></p>
+    <p>The Spirit of the Lord is upon me <span class="composer">Edward Elgar</span></p>
+    <p>Give unto the Lord <span class="composer">Edward Elgar</span></p>
+    <p><span id="playingtime">Total playing time 64m 06s</span></p>
 ---
-

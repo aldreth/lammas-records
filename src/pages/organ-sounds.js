@@ -14,12 +14,12 @@ const OrganSoundsIndex = ({ data, location }) => {
       <div className="recordings">
         {recordings.map(recording => {
           return (
-            <div className="recording" key={recording.fields.slug}>
-              <Link to={recording.fields.slug}>
+            <div className="recording" key={recording.frontmatter.slug}>
+              <Link to={`/${recording.frontmatter.slug}`}>
                 {recording.frontmatter.title}
               </Link>
               <br />
-              <Link to={recording.fields.slug}>
+              <Link to={`/${recording.frontmatter.slug}`}>
                 <GatsbyImage
                   image={getImage(recording.frontmatter.coverImage)}
                   alt={`${recording.frontmatter.title} cover picture`}
@@ -39,15 +39,13 @@ export const pageQuery = graphql`
   query {
     allMarkdownRemark(
       filter: { fields: { collection: { eq: "organ-sounds" } } }
-      sort: { fields: [frontmatter___new_slug], order: ASC }
+      sort: { fields: [frontmatter___slug], order: ASC }
     ) {
       nodes {
-        fields {
-          slug
-        }
         frontmatter {
           title
           performer
+          slug
           coverImage {
             childImageSharp {
               gatsbyImageData(width: 100, placeholder: BLURRED)

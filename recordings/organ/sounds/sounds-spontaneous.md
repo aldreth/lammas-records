@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-spontaneous
+slug: sounds-spontaneous
 title: Sounds Spontaneous
 serialNumber: LAMM176
 coverImage: "../../../src/images/recordings/sounds-spontaneous.jpg"
-performer: Improvisations Through the Church’s Year by Malcolm Archer and David Bednall
+performer:
+  Improvisations Through the Church’s Year by Malcolm Archer and David Bednall
   at the organ of Blackburn Cathedral
 directors: []
 contentHtml: |-
@@ -54,26 +55,25 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Advent (Veni Emmanuel)
-  <p>Advent (Creator alme siderum)</p>
-  <p>Christmas (Nöel nouvelet)</p>
-  <p>Epiphany (O magi venient)</p>
-  <p>Candlemas (Ave maris stella)</p>
-  <p>Lent</p>
-  <p>Passiontide (Pange lingua)</p>
-  <p>Palm Sunday</p>
-  <p>Maundy Thursday (Ubi Caritas)</p>
-  <p>Good Friday (Passion Chorale)</p>
-- |-
-  Easter (Victimæ Paschali)
-  <p>Ascension (Llanfair)</p>
-  <p>Pentecost (Veni Creator Spiritus)</p>
-  <p>Trinity (O Lux beata)</p>
-  <p>Corpus Christi (Vexilla Regis)</p>
-  <p>All Saints (Mount Ephraim)</p>
-  <p>All Souls (Requiem æternum and In paradisum)</p>
-  <p>Christ the King (Te Deum)</p>
-  <p><span id="playingtime">Total playing time 77m 21s</span></p>
+  - |-
+    Advent (Veni Emmanuel)
+    <p>Advent (Creator alme siderum)</p>
+    <p>Christmas (Nöel nouvelet)</p>
+    <p>Epiphany (O magi venient)</p>
+    <p>Candlemas (Ave maris stella)</p>
+    <p>Lent</p>
+    <p>Passiontide (Pange lingua)</p>
+    <p>Palm Sunday</p>
+    <p>Maundy Thursday (Ubi Caritas)</p>
+    <p>Good Friday (Passion Chorale)</p>
+  - |-
+    Easter (Victimæ Paschali)
+    <p>Ascension (Llanfair)</p>
+    <p>Pentecost (Veni Creator Spiritus)</p>
+    <p>Trinity (O Lux beata)</p>
+    <p>Corpus Christi (Vexilla Regis)</p>
+    <p>All Saints (Mount Ephraim)</p>
+    <p>All Souls (Requiem æternum and In paradisum)</p>
+    <p>Christ the King (Te Deum)</p>
+    <p><span id="playingtime">Total playing time 77m 21s</span></p>
 ---
-

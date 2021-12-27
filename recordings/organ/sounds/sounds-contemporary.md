@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-contemporary
+slug: sounds-contemporary
 title: Sounds Contemporary
 serialNumber: LAMM103
 coverImage: "../../../src/images/recordings/sounds-contemporary.jpg"
@@ -27,29 +27,28 @@ recordingDetailsHtml: |-
     <p>Recording sponsored by Robert Scott.</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Suite Bretonne (Le Tombeau de Jean-Claude Jegat) </span> <span class="composer">Alan Ridout</span><br>
-  <span class="trackname"> i) Fortissimo </span><br>
-  <span class="trackname"> ii) Espressivo<br>
-    iii) Piano (quasi una tambour)<br>
-    iv) Fortissimo</span>
-  <p><span class="trackname">Christ Preaching at Cookham Regatta </span> <span class="composer">Alan Ridout</span></p>
-  <p><span class="trackname">Passacaglia </span> <span class="composer">Alan Ridout</span></p>
-  <p><span class="trackname">Two Pictures of Graham Sutherland </span> <span class="composer">Alan Ridout</span><br>
-    <span class="trackname"> i) Path in the Wood<br>
-      ii) Thorn Head</span></p>
-  <p><span class="trackname">Scots Suite </span> <span class="composer">Alan Ridout </span><br>
-    <span class="trackname"> i) Lament<br>
-      ii) Battle Cry<br>
-      iii) Boat Song<br>
-      iv) Reel</span></p>
-- |-
-  <span class="trackname">The Night Watch </span> <span class="composer">Alan Ridout </span>
-  <p><span class="trackname">Passacaglia</span><span class="composer"> Humphrey Clucas</span></p>
-  <p><span class="trackname">Improvisation - "Ein' feste Burg" </span> <span class="composer">Bernard Rose</span></p>
-  <p><span class="trackname">Chimes </span> <span class="composer">Bernard Rose</span></p>
-  <p><span class="trackname">Passacaglia</span><span class="composer"> Bernard Rose</span><br>
-    <span class="trackname"> </span><br>
-    <span id="playingtime">Total playing time 71m 12s</span></p>
+  - |-
+    <span class="trackname">Suite Bretonne (Le Tombeau de Jean-Claude Jegat) </span> <span class="composer">Alan Ridout</span><br>
+    <span class="trackname"> i) Fortissimo </span><br>
+    <span class="trackname"> ii) Espressivo<br>
+      iii) Piano (quasi una tambour)<br>
+      iv) Fortissimo</span>
+    <p><span class="trackname">Christ Preaching at Cookham Regatta </span> <span class="composer">Alan Ridout</span></p>
+    <p><span class="trackname">Passacaglia </span> <span class="composer">Alan Ridout</span></p>
+    <p><span class="trackname">Two Pictures of Graham Sutherland </span> <span class="composer">Alan Ridout</span><br>
+      <span class="trackname"> i) Path in the Wood<br>
+        ii) Thorn Head</span></p>
+    <p><span class="trackname">Scots Suite </span> <span class="composer">Alan Ridout </span><br>
+      <span class="trackname"> i) Lament<br>
+        ii) Battle Cry<br>
+        iii) Boat Song<br>
+        iv) Reel</span></p>
+  - |-
+    <span class="trackname">The Night Watch </span> <span class="composer">Alan Ridout </span>
+    <p><span class="trackname">Passacaglia</span><span class="composer"> Humphrey Clucas</span></p>
+    <p><span class="trackname">Improvisation - "Ein' feste Burg" </span> <span class="composer">Bernard Rose</span></p>
+    <p><span class="trackname">Chimes </span> <span class="composer">Bernard Rose</span></p>
+    <p><span class="trackname">Passacaglia</span><span class="composer"> Bernard Rose</span><br>
+      <span class="trackname"> </span><br>
+      <span id="playingtime">Total playing time 71m 12s</span></p>
 ---
-

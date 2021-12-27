@@ -1,13 +1,14 @@
 ---
-new_slug: thy-word-is-a-lantern
+slug: thy-word-is-a-lantern
 title: Thy Word is a Lantern
 serialNumber: LAMM119
 coverImage: "../../src/images/recordings/thy-word-is-a-lantern.jpg"
-performer: Blackburn Cathedral Choir, The Renaissance Singers of Blackburn Cathedral
+performer:
+  Blackburn Cathedral Choir, The Renaissance Singers of Blackburn Cathedral
   and Zeneka Brass
 directors:
-- 'Director: Richard Tanner'
-- 'Organ: Timothy Cooke'
+  - "Director: Richard Tanner"
+  - "Organ: Timothy Cooke"
 contentHtml: |-
   <h1>Thy Word is a Lantern</h1>
   <p>From whichever direction you approach Blackburn Cathedral, the eye is drawn to its unique architectural feature - Laurence King's elegant lantern tower surmounted by its graceful 'needle spire' and cross. An innovative and striking addition to the Georgian nave and the transepts (which had been added in the 1950's), the lantern tower was built in 1967. Just thirty years later serious problems with the original building fabric of the tower necessitated Provost David Frayne to embark upon a major restoration project, and this was completed in 1999, culminating in a great Service of re-Dedication, attended by HRH The Princess Royal, on June 30th.</p>
@@ -27,28 +28,27 @@ contentHtml: |-
   <p class="staff">As well as his duties as accompanist to the Cathedral Choir, Tim is responsible for the training and direction of the Young People's Choir . He is an Associate of the Royal College of Organists, and a past prize winner of the Plymouth Young Organists' Competition.</p>
   <h2>Ian Pattinson</h2>
   <p class="staff">The Organ Scholar, Ian Pattinson, came to Blackburn Cathedral in September 1998 after completing his organ studies at the Birmingham Conservatoire, and having been organ scholar at Birmingham Cathedral. On this recording he accompanies the choir in Byrd's 'Teach me O Lord'.</p>
-recordingDetailsHtml: 
+recordingDetailsHtml:
 trackListingsHtml:
-- |-
-  I was glad <span class="composer">David Hurd</span><br>
-  Come, my way<span class="composer"> David Cooper</span><br>
-  Behold now, praise the Lord <span class="composer">William Harris</span><br>
-  I will sing with the Spirit <span class="composer">David Goodenough</span><br>
-  Love Divine <span class="composer">David Goodenough</span><br>
-  Oculi omnium <span class="composer">Charles Wood</span><br>
-  Psalm 129<span class="composer"> Chant by David Cooper</span><br>
-  Psalm Prelude: De profundis <span class="composer">Organ Herbert Howells</span><br>
-  We wait for Thy loving kindness, O God<span class="composer"> William McKie</span><br>
-  Teach me, O Lord<span class="composer"> William Byrd organ</span> <span class="composer">Ian Pattinson</span>
-- |-
-  O sing joyfully <span class="composer">Adrian Batten</span><br>
-  Lord, Thou hast been our refuge<span class="composer"> Edward Bairstow</span><br>
-  In manus tuas<span class="composer"> John Shepherd</span><br>
-  O Lord our Governor <span class="composer">Barry Rose</span><br>
-  Super flumina<span class="composer"> G P da Palestrina</span><br>
-  Taste and see<span class="composer"> David Hurd</span><br>
-  Whither shall I go then <span class="composer">Gordon Stewart</span><br>
-  Thy Word is a lantern<span class="composer"> John Bertalot</span>
-  <p><span id="playingtime">Total playing time 67m 52s</span></p>
+  - |-
+    I was glad <span class="composer">David Hurd</span><br>
+    Come, my way<span class="composer"> David Cooper</span><br>
+    Behold now, praise the Lord <span class="composer">William Harris</span><br>
+    I will sing with the Spirit <span class="composer">David Goodenough</span><br>
+    Love Divine <span class="composer">David Goodenough</span><br>
+    Oculi omnium <span class="composer">Charles Wood</span><br>
+    Psalm 129<span class="composer"> Chant by David Cooper</span><br>
+    Psalm Prelude: De profundis <span class="composer">Organ Herbert Howells</span><br>
+    We wait for Thy loving kindness, O God<span class="composer"> William McKie</span><br>
+    Teach me, O Lord<span class="composer"> William Byrd organ</span> <span class="composer">Ian Pattinson</span>
+  - |-
+    O sing joyfully <span class="composer">Adrian Batten</span><br>
+    Lord, Thou hast been our refuge<span class="composer"> Edward Bairstow</span><br>
+    In manus tuas<span class="composer"> John Shepherd</span><br>
+    O Lord our Governor <span class="composer">Barry Rose</span><br>
+    Super flumina<span class="composer"> G P da Palestrina</span><br>
+    Taste and see<span class="composer"> David Hurd</span><br>
+    Whither shall I go then <span class="composer">Gordon Stewart</span><br>
+    Thy Word is a lantern<span class="composer"> John Bertalot</span>
+    <p><span id="playingtime">Total playing time 67m 52s</span></p>
 ---
-

@@ -1,12 +1,12 @@
 ---
-new_slug: saints-souls
+slug: saints-souls
 title: Saints & Souls
 serialNumber: LAMM120
 coverImage: "../../src/images/recordings/saints-souls.jpg"
 performer: The Choirs of All Saints' Church, Northampton
 directors:
-- 'Director: Simon Johnson'
-- 'Organists: Neil Taylor, Roger Palmer and Ron Gates'
+  - "Director: Simon Johnson"
+  - "Organists: Neil Taylor, Roger Palmer and Ron Gates"
 contentHtml: |-
   <h1>Saints &amp; Souls</h1>
   <p>The feast of All Saints is kept on 1st November to celebrate all the Christian saints, known and unknown. It is thought that it originated in 609, when Pope Boniface IV dedicated the Pantheon in Rome to the Blessed Virgin Mary. It was at first celebrated on May 13th of that year; Pope Gregory III (Pope from 731-41) changed the date to November 1st when he dedicated a chapel in honour of All Saints in the Vatican Basilica. Gregory IV later extended the feast to the whole Church and ever since Egbert of York brought the feast to England it has ranked as a principal feast. 1,255 ancient English churches bear this dedication, a number surpassed only by those dedicated to the Virgin Mary.</p>
@@ -51,27 +51,26 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Te Deum in B flat<span class="composer"> Charles Villiers Stanford</span><br>
-  Antiphon I <span class="composer">Mode i</span><br>
-  Greater Love hath no man <span class="composer">John Ireland</span><br>
-  Give us the wings of faith <span class="composer">Mark Blatchly</span><br>
-  Antiphon II<span class="composer"> Mode i</span><br>
-  The souls of the righteous <span class="composer">Geraint Lewis</span><br>
-  In Paradisum from the Requiem <span class="composer">Gabriel Fauré</span><br>
-  Antiphon III <span class="composer">Mode i</span><br>
-  This is the record of John <span class="composer">Orlando Gibbons</span><br>
-  Antiphon IV <span class="composer">Mode i</span>
-- |-
-  Ave Maria<span class="composer"> Anton Bruckner</span><br>
-  Antiphon V<span class="composer"> Mode i</span><br>
-  O quam gloriosum <span class="composer">Tomás Luis de Victoria</span><br>
-  Blessed City, heavenly Salem <span class="composer">Edward C Bairstow</span><br>
-  Antiphon VI<span class="composer"> Mode i</span><br>
-  Psalm 23 <span class="composer">Henry Walford Davies</span><br>
-  Give us the wings of faith<span class="composer"> Ernest Bullock</span><br>
-  Antiphon VII <span class="composer">Mode i</span><br>
-  Te Deum in C <span class="composer">Benjamin Britten</span>
-  <p><span id="playingtime">Total playing time 63m 55s</span></p>
+  - |-
+    Te Deum in B flat<span class="composer"> Charles Villiers Stanford</span><br>
+    Antiphon I <span class="composer">Mode i</span><br>
+    Greater Love hath no man <span class="composer">John Ireland</span><br>
+    Give us the wings of faith <span class="composer">Mark Blatchly</span><br>
+    Antiphon II<span class="composer"> Mode i</span><br>
+    The souls of the righteous <span class="composer">Geraint Lewis</span><br>
+    In Paradisum from the Requiem <span class="composer">Gabriel Fauré</span><br>
+    Antiphon III <span class="composer">Mode i</span><br>
+    This is the record of John <span class="composer">Orlando Gibbons</span><br>
+    Antiphon IV <span class="composer">Mode i</span>
+  - |-
+    Ave Maria<span class="composer"> Anton Bruckner</span><br>
+    Antiphon V<span class="composer"> Mode i</span><br>
+    O quam gloriosum <span class="composer">Tomás Luis de Victoria</span><br>
+    Blessed City, heavenly Salem <span class="composer">Edward C Bairstow</span><br>
+    Antiphon VI<span class="composer"> Mode i</span><br>
+    Psalm 23 <span class="composer">Henry Walford Davies</span><br>
+    Give us the wings of faith<span class="composer"> Ernest Bullock</span><br>
+    Antiphon VII <span class="composer">Mode i</span><br>
+    Te Deum in C <span class="composer">Benjamin Britten</span>
+    <p><span id="playingtime">Total playing time 63m 55s</span></p>
 ---
-

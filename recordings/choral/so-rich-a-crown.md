@@ -1,12 +1,12 @@
 ---
-new_slug: so-rich-a-crown
+slug: so-rich-a-crown
 title: So Rich a Crown
 serialNumber: LAMM172
 coverImage: "../../src/images/recordings/so-rich-a-crown.jpg"
 performer: The Choir of St Edmundsbury Cathedral
 directors:
-- 'Director: James Thomas'
-- 'Organ: Michael Bawtree'
+  - "Director: James Thomas"
+  - "Organ: Michael Bawtree"
 contentHtml: |-
   <h1>So Rich a Crown</h1>
   <p>This recording, made in early July 2004 was undertaken for several reasons. It provides each singer (and his family) with a permanent record of his time in the Cathedral Choir; it provides visitors to our Cathedral with a memento of their journey to Bury St Edmunds; and it enables us, in due course, to raise sufficient funds to make another in two years’ time.</p>
@@ -33,26 +33,25 @@ recordingDetailsHtml: |-
     <p>Cover photograph of the 12th Century “Cloisters Cross” (almost certainly carved in Bury St Edmunds) by kind permission of the Metropolitan Museum of Art, New York</p>
   </div>
 trackListingsHtml:
-- |-
-  St Edmund Prayer <span class="composer">James Thomas</span><br>
-  Say where is he born / There shall a star <span class="composer">Felix Mendelssohn</span><br>
-  Prevent us O Lord <span class="composer">William Byrd</span><br>
-  Sing joyfully <span class="composer">William Byrd</span><br>
-  Blessed city, heavenly Salem <span class="composer">Edward Bairstow</span><br>
-  Justorum animae <span class="composer">Charles Villiers Stanford</span><br>
-  Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span><br>
-  O sacrum convivium <span class="composer">Thomas Tallis</span><br>
-  Vox dicentes: Clama <span class="composer">Edward Woodall Naylor</span><br>
-  If ye love me <span class="composer">Thomas Tallis</span>
-- |-
-  Verily verily <span class="composer">Thomas Tallis</span><br>
-  Lord let me know mine end <span class="composer">Maurice Greene</span><br>
-  Hail gladdening light <span class="composer">Charles Wood</span><br>
-  Oculi omnium <span class="composer">Charles Wood</span><br>
-  My soul, there is a country <span class="composer">Hubert Parry</span><br>
-  Never weather beaten sail <span class="composer">Hubert Parry</span><br>
-  I know my soul hath power <span class="composer">Hubert Parry</span><br>
-  When I survey the wondrous cross <span class="composer">Traditional adapted Edward Miller</span>
-  <p><span id="playingtime">Total playing time 73m 12s</span></p>
+  - |-
+    St Edmund Prayer <span class="composer">James Thomas</span><br>
+    Say where is he born / There shall a star <span class="composer">Felix Mendelssohn</span><br>
+    Prevent us O Lord <span class="composer">William Byrd</span><br>
+    Sing joyfully <span class="composer">William Byrd</span><br>
+    Blessed city, heavenly Salem <span class="composer">Edward Bairstow</span><br>
+    Justorum animae <span class="composer">Charles Villiers Stanford</span><br>
+    Coelos ascendit hodie <span class="composer">Charles Villiers Stanford</span><br>
+    O sacrum convivium <span class="composer">Thomas Tallis</span><br>
+    Vox dicentes: Clama <span class="composer">Edward Woodall Naylor</span><br>
+    If ye love me <span class="composer">Thomas Tallis</span>
+  - |-
+    Verily verily <span class="composer">Thomas Tallis</span><br>
+    Lord let me know mine end <span class="composer">Maurice Greene</span><br>
+    Hail gladdening light <span class="composer">Charles Wood</span><br>
+    Oculi omnium <span class="composer">Charles Wood</span><br>
+    My soul, there is a country <span class="composer">Hubert Parry</span><br>
+    Never weather beaten sail <span class="composer">Hubert Parry</span><br>
+    I know my soul hath power <span class="composer">Hubert Parry</span><br>
+    When I survey the wondrous cross <span class="composer">Traditional adapted Edward Miller</span>
+    <p><span id="playingtime">Total playing time 73m 12s</span></p>
 ---
-

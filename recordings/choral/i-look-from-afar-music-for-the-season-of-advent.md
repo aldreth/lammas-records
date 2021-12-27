@@ -1,12 +1,11 @@
 ---
-new_slug: i-look-from-afar-music-for-the-season-of-advent
+slug: i-look-from-afar-music-for-the-season-of-advent
 title: I Look from Afar - Music for the Season of Advent
-serialNumber: 
+serialNumber:
 coverImage: "../../src/images/recordings/i-look-from-afar-music-for-the-season-of-advent.jpg"
-performer: 
+performer:
 directors: []
-contentHtml: ''
-recordingDetailsHtml: 
-trackListingsHtml: 
+contentHtml: ""
+recordingDetailsHtml:
+trackListingsHtml:
 ---
-

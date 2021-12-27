@@ -1,12 +1,12 @@
 ---
-new_slug: peace-on-earth
+slug: peace-on-earth
 title: Peace on Earth
 serialNumber: LAMM190
 coverImage: "../../src/images/recordings/peace-on-earth.jpg"
 performer: Truro Cathedral Choir
 directors:
-- 'Director: Robert Sharpe'
-- 'Organ: Christopher Gray'
+  - "Director: Robert Sharpe"
+  - "Organ: Christopher Gray"
 contentHtml: |-
   <p id="cdtitle">Sacred and Secular Music by Orlando Gibbons</p>
   <h1>Orlando Gibbons, 1583 - 1625</h1>
@@ -48,25 +48,24 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">The silver swan</span>
-  <p><span class="trackname">Song 1</span></p>
-  <p><span class="trackname">Almighty and Everlasting</span></p>
-  <p><span class="trackname">Great Lord of Lords</span></p>
-  <p><span class="trackname">Song 46</span></p>
-  <p><span class="trackname">Prelude</span></p>
-  <p><span class="trackname">Hosanna</span></p>
-  <p><span class="trackname">Nay let me weep</span></p>
-  <p><span class="trackname">Record of John</span></p>
-  <p><span class="trackname">O Thou the central orb</span></p>
-- |-
-  <span class="trackname">Ground</span>
-  <p><span class="trackname">Oh God the King</span></p>
-  <p><span class="trackname">Oh Lord in thy wrath</span></p>
-  <p><span class="trackname">What is our life</span></p>
-  <p><span class="trackname">Pavan</span></p>
-  <p><span class="trackname">Song 44</span></p>
-  <p><span class="trackname">See see the word</span></p>
-  <p><span id="playingtime">Total playing time 67m 03s</span></p>
+  - |-
+    <span class="trackname">The silver swan</span>
+    <p><span class="trackname">Song 1</span></p>
+    <p><span class="trackname">Almighty and Everlasting</span></p>
+    <p><span class="trackname">Great Lord of Lords</span></p>
+    <p><span class="trackname">Song 46</span></p>
+    <p><span class="trackname">Prelude</span></p>
+    <p><span class="trackname">Hosanna</span></p>
+    <p><span class="trackname">Nay let me weep</span></p>
+    <p><span class="trackname">Record of John</span></p>
+    <p><span class="trackname">O Thou the central orb</span></p>
+  - |-
+    <span class="trackname">Ground</span>
+    <p><span class="trackname">Oh God the King</span></p>
+    <p><span class="trackname">Oh Lord in thy wrath</span></p>
+    <p><span class="trackname">What is our life</span></p>
+    <p><span class="trackname">Pavan</span></p>
+    <p><span class="trackname">Song 44</span></p>
+    <p><span class="trackname">See see the word</span></p>
+    <p><span id="playingtime">Total playing time 67m 03s</span></p>
 ---
-

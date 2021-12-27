@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-inspirational
+slug: sounds-inspirational
 title: Sounds Inspirational
 serialNumber: LAMM159
 coverImage: "../../../src/images/recordings/sounds-inspirational.jpg"
@@ -33,28 +33,27 @@ recordingDetailsHtml: |-
       Photograph by Brian Newton</p>
   </div>
 trackListingsHtml:
-- |-
-  Veni Creator Spiritus (1981) <span class="composer">Carl Rütti</span>
-  <p>Komm, heiliger Geist, Herre Gott<span class="composer"> Franz Tunder</span></p>
-  <p>Komm, heiliger Geist, Herre Gott BuxWV 199 <span class="composer">Dietrich Buxtehude</span></p>
-  <p>Fantasia super Komm, Heiliger Geist BWV 651 <span class="composer">J.S. Bach</span></p>
-  <p>Messe de la Pentecôte (1950)<span class="composer"> Olivier Messiaen</span><br>
-    Communion<br>
-    Sortie</p>
-  <p>Veni Creator Spiritus <span class="composer">Nicholas de Grigny</span><br>
-    En taille à 5<br>
-    Fugue à 5<br>
-    Duo<br>
-    Récit de Cromorne<br>
-    Dialogue sur les Grands Jeux<br>
-   </p>
-- |-
-  Nun bitten wir den Heiligen Geist BuxWV 209 <span class="composer">Dietrich Buxtehude</span>
-  <p>Komm, Gott, Schöpfer, Heiliger Geist BWV 667 <span class="composer">J.S. Bach</span></p>
-  <p>Prélude, Adagio et Choral Varié sur le thème du Veni Creator <span class="composer">Maurice</span> <span class="composer">Duruflé</span></p>
-  <p>Prélude<br>
-    Adagio<br>
-    Choral Varié</p>
-  <p><span id="playingtime">Total playing time 70m 47s</span></p>
+  - |-
+    Veni Creator Spiritus (1981) <span class="composer">Carl Rütti</span>
+    <p>Komm, heiliger Geist, Herre Gott<span class="composer"> Franz Tunder</span></p>
+    <p>Komm, heiliger Geist, Herre Gott BuxWV 199 <span class="composer">Dietrich Buxtehude</span></p>
+    <p>Fantasia super Komm, Heiliger Geist BWV 651 <span class="composer">J.S. Bach</span></p>
+    <p>Messe de la Pentecôte (1950)<span class="composer"> Olivier Messiaen</span><br>
+      Communion<br>
+      Sortie</p>
+    <p>Veni Creator Spiritus <span class="composer">Nicholas de Grigny</span><br>
+      En taille à 5<br>
+      Fugue à 5<br>
+      Duo<br>
+      Récit de Cromorne<br>
+      Dialogue sur les Grands Jeux<br>
+     </p>
+  - |-
+    Nun bitten wir den Heiligen Geist BuxWV 209 <span class="composer">Dietrich Buxtehude</span>
+    <p>Komm, Gott, Schöpfer, Heiliger Geist BWV 667 <span class="composer">J.S. Bach</span></p>
+    <p>Prélude, Adagio et Choral Varié sur le thème du Veni Creator <span class="composer">Maurice</span> <span class="composer">Duruflé</span></p>
+    <p>Prélude<br>
+      Adagio<br>
+      Choral Varié</p>
+    <p><span id="playingtime">Total playing time 70m 47s</span></p>
 ---
-

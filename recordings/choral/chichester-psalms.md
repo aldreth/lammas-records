@@ -1,12 +1,12 @@
 ---
-new_slug: chichester-psalms
+slug: chichester-psalms
 title: Chichester Psalms
 serialNumber: LAMM125
 coverImage: "../../src/images/recordings/chichester-psalms.jpg"
 performer: The Boys And Men Of Wells Cathedral Choir
 directors:
-- 'Director: Malcolm Archer'
-- 'Organ: Rupert Gough'
+  - "Director: Malcolm Archer"
+  - "Organ: Rupert Gough"
 contentHtml: |-
   <p id="performer">Treble Solo: Robert Karlsson<br>
     Harp: Helen Tunstall<br>
@@ -40,25 +40,24 @@ recordingDetailsHtml: |-
     Recorded and edited by Lance Andrews<br>
     Photographs by Rob Ruutel</div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Chichester Psalms </span> <span class="composer">Leonard Bernstein</span><br>
-  <span class="trackname"> I Psalm 108 v.2, Psalm 100</span><br>
-  <span class="composer"> </span> <span class="trackname">II Psalm 23, Psalm 2 vv.1-4</span><br>
-  <span class="trackname"> III Psalm 131, Psalm 133 v.1</span>
-  <p><span class="trackname">A Song of Freedom </span> <span class="composer">Charles Villiers Stanford</span></p>
-  <p><span class="trackname">Rejoice in the Lamb </span> <span class="composer">Benjamin Britten</span></p>
-  <p><span class="trackname">Sacred Songs (3rd set) </span> <span class="composer">Alan Ridout</span><br>
-    <span class="trackname"> I Creator Spirit</span><br>
-    <span class="composer"> </span> <span class="trackname">II Children of the Heavenly King<br>
-      III My spirit longs for Thee<br>
-      IV How shall I sing that Majesty?<br>
-      V Lord, though the sun forsake our sight<br>
-      VI Hark, my soul<br>
-      VII Creator Spirit</span></p>
-- |-
-  <span class="trackname">Jubilate Deo in C </span><span class="composer">Benjamin Britten</span>
-  <p><span class="trackname">Te Deum in C </span><span class="composer">Benjamin Britten</span></p>
-  <p><span class="trackname">Jubilate Deo </span><span class="composer">William Walton</span></p>
-  <p><span id="playingtime">Total playing time 65m 56s</span></p>
+  - |-
+    <span class="trackname">Chichester Psalms </span> <span class="composer">Leonard Bernstein</span><br>
+    <span class="trackname"> I Psalm 108 v.2, Psalm 100</span><br>
+    <span class="composer"> </span> <span class="trackname">II Psalm 23, Psalm 2 vv.1-4</span><br>
+    <span class="trackname"> III Psalm 131, Psalm 133 v.1</span>
+    <p><span class="trackname">A Song of Freedom </span> <span class="composer">Charles Villiers Stanford</span></p>
+    <p><span class="trackname">Rejoice in the Lamb </span> <span class="composer">Benjamin Britten</span></p>
+    <p><span class="trackname">Sacred Songs (3rd set) </span> <span class="composer">Alan Ridout</span><br>
+      <span class="trackname"> I Creator Spirit</span><br>
+      <span class="composer"> </span> <span class="trackname">II Children of the Heavenly King<br>
+        III My spirit longs for Thee<br>
+        IV How shall I sing that Majesty?<br>
+        V Lord, though the sun forsake our sight<br>
+        VI Hark, my soul<br>
+        VII Creator Spirit</span></p>
+  - |-
+    <span class="trackname">Jubilate Deo in C </span><span class="composer">Benjamin Britten</span>
+    <p><span class="trackname">Te Deum in C </span><span class="composer">Benjamin Britten</span></p>
+    <p><span class="trackname">Jubilate Deo </span><span class="composer">William Walton</span></p>
+    <p><span id="playingtime">Total playing time 65m 56s</span></p>
 ---
-

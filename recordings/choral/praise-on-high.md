@@ -1,12 +1,12 @@
 ---
-new_slug: praise-on-high
+slug: praise-on-high
 title: Praise On High
 serialNumber: LAMM117
 coverImage: "../../src/images/recordings/praise-on-high.jpg"
 performer: The Boys of St.George's Parish Church Choir, Belfast
 directors:
-- 'Director: Nigel McClintock'
-- 'Organ: Nigel McClintock and Ian Keatley'
+  - "Director: Nigel McClintock"
+  - "Organ: Nigel McClintock and Ian Keatley"
 contentHtml: |-
   <p id="cdtitle">Music from the collections 'High Praise' and 'Merrily on High' (editor Dr. Barry Rose)</p>
   <h1>Praise On High</h1>
@@ -18,30 +18,29 @@ contentHtml: |-
     'Merrily on High' (published August 1999) - Novello NOV 032121</p>
 recordingDetailsHtml: <div id="details">©1999 Lammas Records</div>
 trackListingsHtml:
-- |-
-  Rejoice and be merry <span class="composer">Arr.Andrew Parnell</span><br>
-  Now the most High is born <span class="composer">Michael Rose</span><br>
-  Brightest and Best <span class="composer">Malcolm Archer</span><br>
-  Examine me, O Lord, and prove me <span class="composer">William Boyce</span><br>
-  The Blessed Virgin's Cradle Song<span class="composer"> Edward Bairstow </span><br>
-  As I outrode this enderes night <span class="composer">Gerald Hendrie</span><br>
-  The Lamb <span class="composer">Henry Walford Davies </span><br>
-  Prevent us, O Lord <span class="composer">Derek Holman </span><br>
-  I will worship toward thy holy temple <span class="composer">George Dyson</span><br>
-  Advent Responsory (I look from afar) <span class="composer">Barry Rose</span><br>
-  Come, thou Redeemer of the earth <span class="composer">Arr.Barry Rose</span><br>
-  Come, watch with us this Christmas night <span class="composer">Malcolm Archer </span>
-- |-
-  Magnificat in B flat <span class="composer">Mark Blatchly </span><br>
-  Whence is that goodly fragrance flowing? <span class="composer"> Arr.A.E.Baker </span><br>
-  Ave verum corpus <span class="composer">Edward Elgar</span><br>
-  How blest are they that fear the Lord <span class="composer">Stephen Oliver </span><br>
-  Risen Lord <span class="composer">Barry Rose</span><br>
-  My song is in sighing <span class="composer">Anne-Marie Boylan</span><br>
-  A Cradle Song <span class="composer">Ronald Corp</span><br>
-  And now another day is gone <span class="composer">Leonard Blake</span><br>
-  Mater ora filium <span class="composer">Charles Wood, arr. Harrison Oxley</span><br>
-  Behold now, praise the Lord <span class="composer">William Harris</span><br>
-  <span id="playingtime">Total playing time 63m 17s</span>
+  - |-
+    Rejoice and be merry <span class="composer">Arr.Andrew Parnell</span><br>
+    Now the most High is born <span class="composer">Michael Rose</span><br>
+    Brightest and Best <span class="composer">Malcolm Archer</span><br>
+    Examine me, O Lord, and prove me <span class="composer">William Boyce</span><br>
+    The Blessed Virgin's Cradle Song<span class="composer"> Edward Bairstow </span><br>
+    As I outrode this enderes night <span class="composer">Gerald Hendrie</span><br>
+    The Lamb <span class="composer">Henry Walford Davies </span><br>
+    Prevent us, O Lord <span class="composer">Derek Holman </span><br>
+    I will worship toward thy holy temple <span class="composer">George Dyson</span><br>
+    Advent Responsory (I look from afar) <span class="composer">Barry Rose</span><br>
+    Come, thou Redeemer of the earth <span class="composer">Arr.Barry Rose</span><br>
+    Come, watch with us this Christmas night <span class="composer">Malcolm Archer </span>
+  - |-
+    Magnificat in B flat <span class="composer">Mark Blatchly </span><br>
+    Whence is that goodly fragrance flowing? <span class="composer"> Arr.A.E.Baker </span><br>
+    Ave verum corpus <span class="composer">Edward Elgar</span><br>
+    How blest are they that fear the Lord <span class="composer">Stephen Oliver </span><br>
+    Risen Lord <span class="composer">Barry Rose</span><br>
+    My song is in sighing <span class="composer">Anne-Marie Boylan</span><br>
+    A Cradle Song <span class="composer">Ronald Corp</span><br>
+    And now another day is gone <span class="composer">Leonard Blake</span><br>
+    Mater ora filium <span class="composer">Charles Wood, arr. Harrison Oxley</span><br>
+    Behold now, praise the Lord <span class="composer">William Harris</span><br>
+    <span id="playingtime">Total playing time 63m 17s</span>
 ---
-

@@ -1,11 +1,11 @@
 ---
-new_slug: regina-caeli
+slug: regina-caeli
 title: Regina Caeli
 serialNumber: LAMM188
 coverImage: "../../src/images/recordings/regina-caeli.jpg"
 performer: The Chapel Choir of Corpus Christi College, Cambridge
 directors:
-- 'Director: Daniel Soper and Rebecca Drake'
+  - "Director: Daniel Soper and Rebecca Drake"
 contentHtml: |-
   <h1>Regina Caeli</h1>
   <h2>Bring us, O Lord God Words by John Donne (1572-1631) Music by William Harris (1883-1973)</h2>
@@ -61,26 +61,25 @@ recordingDetailsHtml: |-
       Photograph: <a href="https://web.archive.org/web/20120719204457/http://www.derringer.co.uk/">Michael Derringer</a></p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Bring us, O Lord God </span> <span class="composer">William Harris</span><br>
-  <span class="trackname"> Phos Hilaron (Song of the Light) </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Sub tuum praesidium </span> <span class="composer">Tarik O'Regan</span><br>
-  <span class="trackname"> Ave Maria </span> <span class="composer">Anton Bruckner</span><br>
-  <span class="trackname"> Joys Seven </span> <span class="composer">arr. Stephen Cleobury</span><br>
-  <span class="trackname"> A Hymn to the Virgin </span> <span class="composer">Benjamin Britten</span><br>
-  <span class="trackname"> Ave Maris Stella </span> <span class="composer">Edvard Grieg</span><br>
-  <span class="trackname"> Nunc Dimittis </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Presentation of Christ in the Temple </span> <span class="composer">Johannes Eccard</span><br>
-  <span class="trackname"> Magnificat </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Ave Maria </span> <span class="composer">Igor Stravinsky</span>
-- |-
-  <span class="trackname">O vos omnes </span> <span class="composer">Carlo Gesualdo</span><br>
-  <span class="trackname"> Be still and know </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Marian Antiphon No. 3 </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Spiritus </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Faire is the Heaven </span> <span class="composer">William Harris</span><br>
-  <span class="trackname"> A Song of Revelation </span> <span class="composer">Andrew March</span><br>
-  <span class="trackname"> Totus Tuus </span> <span class="composer">Henryk Górecki</span>
-  <p><span id="playingtime">Total playing time 67m 35s</span></p>
+  - |-
+    <span class="trackname">Bring us, O Lord God </span> <span class="composer">William Harris</span><br>
+    <span class="trackname"> Phos Hilaron (Song of the Light) </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Sub tuum praesidium </span> <span class="composer">Tarik O'Regan</span><br>
+    <span class="trackname"> Ave Maria </span> <span class="composer">Anton Bruckner</span><br>
+    <span class="trackname"> Joys Seven </span> <span class="composer">arr. Stephen Cleobury</span><br>
+    <span class="trackname"> A Hymn to the Virgin </span> <span class="composer">Benjamin Britten</span><br>
+    <span class="trackname"> Ave Maris Stella </span> <span class="composer">Edvard Grieg</span><br>
+    <span class="trackname"> Nunc Dimittis </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Presentation of Christ in the Temple </span> <span class="composer">Johannes Eccard</span><br>
+    <span class="trackname"> Magnificat </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Ave Maria </span> <span class="composer">Igor Stravinsky</span>
+  - |-
+    <span class="trackname">O vos omnes </span> <span class="composer">Carlo Gesualdo</span><br>
+    <span class="trackname"> Be still and know </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Marian Antiphon No. 3 </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Spiritus </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Faire is the Heaven </span> <span class="composer">William Harris</span><br>
+    <span class="trackname"> A Song of Revelation </span> <span class="composer">Andrew March</span><br>
+    <span class="trackname"> Totus Tuus </span> <span class="composer">Henryk Górecki</span>
+    <p><span id="playingtime">Total playing time 67m 35s</span></p>
 ---
-

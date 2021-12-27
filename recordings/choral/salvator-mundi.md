@@ -1,12 +1,12 @@
 ---
-new_slug: salvator-mundi
+slug: salvator-mundi
 title: Salvator Mundi
 serialNumber: LAMM152
 coverImage: "../../src/images/recordings/salvator-mundi.jpg"
 performer: The Arcadian Singers of Oxford University
 directors:
-- 'Director: Matthew O’Donovan'
-- 'Organ: James Davy'
+  - "Director: Matthew O’Donovan"
+  - "Organ: James Davy"
 contentHtml: |-
   <h1>Salvator Mundi - The Saviour of the World</h1>
   <p>The programme on this disc presents a variety of different responses to – and meditations on – the passion of Jesus Christ. While some of the texts set here see the redemption of mankind from an Old Testament prophetic viewpoint, others are inspired very directly by the events and even the images of the Lord’s Passion; others again are more broadly penitential, linked to the theme of the Passion simply by the centrality of the Cross to the Christian doctrine of forgiveness and salvation. The text of the Salvator mundi draws all these approaches together around this central theme, bringing together the cry of the church for forgiveness with this focus on the crucifixion.</p>
@@ -22,21 +22,20 @@ recordingDetailsHtml: |-
     <p>Cover illustration: Detail from the east window of Merton College Chapel, reproduced by kind permission of the Warden and Scholars.Photograph by Matthew O’Donovan.</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Salvator mundi </span> <span class="composer">Thomas Tallis</span><br>
-  <span class="trackname"> Who hath believed</span><span class="composer"> Henry Purcell</span><br>
-  <span class="trackname"> Suscipe quaeso </span> <span class="composer">Thomas Tallis</span><br>
-  <span class="trackname"> Salvator mundi </span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname"> In ieiunio et fletu </span> <span class="composer">Thomas Tallis</span><br>
-  <span class="trackname"> For, lo, the days come </span> <span class="composer">Richard Pantcheff</span><br>
-  <span class="trackname"> Vinea mea electa </span> <span class="composer">Francis Poulenc</span><br>
-  <span class="trackname"> O King of the Friday</span><span class="composer"> Francis Grier</span>
-- |-
-  <span class="trackname">Drop, drop, slow tears </span> <span class="composer">James Davy</span><br>
-  <span class="trackname"> Remember not, Lord, our offences </span> <span class="composer">Henry Purcell</span><br>
-  <span class="trackname"> Salvator Mundi </span> <span class="composer">John Blow</span><br>
-  <span class="trackname"> Agnus Dei Tomas</span><span class="composer"> Luis de Victoria</span><br>
-  <span class="trackname"> I heard a voice from Heaven </span> <span class="composer">Herbert Howells</span>
-  <p><span id="playingtime">Total playing time 60m 20s</span></p>
+  - |-
+    <span class="trackname">Salvator mundi </span> <span class="composer">Thomas Tallis</span><br>
+    <span class="trackname"> Who hath believed</span><span class="composer"> Henry Purcell</span><br>
+    <span class="trackname"> Suscipe quaeso </span> <span class="composer">Thomas Tallis</span><br>
+    <span class="trackname"> Salvator mundi </span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname"> In ieiunio et fletu </span> <span class="composer">Thomas Tallis</span><br>
+    <span class="trackname"> For, lo, the days come </span> <span class="composer">Richard Pantcheff</span><br>
+    <span class="trackname"> Vinea mea electa </span> <span class="composer">Francis Poulenc</span><br>
+    <span class="trackname"> O King of the Friday</span><span class="composer"> Francis Grier</span>
+  - |-
+    <span class="trackname">Drop, drop, slow tears </span> <span class="composer">James Davy</span><br>
+    <span class="trackname"> Remember not, Lord, our offences </span> <span class="composer">Henry Purcell</span><br>
+    <span class="trackname"> Salvator Mundi </span> <span class="composer">John Blow</span><br>
+    <span class="trackname"> Agnus Dei Tomas</span><span class="composer"> Luis de Victoria</span><br>
+    <span class="trackname"> I heard a voice from Heaven </span> <span class="composer">Herbert Howells</span>
+    <p><span id="playingtime">Total playing time 60m 20s</span></p>
 ---
-

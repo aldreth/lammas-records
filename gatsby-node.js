@@ -15,7 +15,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         ) {
           nodes {
             id
-            fields {
+            frontmatter {
               slug
             }
           }
@@ -34,7 +34,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   if (recordings.length > 0) {
     recordings.forEach((recording, index) => {
       createPage({
-        path: recording.fields.slug,
+        path: recording.frontmatter.slug,
         component: recordingTemplate,
         context: {
           id: recording.id,
@@ -48,15 +48,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   if (node.internal.type === `MarkdownRemark`) {
-    const slug = createFilePath({ node, getNode })
-
     const parent = getNode(node.parent)
-
-    createNodeField({
-      name: `slug`,
-      node,
-      value: slug,
-    })
 
     createNodeField({
       name: `collection`,
@@ -80,7 +72,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Frontmatter {
-      new_slug: String
+      slug: String
       title: String
       serialNumber: String
       performer: String
@@ -92,7 +84,6 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Fields {
-      slug: String
       collection: String
     }
   `)

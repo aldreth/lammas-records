@@ -1,12 +1,12 @@
 ---
-new_slug: a-flight-of-angels
+slug: a-flight-of-angels
 title: A Flight of Angels
 serialNumber: LAMM109
 coverImage: "../../src/images/recordings/a-flight-of-angels.jpg"
 performer: Recorded in Lancing College Chapel
 directors:
-- 'Soprano: Sarah Stobart'
-- 'Organ: Charles Macdonald'
+  - "Soprano: Sarah Stobart"
+  - "Organ: Charles Macdonald"
 contentHtml: |-
   <h1>A Flight of Angels</h1>
   <p>Lancing College was founded by Nathanial Woodward in 1848. The French Gothic chapel in which this recording was made towers over the Adur valley. It guards the port of Shoreham and is dedicated to the saints Mary and Nicolas after the town's ancient churches. Many will know it as a landmark from the coast road, railway, South Downs Way or even Shoreham's increasingly busy airport which attempted to feature (without success) in this recording. Follow the Adur inland or the South Downs to East or West and the legend and the antiquity which drew composers such as John Ireland and Sir Arnold Bax to the county provides rich experience. The sequence of pieces on this disc is a spiritual pilgrimage and a celebration of 150 years of the college.</p>
@@ -26,28 +26,27 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Toccata on "Veni Emmanuel" <span class="composer">Andrew Carter</span>
-  <p>All creatures of our God and King <span class="composer"> Andrew Carter</span></p>
-  <p>Christ be with me<span class="composer"> Andrew Carter</span></p>
-  <p>Prelude on "Forest Green" <span class="composer">Andrew Carter</span></p>
-  <p>Cradle song <span class="composer">William Yeates Hurlestone</span></p>
-  <p>Like as the hart <span class="composer">Alan Ridout</span></p>
-  <p>Wilt thou forgive the sin?<span class="composer"> John Hilton</span></p>
-  <p>Trio in C <span class="composer">Johann Christoph Kellner</span></p>
-  <p>My song shall be of mercy and judgement <span class="composer">James Kent</span></p>
-  <p>Where'er you walk <span class="composer">Georg Frideric Handel </span></p>
-  <p>A voluntary on a Flight of Angels<span class="composer"> Georg Frideric Handel</span></p>
-- |-
-  O had I Jubal's lyre <span class="composer">Georg Frideric Handel</span>
-  <p>Ich folge dir gleichfalls<span class="composer"> Johann Sebastian Bach</span></p>
-  <p>Trio in B flat <span class="composer">Gottfried Heinrich Stölzel</span></p>
-  <p>O vos omnes <span class="composer">Théodore Dubois</span></p>
-  <p>Les Angélus <span class="composer">Louis Vierne</span><br>
-    Au Matin<br>
-    A Midi<br>
-    Au Soir</p>
-  <p>Te Deum <span class="composer">Jeanne Demessieux</span></p>
-  <p><span id="playingtime">Total playing time 69m 00s</span></p>
+  - |-
+    Toccata on "Veni Emmanuel" <span class="composer">Andrew Carter</span>
+    <p>All creatures of our God and King <span class="composer"> Andrew Carter</span></p>
+    <p>Christ be with me<span class="composer"> Andrew Carter</span></p>
+    <p>Prelude on "Forest Green" <span class="composer">Andrew Carter</span></p>
+    <p>Cradle song <span class="composer">William Yeates Hurlestone</span></p>
+    <p>Like as the hart <span class="composer">Alan Ridout</span></p>
+    <p>Wilt thou forgive the sin?<span class="composer"> John Hilton</span></p>
+    <p>Trio in C <span class="composer">Johann Christoph Kellner</span></p>
+    <p>My song shall be of mercy and judgement <span class="composer">James Kent</span></p>
+    <p>Where'er you walk <span class="composer">Georg Frideric Handel </span></p>
+    <p>A voluntary on a Flight of Angels<span class="composer"> Georg Frideric Handel</span></p>
+  - |-
+    O had I Jubal's lyre <span class="composer">Georg Frideric Handel</span>
+    <p>Ich folge dir gleichfalls<span class="composer"> Johann Sebastian Bach</span></p>
+    <p>Trio in B flat <span class="composer">Gottfried Heinrich Stölzel</span></p>
+    <p>O vos omnes <span class="composer">Théodore Dubois</span></p>
+    <p>Les Angélus <span class="composer">Louis Vierne</span><br>
+      Au Matin<br>
+      A Midi<br>
+      Au Soir</p>
+    <p>Te Deum <span class="composer">Jeanne Demessieux</span></p>
+    <p><span id="playingtime">Total playing time 69m 00s</span></p>
 ---
-

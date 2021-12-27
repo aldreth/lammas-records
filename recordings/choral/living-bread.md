@@ -1,12 +1,12 @@
 ---
-new_slug: living-bread
+slug: living-bread
 title: Living Bread
 serialNumber: LAMM166
 coverImage: "../../src/images/recordings/living-bread.jpg"
 performer: Truro Cathedral Choir
 directors:
-- 'Director: Robert Sharpe'
-- 'Organ: Christopher Gray'
+  - "Director: Robert Sharpe"
+  - "Organ: Christopher Gray"
 contentHtml: |-
   <h1>Living Bread</h1>
   <h2>Samuel Sebastian Wesley</h2>
@@ -50,18 +50,17 @@ recordingDetailsHtml: |-
       Photograph by Rhoda Crickmay</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Wash me throughly </span> <span class="composer">Samuel Sebastian Wesley</span>
-  <p><span class="trackname">Ego sum panis vivus </span> <span class="composer">G P da Palestrina</span></p>
-  <p><span class="trackname">Hear my prayer </span> <span class="composer">Felix Mendelssohn</span></p>
-  <p><span class="trackname">O Lord, look down from heaven </span> <span class="composer">Jonathan Battishill</span></p>
-  <p><span class="trackname">Miserere mei, Deus </span> <span class="composer">Gregorio Allegri</span></p>
-  <p><span class="trackname">A Litany </span> <span class="composer">William Walton</span></p>
-- |-
-  <span class="trackname">Versa est in luctum </span> <span class="composer">Alonso Lobo</span>
-  <p><span class="trackname">The ways of Sion do mourn </span> <span class="composer">Michael Wise</span></p>
-  <p><span class="trackname">Panis Angelicus </span> <span class="composer">César Franck</span></p>
-  <p><span class="trackname">Lo, the full, final sacrifice </span> <span class="composer">Gerald Finzi</span></p>
-  <p><span id="playingtime">Total playing time 71m 59s</span></p>
+  - |-
+    <span class="trackname">Wash me throughly </span> <span class="composer">Samuel Sebastian Wesley</span>
+    <p><span class="trackname">Ego sum panis vivus </span> <span class="composer">G P da Palestrina</span></p>
+    <p><span class="trackname">Hear my prayer </span> <span class="composer">Felix Mendelssohn</span></p>
+    <p><span class="trackname">O Lord, look down from heaven </span> <span class="composer">Jonathan Battishill</span></p>
+    <p><span class="trackname">Miserere mei, Deus </span> <span class="composer">Gregorio Allegri</span></p>
+    <p><span class="trackname">A Litany </span> <span class="composer">William Walton</span></p>
+  - |-
+    <span class="trackname">Versa est in luctum </span> <span class="composer">Alonso Lobo</span>
+    <p><span class="trackname">The ways of Sion do mourn </span> <span class="composer">Michael Wise</span></p>
+    <p><span class="trackname">Panis Angelicus </span> <span class="composer">César Franck</span></p>
+    <p><span class="trackname">Lo, the full, final sacrifice </span> <span class="composer">Gerald Finzi</span></p>
+    <p><span id="playingtime">Total playing time 71m 59s</span></p>
 ---
-

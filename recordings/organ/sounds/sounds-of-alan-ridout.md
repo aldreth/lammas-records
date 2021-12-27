@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-of-alan-ridout
+slug: sounds-of-alan-ridout
 title: Sounds of Alan Ridout
 serialNumber: LAMM161
 coverImage: "../../../src/images/recordings/sounds-of-alan-ridout.jpg"
@@ -27,40 +27,39 @@ recordingDetailsHtml: |-
       Produced and edited by Lance Andrews and Robert Scott</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Processions<br>
-  </span>I<br>
-  II<br>
-  III<br>
-  IV
-  <p><span class="composer">The Fourteen Stations of the Cross<br>
-    </span>Jesus is condemned to death<br>
-    Jesus receives the cross<br>
-    Jesus falls the first time<br>
-    Jesus meets his blessed mother<br>
-    The cross is laid upon Simon of Cyrene<br>
-    Veronica wipes the face of Jesus<br>
-    Jesus falls the second time<br>
-    Jesus speaks to the women of Jerusalem<br>
-    Jesus falls the third time<br>
-    Jesus is stripped of his garments<br>
-    Jesus is nailed to the cross<br>
-    Jesus dies on the cross<br>
-    Jesus is taken down from the cross<br>
-    Jesus is laid in the sepulchre</p>
-- |-
-  <span class="composer">Easter Fanfare</span>
-  <p><span class="composer">Dance Suite</span><br>
-    I<br>
+  - |-
+    <span class="composer">Processions<br>
+    </span>I<br>
     II<br>
     III<br>
-    IV</p>
-  <p><span class="composer">Five pieces from Canticle of the Rose<br>
-    </span>Earth<br>
-    Fire<br>
-    Air<br>
-    Water<br>
-    Postlude</p>
-  <p><span id="playingtime">Total playing time 73m 28s</span></p>
+    IV
+    <p><span class="composer">The Fourteen Stations of the Cross<br>
+      </span>Jesus is condemned to death<br>
+      Jesus receives the cross<br>
+      Jesus falls the first time<br>
+      Jesus meets his blessed mother<br>
+      The cross is laid upon Simon of Cyrene<br>
+      Veronica wipes the face of Jesus<br>
+      Jesus falls the second time<br>
+      Jesus speaks to the women of Jerusalem<br>
+      Jesus falls the third time<br>
+      Jesus is stripped of his garments<br>
+      Jesus is nailed to the cross<br>
+      Jesus dies on the cross<br>
+      Jesus is taken down from the cross<br>
+      Jesus is laid in the sepulchre</p>
+  - |-
+    <span class="composer">Easter Fanfare</span>
+    <p><span class="composer">Dance Suite</span><br>
+      I<br>
+      II<br>
+      III<br>
+      IV</p>
+    <p><span class="composer">Five pieces from Canticle of the Rose<br>
+      </span>Earth<br>
+      Fire<br>
+      Air<br>
+      Water<br>
+      Postlude</p>
+    <p><span id="playingtime">Total playing time 73m 28s</span></p>
 ---
-

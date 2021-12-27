@@ -1,12 +1,12 @@
 ---
-new_slug: benedicite
+slug: benedicite
 title: Benedicite
 serialNumber: LAMM118
 coverImage: "../../src/images/recordings/benedicite.jpg"
 performer: Chichester Cathedral Choir
 directors:
-- 'Director: Alan Thurlow'
-- 'Organ: Mark Wardell'
+  - "Director: Alan Thurlow"
+  - "Organ: Mark Wardell"
 contentHtml: |-
   <div id="buy"></div>
   <p><a class="findreview" href="reviews#Benedicite">See reviews of this CD.</a></p>
@@ -21,28 +21,27 @@ contentHtml: |-
   <p>Basil Smallman studied at Oxford and lectured at Nottingham University before spending many years as Professor of Music at Liverpool University. He is now retired and lives in the West Country.</p>
   <p>Alan Thurlow, June 1999</p>
   <p>©1999 Lammas Records</p>
-recordingDetailsHtml: 
+recordingDetailsHtml:
 trackListingsHtml:
-- |-
-  <span class="trackname">Benedicite in A</span><span class="composer"> William Harris</span><br>
-  <span class="trackname"> I sing of a maiden</span><span class="composer"> H. Stanley Taylor </span><br>
-  <span class="trackname"> Behold, I make all things new </span> <span class="composer">Bernard Rose</span><br>
-  <span class="trackname"> There is no rose </span> <span class="composer">John Joubert </span><br>
-  <span class="trackname"> Benedicite in B flat </span> <span class="composer">Herbert Sumsion </span><br>
-  <span class="trackname"> Child of heaven, child of earth </span> <span class="composer">Anthony Foster </span><br>
-  <span class="trackname"> From East to West</span><span class="composer"> Alan Gibbs </span><br>
-  <span class="trackname"> Quem vidistis pastores</span><span class="composer"> George Malcolm </span><br>
-  <span class="trackname"> Te Deum in B minor</span><span class="composer"> Tertius Noble </span>
-- |-
-  <span class="trackname">Jubilate in B minor </span> <span class="composer">Tertius Noble</span><br>
-  <span class="trackname"> The Birds </span> <span class="composer">Basil Smallman</span><span class="trackname"><br>
-    Laudate Dominum </span> <span class="composer">Geoffrey Burgon </span><br>
-  <span class="trackname"> Benedicite in G</span><span class="composer"> Francis Jackson </span><br>
-  <span class="trackname"> Holy is the true light </span> <span class="composer">William Harris</span><br>
-  <span class="trackname"> Let God arise </span> <span class="composer">Herbert Howells </span><br>
-  <span class="trackname"> The Prayer of St Richard</span><span class="composer"> James Thomas </span><br>
-  <span class="trackname"> Benedicite in E flat </span> <span class="composer">James Thomas<br>
-  </span><br>
-  <span id="playingtime">Total playing time 69m 36s</span>
+  - |-
+    <span class="trackname">Benedicite in A</span><span class="composer"> William Harris</span><br>
+    <span class="trackname"> I sing of a maiden</span><span class="composer"> H. Stanley Taylor </span><br>
+    <span class="trackname"> Behold, I make all things new </span> <span class="composer">Bernard Rose</span><br>
+    <span class="trackname"> There is no rose </span> <span class="composer">John Joubert </span><br>
+    <span class="trackname"> Benedicite in B flat </span> <span class="composer">Herbert Sumsion </span><br>
+    <span class="trackname"> Child of heaven, child of earth </span> <span class="composer">Anthony Foster </span><br>
+    <span class="trackname"> From East to West</span><span class="composer"> Alan Gibbs </span><br>
+    <span class="trackname"> Quem vidistis pastores</span><span class="composer"> George Malcolm </span><br>
+    <span class="trackname"> Te Deum in B minor</span><span class="composer"> Tertius Noble </span>
+  - |-
+    <span class="trackname">Jubilate in B minor </span> <span class="composer">Tertius Noble</span><br>
+    <span class="trackname"> The Birds </span> <span class="composer">Basil Smallman</span><span class="trackname"><br>
+      Laudate Dominum </span> <span class="composer">Geoffrey Burgon </span><br>
+    <span class="trackname"> Benedicite in G</span><span class="composer"> Francis Jackson </span><br>
+    <span class="trackname"> Holy is the true light </span> <span class="composer">William Harris</span><br>
+    <span class="trackname"> Let God arise </span> <span class="composer">Herbert Howells </span><br>
+    <span class="trackname"> The Prayer of St Richard</span><span class="composer"> James Thomas </span><br>
+    <span class="trackname"> Benedicite in E flat </span> <span class="composer">James Thomas<br>
+    </span><br>
+    <span id="playingtime">Total playing time 69m 36s</span>
 ---
-

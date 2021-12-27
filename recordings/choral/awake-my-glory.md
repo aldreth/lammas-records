@@ -1,11 +1,11 @@
 ---
-new_slug: awake-my-glory
+slug: awake-my-glory
 title: Awake my Glory
 serialNumber: LAMM1060
 coverImage: "../../src/images/recordings/awake-my-glory.jpg"
 performer: The Choirs of Jesus College, Cambridge
 directors:
-- 'Organ Scholars: Greg Morris and Julian Thomas'
+  - "Organ Scholars: Greg Morris and Julian Thomas"
 contentHtml: |-
   <h1>Awake my Glory</h1>
   <p>Kenneth Leighton was commissioned to write Awake my Glory by St. Mary's Cathedral, Edinburgh for the centenary celebrations in October 1979. It is the first of two pieces on this recording to set a text by the eighteenth-century poet Christopher Smart, who suffered from a severe mental illness, but maintained a strong faith which shines through in his writings.</p>
@@ -33,22 +33,21 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Awake my Glory</span> <span class="composer">Kenneth Leighton</span><br>
-  <span class="trackname">Te Deum in C</span> <span class="composer">Benjamin Britten</span><br>
-  <span class="trackname">Like as the hart desireth the waterbrooks</span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname">Magnificat "Collegium Magdalenae Oxoniense"</span> <span class="composer">Kenneth Leighton</span><br>
-  <span class="trackname">Five Negro Spirituals from "Child of Our Time"</span> <span class="composer">Michael Tippett</span><br>
-  <span class="trackname">Steal Away</span><br>
-  <span class="trackname">Nobody knows</span><br>
-  <span class="trackname">Go down, Moses</span><br>
-  <span class="trackname">By and by</span><br>
-  <span class="trackname">Deep river</span>
-- |-
-  <span class="trackname">Nunc Dimittis "Collegium Magdalenae Oxoniense"</span> <span class="composer">Kenneth Leighton</span><br>
-  <span class="trackname">Two Hymns to the Mother of God</span> <span class="composer">John Tavener</span><br>
-  <span class="trackname">In you, O woman full of grace</span> <span class="trackname">O ye apostles</span>
-  <p><span class="trackname">Rejoice in the Lamb</span> <span class="composer">Benjamin Britten</span></p>
-  <p><span id="playingtime">Total playing time 59m 43s</span></p>
+  - |-
+    <span class="trackname">Awake my Glory</span> <span class="composer">Kenneth Leighton</span><br>
+    <span class="trackname">Te Deum in C</span> <span class="composer">Benjamin Britten</span><br>
+    <span class="trackname">Like as the hart desireth the waterbrooks</span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname">Magnificat "Collegium Magdalenae Oxoniense"</span> <span class="composer">Kenneth Leighton</span><br>
+    <span class="trackname">Five Negro Spirituals from "Child of Our Time"</span> <span class="composer">Michael Tippett</span><br>
+    <span class="trackname">Steal Away</span><br>
+    <span class="trackname">Nobody knows</span><br>
+    <span class="trackname">Go down, Moses</span><br>
+    <span class="trackname">By and by</span><br>
+    <span class="trackname">Deep river</span>
+  - |-
+    <span class="trackname">Nunc Dimittis "Collegium Magdalenae Oxoniense"</span> <span class="composer">Kenneth Leighton</span><br>
+    <span class="trackname">Two Hymns to the Mother of God</span> <span class="composer">John Tavener</span><br>
+    <span class="trackname">In you, O woman full of grace</span> <span class="trackname">O ye apostles</span>
+    <p><span class="trackname">Rejoice in the Lamb</span> <span class="composer">Benjamin Britten</span></p>
+    <p><span id="playingtime">Total playing time 59m 43s</span></p>
 ---
-

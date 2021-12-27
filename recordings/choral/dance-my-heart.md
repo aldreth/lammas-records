@@ -1,12 +1,12 @@
 ---
-new_slug: dance-my-heart
+slug: dance-my-heart
 title: Dance, my heart
 serialNumber: LAMM133
 coverImage: "../../src/images/recordings/dance-my-heart.jpg"
 performer: The Girls and Men of Sheffield Cathedral Choir
 directors:
-- 'Director: Neil Taylor'
-- 'Organ: Peter Heginbotham'
+  - "Director: Neil Taylor"
+  - "Organ: Peter Heginbotham"
 contentHtml: |-
   <h1>Dance, my heart</h1>
   <p>"Vernacular materials are strongly evident, and there's no attempt to be stylistically pure. Old forms, shapes and tonalities rub shoulders with more contemporary devices"</p>
@@ -42,28 +42,27 @@ recordingDetailsHtml: |-
     <p>© Lammas Records 2001</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Dance, my heart</span><span class="composer"> Robert Walker </span>
-  <p><span class="trackname">As the apple tree </span> <span class="composer">Robert Walker</span></p>
-  <p><span class="trackname">Missa Brevis </span> <span class="composer">Robert Walker</span><br>
-    <span class="trackname"> Kyrie<br>
-      Gloria<br>
-      Sanctus and Benedictus<br>
-      Agnus Dei</span></p>
-  <p><span class="trackname">Adam lay ybounden </span> <span class="composer">Robert Walker</span></p>
-  <p><span class="trackname">O Lord, thou hast searched me out </span> <span class="composer">Robert Walker</span></p>
-  <p><span class="trackname">Psalm 2</span><span class="composer"> Robert Walker</span></p>
-- |-
-  <span class="trackname">Hymn - Thine for ever </span> <span class="composer">Robert Walker</span>
-  <p><span class="trackname">Psalm 1 </span> <span class="composer">Edward Elgar</span></p>
-  <p><span class="trackname">Give unto the Lord</span><span class="composer"> Edward Elgar</span></p>
-  <p><span class="trackname">Ave verum corpus </span> <span class="composer">Edward Elgar</span><span class="trackname"></span></p>
-  <p><span class="trackname">Ave Maria </span> <span class="composer">Edward Elgar</span></p>
-  <p><span class="trackname">Ecce sacerdos </span> <span class="composer">Edward Elgar</span></p>
-  <p><span class="trackname">Intende voci orationis meae </span> <span class="composer">Edward Elgar</span></p>
-  <p><span class="trackname">Seek him that maketh the seven stars </span> <span class="composer">Edward Elgar</span></p>
-  <p><span class="trackname">Light of the world </span> <span class="composer">Edward Elgar<br>
-    </span><br>
-    <span id="playingtime">Total playing time 73m 25s</span></p>
+  - |-
+    <span class="trackname">Dance, my heart</span><span class="composer"> Robert Walker </span>
+    <p><span class="trackname">As the apple tree </span> <span class="composer">Robert Walker</span></p>
+    <p><span class="trackname">Missa Brevis </span> <span class="composer">Robert Walker</span><br>
+      <span class="trackname"> Kyrie<br>
+        Gloria<br>
+        Sanctus and Benedictus<br>
+        Agnus Dei</span></p>
+    <p><span class="trackname">Adam lay ybounden </span> <span class="composer">Robert Walker</span></p>
+    <p><span class="trackname">O Lord, thou hast searched me out </span> <span class="composer">Robert Walker</span></p>
+    <p><span class="trackname">Psalm 2</span><span class="composer"> Robert Walker</span></p>
+  - |-
+    <span class="trackname">Hymn - Thine for ever </span> <span class="composer">Robert Walker</span>
+    <p><span class="trackname">Psalm 1 </span> <span class="composer">Edward Elgar</span></p>
+    <p><span class="trackname">Give unto the Lord</span><span class="composer"> Edward Elgar</span></p>
+    <p><span class="trackname">Ave verum corpus </span> <span class="composer">Edward Elgar</span><span class="trackname"></span></p>
+    <p><span class="trackname">Ave Maria </span> <span class="composer">Edward Elgar</span></p>
+    <p><span class="trackname">Ecce sacerdos </span> <span class="composer">Edward Elgar</span></p>
+    <p><span class="trackname">Intende voci orationis meae </span> <span class="composer">Edward Elgar</span></p>
+    <p><span class="trackname">Seek him that maketh the seven stars </span> <span class="composer">Edward Elgar</span></p>
+    <p><span class="trackname">Light of the world </span> <span class="composer">Edward Elgar<br>
+      </span><br>
+      <span id="playingtime">Total playing time 73m 25s</span></p>
 ---
-

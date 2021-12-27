@@ -1,11 +1,11 @@
 ---
-new_slug: sounds-of-arthur-wills
+slug: sounds-of-arthur-wills
 title: Sounds of Arthur Wills
 serialNumber: LAMM168
 coverImage: "../../../src/images/recordings/sounds-of-arthur-wills.jpg"
 performer: Robert Crowley plays the music of Arthur Wills on the organ of Ely Cathedral
 directors:
-- 'Organ: Robert Crowley'
+  - "Organ: Robert Crowley"
 contentHtml: |-
   <h1>Arthur Wills</h1>
   <p>Dr Arthur Wills was Director of Music at Ely Cathedral from 1958 to 1990, and also held a Professorship at the Royal Academy of Music in London from 1964 until 1992. He has toured extensively as a recitalist in Europe, North America, Australia, New Zealand and Hong Kong, and has broadcast, appeared on TV and made many recordings, both as a soloist and with the Ely Choir.</p>
@@ -20,27 +20,26 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Icons</span><br>
-  <span class="composer"> </span>Very broadly<br>
-  Lively<br>
-  Very slow<br>
-  Turbulent; As at first
-  <p><span class="composer">Lullaby for a Royal Prince</span></p>
-  <p><span class="composer">Trio Sonata<br>
-    </span>Allegro<br>
-    Adagio alla Siciliana<br>
-    Vivace</p>
-- |-
-  <span class="composer">Symphony Bhagavad Gita<br>
-  </span>Andante - Allegro feroce - Mesto - Allegro trionfante<br>
-  Adagietto<br>
-  Leggermente - Tenebroso - Con fuoco - Leggero<br>
-  Molto adagio
-  <p><span class="composer">Homage to Howells<br>
-      Diptyque<br>
-    </span>Prologue<br>
-    Epilogue</p>
-  <p><span id="playingtime">Total playing time 64m 25s</span></p>
+  - |-
+    <span class="composer">Icons</span><br>
+    <span class="composer"> </span>Very broadly<br>
+    Lively<br>
+    Very slow<br>
+    Turbulent; As at first
+    <p><span class="composer">Lullaby for a Royal Prince</span></p>
+    <p><span class="composer">Trio Sonata<br>
+      </span>Allegro<br>
+      Adagio alla Siciliana<br>
+      Vivace</p>
+  - |-
+    <span class="composer">Symphony Bhagavad Gita<br>
+    </span>Andante - Allegro feroce - Mesto - Allegro trionfante<br>
+    Adagietto<br>
+    Leggermente - Tenebroso - Con fuoco - Leggero<br>
+    Molto adagio
+    <p><span class="composer">Homage to Howells<br>
+        Diptyque<br>
+      </span>Prologue<br>
+      Epilogue</p>
+    <p><span id="playingtime">Total playing time 64m 25s</span></p>
 ---
-

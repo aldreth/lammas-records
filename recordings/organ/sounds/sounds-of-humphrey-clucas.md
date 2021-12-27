@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-of-humphrey-clucas
+slug: sounds-of-humphrey-clucas
 title: Sounds of Humphrey Clucas
 serialNumber: LAMM151
 coverImage: "../../../src/images/recordings/sounds-of-humphrey-clucas.jpg"
-performer: Robert Crowley plays the organ of the Cathedral and Abbey Church of St
+performer:
+  Robert Crowley plays the organ of the Cathedral and Abbey Church of St
   Albans
 directors: []
 contentHtml: |-
@@ -27,29 +28,28 @@ recordingDetailsHtml: |-
       Photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Urbs Beata
-  <p><span class="composer">Suite<br>
-    </span>Prelude (Christe, Qui Lux Es)<br>
-    Impromptu (Tonus Peregrinus)<br>
-    Nocturne (Rorate Coeli)<br>
-    Scherzo (Dies Irae)<br>
-    Variations (Veni Creator)</p>
-  <p>Passacaglia</p>
-  <p><span class="composer">Sinfonietta<br>
-    </span>Prelude (Tantum Ergo)<br>
-    Chorale (Soll’s Sein)<br>
-    Toccata (Suo-Gn)<br>
-   </p>
-- |-
-  Toccata
-  <p>Credo</p>
-  <p>Adoro Te</p>
-  <p><span class="composer">Three Plainsong Preludes<br>
-    </span>Conditor Alme<br>
-    Pange Lingua<br>
-    Te Lucis Ante Terminum</p>
-  <p>Qui Lux Es</p>
-  <p><span id="playingtime">Total playing time 66m 08s</span></p>
+  - |-
+    Urbs Beata
+    <p><span class="composer">Suite<br>
+      </span>Prelude (Christe, Qui Lux Es)<br>
+      Impromptu (Tonus Peregrinus)<br>
+      Nocturne (Rorate Coeli)<br>
+      Scherzo (Dies Irae)<br>
+      Variations (Veni Creator)</p>
+    <p>Passacaglia</p>
+    <p><span class="composer">Sinfonietta<br>
+      </span>Prelude (Tantum Ergo)<br>
+      Chorale (Soll’s Sein)<br>
+      Toccata (Suo-Gn)<br>
+     </p>
+  - |-
+    Toccata
+    <p>Credo</p>
+    <p>Adoro Te</p>
+    <p><span class="composer">Three Plainsong Preludes<br>
+      </span>Conditor Alme<br>
+      Pange Lingua<br>
+      Te Lucis Ante Terminum</p>
+    <p>Qui Lux Es</p>
+    <p><span id="playingtime">Total playing time 66m 08s</span></p>
 ---
-

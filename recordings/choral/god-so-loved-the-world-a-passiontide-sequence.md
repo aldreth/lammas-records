@@ -1,12 +1,12 @@
 ---
-new_slug: god-so-loved-the-world-a-passiontide-sequence
+slug: god-so-loved-the-world-a-passiontide-sequence
 title: God So Loved The World - A Passiontide Sequence
 serialNumber: LAMM193
 coverImage: "../../src/images/recordings/god-so-loved-the-world-a-passiontide-sequence.jpg"
 performer: The Chapel Choir of University College, Durham
 directors:
-- 'Director: David Jackson'
-- 'Organ: Oliver Bond'
+  - "Director: David Jackson"
+  - "Organ: Oliver Bond"
 contentHtml: |-
   <p id="performer">Recorded in York Minster</p>
   <h1>God So Loved The World - A Passiontide Sequence</h1>
@@ -56,23 +56,22 @@ recordingDetailsHtml: |-
       Cover photograph by Andrew David Teasdale of The Lamentation. After Hugo van der Goes (c.1440-1482)</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">God so loved the world </span> <span class="composer"> John Stainer</span>
-  <p><span class="trackname">Drop, drop, slow tears </span> <span class="composer"> Kenneth Leighton</span></p>
-  <p><span class="trackname">The Lamentation </span> <span class="composer"> Edward Bairstow</span></p>
-  <p><span class="trackname">Call to Remembrance </span> <span class="composer"> Richard Farrant</span></p>
-  <p><span class="trackname">Ubi Caritas </span> <span class="composer">Maurice Duruflé</span></p>
-  <p><span class="trackname">Like as the Hart </span> <span class="composer"> Herbert Howells</span></p>
-  <p><span class="trackname">Salvator Mundi </span> <span class="composer"> Thomas Tallis</span></p>
-  <p><span class="trackname">Take up thy Cross </span> <span class="composer"> R.L. Pearsall, arr. Richard Shephard</span></p>
-- |-
-  <span class="trackname">Christus factus est </span> <span class="composer"> Anton Bruckner</span>
-  <p><span class="trackname">The Reproaches </span> <span class="composer">John Sanders</span></p>
-  <p><span class="trackname">Never weather-beaten sail </span> <span class="composer"> Richard Shephard</span></p>
-  <p><span class="trackname">Crucifixus </span> <span class="composer">Antonio Lotti</span></p>
-  <p><span class="trackname">Geistliches Lied </span> <span class="composer"> Johannes Brahms</span></p>
-  <p><span class="trackname">O Brother Man </span> <span class="composer"> Harold Darke</span></p>
-  <p><span class="trackname">Jesu, grant me this, I pray </span> <span class="composer"> Edward Bairstow</span></p>
-  <p><span id="playingtime">Total playing time 60m 37s</span></p>
+  - |-
+    <span class="trackname">God so loved the world </span> <span class="composer"> John Stainer</span>
+    <p><span class="trackname">Drop, drop, slow tears </span> <span class="composer"> Kenneth Leighton</span></p>
+    <p><span class="trackname">The Lamentation </span> <span class="composer"> Edward Bairstow</span></p>
+    <p><span class="trackname">Call to Remembrance </span> <span class="composer"> Richard Farrant</span></p>
+    <p><span class="trackname">Ubi Caritas </span> <span class="composer">Maurice Duruflé</span></p>
+    <p><span class="trackname">Like as the Hart </span> <span class="composer"> Herbert Howells</span></p>
+    <p><span class="trackname">Salvator Mundi </span> <span class="composer"> Thomas Tallis</span></p>
+    <p><span class="trackname">Take up thy Cross </span> <span class="composer"> R.L. Pearsall, arr. Richard Shephard</span></p>
+  - |-
+    <span class="trackname">Christus factus est </span> <span class="composer"> Anton Bruckner</span>
+    <p><span class="trackname">The Reproaches </span> <span class="composer">John Sanders</span></p>
+    <p><span class="trackname">Never weather-beaten sail </span> <span class="composer"> Richard Shephard</span></p>
+    <p><span class="trackname">Crucifixus </span> <span class="composer">Antonio Lotti</span></p>
+    <p><span class="trackname">Geistliches Lied </span> <span class="composer"> Johannes Brahms</span></p>
+    <p><span class="trackname">O Brother Man </span> <span class="composer"> Harold Darke</span></p>
+    <p><span class="trackname">Jesu, grant me this, I pray </span> <span class="composer"> Edward Bairstow</span></p>
+    <p><span id="playingtime">Total playing time 60m 37s</span></p>
 ---
-

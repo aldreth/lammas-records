@@ -11,11 +11,13 @@ const AllIndex = ({ data, location }) => {
     <Layout location={location}>
       <Seo title="All recordings" />
       <ol style={{ listStyle: `none` }}>
-        {recordings.map(post => {
+        {recordings.map(recording => {
           return (
-            <li key={post.fields.slug}>
-              <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
-              <p>{post.frontmatter.serialNumber}</p>
+            <li key={recording.frontmatter.slug}>
+              <Link to={`/${recording.frontmatter.slug}`}>
+                {recording.frontmatter.title}
+              </Link>
+              <p>{recording.frontmatter.serialNumber}</p>
             </li>
           )
         })}
@@ -28,15 +30,12 @@ export default AllIndex
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___new_slug], order: ASC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___slug], order: ASC }) {
       nodes {
-        excerpt
-        fields {
-          slug
-        }
         frontmatter {
           title
           serialNumber
+          slug
         }
       }
     }

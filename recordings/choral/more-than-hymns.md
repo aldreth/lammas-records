@@ -1,12 +1,12 @@
 ---
-new_slug: more-than-hymns
+slug: more-than-hymns
 title: More than Hymns
 serialNumber: LAMM149
 coverImage: "../../src/images/recordings/more-than-hymns.jpg"
 performer: Wells Cathedral Choir
 directors:
-- 'Director: Malcolm Archer'
-- 'Organ: Rupert Gough'
+  - "Director: Malcolm Archer"
+  - "Organ: Rupert Gough"
 contentHtml: |-
   <h1>More Than Hymns</h1>
   <p>More than Hymns is the title of two collections of hymn-anthems recently published by Novello &amp; Co. Ten pieces from each of the two volumes have now been specially recorded for this CD by Wells Cathedral Choir.</p>
@@ -27,27 +27,26 @@ recordingDetailsHtml: |-
       Photograph by Tony Bolton</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Fight the good fight</span><span class="composer"> John Gardner</span><br>
-  <span class="trackname"> Let all mortal flesh keep silence</span><span class="composer"> Arr. Rogers Covey-Crump</span><br>
-  <span class="trackname"> Be still, for the presence of the Lord </span> <span class="composer">David J. Evans arr. Indra Hughes</span><br>
-  <span class="trackname"> King of glory, King of peace </span> <span class="composer">Henry Walford Davies</span><br>
-  <span class="trackname"> When I needed a neighbour, were you there?</span><span class="composer"> Sydney Carter arr. Barry Rose</span><br>
-  <span class="trackname"> Blesséd are the pure in heart </span> <span class="composer">Henry Walford Davies</span><br>
-  <span class="trackname"> Let all mortal flesh keep silence </span> <span class="composer">Arr. Stephen Jackson</span><br>
-  <span class="trackname"> Christ be with you </span> <span class="composer">Barry Rose</span><br>
-  <span class="trackname"> Brightest and best of the sons of the morning </span> <span class="composer">Eric Thiman</span><br>
-  <span class="trackname"> Jesus is the brightest light </span> <span class="composer">Johann Freylinghausen arr. Gavin Williams </span><br>
-  <span class="trackname"> A Hymn for St.Cecilia </span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname"> There is a green hill far away </span> <span class="composer">William Horsley arr. Barry Rose</span><br>
-  <span class="trackname"> Now is the bitter time </span> <span class="composer">Johann Wolfgang Franck arr. Gavin Williams</span><br>
-  <span class="trackname"> Morning glory, starlit sky (Love’s endeavour, Love’s expense) </span> <span class="composer">Barry Rose</span><br>
-  <span class="trackname"> Come down, O Love divine </span> <span class="composer">William Harris</span><br>
-  <span class="trackname"> O perfect Love, all human thought transcending</span><span class="composer"> Joseph Barnby</span><br>
-  <span class="trackname"> Thou art the way </span> <span class="composer">Christopher</span><span class="trackname"> </span> <span class="composer">Steel</span><br>
-  <span class="trackname"> Crossing the bar (Sunset and evening star)</span><span class="composer"> C.H.H.Parry</span><br>
-  <span class="trackname"> Lord of all hopefulness, Lord of all joy </span> <span class="composer">Arr. Barry Rose</span><br>
-  <span class="trackname"> Let all the world in every corner sing </span> <span class="composer">George Dyson</span>
-  <p><span id="playingtime">Total playing time 60m 59s</span></p>
+  - |-
+    <span class="trackname">Fight the good fight</span><span class="composer"> John Gardner</span><br>
+    <span class="trackname"> Let all mortal flesh keep silence</span><span class="composer"> Arr. Rogers Covey-Crump</span><br>
+    <span class="trackname"> Be still, for the presence of the Lord </span> <span class="composer">David J. Evans arr. Indra Hughes</span><br>
+    <span class="trackname"> King of glory, King of peace </span> <span class="composer">Henry Walford Davies</span><br>
+    <span class="trackname"> When I needed a neighbour, were you there?</span><span class="composer"> Sydney Carter arr. Barry Rose</span><br>
+    <span class="trackname"> Blesséd are the pure in heart </span> <span class="composer">Henry Walford Davies</span><br>
+    <span class="trackname"> Let all mortal flesh keep silence </span> <span class="composer">Arr. Stephen Jackson</span><br>
+    <span class="trackname"> Christ be with you </span> <span class="composer">Barry Rose</span><br>
+    <span class="trackname"> Brightest and best of the sons of the morning </span> <span class="composer">Eric Thiman</span><br>
+    <span class="trackname"> Jesus is the brightest light </span> <span class="composer">Johann Freylinghausen arr. Gavin Williams </span><br>
+    <span class="trackname"> A Hymn for St.Cecilia </span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname"> There is a green hill far away </span> <span class="composer">William Horsley arr. Barry Rose</span><br>
+    <span class="trackname"> Now is the bitter time </span> <span class="composer">Johann Wolfgang Franck arr. Gavin Williams</span><br>
+    <span class="trackname"> Morning glory, starlit sky (Love’s endeavour, Love’s expense) </span> <span class="composer">Barry Rose</span><br>
+    <span class="trackname"> Come down, O Love divine </span> <span class="composer">William Harris</span><br>
+    <span class="trackname"> O perfect Love, all human thought transcending</span><span class="composer"> Joseph Barnby</span><br>
+    <span class="trackname"> Thou art the way </span> <span class="composer">Christopher</span><span class="trackname"> </span> <span class="composer">Steel</span><br>
+    <span class="trackname"> Crossing the bar (Sunset and evening star)</span><span class="composer"> C.H.H.Parry</span><br>
+    <span class="trackname"> Lord of all hopefulness, Lord of all joy </span> <span class="composer">Arr. Barry Rose</span><br>
+    <span class="trackname"> Let all the world in every corner sing </span> <span class="composer">George Dyson</span>
+    <p><span id="playingtime">Total playing time 60m 59s</span></p>
 ---
-

@@ -73,7 +73,7 @@ export const pageQuery = graphql`
         contentHtml
         recordingDetailsHtml
         trackListingsHtml
-        new_slug
+        slug
         coverImage {
           childImageSharp {
             gatsbyImageData(width: 300, placeholder: BLURRED)

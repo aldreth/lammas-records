@@ -1,12 +1,12 @@
 ---
-new_slug: loving-shepherd
+slug: loving-shepherd
 title: Loving Shepherd
 serialNumber: LAMM180
 coverImage: "../../src/images/recordings/loving-shepherd.jpg"
 performer: Hymns sung by the Choirs and Congregation of Blackburn Cathedral
 directors:
-- 'Director: Richard Tanner'
-- 'Organ: Greg Morris'
+  - "Director: Richard Tanner"
+  - "Organ: Greg Morris"
 contentHtml: |-
   <h1>Loving Shepherd - Hymns</h1>
   <p>“A hymn is the praise of God by singing. A hymn is a song embodying the praise of God. If there be merely praise but not praise of God it is not a hymn. If there be praise, and praise of God, but not sung, it is not a hymn. For it to be a hymn, it is needful, therefore, for it to have three things – praise, praise of God, and these sung”.<br>
@@ -52,32 +52,31 @@ recordingDetailsHtml: |-
       Photograph of St Lawrence Church, Longridge taken by Peter Madeley</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Loving Shepherd of thy sheep </span> <span class="composer"> Richard Tanner</span>
-  <p><span class="trackname">Thy hand, O God has guided </span> <span class="composer">Basil Harwood, descant Richard Tanner</span></p>
-  <p><span class="trackname">Walking in the Garden </span> <span class="composer">Irish, arr. Richard Tanner</span></p>
-  <p><span class="trackname">O God of earth and altar </span> <span class="composer">Traditional, arr. Richard Tanner</span></p>
-  <p><span class="trackname">Hymn for St. Cecilia </span> <span class="composer">Herbert Howells</span></p>
-  <p><span class="trackname">Crown him with many crowns </span> <span class="composer">George Elvey, descant David Cooper, brass arrangement Richard Tanner </span></p>
-  <p><span class="trackname">Holy Spirit, ever dwelling </span> <span class="composer">Herbert Howells</span></p>
-  <p><span class="trackname">Eternal Ruler </span> <span class="composer">Orlando Gibbons</span></p>
-  <p><span class="trackname">Praise to the Lord, the Almighty </span> <span class="composer">Praxis Pietatis, arr. Charles V. Stanford</span></p>
-  <p><span class="trackname">Loving Father </span> <span class="composer">Violet Barnett, arr. Richard Tanner</span></p>
-  <p><span class="trackname">Hark what a sound </span> <span class="composer">R.R.Terry, descant Richard Tanner</span></p>
-  <p><span class="trackname">Servant King </span> <span class="composer">Graham Kendrick, arr. Richard Tanner</span></p>
-- |-
-  <span class="trackname">Lord for the years </span> <span class="composer">Michael Baughen, arr. Simon Lole</span>
-  <p><span class="trackname">Amazing grace </span> <span class="composer">American folk-hymn, arr. John Bertalot</span></p>
-  <p><span class="trackname">Steal away </span><span class="composer">Afro-American, arr. John Bertalot</span></p>
-  <p><span class="trackname">Let all the World </span> <span class="composer">Ralph Vaughan Williams</span></p>
-  <p><span class="trackname">Ye watchers and ye holy ones </span> <span class="composer">Ralph Vaughan Williams, arr. Richard Tanner</span></p>
-  <p><span class="trackname">Close thine eyes </span> <span class="composer">Mary Plumstead</span></p>
-  <p><span class="trackname">Peace, perfect peace </span> <span class="composer">Orlando Gibbons, arr. Ian Tracey</span></p>
-  <p><span class="trackname">Jubilate, Collegium Regale </span> <span class="composer">Herbert Howells</span></p>
-  <p><span class="trackname">Make us Holy </span> <span class="composer">Chris Chivers</span></p>
-  <p><span class="trackname">How shall I Sing that Majesty </span> <span class="composer">Ken Naylor, descant Lyndon Hills</span></p>
-  <p><span class="trackname">God be in my head </span> <span class="composer">Herman Brearley</span></p>
-  <p><span class="trackname">Angel voices </span> <span class="composer">Edwin George Monk, arr. Richard Tanner</span></p>
-  <p><span id="playingtime">Total playing time 71m 23s</span></p>
+  - |-
+    <span class="trackname">Loving Shepherd of thy sheep </span> <span class="composer"> Richard Tanner</span>
+    <p><span class="trackname">Thy hand, O God has guided </span> <span class="composer">Basil Harwood, descant Richard Tanner</span></p>
+    <p><span class="trackname">Walking in the Garden </span> <span class="composer">Irish, arr. Richard Tanner</span></p>
+    <p><span class="trackname">O God of earth and altar </span> <span class="composer">Traditional, arr. Richard Tanner</span></p>
+    <p><span class="trackname">Hymn for St. Cecilia </span> <span class="composer">Herbert Howells</span></p>
+    <p><span class="trackname">Crown him with many crowns </span> <span class="composer">George Elvey, descant David Cooper, brass arrangement Richard Tanner </span></p>
+    <p><span class="trackname">Holy Spirit, ever dwelling </span> <span class="composer">Herbert Howells</span></p>
+    <p><span class="trackname">Eternal Ruler </span> <span class="composer">Orlando Gibbons</span></p>
+    <p><span class="trackname">Praise to the Lord, the Almighty </span> <span class="composer">Praxis Pietatis, arr. Charles V. Stanford</span></p>
+    <p><span class="trackname">Loving Father </span> <span class="composer">Violet Barnett, arr. Richard Tanner</span></p>
+    <p><span class="trackname">Hark what a sound </span> <span class="composer">R.R.Terry, descant Richard Tanner</span></p>
+    <p><span class="trackname">Servant King </span> <span class="composer">Graham Kendrick, arr. Richard Tanner</span></p>
+  - |-
+    <span class="trackname">Lord for the years </span> <span class="composer">Michael Baughen, arr. Simon Lole</span>
+    <p><span class="trackname">Amazing grace </span> <span class="composer">American folk-hymn, arr. John Bertalot</span></p>
+    <p><span class="trackname">Steal away </span><span class="composer">Afro-American, arr. John Bertalot</span></p>
+    <p><span class="trackname">Let all the World </span> <span class="composer">Ralph Vaughan Williams</span></p>
+    <p><span class="trackname">Ye watchers and ye holy ones </span> <span class="composer">Ralph Vaughan Williams, arr. Richard Tanner</span></p>
+    <p><span class="trackname">Close thine eyes </span> <span class="composer">Mary Plumstead</span></p>
+    <p><span class="trackname">Peace, perfect peace </span> <span class="composer">Orlando Gibbons, arr. Ian Tracey</span></p>
+    <p><span class="trackname">Jubilate, Collegium Regale </span> <span class="composer">Herbert Howells</span></p>
+    <p><span class="trackname">Make us Holy </span> <span class="composer">Chris Chivers</span></p>
+    <p><span class="trackname">How shall I Sing that Majesty </span> <span class="composer">Ken Naylor, descant Lyndon Hills</span></p>
+    <p><span class="trackname">God be in my head </span> <span class="composer">Herman Brearley</span></p>
+    <p><span class="trackname">Angel voices </span> <span class="composer">Edwin George Monk, arr. Richard Tanner</span></p>
+    <p><span id="playingtime">Total playing time 71m 23s</span></p>
 ---
-

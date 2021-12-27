@@ -1,12 +1,12 @@
 ---
-new_slug: come-come-my-voice
+slug: come-come-my-voice
 title: Come, Come, My Voice
 serialNumber: LAMM141
 coverImage: "../../src/images/recordings/come-come-my-voice.jpg"
 performer: "Treble Solos sung by Nicholas Fletcher\n\t\twith Southwell Minster Choir"
 directors:
-- 'Director: Paul Hale'
-- 'Organ: Philip Rushforth'
+  - "Director: Paul Hale"
+  - "Organ: Philip Rushforth"
 contentHtml: |-
   <h1>Come, Come, My Voice.</h1>
   <p>The tradition of all-male church choirs is an international one, stretching back many centuries. In Britain we are hugely fortunate - indeed the envy of the world - that here alone do our cathedrals still resonate, day by day, to the sound of men and boys singing their Creator's praises.</p>
@@ -29,26 +29,25 @@ recordingDetailsHtml: |-
       Choir photograph by Chris Knapton</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Magnificat in G </span> <span class="composer"> Charles Villiers Stanford</span>
-  <p><span class="trackname">Come let us all this day </span> <span class="composer">Johann Sebastian Bach</span></p>
-  <p><span class="trackname">Come, come, my voice </span> <span class="composer">Johann Sebastian Bach</span></p>
-  <p><span class="trackname">My heart ever faithful </span> <span class="composer">Johann Sebastian Bach</span></p>
-  <p><span class="trackname">O mysterium ineffabile </span> <span class="composer">J F Lallouette</span></p>
-  <p><span class="trackname">How beautiful are the feet </span> <span class="composer">Georg Frederick Handel</span></p>
-  <p><span class="trackname">I know that my Redeemer liveth </span> <span class="composer">Georg Frederick Handel</span></p>
-  <p><span class="trackname">Magnificat in F </span> <span class="composer">George Dyson</span></p>
-  <p><span class="trackname">The Call Ralph </span> <span class="composer">Vaughan Williams</span></p>
-- |-
-  <span class="trackname">Litany to the Holy Spirit </span> <span class="composer"> Peter Hurford</span>
-  <p><span class="trackname">A Gaelic Blessing </span> <span class="composer">John Rutter</span></p>
-  <p><span class="trackname">Light of the world </span> <span class="composer">John Dankworth</span></p>
-  <p><span class="trackname">Ex ore innocentium </span> <span class="composer">John Ireland</span></p>
-  <p><span class="trackname">Lully, lulla, thou little tiny child </span> <span class="composer"> Kenneth Leighton</span></p>
-  <p><span class="trackname">Magnificat in D </span> <span class="composer">Herbert Kennedy Andrews</span></p>
-  <p><span class="trackname">A song of peace </span> <span class="composer">Charles Villiers Stanford</span></p>
-  <p><span class="trackname">Lord, at all times I will bless Thee </span> <span class="composer">Felix Mendelssohn</span></p>
-  <p><span class="trackname">Hear my prayer </span> <span class="composer">Felix Mendelssohn</span></p>
-  <p><span id="playingtime">Total playing time 65m 07s</span></p>
+  - |-
+    <span class="trackname">Magnificat in G </span> <span class="composer"> Charles Villiers Stanford</span>
+    <p><span class="trackname">Come let us all this day </span> <span class="composer">Johann Sebastian Bach</span></p>
+    <p><span class="trackname">Come, come, my voice </span> <span class="composer">Johann Sebastian Bach</span></p>
+    <p><span class="trackname">My heart ever faithful </span> <span class="composer">Johann Sebastian Bach</span></p>
+    <p><span class="trackname">O mysterium ineffabile </span> <span class="composer">J F Lallouette</span></p>
+    <p><span class="trackname">How beautiful are the feet </span> <span class="composer">Georg Frederick Handel</span></p>
+    <p><span class="trackname">I know that my Redeemer liveth </span> <span class="composer">Georg Frederick Handel</span></p>
+    <p><span class="trackname">Magnificat in F </span> <span class="composer">George Dyson</span></p>
+    <p><span class="trackname">The Call Ralph </span> <span class="composer">Vaughan Williams</span></p>
+  - |-
+    <span class="trackname">Litany to the Holy Spirit </span> <span class="composer"> Peter Hurford</span>
+    <p><span class="trackname">A Gaelic Blessing </span> <span class="composer">John Rutter</span></p>
+    <p><span class="trackname">Light of the world </span> <span class="composer">John Dankworth</span></p>
+    <p><span class="trackname">Ex ore innocentium </span> <span class="composer">John Ireland</span></p>
+    <p><span class="trackname">Lully, lulla, thou little tiny child </span> <span class="composer"> Kenneth Leighton</span></p>
+    <p><span class="trackname">Magnificat in D </span> <span class="composer">Herbert Kennedy Andrews</span></p>
+    <p><span class="trackname">A song of peace </span> <span class="composer">Charles Villiers Stanford</span></p>
+    <p><span class="trackname">Lord, at all times I will bless Thee </span> <span class="composer">Felix Mendelssohn</span></p>
+    <p><span class="trackname">Hear my prayer </span> <span class="composer">Felix Mendelssohn</span></p>
+    <p><span id="playingtime">Total playing time 65m 07s</span></p>
 ---
-

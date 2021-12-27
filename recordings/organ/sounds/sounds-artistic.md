@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-artistic
+slug: sounds-artistic
 title: Sounds Artistic
 serialNumber: LAMM153
 coverImage: "../../../src/images/recordings/sounds-artistic.jpg"
@@ -34,36 +34,35 @@ recordingDetailsHtml: |-
       Cover Picture from an original by Colin Andrews for the score of “Pictures at an Exhibition” transcribed by Keith John by kind permission of United Music Publishers Ltd</p>
   </div>
 trackListingsHtml:
-- |-
-  An Occasional Trumpet Voluntary <span class="composer">Patrick Gowers after Jeremiah Clarke</span>
-  <p>Cathédrales (Pièces de Fantaisie)<span class="composer"> Louis Vierne</span><br>
-    Suite de Danses Improvisées Pierre Cochereau transcribed by David Briggs<br>
-    Marche<br>
-    Sarabande<br>
-    Musette<br>
-    Tambourin<br>
-    Menuet<br>
-    Gigue</p>
-- |-
-  Pictures at an Exhibition <span class="composer">Modest Mussorgsky transcribed by Keith John</span><br>
-  Promenade<br>
-  Gnomus<br>
-  Promenade<br>
-  Il vecchio castello<br>
-  Promenade<br>
-  Tuileries (Dispute d’enfants après jeux)<br>
-  Bydlo<br>
-  Promenade<br>
-  Ballet of the unhatched chicks<br>
-  Two Polish Jews, rich and poor<br>
-  Promenade<br>
-  Limoges - le Marché<br>
-  Catacombae<br>
-  Promenade, con mortuis in lingua mortua<br>
-  Baba Yaga - the hut on fowl’s legs<br>
-  The Great Gate of Kiev
-  <p><span id="playingtime">Total playing time 73m 37s</span></p>
-- ''
-- ''
+  - |-
+    An Occasional Trumpet Voluntary <span class="composer">Patrick Gowers after Jeremiah Clarke</span>
+    <p>Cathédrales (Pièces de Fantaisie)<span class="composer"> Louis Vierne</span><br>
+      Suite de Danses Improvisées Pierre Cochereau transcribed by David Briggs<br>
+      Marche<br>
+      Sarabande<br>
+      Musette<br>
+      Tambourin<br>
+      Menuet<br>
+      Gigue</p>
+  - |-
+    Pictures at an Exhibition <span class="composer">Modest Mussorgsky transcribed by Keith John</span><br>
+    Promenade<br>
+    Gnomus<br>
+    Promenade<br>
+    Il vecchio castello<br>
+    Promenade<br>
+    Tuileries (Dispute d’enfants après jeux)<br>
+    Bydlo<br>
+    Promenade<br>
+    Ballet of the unhatched chicks<br>
+    Two Polish Jews, rich and poor<br>
+    Promenade<br>
+    Limoges - le Marché<br>
+    Catacombae<br>
+    Promenade, con mortuis in lingua mortua<br>
+    Baba Yaga - the hut on fowl’s legs<br>
+    The Great Gate of Kiev
+    <p><span id="playingtime">Total playing time 73m 37s</span></p>
+  - ""
+  - ""
 ---
-

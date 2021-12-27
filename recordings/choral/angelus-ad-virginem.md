@@ -1,12 +1,12 @@
 ---
-new_slug: angelus-ad-virginem
+slug: angelus-ad-virginem
 title: Angelus ad Virginem
 serialNumber: LAMM122
 coverImage: "../../src/images/recordings/angelus-ad-virginem.jpg"
 performer: Choir of St Mary's Cathedral, Edinburgh
 directors:
-- 'Director: Matthew Owens'
-- 'Organ: Simon Nieminski'
+  - "Director: Matthew Owens"
+  - "Organ: Simon Nieminski"
 contentHtml: |-
   <h2>Choir of St Mary's Cathedral, Edinburgh</h2>
   <p>The Choir of St Mary's Cathedral, Edinburgh is Scotland's premier cathedral choir and unique in Scotland, maintaining as it does a daily choral tradition. The choristers are educated at St Mary's Music School, which acts as the choir school for the cathedral, again unique in Scotland. In 1978 St Mary's Cathedral became the first to offer girls scholarships to sing with the boys as trebles. The lay clerks of the choir consist of undergraduate choral scholars reading a diverse range of subjects at Edinburgh University, and more experienced singers.</p>
@@ -28,25 +28,24 @@ recordingDetailsHtml: |-
       'Benedicite omnia opera' (detail) by Phoebe Anna Traquair (1852-1936)</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Rorate coeli </span> <span class="composer">William Byrd</span><br>
-  <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
-  <span class="trackname"> Magnificat Quinti toni </span> <span class="composer">Hieronymous Praetorius</span><br>
-  <span class="trackname"> Ave maris stella </span> <span class="composer">Claudio Monteverdi</span><br>
-  <span class="trackname"> Hymn to the Mother of God </span> <span class="composer">John Tavener</span><br>
-  <span class="trackname"> Hymn of St Columba </span> <span class="composer">Benjamin Britten</span><br>
-  <span class="trackname"> Adam lay ybounden </span> <span class="composer">Howard Skempton</span><br>
-  <span class="trackname"> Det ‘r en ros utsprungen </span> <span class="composer">Jan Sandström</span><br>
-  <span class="trackname"> Hills of the North, rejoice </span> <span class="composer">Martin Shaw</span><br>
-  <span class="trackname"> Praeter rerum seriem </span> <span class="composer">Josquin Desprez</span>
-- |-
-  <span class="trackname">Angelus ad virginem </span> <span class="composer">Anon, arr. Christopher Stokes</span><br>
-  <span class="trackname"> There is no rose </span> <span class="composer">John Joubert</span><br>
-  <span class="trackname"> Lully, lulla, thou little tiny child </span> <span class="composer">Kenneth Leighton</span><br>
-  <span class="trackname"> On Christmas night (Sussex Carol) </span> <span class="composer">Trad, arr. Philip Ledger</span><br>
-  <span class="trackname"> See amid the winter's snow </span> <span class="composer">John West</span><br>
-  <span class="trackname"> Away in a manger Jennifer Kelsey, harm. </span> <span class="composer">Matthew Owens</span><br>
-  <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn</span>
-  <p><span id="playingtime">Total playing time 64m 05s</span></p>
+  - |-
+    <span class="trackname">Rorate coeli </span> <span class="composer">William Byrd</span><br>
+    <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
+    <span class="trackname"> Magnificat Quinti toni </span> <span class="composer">Hieronymous Praetorius</span><br>
+    <span class="trackname"> Ave maris stella </span> <span class="composer">Claudio Monteverdi</span><br>
+    <span class="trackname"> Hymn to the Mother of God </span> <span class="composer">John Tavener</span><br>
+    <span class="trackname"> Hymn of St Columba </span> <span class="composer">Benjamin Britten</span><br>
+    <span class="trackname"> Adam lay ybounden </span> <span class="composer">Howard Skempton</span><br>
+    <span class="trackname"> Det ‘r en ros utsprungen </span> <span class="composer">Jan Sandström</span><br>
+    <span class="trackname"> Hills of the North, rejoice </span> <span class="composer">Martin Shaw</span><br>
+    <span class="trackname"> Praeter rerum seriem </span> <span class="composer">Josquin Desprez</span>
+  - |-
+    <span class="trackname">Angelus ad virginem </span> <span class="composer">Anon, arr. Christopher Stokes</span><br>
+    <span class="trackname"> There is no rose </span> <span class="composer">John Joubert</span><br>
+    <span class="trackname"> Lully, lulla, thou little tiny child </span> <span class="composer">Kenneth Leighton</span><br>
+    <span class="trackname"> On Christmas night (Sussex Carol) </span> <span class="composer">Trad, arr. Philip Ledger</span><br>
+    <span class="trackname"> See amid the winter's snow </span> <span class="composer">John West</span><br>
+    <span class="trackname"> Away in a manger Jennifer Kelsey, harm. </span> <span class="composer">Matthew Owens</span><br>
+    <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn</span>
+    <p><span id="playingtime">Total playing time 64m 05s</span></p>
 ---
-

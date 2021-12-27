@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-of-bach
+slug: sounds-of-bach
 title: Sounds of Bach
 serialNumber: LAMM150
 coverImage: "../../../src/images/recordings/sounds-of-bach.jpg"
@@ -35,37 +35,36 @@ recordingDetailsHtml: |-
       Cover photograph of the Tickell Organ by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Toccata &amp; Fugue in D Minor BWV 565</span><br>
-  Toccata<br>
-  Fugue
-  <p><span class="composer">Liebster Jesu, wir sind hier BWV 731</span><br>
-    Chorale</p>
-  <p><span class="composer">Ein feste Burg ist unser Gott BWV 720</span></p>
-  <p><span class="composer">Pedalexercitium in G minor BWV 598</span></p>
-  <p><span class="composer">Fantasia &amp; Fugue in G Minor BWV 542<br>
-    </span>Fantasia<br>
-    Fugue</p>
-  <p><span class="composer">Vater unser im Himmelreich BWV 737</span></p>
-  <p><span class="composer">O Lamm Gottes, unschuldig<br>
-    </span>Chorale</p>
-  <p><span class="composer">Prelude, Trio and Fugue in C major BWV 545 and 529<br>
-    </span>Prelude<br>
-    Trio<br>
-    Fugue</p>
-  <p> </p>
-- |-
-  <span class="composer">Pastorella in F Major BWV 590 (Tamburini Organ)<br>
-  </span>Pastorella<br>
-  Allemanda<br>
-  Aria<br>
-  Giga
-  <p><span class="composer">Vom Himmel hoch da komm ich her BWV 738 </span>(Tamburini Organ)</p>
-  <p><span class="composer">Herzlich tut mich verlangen BWV 727</span></p>
-  <p><span class="composer">Fantasia in G Major (Pièce d'Orgue) BWV 572<br>
-    </span>Très vitement<br>
-    Gravement<br>
-    Lentement</p>
-  <p><span id="playingtime">Total playing time 70m 37s</span></p>
+  - |-
+    <span class="composer">Toccata &amp; Fugue in D Minor BWV 565</span><br>
+    Toccata<br>
+    Fugue
+    <p><span class="composer">Liebster Jesu, wir sind hier BWV 731</span><br>
+      Chorale</p>
+    <p><span class="composer">Ein feste Burg ist unser Gott BWV 720</span></p>
+    <p><span class="composer">Pedalexercitium in G minor BWV 598</span></p>
+    <p><span class="composer">Fantasia &amp; Fugue in G Minor BWV 542<br>
+      </span>Fantasia<br>
+      Fugue</p>
+    <p><span class="composer">Vater unser im Himmelreich BWV 737</span></p>
+    <p><span class="composer">O Lamm Gottes, unschuldig<br>
+      </span>Chorale</p>
+    <p><span class="composer">Prelude, Trio and Fugue in C major BWV 545 and 529<br>
+      </span>Prelude<br>
+      Trio<br>
+      Fugue</p>
+    <p> </p>
+  - |-
+    <span class="composer">Pastorella in F Major BWV 590 (Tamburini Organ)<br>
+    </span>Pastorella<br>
+    Allemanda<br>
+    Aria<br>
+    Giga
+    <p><span class="composer">Vom Himmel hoch da komm ich her BWV 738 </span>(Tamburini Organ)</p>
+    <p><span class="composer">Herzlich tut mich verlangen BWV 727</span></p>
+    <p><span class="composer">Fantasia in G Major (Pièce d'Orgue) BWV 572<br>
+      </span>Très vitement<br>
+      Gravement<br>
+      Lentement</p>
+    <p><span id="playingtime">Total playing time 70m 37s</span></p>
 ---
-

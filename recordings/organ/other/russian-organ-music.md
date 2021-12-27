@@ -1,9 +1,10 @@
 ---
-new_slug: russian-organ-music
+slug: russian-organ-music
 title: Russian Organ Music
 serialNumber: LAMM101
 coverImage: "../../../src/images/recordings/russian-organ-music.jpg"
-performer: Alexander Fiseisky on the Lobback Organ in the Kreuzkirche, Hamburg-Ottensen,
+performer:
+  Alexander Fiseisky on the Lobback Organ in the Kreuzkirche, Hamburg-Ottensen,
   Germany
 directors: []
 contentHtml: |-
@@ -29,21 +30,20 @@ recordingDetailsHtml: |-
     <p> </p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Three Fugues </span> <span class="composer">Mikhail Glinka</span><br>
-  <span class="trackname"> Fugue in E flat major<br>
-    Fugue in A minor<br>
-    Fugue in D major</span>
-  <p><span class="trackname">Prayer without words</span><span class="composer"> Vladimir Odoyevsky</span></p>
-  <p><span class="trackname">Prelude in G major </span> <span class="composer">Constantin Homilius</span></p>
-  <p><span class="trackname">Prelude and Fugue in D major </span> <span class="composer">Alexander Glazunov</span></p>
-  <p><span class="trackname">Canon </span><span class="composer">Yevgeny Gunst</span></p>
-- |-
-  <span class="trackname">Fugue in E flat minor </span> <span class="composer">Leonid Nikolayev</span>
-  <p><span class="trackname">Prelude and Fugue in E flat major </span><span class="composer">Alexander Goedicke</span></p>
-  <p><span class="trackname">Fantasy on an English Folk Song </span><span class="composer">Oleg Nirenburg</span></p>
-  <p><span class="trackname">Trio sonata No. 2 </span> <span class="composer">Oleg Nirenburg</span></p>
-  <p><span class="trackname">Two small pieces for organ </span> <span class="composer">Alfred Schnittke</span></p>
-  <p><span id="playingtime">Total playing time 67m</span></p>
+  - |-
+    <span class="trackname">Three Fugues </span> <span class="composer">Mikhail Glinka</span><br>
+    <span class="trackname"> Fugue in E flat major<br>
+      Fugue in A minor<br>
+      Fugue in D major</span>
+    <p><span class="trackname">Prayer without words</span><span class="composer"> Vladimir Odoyevsky</span></p>
+    <p><span class="trackname">Prelude in G major </span> <span class="composer">Constantin Homilius</span></p>
+    <p><span class="trackname">Prelude and Fugue in D major </span> <span class="composer">Alexander Glazunov</span></p>
+    <p><span class="trackname">Canon </span><span class="composer">Yevgeny Gunst</span></p>
+  - |-
+    <span class="trackname">Fugue in E flat minor </span> <span class="composer">Leonid Nikolayev</span>
+    <p><span class="trackname">Prelude and Fugue in E flat major </span><span class="composer">Alexander Goedicke</span></p>
+    <p><span class="trackname">Fantasy on an English Folk Song </span><span class="composer">Oleg Nirenburg</span></p>
+    <p><span class="trackname">Trio sonata No. 2 </span> <span class="composer">Oleg Nirenburg</span></p>
+    <p><span class="trackname">Two small pieces for organ </span> <span class="composer">Alfred Schnittke</span></p>
+    <p><span id="playingtime">Total playing time 67m</span></p>
 ---
-

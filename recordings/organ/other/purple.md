@@ -1,5 +1,5 @@
 ---
-new_slug: purple
+slug: purple
 title: Purple
 serialNumber: LAMM177
 coverImage: "../../../src/images/recordings/purple.jpg"
@@ -42,24 +42,23 @@ recordingDetailsHtml: |-
       Cover Photograph by John Peart</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Reading: </span> <span class="composer">Luke 19.29-48</span>
-  <p><span class="trackname">Meditation 1 </span> <span class="composer">Jesus enters Jerusalem</span></p>
-  <p><span class="trackname">Reading: </span> <span class="composer">Luke 20.1-8 &amp; 20-26</span></p>
-  <p><span class="trackname">Meditation 2 </span> <span class="composer">Jesus is questioned in the temple</span></p>
-  <p><span class="trackname">Reading: </span> <span class="composer">Luke 22.7-20</span></p>
-  <p><span class="trackname">Meditation 3 </span> <span class="composer">The Last Supper</span></p>
-  <p><span class="trackname">Reading: </span> <span class="composer">Luke 22.39-53</span></p>
-  <p><span class="trackname">Meditation 4 </span> <span class="composer">Agony in the Garden</span></p>
-- |-
-  <span class="trackname">Reading: </span> <span class="composer">Luke 22.54-62</span>
-  <p><span class="trackname">Meditation 5 </span> <span class="composer"> Peter's denial</span></p>
-  <p><span class="trackname">Reading: </span> <span class="composer">Luke 23.1-25</span></p>
-  <p><span class="trackname">Meditation 6 </span> <span class="composer"> Mocking, trial, sentencing</span></p>
-  <p><span class="trackname">Reading: </span> <span class="composer">Luke 23.26-27 &amp; 32-47</span></p>
-  <p><span class="trackname">Meditation 7 </span> <span class="composer">To Golgotha, Crucifixion</span></p>
-  <p><span class="trackname">Crucifixion (Symphonie-Passion) </span> <span class="composer"> Marcel Dupré</span></p>
-  <p><span class="trackname">Choral-Improvisation sur le "Victimae Paschali" </span><span class="composer">transcribed by Maurice Duruflé</span></p>
-  <p><span id="playingtime">Total playing time 70m 20s</span></p>
+  - |-
+    <span class="trackname">Reading: </span> <span class="composer">Luke 19.29-48</span>
+    <p><span class="trackname">Meditation 1 </span> <span class="composer">Jesus enters Jerusalem</span></p>
+    <p><span class="trackname">Reading: </span> <span class="composer">Luke 20.1-8 &amp; 20-26</span></p>
+    <p><span class="trackname">Meditation 2 </span> <span class="composer">Jesus is questioned in the temple</span></p>
+    <p><span class="trackname">Reading: </span> <span class="composer">Luke 22.7-20</span></p>
+    <p><span class="trackname">Meditation 3 </span> <span class="composer">The Last Supper</span></p>
+    <p><span class="trackname">Reading: </span> <span class="composer">Luke 22.39-53</span></p>
+    <p><span class="trackname">Meditation 4 </span> <span class="composer">Agony in the Garden</span></p>
+  - |-
+    <span class="trackname">Reading: </span> <span class="composer">Luke 22.54-62</span>
+    <p><span class="trackname">Meditation 5 </span> <span class="composer"> Peter's denial</span></p>
+    <p><span class="trackname">Reading: </span> <span class="composer">Luke 23.1-25</span></p>
+    <p><span class="trackname">Meditation 6 </span> <span class="composer"> Mocking, trial, sentencing</span></p>
+    <p><span class="trackname">Reading: </span> <span class="composer">Luke 23.26-27 &amp; 32-47</span></p>
+    <p><span class="trackname">Meditation 7 </span> <span class="composer">To Golgotha, Crucifixion</span></p>
+    <p><span class="trackname">Crucifixion (Symphonie-Passion) </span> <span class="composer"> Marcel Dupré</span></p>
+    <p><span class="trackname">Choral-Improvisation sur le "Victimae Paschali" </span><span class="composer">transcribed by Maurice Duruflé</span></p>
+    <p><span id="playingtime">Total playing time 70m 20s</span></p>
 ---
-

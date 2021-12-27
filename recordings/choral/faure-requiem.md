@@ -1,12 +1,12 @@
 ---
-new_slug: faure-requiem
+slug: faure-requiem
 title: Fauré Requiem
 serialNumber: LAMM130
 coverImage: "../../src/images/recordings/faure-requiem.jpg"
 performer: Choir of St Mary's Cathedral, Edinburgh
 directors:
-- 'Director: Matthew Owens'
-- 'Organ: Simon Nieminski'
+  - "Director: Matthew Owens"
+  - "Organ: Simon Nieminski"
 contentHtml: |-
   <p id="cdtitle">Fauré Requiem and other sacred choral works by Gabriel Fauré</p>
   <p id="performer">Orchestra of St Mary's Music School</p>
@@ -53,25 +53,24 @@ recordingDetailsHtml: |-
       Front cover design by Kevin Findlan</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Requiem<br>
-    Introit and Kyrie<br>
-    Offertory<br>
-    Sanctus<br>
-    Pie Jesu<br>
-    Agnus Dei<br>
-    Libera me<br>
-    In Paradisum</span>
-  <p><span class="trackname">Ave Maria<br>
-    </span></p>
-- |-
-  <span class="trackname">Maria, Mater Gratiae</span>
-  <p><span class="trackname">Cantique de Jean Racine</span></p>
-  <p>Messe Basse<br>
-    Kyrie<br>
-    Sanctus<br>
-    Benedictus<br>
-    Agnus Dei</p>
-  <p><span id="playingtime">Total playing time 54m 54s</span></p>
+  - |-
+    <span class="trackname">Requiem<br>
+      Introit and Kyrie<br>
+      Offertory<br>
+      Sanctus<br>
+      Pie Jesu<br>
+      Agnus Dei<br>
+      Libera me<br>
+      In Paradisum</span>
+    <p><span class="trackname">Ave Maria<br>
+      </span></p>
+  - |-
+    <span class="trackname">Maria, Mater Gratiae</span>
+    <p><span class="trackname">Cantique de Jean Racine</span></p>
+    <p>Messe Basse<br>
+      Kyrie<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</p>
+    <p><span id="playingtime">Total playing time 54m 54s</span></p>
 ---
-

@@ -1,13 +1,14 @@
 ---
-new_slug: my-spirit-rejoiceth
+slug: my-spirit-rejoiceth
 title: My Spirit Rejoiceth
 serialNumber: LAMM131
 coverImage: "../../src/images/recordings/my-spirit-rejoiceth.jpg"
-performer: Blackburn Cathedral Choir, Blackburn Cathedral Girls’ Choir and The Renaissance
+performer:
+  Blackburn Cathedral Choir, Blackburn Cathedral Girls’ Choir and The Renaissance
   Singers of Blackburn Cathedral
 directors:
-- 'Director: Richard Tanner'
-- 'Organ: Greg Morris'
+  - "Director: Richard Tanner"
+  - "Organ: Greg Morris"
 contentHtml: |-
   <p id="subtitle">Settings of the Magnificat and Nunc Dimittis</p>
   <h1>My Spirit Rejoiceth</h1>
@@ -33,24 +34,23 @@ recordingDetailsHtml: |-
       Cover photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Magnificat in B flat </span> <span class="composer">Henry Smart</span><br>
-  <span class="trackname"> Nunc Dimittis in B flat </span> <span class="composer">Henry Smart</span><br>
-  <span class="trackname"> Magnificat Hereford Service</span><span class="composer"> Richard Lloyd</span><br>
-  <span class="trackname"> Nunc Dimittis Hereford Service </span> <span class="composer">Richard Lloyd</span><br>
-  <span class="trackname"> Magnificat in F Frederick </span> <span class="composer">John Read</span><br>
-  <span class="trackname"> Nunc Dimittis in F Frederick </span> <span class="composer">John Read</span><br>
-  <span class="trackname"> Magnificat in E flat</span><span class="composer"> Sydney Watson</span><br>
-  <span class="trackname"> Nunc Dimittis in E flat </span> <span class="composer">Sydney Watson</span><br>
-  <span class="trackname"> Magnificat in D </span> <span class="composer">Herbert Brewer</span><br>
-  <span class="trackname"> Nunc Dimittis in D</span><span class="composer"> Herbert Brewer</span>
-- |-
-  <span class="trackname">Magnificat in D minor</span><span class="composer"> Robert Ashfield</span><br>
-  <span class="trackname"> Nunc Dimittis in D minor </span> <span class="composer">Robert Ashfield</span><br>
-  <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">John Tavener</span><br>
-  <span class="trackname"> Nunc Dimittis Collegium Regale</span><span class="composer"> John Tavener</span><br>
-  <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname"> Nunc Dimittis Collegium Regale </span> <span class="composer">Herbert Howells </span>
-  <p><span id="playingtime">Total playing time 65m 13s</span></p>
+  - |-
+    <span class="trackname">Magnificat in B flat </span> <span class="composer">Henry Smart</span><br>
+    <span class="trackname"> Nunc Dimittis in B flat </span> <span class="composer">Henry Smart</span><br>
+    <span class="trackname"> Magnificat Hereford Service</span><span class="composer"> Richard Lloyd</span><br>
+    <span class="trackname"> Nunc Dimittis Hereford Service </span> <span class="composer">Richard Lloyd</span><br>
+    <span class="trackname"> Magnificat in F Frederick </span> <span class="composer">John Read</span><br>
+    <span class="trackname"> Nunc Dimittis in F Frederick </span> <span class="composer">John Read</span><br>
+    <span class="trackname"> Magnificat in E flat</span><span class="composer"> Sydney Watson</span><br>
+    <span class="trackname"> Nunc Dimittis in E flat </span> <span class="composer">Sydney Watson</span><br>
+    <span class="trackname"> Magnificat in D </span> <span class="composer">Herbert Brewer</span><br>
+    <span class="trackname"> Nunc Dimittis in D</span><span class="composer"> Herbert Brewer</span>
+  - |-
+    <span class="trackname">Magnificat in D minor</span><span class="composer"> Robert Ashfield</span><br>
+    <span class="trackname"> Nunc Dimittis in D minor </span> <span class="composer">Robert Ashfield</span><br>
+    <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">John Tavener</span><br>
+    <span class="trackname"> Nunc Dimittis Collegium Regale</span><span class="composer"> John Tavener</span><br>
+    <span class="trackname"> Magnificat Collegium Regale </span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname"> Nunc Dimittis Collegium Regale </span> <span class="composer">Herbert Howells </span>
+    <p><span id="playingtime">Total playing time 65m 13s</span></p>
 ---
-

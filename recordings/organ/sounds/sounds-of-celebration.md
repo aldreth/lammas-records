@@ -1,11 +1,11 @@
 ---
-new_slug: sounds-of-celebration
+slug: sounds-of-celebration
 title: Sounds of Celebration
 serialNumber: LAMM182
 coverImage: "../../../src/images/recordings/sounds-of-celebration.jpg"
 performer: Kevin Bowyer plays the organ works of Paul Fisher at Blackburn Cathedral
 directors:
-- 'Flute: Claudia Lashmore'
+  - "Flute: Claudia Lashmore"
 contentHtml: |-
   <h1>Sounds of Celebration</h1>
   <h2>Bradford</h2>
@@ -68,18 +68,17 @@ recordingDetailsHtml: |-
       Cover from a picture “B is for Banquet” by Revd Dr R S Murrin</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Bradford</span>
-  <p><span class="composer">Three Fancies for Pedal and Left Hand<br>
-    </span>Your feet’s too big<br>
-    Misty<br>
-    A Yorkshire Christmas</p>
-  <p><span class="composer">The Shadow of the Sun</span></p>
-- |-
-  <span class="composer">For Helen</span>
-  <p><span class="composer">Wild Spirits</span></p>
-  <p><span class="composer">Noel Nouvelet</span></p>
-  <p><span class="composer">The Colours of Spirit</span></p>
-  <p><span id="playingtime">Total playing time 72m 23s</span></p>
+  - |-
+    <span class="composer">Bradford</span>
+    <p><span class="composer">Three Fancies for Pedal and Left Hand<br>
+      </span>Your feet’s too big<br>
+      Misty<br>
+      A Yorkshire Christmas</p>
+    <p><span class="composer">The Shadow of the Sun</span></p>
+  - |-
+    <span class="composer">For Helen</span>
+    <p><span class="composer">Wild Spirits</span></p>
+    <p><span class="composer">Noel Nouvelet</span></p>
+    <p><span class="composer">The Colours of Spirit</span></p>
+    <p><span id="playingtime">Total playing time 72m 23s</span></p>
 ---
-

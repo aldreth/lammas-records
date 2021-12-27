@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-messianic
+slug: sounds-messianic
 title: Sounds Messianic
 serialNumber: LAMM145
 coverImage: "../../../src/images/recordings/sounds-messianic.jpg"
-performer: Jamie Hitel plays the organ of St Paul's Episcopal Church, Akron, Ohio,
+performer:
+  Jamie Hitel plays the organ of St Paul's Episcopal Church, Akron, Ohio,
   USA
 directors: []
 contentHtml: |-
@@ -39,17 +40,16 @@ recordingDetailsHtml: |-
       Photograph by 831 Photography</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Les Corps Glorieux - The Glorified Bodies - Olivier Messiaen</span><br>
-  Sept Visions Brèves de la Vie des Ressuscités - Seven Brief Visions of the Life of the Resurrected
-  <p>Subtilité des Corps Glorieux - The Subtleness of the Glorified Bodies<br>
-    Les Eaux de la Grce - The Waters of Grace<br>
-    L’Ange aux Parfums - The Angel of the Incense<br>
-    Combat de la Mort et de la Vie - The Struggle Between Death and Life<br>
-    Force et Agilité des Corps Glorieux - The Power and Agility of the Glorified Bodies<br>
-    Joie et Clarté des Corps Glorieux - The Joy and Radiance of the Glorified Bodies<br>
-    Le Mystère de la Sainte Trinité - The Mystery of the Holy Trinity</p>
-  <p>Choral No. 1 in E major <span class="composer">César Franck</span></p>
-  <p><span id="playingtime">Total playing time 70m 47s</span></p>
+  - |-
+    <span class="composer">Les Corps Glorieux - The Glorified Bodies - Olivier Messiaen</span><br>
+    Sept Visions Brèves de la Vie des Ressuscités - Seven Brief Visions of the Life of the Resurrected
+    <p>Subtilité des Corps Glorieux - The Subtleness of the Glorified Bodies<br>
+      Les Eaux de la Grce - The Waters of Grace<br>
+      L’Ange aux Parfums - The Angel of the Incense<br>
+      Combat de la Mort et de la Vie - The Struggle Between Death and Life<br>
+      Force et Agilité des Corps Glorieux - The Power and Agility of the Glorified Bodies<br>
+      Joie et Clarté des Corps Glorieux - The Joy and Radiance of the Glorified Bodies<br>
+      Le Mystère de la Sainte Trinité - The Mystery of the Holy Trinity</p>
+    <p>Choral No. 1 in E major <span class="composer">César Franck</span></p>
+    <p><span id="playingtime">Total playing time 70m 47s</span></p>
 ---
-

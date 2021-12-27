@@ -1,5 +1,5 @@
 ---
-new_slug: toccatas-from-coventry
+slug: toccatas-from-coventry
 title: Toccatas from Coventry
 serialNumber: LAMM097
 coverImage: "../../../src/images/recordings/toccatas-from-coventry.jpg"
@@ -21,23 +21,22 @@ recordingDetailsHtml: |-
       Photograph by Ian Kerr</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Toccata and Fugue in D minor </span><span class="composer">J S Bach</span>
-  <p><span class="trackname">The Prince of Denmark's March (Trumpet Voluntary) </span><span class="composer"> Jeremiah Clarke</span></p>
-  <p><span class="trackname">Jesu, joy of man's desiring</span><span class="composer"> J S Bach</span></p>
-  <p><span class="trackname">Arrival of the Queen of Sheba</span><span class="composer"> G F Handel</span></p>
-  <p><span class="trackname">Te Deum (Hymne d'actions de grce) </span> <span class="composer">Jean Langlais</span></p>
-  <p><span class="trackname">Andante No. 2 L</span><span class="composer">ouis James Alfred Lefébure-Wély</span></p>
-  <p><span class="trackname">Fanfare </span><span class="composer">Percy Whitlock</span></p>
-- |-
-  <span class="trackname">Folk tune </span> <span class="composer">Percy Whitlock</span>
-  <p><span class="trackname">Nun danket alle Gott </span><span class="composer">Sigfrid Karg-Elert</span></p>
-  <p><span class="trackname">Sheep may safely graze</span><span class="composer"> J S Bach</span></p>
-  <p><span class="trackname">Festival toccata</span><span class="composer"> Percy E Fletcher</span></p>
-  <p><span class="trackname">Le banquet céleste </span> <span class="composer">Olivier Messiaen</span></p>
-  <p><span class="trackname">Prelude on the Londonderry Air </span> <span class="composer">Noel Rawsthorne</span></p>
-  <p><span class="trackname">Toccata (from Symphony No. 5) </span> <span class="composer">Charles-Marie Widor<br>
-    </span><br>
-    <span id="playingtime">Total playing time 73m 00s</span></p>
+  - |-
+    <span class="trackname">Toccata and Fugue in D minor </span><span class="composer">J S Bach</span>
+    <p><span class="trackname">The Prince of Denmark's March (Trumpet Voluntary) </span><span class="composer"> Jeremiah Clarke</span></p>
+    <p><span class="trackname">Jesu, joy of man's desiring</span><span class="composer"> J S Bach</span></p>
+    <p><span class="trackname">Arrival of the Queen of Sheba</span><span class="composer"> G F Handel</span></p>
+    <p><span class="trackname">Te Deum (Hymne d'actions de grce) </span> <span class="composer">Jean Langlais</span></p>
+    <p><span class="trackname">Andante No. 2 L</span><span class="composer">ouis James Alfred Lefébure-Wély</span></p>
+    <p><span class="trackname">Fanfare </span><span class="composer">Percy Whitlock</span></p>
+  - |-
+    <span class="trackname">Folk tune </span> <span class="composer">Percy Whitlock</span>
+    <p><span class="trackname">Nun danket alle Gott </span><span class="composer">Sigfrid Karg-Elert</span></p>
+    <p><span class="trackname">Sheep may safely graze</span><span class="composer"> J S Bach</span></p>
+    <p><span class="trackname">Festival toccata</span><span class="composer"> Percy E Fletcher</span></p>
+    <p><span class="trackname">Le banquet céleste </span> <span class="composer">Olivier Messiaen</span></p>
+    <p><span class="trackname">Prelude on the Londonderry Air </span> <span class="composer">Noel Rawsthorne</span></p>
+    <p><span class="trackname">Toccata (from Symphony No. 5) </span> <span class="composer">Charles-Marie Widor<br>
+      </span><br>
+      <span id="playingtime">Total playing time 73m 00s</span></p>
 ---
-

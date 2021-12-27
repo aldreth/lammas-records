@@ -1,12 +1,12 @@
 ---
-new_slug: en-priere
+slug: en-priere
 title: En Prière
 serialNumber: LAMM170
 coverImage: "../../src/images/recordings/en-priere.jpg"
 performer: The Girl Choristers of All Saints’ Church, Northampton
 directors:
-- 'Director: Edward Whiting'
-- 'Organ: Richard Pinel'
+  - "Director: Edward Whiting"
+  - "Organ: Richard Pinel"
 contentHtml: |-
   <h1>En Prière</h1>
   <p>Each year the music at All Saints’ Church goes from strength to strength. Services in the church are usually sung by the choir of boys and men - an unbroken tradition dating back over 450 years. Alongside this, a separate girls’ choir sings regularly. Concerts and recitals given by the church’s own musicians and visiting artists also form part of the busy music programme. The choirs have made three recordings on the Lammas label, and regularly undertake foreign tours, most recently to Rhode Island, New York and France, and in the coming year to Italy, Germany and Switzerland.</p>
@@ -38,32 +38,31 @@ recordingDetailsHtml: |-
       Photograph by Jeremy Jepson</p>
   </div>
 trackListingsHtml:
-- |-
-  Ave Maria Op. 67 No. 2 <span class="composer">Gabriel Fauré</span>
-  <p>Missa in simplicitate <span class="composer">Jean Langlais</span><br>
-    Kyrie<br>
-    Gloria<br>
-    Sanctus<br>
-    Benedictus<br>
-    Agnus Dei</p>
-  <p>O quam suavis<span class="composer"> Jehan Alain</span></p>
-  <p>Ave Maria <span class="composer">Jehan Alain</span></p>
-  <p>Fugue sur le thème du Carillon des heures de la Cathedrale de Soissons <span class="composer"> Maurice Duruflé</span></p>
-  <p> </p>
-- |-
-  Cinq motets <span class="composer">Jean Langlais<br>
-  </span>Ave mundi Gloria<br>
-  O Salutaris Hostia<br>
-  Tantum ergo<br>
-  O bone Jesu<br>
-  Chant Litanique
-  <p>Ave Maria Op. 93 <span class="composer">Gabriel Fauré</span></p>
-  <p>Melody (1st Movt. from Triptyque) <span class="composer">Jean Langlais</span></p>
-  <p>Pie Jesu (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span></p>
-  <p>En Prière <span class="composer">Gabriel Fauré</span></p>
-  <p>Sanctus <span class="composer">André Caplet</span></p>
-  <p>Benedictus <span class="composer">André Caplet</span></p>
-  <p>In Paradisum (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span></p>
-  <p><span id="playingtime">Total playing time 54m 06s</span></p>
+  - |-
+    Ave Maria Op. 67 No. 2 <span class="composer">Gabriel Fauré</span>
+    <p>Missa in simplicitate <span class="composer">Jean Langlais</span><br>
+      Kyrie<br>
+      Gloria<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</p>
+    <p>O quam suavis<span class="composer"> Jehan Alain</span></p>
+    <p>Ave Maria <span class="composer">Jehan Alain</span></p>
+    <p>Fugue sur le thème du Carillon des heures de la Cathedrale de Soissons <span class="composer"> Maurice Duruflé</span></p>
+    <p> </p>
+  - |-
+    Cinq motets <span class="composer">Jean Langlais<br>
+    </span>Ave mundi Gloria<br>
+    O Salutaris Hostia<br>
+    Tantum ergo<br>
+    O bone Jesu<br>
+    Chant Litanique
+    <p>Ave Maria Op. 93 <span class="composer">Gabriel Fauré</span></p>
+    <p>Melody (1st Movt. from Triptyque) <span class="composer">Jean Langlais</span></p>
+    <p>Pie Jesu (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span></p>
+    <p>En Prière <span class="composer">Gabriel Fauré</span></p>
+    <p>Sanctus <span class="composer">André Caplet</span></p>
+    <p>Benedictus <span class="composer">André Caplet</span></p>
+    <p>In Paradisum (from Requiem Op. 9) <span class="composer">Maurice Duruflé</span></p>
+    <p><span id="playingtime">Total playing time 54m 06s</span></p>
 ---
-

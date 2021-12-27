@@ -1,12 +1,12 @@
 ---
-new_slug: et-in-terra-pax
+slug: et-in-terra-pax
 title: Et in Terra Pax
 serialNumber: LAMM124
 coverImage: "../../src/images/recordings/et-in-terra-pax.jpg"
 performer: The Girls and Men of Sheffield Cathedral Choir
 directors:
-- 'Director: Neil Taylor'
-- 'Organ: Peter Heginbotham'
+  - "Director: Neil Taylor"
+  - "Organ: Peter Heginbotham"
 contentHtml: |-
   <h1>Et in Terra Pax</h1>
   <p>The Mass has been the principal service of the Christian faith since Jesus instructed his disciples to "do this in remembrance of me" at the Last Supper (Maundy Thursday). This pivotal point in the Passion story becomes the focus of millions of Christians whenever a Eucharist takes place: "with this bread and this cup we make the memorial of his saving passion, his resurrection from the dead, and his glorious ascension into heaven, and we look for the coming of his kingdom" (from the Eucharistic Prayer). In Sheffield Cathedral the Mass is celebrated daily; on Sundays and feast days the Eucharistic dramaturgy is enriched further through the inclusion of music. The points of the service at which music can replace the spoken word are normally Kyrie, Gloria, Sanctus, Benedictus and Agnus Dei, though only rarely are all these movements heard in a service. Added to this, choirs often sing motets during the mass (usually during communion), which can colour the liturgical year through the appropriateness of their texts.</p>
@@ -41,34 +41,33 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Terribilis est locus iste </span> <span class="composer"> George Malcolm</span>
-  <p><span class="trackname">Missa ad Praesepe Kyrie </span> <span class="composer">George Malcolm</span><br>
+  - |-
+    <span class="trackname">Terribilis est locus iste </span> <span class="composer"> George Malcolm</span>
+    <p><span class="trackname">Missa ad Praesepe Kyrie </span> <span class="composer">George Malcolm</span><br>
+      <span class="trackname"> Sanctus<br>
+        Benedictus<br>
+        Agnus Dei</span></p>
+    <p><span class="trackname">Veritas mea </span> <span class="composer">George Malcolm</span></p>
+    <p><span class="trackname">Missa ad Praesepe </span> <span class="composer">Gloria</span></p>
+    <p><span class="trackname">Verbum caro factum est </span> <span class="composer">George Malcolm</span></p>
+    <p><span class="trackname">Mass for Five Voices Kyrie </span> <span class="composer">Lennox Berkeley</span><br>
+      <span class="trackname"> Sanctus<br>
+        Benedictus<br>
+        Agnus Dei</span></p>
+    <p><span class="trackname">Look up, sweet babe </span> <span class="composer">Lennox Berkeley</span></p>
+    <p><span class="trackname">Mass for Five Voices </span> <span class="composer">Gloria</span></p>
+  - |-
+    <span class="trackname">Missa Brevis Kyrie </span> <span class="composer">Grayston Ives</span><br>
     <span class="trackname"> Sanctus<br>
       Benedictus<br>
-      Agnus Dei</span></p>
-  <p><span class="trackname">Veritas mea </span> <span class="composer">George Malcolm</span></p>
-  <p><span class="trackname">Missa ad Praesepe </span> <span class="composer">Gloria</span></p>
-  <p><span class="trackname">Verbum caro factum est </span> <span class="composer">George Malcolm</span></p>
-  <p><span class="trackname">Mass for Five Voices Kyrie </span> <span class="composer">Lennox Berkeley</span><br>
-    <span class="trackname"> Sanctus<br>
-      Benedictus<br>
-      Agnus Dei</span></p>
-  <p><span class="trackname">Look up, sweet babe </span> <span class="composer">Lennox Berkeley</span></p>
-  <p><span class="trackname">Mass for Five Voices </span> <span class="composer">Gloria</span></p>
-- |-
-  <span class="trackname">Missa Brevis Kyrie </span> <span class="composer">Grayston Ives</span><br>
-  <span class="trackname"> Sanctus<br>
-    Benedictus<br>
-    Agnus Dei</span>
-  <p><span class="trackname">O for a closer walk with God </span> <span class="composer">Grayston Ives</span></p>
-  <p><span class="trackname">Missa Brevis </span> <span class="composer">Gloria</span></p>
-  <p><span class="trackname">Short Mass for Sheffield Kyrie </span> <span class="composer">Mark Blatchly</span><br>
-    <span class="trackname"> Sanctus<br>
-      Benedictus<br>
-      Agnus</span></p>
-  <p><span class="trackname">Give us the wings of faith </span> <span class="composer">Mark Blatchly</span><span class="trackname"></span></p>
-  <p><span class="trackname">Short Mass for Sheffield </span> <span class="composer">Gloria</span></p>
-  <p><span id="playingtime">Total playing time 69m 00s</span></p>
+      Agnus Dei</span>
+    <p><span class="trackname">O for a closer walk with God </span> <span class="composer">Grayston Ives</span></p>
+    <p><span class="trackname">Missa Brevis </span> <span class="composer">Gloria</span></p>
+    <p><span class="trackname">Short Mass for Sheffield Kyrie </span> <span class="composer">Mark Blatchly</span><br>
+      <span class="trackname"> Sanctus<br>
+        Benedictus<br>
+        Agnus</span></p>
+    <p><span class="trackname">Give us the wings of faith </span> <span class="composer">Mark Blatchly</span><span class="trackname"></span></p>
+    <p><span class="trackname">Short Mass for Sheffield </span> <span class="composer">Gloria</span></p>
+    <p><span id="playingtime">Total playing time 69m 00s</span></p>
 ---
-

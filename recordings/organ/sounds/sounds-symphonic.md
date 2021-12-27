@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-symphonic
+slug: sounds-symphonic
 title: Sounds Symphonic
 serialNumber: LAMM126
 coverImage: "../../../src/images/recordings/sounds-symphonic.jpg"
@@ -21,23 +21,22 @@ recordingDetailsHtml: |-
       Photographs by Tony Hickey</p>
   </div>
 trackListingsHtml:
-- |-
-  Symphony No. 3 in F sharp minor, Opus 28<span class="composer"> Louis Vierne</span><br>
-  I Allegro Ma‘stoso<br>
-  II Cantilone<br>
-  III Intermezzo<br>
-  IV Adagio<br>
-  V Final
-  <p>Fantaisie in A major <span class="composer">César Franck</span></p>
-  <p>Prélude sur l'Introit de l'Epiphanie <span class="composer">Maurice Duruflé</span><br>
-   </p>
-- |-
-  Regina Coeli, Opus 64 <span class="composer">Marcel Dupré</span>
-  <p>Suite a la Francaise sur les themes populaires<span class="composer"> Pierre Cochereau</span> <span class="composer">transcribed David Briggs</span><br>
-    Air 'Trimazo'<br>
-    Gigue 'Compagnons de la Marjolaine'<br>
-    Menuet 'V'la l' bon vent'<br>
-    Toccata 'Marche des Rois'</p>
-  <p><span id="playingtime">Total playing time 64m 03s</span></p>
+  - |-
+    Symphony No. 3 in F sharp minor, Opus 28<span class="composer"> Louis Vierne</span><br>
+    I Allegro Ma‘stoso<br>
+    II Cantilone<br>
+    III Intermezzo<br>
+    IV Adagio<br>
+    V Final
+    <p>Fantaisie in A major <span class="composer">César Franck</span></p>
+    <p>Prélude sur l'Introit de l'Epiphanie <span class="composer">Maurice Duruflé</span><br>
+     </p>
+  - |-
+    Regina Coeli, Opus 64 <span class="composer">Marcel Dupré</span>
+    <p>Suite a la Francaise sur les themes populaires<span class="composer"> Pierre Cochereau</span> <span class="composer">transcribed David Briggs</span><br>
+      Air 'Trimazo'<br>
+      Gigue 'Compagnons de la Marjolaine'<br>
+      Menuet 'V'la l' bon vent'<br>
+      Toccata 'Marche des Rois'</p>
+    <p><span id="playingtime">Total playing time 64m 03s</span></p>
 ---
-

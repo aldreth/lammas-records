@@ -1,12 +1,14 @@
 ---
-new_slug: the-complete-orgelbuchlein
+slug: the-complete-orgelbuchlein
 title: The Complete Orgelbüchlein
 serialNumber: LAMM099
 coverImage: "../../../src/images/recordings/the-complete-orgelbuchlein.jpg"
-performer: 45 Chorale Preludes by Johann Sebastian Bach played on the historic Arp
+performer:
+  45 Chorale Preludes by Johann Sebastian Bach played on the historic Arp
   Schnitger organ in Steinkirchen, Germany
 directors: []
-contentHtml: "<p id=\"performer\">Played by Alexander Fiseisky</p>\n \n<h1>The Complete
+contentHtml:
+  "<p id=\"performer\">Played by Alexander Fiseisky</p>\n \n<h1>The Complete
   Orgelbüchlein</h1>\n<p>Johann Sebastian Bach's Orgelbüchlein, the most significant
   collection of chorales in the form of the so-called small organ chorale, is one
   of those works which generations of organists have grown up with.</p>\n<p>In the
@@ -71,9 +73,8 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Chorale Preludes </span> <span class="composer">Johann Sebastian Bach/span&gt;<br>
-   </span>
-- <p><span id="playingtime">Total playing time 80m</span></p>
+  - |-
+    <span class="trackname">Chorale Preludes </span> <span class="composer">Johann Sebastian Bach/span&gt;<br>
+     </span>
+  - <p><span id="playingtime">Total playing time 80m</span></p>
 ---
-

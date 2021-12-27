@@ -1,11 +1,11 @@
 ---
-new_slug: music-ever-divine-roger-drabble
+slug: music-ever-divine-roger-drabble
 title: Music Ever Divine - Roger Drabble
 serialNumber: LAMM105
 coverImage: "../../src/images/recordings/music-ever-divine-roger-drabble.jpg"
 performer: Roger Drabble
 directors:
-- 'Organ: Malcolm Archer'
+  - "Organ: Malcolm Archer"
 contentHtml: |-
   <div id="buy">
     <h1>Buy this CD.</h1>
@@ -30,31 +30,30 @@ recordingDetailsHtml: |-
    </p>
   </div>
 trackListingsHtml:
-- |-
-  Art thou troubled? <span class="composer">Georg Frideric Handel</span><br>
-  When I am laid in earth <span class="composer">Henry Purcell</span><br>
-  Bist du bei mir<span class="composer"> Attr. G.H.Stöelzel</span><br>
-  All in the April evening <span class="composer">Hugh Roberton</span><br>
-  Love came down at Christmas<span class="composer"> Malcolm Archer</span><br>
-  Orpheus with his lute <span class="composer">Arthur Sullivan</span><br>
-  Pleasure it is <span class="composer">Alan Ridout</span><br>
-  I wonder as I wander<span class="composer"> John Jacob Niles</span><br>
-  Sing a song of joy <span class="composer">Thomas Campian</span><br>
-  Litany to the Holy Spirit<span class="composer"> Peter Hurford</span><br>
-  Tell me, lovely shepherd<span class="composer"> William Boyce</span><br>
-  Linden Lea <span class="composer">Ralph Vaughan Williams</span>
-- |-
-  A New Year carol <span class="composer">Benjamin Britten</span><br>
-  How beautiful are the feet <span class="composer">Georg Frideric Handel</span><br>
-  Ex ore innocentium <span class="composer">John Ireland</span><br>
-  Come, my way, my truth, my life <span class="composer">Alexander Brent-Smith</span><br>
-  A Hymn to the Virgin<span class="composer"> Malcolm Archer</span><br>
-  Pie Jesu Domine<span class="composer"> Gabriel Fauré</span><br>
-  Hymn to the Holy Spirit<span class="composer"> Malcolm Archer</span><br>
-  The Call<span class="composer"> Ralph Vaughan Williams</span><br>
-  In the bleak mid-winter <span class="composer">Gustav Holst</span><br>
-  When God was minded to be born <span class="composer">Arr. Malcolm Archer</span><br>
-  Lord Jesus Christ (Living Lord) <span class="composer">Patrick Appleford </span>
-  <p><span id="playingtime">Total playing time 63m 32s</span></p>
+  - |-
+    Art thou troubled? <span class="composer">Georg Frideric Handel</span><br>
+    When I am laid in earth <span class="composer">Henry Purcell</span><br>
+    Bist du bei mir<span class="composer"> Attr. G.H.Stöelzel</span><br>
+    All in the April evening <span class="composer">Hugh Roberton</span><br>
+    Love came down at Christmas<span class="composer"> Malcolm Archer</span><br>
+    Orpheus with his lute <span class="composer">Arthur Sullivan</span><br>
+    Pleasure it is <span class="composer">Alan Ridout</span><br>
+    I wonder as I wander<span class="composer"> John Jacob Niles</span><br>
+    Sing a song of joy <span class="composer">Thomas Campian</span><br>
+    Litany to the Holy Spirit<span class="composer"> Peter Hurford</span><br>
+    Tell me, lovely shepherd<span class="composer"> William Boyce</span><br>
+    Linden Lea <span class="composer">Ralph Vaughan Williams</span>
+  - |-
+    A New Year carol <span class="composer">Benjamin Britten</span><br>
+    How beautiful are the feet <span class="composer">Georg Frideric Handel</span><br>
+    Ex ore innocentium <span class="composer">John Ireland</span><br>
+    Come, my way, my truth, my life <span class="composer">Alexander Brent-Smith</span><br>
+    A Hymn to the Virgin<span class="composer"> Malcolm Archer</span><br>
+    Pie Jesu Domine<span class="composer"> Gabriel Fauré</span><br>
+    Hymn to the Holy Spirit<span class="composer"> Malcolm Archer</span><br>
+    The Call<span class="composer"> Ralph Vaughan Williams</span><br>
+    In the bleak mid-winter <span class="composer">Gustav Holst</span><br>
+    When God was minded to be born <span class="composer">Arr. Malcolm Archer</span><br>
+    Lord Jesus Christ (Living Lord) <span class="composer">Patrick Appleford </span>
+    <p><span id="playingtime">Total playing time 63m 32s</span></p>
 ---
-

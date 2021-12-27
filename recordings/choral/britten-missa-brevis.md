@@ -1,13 +1,14 @@
 ---
-new_slug: britten-missa-brevis
+slug: britten-missa-brevis
 title: Britten - Missa Brevis
 serialNumber: LAMM1710
 coverImage: "../../src/images/recordings/britten-missa-brevis.jpg"
-performer: Britten - Missa Brevis and other works for treble voices featuring Kieran
+performer:
+  Britten - Missa Brevis and other works for treble voices featuring Kieran
   White
 directors:
-- 'Director: Malcolm Archer'
-- 'Organ: David Bednall'
+  - "Director: Malcolm Archer"
+  - "Organ: David Bednall"
 contentHtml: |-
   <p>The Boy Choristers of Wells Cathedral</p>
   <h1>Britten - Missa Brevis and other works for treble voices featuring Kieran White</h1>
@@ -49,30 +50,29 @@ recordingDetailsHtml: |-
       Photograph of Wells Cathedral by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Missa Brevis in D <span class="composer">Benjamin Britten</span><br>
-  Kyrie<br>
-  Gloria<br>
-  Sanctus<br>
-  Benedictus<br>
-  Agnus Dei
-  <p>Lux aeterna <span class="composer">Nadia Boulanger</span></p>
-  <p>If with all your hearts <span class="composer">Felix Mendelssohn</span></p>
-  <p>The Call <span class="composer">Ralph Vaughan Williams</span></p>
-  <p>Be still, for the presence of the Lord <span class="composer">David J Evans arr. Malcolm Archer</span></p>
-  <p>Brightest and Best <span class="composer">Malcolm Archer</span></p>
-  <p>Lead kindly light<span class="composer"> Malcolm Archer</span></p>
-  <p>Ex ore innocentium <span class="composer">John Ireland</span></p>
-- |-
-  Song for a young prophet <span class="composer">Damian Lundy arr. Malcolm Archer</span>
-  <p>When I survey the wondrous cross <span class="composer">Malcolm Archer</span></p>
-  <p>We give thee thanks, O Lord <span class="composer">Philip Moore</span></p>
-  <p>Pie Jesu <span class="composer">Gabriel Fauré</span></p>
-  <p>I call on thee <span class="composer">Stanley Vann</span></p>
-  <p>A grateful heart <span class="composer">Mary Plumstead</span></p>
-  <p>I will lift up mine eyes <span class="composer">Noel Rawsthorne</span></p>
-  <p>And now another day is gone <span class="composer">Leonard Blake</span></p>
-  <p>Nunc Dimittis in D <span class="composer">George Dyson</span></p>
-  <p><span id="playingtime">Total playing time 58m 40s</span></p>
+  - |-
+    Missa Brevis in D <span class="composer">Benjamin Britten</span><br>
+    Kyrie<br>
+    Gloria<br>
+    Sanctus<br>
+    Benedictus<br>
+    Agnus Dei
+    <p>Lux aeterna <span class="composer">Nadia Boulanger</span></p>
+    <p>If with all your hearts <span class="composer">Felix Mendelssohn</span></p>
+    <p>The Call <span class="composer">Ralph Vaughan Williams</span></p>
+    <p>Be still, for the presence of the Lord <span class="composer">David J Evans arr. Malcolm Archer</span></p>
+    <p>Brightest and Best <span class="composer">Malcolm Archer</span></p>
+    <p>Lead kindly light<span class="composer"> Malcolm Archer</span></p>
+    <p>Ex ore innocentium <span class="composer">John Ireland</span></p>
+  - |-
+    Song for a young prophet <span class="composer">Damian Lundy arr. Malcolm Archer</span>
+    <p>When I survey the wondrous cross <span class="composer">Malcolm Archer</span></p>
+    <p>We give thee thanks, O Lord <span class="composer">Philip Moore</span></p>
+    <p>Pie Jesu <span class="composer">Gabriel Fauré</span></p>
+    <p>I call on thee <span class="composer">Stanley Vann</span></p>
+    <p>A grateful heart <span class="composer">Mary Plumstead</span></p>
+    <p>I will lift up mine eyes <span class="composer">Noel Rawsthorne</span></p>
+    <p>And now another day is gone <span class="composer">Leonard Blake</span></p>
+    <p>Nunc Dimittis in D <span class="composer">George Dyson</span></p>
+    <p><span id="playingtime">Total playing time 58m 40s</span></p>
 ---
-

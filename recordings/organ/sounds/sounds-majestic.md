@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-majestic
+slug: sounds-majestic
 title: Sounds Majestic
 serialNumber: LAMM114
 coverImage: "../../../src/images/recordings/sounds-majestic.jpg"
@@ -27,19 +27,18 @@ recordingDetailsHtml: |-
     <p>Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Festal Flourish</span><span class="composer"> Gordon Jacob</span>
-  <p><span class="trackname">Méditation from Symphonie I</span><span class="composer"> Charles-Marie Widor</span></p>
-  <p><span class="trackname">Allegro Risoluto from Symphonie II </span> <span class="composer"> Louis Vierne</span></p>
-  <p><span class="trackname">Cortège et Litanie </span> <span class="composer"> Marcel Dupré</span></p>
-  <p><span class="trackname">Folk Tune </span> <span class="composer">Percy Whitlock</span></p>
-  <p><span class="trackname">Introduction and Passacaglia </span> <span class="composer"> W G Alcock</span></p>
-- |-
-  <span class="trackname">Prelude </span> <span class="composer">W H Harris</span>
-  <p><span class="trackname">'Dorian' Toccata and Fugue in D minor</span><span class="composer"> J S Bach</span></p>
-  <p><span class="trackname">Étoile du Soir </span> <span class="composer"> Louis Vierne</span></p>
-  <p><span class="trackname">Church Parade </span> <span class="composer"> Richard Lloyd</span></p>
-  <p><span class="trackname">Knightsbridge March</span><span class="composer"> Eric Coates arr. Sharpe</span></p>
-  <p><span id="playingtime">Total playing time 70m 28s</span></p>
+  - |-
+    <span class="trackname">Festal Flourish</span><span class="composer"> Gordon Jacob</span>
+    <p><span class="trackname">Méditation from Symphonie I</span><span class="composer"> Charles-Marie Widor</span></p>
+    <p><span class="trackname">Allegro Risoluto from Symphonie II </span> <span class="composer"> Louis Vierne</span></p>
+    <p><span class="trackname">Cortège et Litanie </span> <span class="composer"> Marcel Dupré</span></p>
+    <p><span class="trackname">Folk Tune </span> <span class="composer">Percy Whitlock</span></p>
+    <p><span class="trackname">Introduction and Passacaglia </span> <span class="composer"> W G Alcock</span></p>
+  - |-
+    <span class="trackname">Prelude </span> <span class="composer">W H Harris</span>
+    <p><span class="trackname">'Dorian' Toccata and Fugue in D minor</span><span class="composer"> J S Bach</span></p>
+    <p><span class="trackname">Étoile du Soir </span> <span class="composer"> Louis Vierne</span></p>
+    <p><span class="trackname">Church Parade </span> <span class="composer"> Richard Lloyd</span></p>
+    <p><span class="trackname">Knightsbridge March</span><span class="composer"> Eric Coates arr. Sharpe</span></p>
+    <p><span id="playingtime">Total playing time 70m 28s</span></p>
 ---
-

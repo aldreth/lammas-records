@@ -1,12 +1,12 @@
 ---
-new_slug: st-albans-nowell
+slug: st-albans-nowell
 title: St Albans Nowell
 serialNumber: LAMM136
 coverImage: "../../src/images/recordings/st-albans-nowell.jpg"
 performer: St Albans Cathedral Choir
 directors:
-- 'Director: Andrew Lucas'
-- 'Organ: Simon Johnson'
+  - "Director: Andrew Lucas"
+  - "Organ: Simon Johnson"
 contentHtml: |-
   <h1>St Albans Nowell</h1>
   <p>Every year the Cathedral is packed on two consecutive evenings for the annual Service of Lessons and Carols for Christmas held on the 22nd and 23rd December at 8pm. This service is lit entirely by candlelight and takes the traditional form of biblical readings, carols and hymns and prayer meditating on the miracle of our Saviour's birth in Bethlehem some 2000 years ago. For the Cathedral Choir it is the highlight of their musical year; the boys of the choir, in particular, take great pride in their effort and achievement at this service, perhaps more than on any other occasion. This is wonderful to experience and gives the service a very special atmosphere. So it is no wonder that its popularity means that seats are available only by application and are ticketed (over the two nights that means more than 3,000 people attend this service). It is the choir's great pleasure to offer this recording to a wider congregation and audience than we could ever achieve 'live' and to include one or two items from our Christmas repertoire that are not usually sung at this service.</p>
@@ -39,27 +39,26 @@ recordingDetailsHtml: |-
       Photograph by David Kelsall</p>
   </div>
 trackListingsHtml:
-- |-
-  Benedicamus Domino<span class="composer"> Peter Warlock</span><br>
-  Once in Royal David's city <span class="composer">H J Gauntlett arr. Willcocks</span><br>
-  A spotless Rose <span class="composer">Herbert Howells</span><br>
-  Adam lay y-bounden Treble solo only <span class="composer">Peter Warlock</span><br>
-  Es ist ein Ros' entsprungen <span class="composer">Jan Sandström</span><br>
-  Of the Father's heart <span class="composer">trad. arr. David Willcocks</span><br>
-  Ding dong merrily on high<span class="composer"> trad. harm. Charles Wood</span><br>
-  Riu, riu, chiu Men only <span class="composer">Spanish trad.</span><br>
-  The Lamb<span class="composer"> John Tavener</span><br>
-  O little town of Bethlehem<span class="composer"> H Walford Davies</span><br>
-  Sing lullaby <span class="composer">Herbert Howells</span>
-- |-
-  The Little Road to Bethlehem Treble solo only<span class="composer"> Michael Head</span><br>
-  Sussex Carol <span class="composer">trad. arr. David Willcocks</span><br>
-  The little drummer boy Men only <span class="composer">arr. John McCarthy</span><br>
-  I wonder as I wander <span class="composer">trad. arr. John Rutter</span><br>
-  The Three Kings <span class="composer">Peter Cornelius</span><br>
-  Here is the little door <span class="composer">Herbert Howells</span><br>
-  Silent Night <span class="composer">Franz Grüber arr. Barry Rose</span><br>
-  O come all ye faithful <span class="composer">trad. descant Barry Rose</span>
-  <p><span id="playingtime">Total playing time 63m 54s</span></p>
+  - |-
+    Benedicamus Domino<span class="composer"> Peter Warlock</span><br>
+    Once in Royal David's city <span class="composer">H J Gauntlett arr. Willcocks</span><br>
+    A spotless Rose <span class="composer">Herbert Howells</span><br>
+    Adam lay y-bounden Treble solo only <span class="composer">Peter Warlock</span><br>
+    Es ist ein Ros' entsprungen <span class="composer">Jan Sandström</span><br>
+    Of the Father's heart <span class="composer">trad. arr. David Willcocks</span><br>
+    Ding dong merrily on high<span class="composer"> trad. harm. Charles Wood</span><br>
+    Riu, riu, chiu Men only <span class="composer">Spanish trad.</span><br>
+    The Lamb<span class="composer"> John Tavener</span><br>
+    O little town of Bethlehem<span class="composer"> H Walford Davies</span><br>
+    Sing lullaby <span class="composer">Herbert Howells</span>
+  - |-
+    The Little Road to Bethlehem Treble solo only<span class="composer"> Michael Head</span><br>
+    Sussex Carol <span class="composer">trad. arr. David Willcocks</span><br>
+    The little drummer boy Men only <span class="composer">arr. John McCarthy</span><br>
+    I wonder as I wander <span class="composer">trad. arr. John Rutter</span><br>
+    The Three Kings <span class="composer">Peter Cornelius</span><br>
+    Here is the little door <span class="composer">Herbert Howells</span><br>
+    Silent Night <span class="composer">Franz Grüber arr. Barry Rose</span><br>
+    O come all ye faithful <span class="composer">trad. descant Barry Rose</span>
+    <p><span id="playingtime">Total playing time 63m 54s</span></p>
 ---
-

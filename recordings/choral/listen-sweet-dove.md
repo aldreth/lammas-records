@@ -1,12 +1,12 @@
 ---
-new_slug: listen-sweet-dove
+slug: listen-sweet-dove
 title: Listen Sweet Dove
 serialNumber: LAMM087
 coverImage: "../../src/images/recordings/listen-sweet-dove.jpg"
 performer: Guildford Cathedral Choir
 directors:
-- 'Director: Andrew Millington'
-- 'Organ: Geoffrey Morgan'
+  - "Director: Andrew Millington"
+  - "Organ: Geoffrey Morgan"
 contentHtml: |-
   <h1>Listen Sweet Dove</h1>
   <p>On May 17th 1961 the Cathedral of the Holy Spirit Guildford was consecrated; a monumental act of faith and the first cathedral to be built in the south of England on a new site since the Reformation. The building itself, designed by Sir Edward Maufe, is "modern" in its style and plan but it takes as its inspiration the great and austere cathedrals of the gothic period. Perhaps it was fitting, therefore, that the vision for its musical life would follow the pattern of daily sung services in the monastic tradition of the older English foundations. The establishment and development of the Cathedral Choir by Barry Rose in the early days is an astonishing story in itself, and has been carefully documented in a fascinating book entitled "The Beat is Irrelevant" written by Simon Carpenter, a Guildford chorister in the 1960's.</p>
@@ -38,25 +38,24 @@ recordingDetailsHtml: |-
       Recording, editing and artwork by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Listen sweet dove <span class="composer">Grayston Ives</span><br>
-  Dum complerentur <span class="composer">G.P. da Palestrina</span><br>
-  Psalm 122 <span class="composer">Chant by Barry Rose</span><br>
-  Sing joyfully <span class="composer">John Mundy</span><br>
-  O praise God in his holiness <span class="composer">Andrew Millington</span><br>
-  If ye love me <span class="composer">Thomas Tallis</span><br>
-  One thing have I desired of the<span class="composer"> Lord Philip Moore</span><br>
-  I will lift up mine eyes <span class="composer">Humphrey Clucas</span><br>
-  Gracious Spirit <span class="composer">Sebastian Forbes</span>
-  <p> </p>
-- |-
-  Locus iste <span class="composer">Anton Bruckner</span><br>
-  Christ the fair glory <span class="composer">Andrew Millington</span><br>
-  Magnificat in D minor <span class="composer">Francis Jackson</span><br>
-  Nunc Dimittis <span class="composer">Francis Jackson</span><br>
-  Sacerdotes Domini <span class="composer">William Byrd</span><br>
-  Hymn: Gracious Spirit <span class="composer">Grayston Ives</span><br>
-  Te Deum (Collegium Regale)<span class="composer"> Herbert Howells</span>
-  <p><span id="playingtime">Total playing time 64m 00s</span></p>
+  - |-
+    Listen sweet dove <span class="composer">Grayston Ives</span><br>
+    Dum complerentur <span class="composer">G.P. da Palestrina</span><br>
+    Psalm 122 <span class="composer">Chant by Barry Rose</span><br>
+    Sing joyfully <span class="composer">John Mundy</span><br>
+    O praise God in his holiness <span class="composer">Andrew Millington</span><br>
+    If ye love me <span class="composer">Thomas Tallis</span><br>
+    One thing have I desired of the<span class="composer"> Lord Philip Moore</span><br>
+    I will lift up mine eyes <span class="composer">Humphrey Clucas</span><br>
+    Gracious Spirit <span class="composer">Sebastian Forbes</span>
+    <p> </p>
+  - |-
+    Locus iste <span class="composer">Anton Bruckner</span><br>
+    Christ the fair glory <span class="composer">Andrew Millington</span><br>
+    Magnificat in D minor <span class="composer">Francis Jackson</span><br>
+    Nunc Dimittis <span class="composer">Francis Jackson</span><br>
+    Sacerdotes Domini <span class="composer">William Byrd</span><br>
+    Hymn: Gracious Spirit <span class="composer">Grayston Ives</span><br>
+    Te Deum (Collegium Regale)<span class="composer"> Herbert Howells</span>
+    <p><span id="playingtime">Total playing time 64m 00s</span></p>
 ---
-

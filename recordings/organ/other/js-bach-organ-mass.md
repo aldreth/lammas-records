@@ -1,11 +1,11 @@
 ---
-new_slug: js-bach-organ-mass
+slug: js-bach-organ-mass
 title: JS Bach Organ Mass
 serialNumber: LAMM092
 coverImage: "../../../src/images/recordings/js-bach-organ-mass.jpg"
-performer: 
+performer:
 directors:
-- 'Organ: Peter Dyke'
+  - "Organ: Peter Dyke"
 contentHtml: |-
   <h1>JS Bach Organ Mass</h1>
   <p>The twenty-seven works of the Clavierübung III were the first organ music to be published by Bach and their appearance in 1739 allowed a wider audience to appreciate some of his greatest contrapuntal artistry. The bulk of the collection comprises twenty-one pieces based on Lutheran chorale melodies. In most cases each chorale is set twice, with one large scale work for manuals only (the exception is Allein Gott, which receives two small scale settings). The chorales chosen are among those likely to have been used most frequently because of their position in the Lutheran Mass (Kyrie, Gloria) or their relevance to the teaching of a particular aspect of faith (the Ten Commandments, Baptism, the Lord"s Prayer, the Communion).</p>
@@ -31,22 +31,21 @@ recordingDetailsHtml: |-
     <p>Peter Dyke would like to thank Lance Andrews, Edward Breen, John Dyke, Christopher Gray, Ben Harris, Jane Kelman-McConnachie, Dorothee Nauth, Barry Rose, David Sanger and David Whitehead for their help with this recording.</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Prelude and Fugue in E flat major </span> <span class="composer">BWV 552</span><br>
-  <span class="trackname"> Clavierübung III: The Greater Chorales</span>
-  <p><span class="trackname">Präludium </span> <span class="composer">BWV 552</span><br>
-    <span class="trackname"> Kyrie, Gott Vater in Ewigkeit </span> <span class="composer">BWV 669</span><br>
-    <span class="trackname"> Christe, aller Welt Trost </span> <span class="composer">BWV 670</span><br>
-    <span class="trackname"> Kyrie, Gott heiliger Geist </span> <span class="composer">BWV 671</span><br>
-    <span class="trackname"> Allein Gott in der Höh sei Ehr</span><span class="composer"> BWV 676</span><br>
-    <span class="trackname"> Dies sind die heilgen zehn Gebot </span> <span class="composer">BWV 678</span></p>
-- |-
-  <span class="trackname">Wir glauben all an einen Gott </span> <span class="composer"> BWV 680</span><br>
-  <span class="trackname"> Vater unser im Himmelreich</span><span class="composer"> BWV 682</span><br>
-  <span class="trackname"> Christ, unser Herr, zum Jordan kam</span><span class="composer"> BWV 684</span><br>
-  <span class="trackname"> Aus tiefer Not schrei ich zu dir</span><span class="composer"> BWV 686</span><br>
-  <span class="trackname"> Jesus Christus, unser Heiland</span><span class="composer"> BWV 688</span><br>
-  <span class="trackname"> Fuga - </span> <span class="composer">BWV 552</span>
-  <p><span id="playingtime">Total playing time 70m</span></p>
+  - |-
+    <span class="trackname">Prelude and Fugue in E flat major </span> <span class="composer">BWV 552</span><br>
+    <span class="trackname"> Clavierübung III: The Greater Chorales</span>
+    <p><span class="trackname">Präludium </span> <span class="composer">BWV 552</span><br>
+      <span class="trackname"> Kyrie, Gott Vater in Ewigkeit </span> <span class="composer">BWV 669</span><br>
+      <span class="trackname"> Christe, aller Welt Trost </span> <span class="composer">BWV 670</span><br>
+      <span class="trackname"> Kyrie, Gott heiliger Geist </span> <span class="composer">BWV 671</span><br>
+      <span class="trackname"> Allein Gott in der Höh sei Ehr</span><span class="composer"> BWV 676</span><br>
+      <span class="trackname"> Dies sind die heilgen zehn Gebot </span> <span class="composer">BWV 678</span></p>
+  - |-
+    <span class="trackname">Wir glauben all an einen Gott </span> <span class="composer"> BWV 680</span><br>
+    <span class="trackname"> Vater unser im Himmelreich</span><span class="composer"> BWV 682</span><br>
+    <span class="trackname"> Christ, unser Herr, zum Jordan kam</span><span class="composer"> BWV 684</span><br>
+    <span class="trackname"> Aus tiefer Not schrei ich zu dir</span><span class="composer"> BWV 686</span><br>
+    <span class="trackname"> Jesus Christus, unser Heiland</span><span class="composer"> BWV 688</span><br>
+    <span class="trackname"> Fuga - </span> <span class="composer">BWV 552</span>
+    <p><span id="playingtime">Total playing time 70m</span></p>
 ---
-

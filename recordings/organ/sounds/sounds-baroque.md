@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-baroque
+slug: sounds-baroque
 title: Sounds Baroque
 serialNumber: LAMM181
 coverImage: "../../../src/images/recordings/sounds-baroque.jpg"
@@ -36,39 +36,38 @@ recordingDetailsHtml: |-
       Photograph by Terence Charlston</p>
   </div>
 trackListingsHtml:
-- |-
-  Toccata secunda in G minor <span class="composer">Georg Muffat</span>
-  <p>Voluntary in G major <span class="composer">Henry Purcell</span></p>
-  <p>Kyries (Messe pour les Paroisses) <span class="composer">François Couperin</span><br>
-    Plein chant du premier Kyrie, en Taille<br>
-    Fugue sur les jeux d'anches<br>
-    Recit de Chromhorne<br>
-    Dialogue sur la trompette et le Chromhorne<br>
-    Plein chant</p>
-  <p>Allein Gott in der Höh sei Ehr BWV 663 <span class="composer">Johann Sebastian Bach</span></p>
-  <p>Toccata and Fugue in D minor “The Dorian” BWV 538<span class="composer"> J. S. Bach</span><br>
-    Toccata<br>
-    Fugue</p>
-  <p>Jesu, meine Freude BWV 753 <span class="composer">J. S. Bach (completed Charlston)</span></p>
-  <p>Ich dank dir schon <span class="composer">Johann Philipp Kirnberger</span></p>
-  <p>Herr Jesu Christ, dich zu uns wend BWV 709 <span class="composer">J. S. Bach</span></p>
-- |-
-  Prelude and Fugue in C major <span class="composer">Georg Böhm</span><br>
-  Prelude<br>
-  Fugue
-  <p>Komm, Gott, Schöpfer, Heiliger Geist BWV 667<span class="composer"> J. S. Bach</span></p>
-  <p>Benedictus Chromhorne en Taille (Messe pour les Paroisses) <span class="composer">F. Couperin</span></p>
-  <p>Sonata in A minor Wq 70/4 <span class="composer">Carl Philipp Emanuel Bach</span><br>
-    Allegro assai<br>
-    Adagio<br>
-    Allegro</p>
-  <p>Musical Circle <span class="composer">J. Kirnberger</span></p>
-  <p>Voluntary Op.7 No.7 <span class="composer">John Stanley</span><br>
-    Diapasons adagio<br>
-    Cornet</p>
-  <p>Voluntary Op.7 No.9 <span class="composer">J. Stanley</span><br>
-    Largo staccato<br>
-    Vivace</p>
-  <p><span id="playingtime">Total playing time 79m 11s</span></p>
+  - |-
+    Toccata secunda in G minor <span class="composer">Georg Muffat</span>
+    <p>Voluntary in G major <span class="composer">Henry Purcell</span></p>
+    <p>Kyries (Messe pour les Paroisses) <span class="composer">François Couperin</span><br>
+      Plein chant du premier Kyrie, en Taille<br>
+      Fugue sur les jeux d'anches<br>
+      Recit de Chromhorne<br>
+      Dialogue sur la trompette et le Chromhorne<br>
+      Plein chant</p>
+    <p>Allein Gott in der Höh sei Ehr BWV 663 <span class="composer">Johann Sebastian Bach</span></p>
+    <p>Toccata and Fugue in D minor “The Dorian” BWV 538<span class="composer"> J. S. Bach</span><br>
+      Toccata<br>
+      Fugue</p>
+    <p>Jesu, meine Freude BWV 753 <span class="composer">J. S. Bach (completed Charlston)</span></p>
+    <p>Ich dank dir schon <span class="composer">Johann Philipp Kirnberger</span></p>
+    <p>Herr Jesu Christ, dich zu uns wend BWV 709 <span class="composer">J. S. Bach</span></p>
+  - |-
+    Prelude and Fugue in C major <span class="composer">Georg Böhm</span><br>
+    Prelude<br>
+    Fugue
+    <p>Komm, Gott, Schöpfer, Heiliger Geist BWV 667<span class="composer"> J. S. Bach</span></p>
+    <p>Benedictus Chromhorne en Taille (Messe pour les Paroisses) <span class="composer">F. Couperin</span></p>
+    <p>Sonata in A minor Wq 70/4 <span class="composer">Carl Philipp Emanuel Bach</span><br>
+      Allegro assai<br>
+      Adagio<br>
+      Allegro</p>
+    <p>Musical Circle <span class="composer">J. Kirnberger</span></p>
+    <p>Voluntary Op.7 No.7 <span class="composer">John Stanley</span><br>
+      Diapasons adagio<br>
+      Cornet</p>
+    <p>Voluntary Op.7 No.9 <span class="composer">J. Stanley</span><br>
+      Largo staccato<br>
+      Vivace</p>
+    <p><span id="playingtime">Total playing time 79m 11s</span></p>
 ---
-

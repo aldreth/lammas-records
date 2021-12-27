@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-awesome
+slug: sounds-awesome
 title: Sounds Awesome
 serialNumber: LAMM183
 coverImage: "../../../src/images/recordings/sounds-awesome.jpg"
-performer: Robert Crowley plays music by Alan Ridout, Humphrey Clucas, Peter Wishart
+performer:
+  Robert Crowley plays music by Alan Ridout, Humphrey Clucas, Peter Wishart
   and Humphrey Searle on the organ of Canterbury Cathedral
 directors: []
 contentHtml: |-
@@ -33,29 +34,28 @@ recordingDetailsHtml: |-
       Cover photograph: a window in Chichester Cathedral taken by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Reredos </span> <span class="composer">Alan Ridout</span>
-  <p><span class="trackname">Paean </span> <span class="composer">Alan Ridout</span></p>
-  <p><span class="trackname">Prelude on ‘St Thomas Honour We’ </span> <span class="composer">Alan Ridout</span></p>
-  <p><span class="trackname">Epithalamium </span> <span class="composer">Alan Ridout</span></p>
-  <p><span class="trackname">The Seven Last Words </span> <span class="composer">Alan Ridout</span><br>
-    <span class="trackname"> ‘Father, forgive them: for they know not what they do’<br>
-       ‘Woman, behold thy son…Behold thy mother’<br>
-       ‘My God, my God, why hast thou forsaken me?’<br>
-       ‘Verily I say unto thee: Today shalt thou be with me in paradise’<br>
-       ‘I thirst’</span><br>
-    <span class="trackname"> ‘It is finished’<br>
-       ‘Father, into thy hands I commend my spirit’</span></p>
-- |-
-  <span class="trackname">Psalm Prelude </span> <span class="composer">Humphrey Clucas</span>
-  <p><span class="trackname">Symphony for Organ </span> <span class="composer">Humphrey Clucas</span><br>
-    <span class="trackname"> Allegro<br>
-      Scherzo<br>
-      Variations</span></p>
-  <p><span class="trackname">Pastorale and Fughetta </span> <span class="composer">Peter Wishart</span><br>
-    <span class="trackname"> Pastorale<br>
-      Fughetta</span></p>
-  <p><span class="trackname">Cyprus Dances Op 76 </span> <span class="composer">Humphrey Searle</span></p>
-  <p><span id="playingtime">Total playing time 70m 17s</span></p>
+  - |-
+    <span class="trackname">Reredos </span> <span class="composer">Alan Ridout</span>
+    <p><span class="trackname">Paean </span> <span class="composer">Alan Ridout</span></p>
+    <p><span class="trackname">Prelude on ‘St Thomas Honour We’ </span> <span class="composer">Alan Ridout</span></p>
+    <p><span class="trackname">Epithalamium </span> <span class="composer">Alan Ridout</span></p>
+    <p><span class="trackname">The Seven Last Words </span> <span class="composer">Alan Ridout</span><br>
+      <span class="trackname"> ‘Father, forgive them: for they know not what they do’<br>
+         ‘Woman, behold thy son…Behold thy mother’<br>
+         ‘My God, my God, why hast thou forsaken me?’<br>
+         ‘Verily I say unto thee: Today shalt thou be with me in paradise’<br>
+         ‘I thirst’</span><br>
+      <span class="trackname"> ‘It is finished’<br>
+         ‘Father, into thy hands I commend my spirit’</span></p>
+  - |-
+    <span class="trackname">Psalm Prelude </span> <span class="composer">Humphrey Clucas</span>
+    <p><span class="trackname">Symphony for Organ </span> <span class="composer">Humphrey Clucas</span><br>
+      <span class="trackname"> Allegro<br>
+        Scherzo<br>
+        Variations</span></p>
+    <p><span class="trackname">Pastorale and Fughetta </span> <span class="composer">Peter Wishart</span><br>
+      <span class="trackname"> Pastorale<br>
+        Fughetta</span></p>
+    <p><span class="trackname">Cyprus Dances Op 76 </span> <span class="composer">Humphrey Searle</span></p>
+    <p><span id="playingtime">Total playing time 70m 17s</span></p>
 ---
-

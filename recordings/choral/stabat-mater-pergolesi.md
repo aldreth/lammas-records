@@ -1,12 +1,13 @@
 ---
-new_slug: stabat-mater-pergolesi
+slug: stabat-mater-pergolesi
 title: Stabat Mater - Pergolesi
 serialNumber: LAMM184
 coverImage: "../../src/images/recordings/stabat-mater-pergolesi.jpg"
-performer: "St Albans Abbey Girls Choir\n\t\tEmma Kirkby\n\t\tCatherine Denley\n\t\tLondon
+performer:
+  "St Albans Abbey Girls Choir\n\t\tEmma Kirkby\n\t\tCatherine Denley\n\t\tLondon
   Baroque"
 directors:
-- 'Director: Simon Johnson'
+  - "Director: Simon Johnson"
 contentHtml: |-
   <h1>Stabat Mater</h1>
   <h2>O Euchari Hildegard of Bingen (1098-1179)</h2>
@@ -57,29 +58,28 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">O Euchari </span> <span class="composer">Hildegard of Bingen</span>
-  <p><span class="trackname">Stabat Mater </span> <span class="composer">Giovanni Battista Pergolesi</span><br>
-    <span class="trackname"> Stabat mater dolorosa<br>
-      Cujus animam gementem<br>
-      O quam tristis et afflicta<br>
-      Quae moerebat et dolebat</span><br>
-    <span class="trackname"> Quis est homo<br>
-      Vidit suum dulcem natum<br>
-      Eja mater fons amoris<br>
-      Fac, ut ardeat cor meum<br>
-      Sancta mater, istud agas<br>
-      Fac ut portem Christi mortem<br>
-      Inflammatus et accensus<br>
-      Quando corpus morietur</span></p>
-- |-
-  <span class="trackname">O mysterium ineffabile </span> <span class="composer">Jean François Lallouette</span>
-  <p><span class="trackname">Serve bone </span> <span class="composer">Marc-Antoine Charpentier</span></p>
-  <p><span class="trackname">Pulchra es </span> <span class="composer">Marc-Antoine Charpentier</span></p>
-  <p><span class="trackname">O bone Jesu </span> <span class="composer">Richard Dering</span></p>
-  <p><span class="trackname">In nomine Jesu </span> <span class="composer">Jan Baptist Verrijt</span></p>
-  <p><span class="trackname">Ut queant laxis </span> <span class="composer">Claudio Monteverdi</span></p>
-  <p><span class="trackname">Confitebor Terzo alla Francese </span> <span class="composer">Claudio Monteverdi</span></p>
-  <p><span id="playingtime">Total playing time 63m 42s</span></p>
+  - |-
+    <span class="trackname">O Euchari </span> <span class="composer">Hildegard of Bingen</span>
+    <p><span class="trackname">Stabat Mater </span> <span class="composer">Giovanni Battista Pergolesi</span><br>
+      <span class="trackname"> Stabat mater dolorosa<br>
+        Cujus animam gementem<br>
+        O quam tristis et afflicta<br>
+        Quae moerebat et dolebat</span><br>
+      <span class="trackname"> Quis est homo<br>
+        Vidit suum dulcem natum<br>
+        Eja mater fons amoris<br>
+        Fac, ut ardeat cor meum<br>
+        Sancta mater, istud agas<br>
+        Fac ut portem Christi mortem<br>
+        Inflammatus et accensus<br>
+        Quando corpus morietur</span></p>
+  - |-
+    <span class="trackname">O mysterium ineffabile </span> <span class="composer">Jean François Lallouette</span>
+    <p><span class="trackname">Serve bone </span> <span class="composer">Marc-Antoine Charpentier</span></p>
+    <p><span class="trackname">Pulchra es </span> <span class="composer">Marc-Antoine Charpentier</span></p>
+    <p><span class="trackname">O bone Jesu </span> <span class="composer">Richard Dering</span></p>
+    <p><span class="trackname">In nomine Jesu </span> <span class="composer">Jan Baptist Verrijt</span></p>
+    <p><span class="trackname">Ut queant laxis </span> <span class="composer">Claudio Monteverdi</span></p>
+    <p><span class="trackname">Confitebor Terzo alla Francese </span> <span class="composer">Claudio Monteverdi</span></p>
+    <p><span id="playingtime">Total playing time 63m 42s</span></p>
 ---
-

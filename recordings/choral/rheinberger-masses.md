@@ -1,11 +1,11 @@
 ---
-new_slug: rheinberger-masses
+slug: rheinberger-masses
 title: Rheinberger Masses
 serialNumber: LAMM156
 coverImage: "../../src/images/recordings/rheinberger-masses.jpg"
 performer: The Choirs of Blackburn Cathedral sing the music of Josef Rheinberger
 directors:
-- 'Director: Richard Tanner'
+  - "Director: Richard Tanner"
 contentHtml: |-
   <p id="director">Organ: Greg Morris</p>
   <h1>Rheinberger Masses</h1>
@@ -52,42 +52,41 @@ recordingDetailsHtml: |-
       Cover photograph by Brian Newton</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Messe in A, op.126<br>
-    Ladies of the Renaissance Singers </span><br>
-  Kyrie<br>
-  Gloria<br>
-  Credo<br>
-  Sanctus<br>
-  Benedictus<br>
-  Agnus Dei
-  <p><span class="composer">Messe in F, op. 190<br>
-      Men of Blackburn Cathedral Choir </span><br>
+  - |-
+    <span class="composer">Messe in A, op.126<br>
+      Ladies of the Renaissance Singers </span><br>
     Kyrie<br>
     Gloria<br>
     Credo<br>
     Sanctus<br>
     Benedictus<br>
-    Agnus Dei</p>
-  <p> </p>
-- |-
-  <span class="composer">Missa Puerorum, op. 62<br>
-    Blackburn Cathedral Girls Choir </span><br>
-  Kyrie<br>
-  Gloria<br>
-  Graduale<br>
-  Credo<br>
-  Sanctus<br>
-  Benedictus<br>
-  Agnus
-  <p><span class="composer">Missa Brevis in F, op. 117<br>
-      Blackburn Cathedral Choir (Boys and Men) </span><br>
+    Agnus Dei
+    <p><span class="composer">Messe in F, op. 190<br>
+        Men of Blackburn Cathedral Choir </span><br>
+      Kyrie<br>
+      Gloria<br>
+      Credo<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</p>
+    <p> </p>
+  - |-
+    <span class="composer">Missa Puerorum, op. 62<br>
+      Blackburn Cathedral Girls Choir </span><br>
     Kyrie<br>
     Gloria<br>
+    Graduale<br>
     Credo<br>
     Sanctus<br>
     Benedictus<br>
-    Agnus Dei</p>
-  <p><span id="playingtime">Total playing time 69m 40s</span></p>
+    Agnus
+    <p><span class="composer">Missa Brevis in F, op. 117<br>
+        Blackburn Cathedral Choir (Boys and Men) </span><br>
+      Kyrie<br>
+      Gloria<br>
+      Credo<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</p>
+    <p><span id="playingtime">Total playing time 69m 40s</span></p>
 ---
-

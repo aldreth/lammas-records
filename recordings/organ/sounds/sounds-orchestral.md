@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-orchestral
+slug: sounds-orchestral
 title: Sounds Orchestral
 serialNumber: LAMM197
 coverImage: "../../../src/images/recordings/sounds-orchestral.jpg"
-performer: "Symphonies by Schubert and Mendelssohn\n\t\ttranscribed for Organ Duet
+performer:
+  "Symphonies by Schubert and Mendelssohn\n\t\ttranscribed for Organ Duet
   by David Gibbs"
 directors: []
 contentHtml: |-
@@ -46,18 +47,17 @@ recordingDetailsHtml: |-
       Cover picture “Sun through blossom trees” by Mark Bennett</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Symphony No. 5 in B flat D485 </span> <span class="composer">Franz Schubert</span><br>
-  <span class="trackname"> First movement - Allegro<br>
-    Second movement - Andante con moto</span><br>
-  <span class="trackname"> Third movement - Allegro molto</span><br>
-  <span class="trackname"> Fourth movement - Allegro vivace</span>
-- |-
-  <span class="trackname">Symphony No. 4 Op. 90 </span> <span class="composer">Felix Mendelssohn-Bartholdy</span><br>
-  <span class="trackname"> First movement - Allegro vivace<br>
-    Second movement - Andante con moto<br>
-    Third movement - Con moto moderato<br>
-    Fourth movement (Saltarello) - Presto</span>
-  <p><span id="playingtime">Total playing time 62m 37s</span></p>
+  - |-
+    <span class="trackname">Symphony No. 5 in B flat D485 </span> <span class="composer">Franz Schubert</span><br>
+    <span class="trackname"> First movement - Allegro<br>
+      Second movement - Andante con moto</span><br>
+    <span class="trackname"> Third movement - Allegro molto</span><br>
+    <span class="trackname"> Fourth movement - Allegro vivace</span>
+  - |-
+    <span class="trackname">Symphony No. 4 Op. 90 </span> <span class="composer">Felix Mendelssohn-Bartholdy</span><br>
+    <span class="trackname"> First movement - Allegro vivace<br>
+      Second movement - Andante con moto<br>
+      Third movement - Con moto moderato<br>
+      Fourth movement (Saltarello) - Presto</span>
+    <p><span id="playingtime">Total playing time 62m 37s</span></p>
 ---
-

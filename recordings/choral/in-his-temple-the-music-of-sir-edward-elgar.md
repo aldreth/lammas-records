@@ -1,12 +1,12 @@
 ---
-new_slug: in-his-temple-the-music-of-sir-edward-elgar
+slug: in-his-temple-the-music-of-sir-edward-elgar
 title: In His Temple - the music of Sir Edward Elgar
 serialNumber: LAMM187
 coverImage: "../../src/images/recordings/in-his-temple-the-music-of-sir-edward-elgar.jpg"
 performer: The Choir and Organ of St Paul’s, Rock Creek Parish, Washington DC USA
 directors:
-- 'Director & Solo Organist: Graham Elliott'
-- 'Organ accompanist: Neil Weston'
+  - "Director & Solo Organist: Graham Elliott"
+  - "Organ accompanist: Neil Weston"
 contentHtml: |-
   <h1>In His Temple - the music of Sir Edward Elgar</h1>
   <p>Elgar’s sacred choral music possesses the same innate qualities so admired today in his orchestral music, namely an unerring sense for musical development and drama, allied to a glorious ear for melody. This selection follows him from early settings for the Roman Catholic liturgy, written after he had succeeded his father as organist at St George’s Church in Worcester, right through to his heyday as the Master of the King’s Musik, and laureate of the Empire, commissioned to write powerful settings such as Give unto the Lord for St Paul’s Cathedral in 1914.</p>
@@ -42,18 +42,17 @@ recordingDetailsHtml: |-
       Photograph by Mauricio Franco</p>
   </div>
 trackListingsHtml:
-- |-
-  Great is the Lord (Psalm 48), Opus 67
-  <p>Ave verum corpus, Opus 2, No 1</p>
-  <p>Sonata in G (1st movement), Opus 28 Organ</p>
-  <p>O salutaris hostia</p>
-  <p>Ave Maria, Opus 2, No 2</p>
-- |-
-  Give unto the Lord (Psalm 29) Opus 74
-  <p>O salutaris hostia</p>
-  <p>Doubt not thy Father’s care</p>
-  <p>Te Deum laudamus, Opus 34, No 1</p>
-  <p>Benedictus, Opus 34, No 2</p>
-  <p><span id="playingtime">Total playing time 58m 24s</span></p>
+  - |-
+    Great is the Lord (Psalm 48), Opus 67
+    <p>Ave verum corpus, Opus 2, No 1</p>
+    <p>Sonata in G (1st movement), Opus 28 Organ</p>
+    <p>O salutaris hostia</p>
+    <p>Ave Maria, Opus 2, No 2</p>
+  - |-
+    Give unto the Lord (Psalm 29) Opus 74
+    <p>O salutaris hostia</p>
+    <p>Doubt not thy Father’s care</p>
+    <p>Te Deum laudamus, Opus 34, No 1</p>
+    <p>Benedictus, Opus 34, No 2</p>
+    <p><span id="playingtime">Total playing time 58m 24s</span></p>
 ---
-

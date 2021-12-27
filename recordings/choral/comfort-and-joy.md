@@ -1,12 +1,12 @@
 ---
-new_slug: comfort-and-joy
+slug: comfort-and-joy
 title: Comfort And Joy
 serialNumber: LAMM129
 coverImage: "../../src/images/recordings/comfort-and-joy.jpg"
 performer: The Saint Cecilia Singers
 directors:
-- 'Director: Ian Ball'
-- 'Organ: David Bednall'
+  - "Director: Ian Ball"
+  - "Organ: David Bednall"
 contentHtml: |-
   <h1>Comfort And Joy</h1>
   <p>The highlight of the St Cecilia Singers' year is the Christmas Concert in Gloucester Cathedral. The choir's home and principal venue since it was founded 52 years ago by Donald Hunt, then Assistant Organist, the Cathedral is a particularly magical place at Christmas. A loyal capacity audience enjoys the broadest possible repertoire, often sung from the farthest reaches of the building, adds their voices to the singing of hymns and carols, and listens to the challenging and often humourous readings which intersperse the music from choir and organ.</p>
@@ -53,28 +53,27 @@ recordingDetailsHtml: |-
     <p>© Lammas Records 2001</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Gaudete! anon.</span><span class="composer"> arr. Ian Ball</span><br>
-  <span class="trackname"> Lo, he comes with clouds descending </span> <span class="composer">T. Oliver. Descant by Ian Ball</span><br>
-  <span class="trackname">Alma redemptoris mater</span><span class="composer"> anon. English 15th-century, edited Ian Ball</span><br>
-  <span class="trackname">Riu, riu, chiu</span><span class="composer"> ascribed to Mateo Flecha the elder</span><br>
-  <span class="trackname">O little town of Bethlehem </span> <span class="composer">trad English. Descant by Iain Simcock</span><br>
-  <span class="trackname">O magnum mysterium</span><span class="composer"> Francis Poulenc</span><br>
-  <span class="trackname">Magnificat</span><span class="composer"> Ian Ball </span><br>
-  <span class="trackname">A spotless rose </span> <span class="composer">Herbert Howells<br>
-  </span> <span class="trackname">Sing Lullaby </span> <span class="composer">Herbert Howells<br>
-  </span> <span class="trackname">Long the night </span> <span class="composer">Ukranian arr. Roy Massey</span><br>
-- |-
-  <span class="trackname">Ave Maria</span><span class="composer"> Johannes Brahms</span><br>
-  <span class="trackname"> Quem vidistis, pastores? </span> <span class="composer">Orlando di Lassus</span><br>
-  <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn-Bartholdy Descant by Richard Jeffrey-Gray<br>
-  </span> <span class="trackname">No small wonder</span><span class="composer"> Paul Edwards</span><br>
-  <span class="trackname">In dulci jubilo</span><span class="composer"> Samuel Scheidt</span><br>
-  <span class="trackname"> Coventry Carol</span><span class="composer"> arr. Francis Grier</span><br>
-  <span class="trackname">A Christmas Carol </span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname">Rudolph the red-nosed reindeer </span> <span class="composer">Johnny Marks, arr. Philip Colls</span><br>
-  <span class="trackname">Have yourself a merry little Christmas </span> <span class="composer">Martin &amp; Blane, arr. Ian Ball<br>
-  </span> <span class="trackname">God rest ye, merry gentlemen</span><span class="composer"> trad English. Descant by David Hill</span>
-  <p><span id="playingtime">Total playing time 67m 39s</span></p>
+  - |-
+    <span class="trackname">Gaudete! anon.</span><span class="composer"> arr. Ian Ball</span><br>
+    <span class="trackname"> Lo, he comes with clouds descending </span> <span class="composer">T. Oliver. Descant by Ian Ball</span><br>
+    <span class="trackname">Alma redemptoris mater</span><span class="composer"> anon. English 15th-century, edited Ian Ball</span><br>
+    <span class="trackname">Riu, riu, chiu</span><span class="composer"> ascribed to Mateo Flecha the elder</span><br>
+    <span class="trackname">O little town of Bethlehem </span> <span class="composer">trad English. Descant by Iain Simcock</span><br>
+    <span class="trackname">O magnum mysterium</span><span class="composer"> Francis Poulenc</span><br>
+    <span class="trackname">Magnificat</span><span class="composer"> Ian Ball </span><br>
+    <span class="trackname">A spotless rose </span> <span class="composer">Herbert Howells<br>
+    </span> <span class="trackname">Sing Lullaby </span> <span class="composer">Herbert Howells<br>
+    </span> <span class="trackname">Long the night </span> <span class="composer">Ukranian arr. Roy Massey</span><br>
+  - |-
+    <span class="trackname">Ave Maria</span><span class="composer"> Johannes Brahms</span><br>
+    <span class="trackname"> Quem vidistis, pastores? </span> <span class="composer">Orlando di Lassus</span><br>
+    <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn-Bartholdy Descant by Richard Jeffrey-Gray<br>
+    </span> <span class="trackname">No small wonder</span><span class="composer"> Paul Edwards</span><br>
+    <span class="trackname">In dulci jubilo</span><span class="composer"> Samuel Scheidt</span><br>
+    <span class="trackname"> Coventry Carol</span><span class="composer"> arr. Francis Grier</span><br>
+    <span class="trackname">A Christmas Carol </span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname">Rudolph the red-nosed reindeer </span> <span class="composer">Johnny Marks, arr. Philip Colls</span><br>
+    <span class="trackname">Have yourself a merry little Christmas </span> <span class="composer">Martin &amp; Blane, arr. Ian Ball<br>
+    </span> <span class="trackname">God rest ye, merry gentlemen</span><span class="composer"> trad English. Descant by David Hill</span>
+    <p><span id="playingtime">Total playing time 67m 39s</span></p>
 ---
-

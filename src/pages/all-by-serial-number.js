@@ -11,11 +11,13 @@ const AllBySerialNumberIndex = ({ data, location }) => {
     <Layout location={location}>
       <Seo title="All recordings" />
       <ol style={{ listStyle: `none` }}>
-        {recordings.map(post => {
+        {recordings.map(recording => {
           return (
-            <li key={post.fields.slug}>
-              <Link to={post.fields.slug}>{post.frontmatter.serialNumber}</Link>
-              <p>{post.frontmatter.title}</p>
+            <li key={recording.frontmatter.slug}>
+              <Link to={`/${recording.frontmatter.slug}`}>
+                {recording.frontmatter.serialNumber}
+              </Link>
+              <p>{recording.frontmatter.title}</p>
             </li>
           )
         })}
@@ -32,13 +34,10 @@ export const pageQuery = graphql`
       sort: { fields: [frontmatter___serialNumber], order: ASC }
     ) {
       nodes {
-        excerpt
-        fields {
-          slug
-        }
         frontmatter {
           title
           serialNumber
+          slug
         }
       }
     }

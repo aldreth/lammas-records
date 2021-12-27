@@ -1,12 +1,13 @@
 ---
-new_slug: the-churchgoer-and-the-composer
+slug: the-churchgoer-and-the-composer
 title: The Churchgoer And The Composer
 serialNumber: LAMM094
 coverImage: "../../src/images/recordings/the-churchgoer-and-the-composer.jpg"
-performer: The Choir of Selwyn College, Cambridge with the Selwyn College Instrumental
+performer:
+  The Choir of Selwyn College, Cambridge with the Selwyn College Instrumental
   Ensemble
 directors:
-- 'Director: Andrew Gant'
+  - "Director: Andrew Gant"
 contentHtml: |-
   <h1>The Churchgoer And The Composer</h1>
   <p>Spanish sacred music has always had its own traditions, its own forms, its own sound. Throughout the 250-year period covered by this recording there is a unique cross-fertilisation between the styles of the sacred and the secular, even the profane; there are texts assembled from different sources and in different languages; musical plays instead of Christmas carols, jousts and shipwrecks on the way to Bethlehem, the sounds of the Italian cantata and the Renaissance madrigal, to the accompaniment of the guitar, the harp and the organ; and throughout all there is the expressive power of the Spanish and Catalan languages, the inspiration for a group of uniquely original and inventive compositional minds, the creators of some of the most engaging and beautiful music of the age, though some of the least familiar.</p>
@@ -32,19 +33,18 @@ recordingDetailsHtml: |-
     <p>Produced, recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><br>
-  <span class="trackname"> De'un Maestro de capilla </span> <span class="composer">Antonio Soler</span><br>
-  <span class="trackname"> ¡Ay, qué dolor! </span> <span class="composer">Joan Cererols</span><br>
-  <span class="trackname"> La Justa </span> <span class="composer">Mateo Flecha</span><br>
-  <span class="trackname"> Cantat mater</span><span class="composer"> Joan Verdalet</span><br>
-  <span class="trackname"> En piélagos inmensos </span> <span class="composer">Antonio Soler</span>
-- |-
-  <span class="trackname"> O beata virgo </span> <span class="composer">Cristobál Galán</span><br>
-  <span class="trackname"> Ave Sanctissima Maria </span> <span class="composer">Cristobál Galán</span><br>
-  <span class="trackname"> O celestial medicina </span> <span class="composer">Francisco Guererro</span><br>
-  <span class="trackname"> O virgen </span> <span class="composer">Francisco Guererro</span><br>
-  <span class="trackname"> Congregante e Festero </span> <span class="composer">Antonio Soler</span>
-  <p><span id="playingtime">Total playing time 67m 00s</span></p>
+  - |-
+    <span class="trackname">Sanctíssima María </span> <span class="composer">Francisco Guererro</span><br>
+    <span class="trackname"> De'un Maestro de capilla </span> <span class="composer">Antonio Soler</span><br>
+    <span class="trackname"> ¡Ay, qué dolor! </span> <span class="composer">Joan Cererols</span><br>
+    <span class="trackname"> La Justa </span> <span class="composer">Mateo Flecha</span><br>
+    <span class="trackname"> Cantat mater</span><span class="composer"> Joan Verdalet</span><br>
+    <span class="trackname"> En piélagos inmensos </span> <span class="composer">Antonio Soler</span>
+  - |-
+    <span class="trackname"> O beata virgo </span> <span class="composer">Cristobál Galán</span><br>
+    <span class="trackname"> Ave Sanctissima Maria </span> <span class="composer">Cristobál Galán</span><br>
+    <span class="trackname"> O celestial medicina </span> <span class="composer">Francisco Guererro</span><br>
+    <span class="trackname"> O virgen </span> <span class="composer">Francisco Guererro</span><br>
+    <span class="trackname"> Congregante e Festero </span> <span class="composer">Antonio Soler</span>
+    <p><span id="playingtime">Total playing time 67m 00s</span></p>
 ---
-

@@ -1,13 +1,14 @@
 ---
-new_slug: the-golden-vanity
+slug: the-golden-vanity
 title: The Golden Vanity
 serialNumber: LAMM146
 coverImage: "../../src/images/recordings/the-golden-vanity.jpg"
-performer: Music for Boys' Voices by Benjamin Britten - The Choristers of Christ Church
+performer:
+  Music for Boys' Voices by Benjamin Britten - The Choristers of Christ Church
   Cathedral, Oxford
 directors:
-- 'Director: Stephen Darlington'
-- 'Organ: Clive Driskill-Smith'
+  - "Director: Stephen Darlington"
+  - "Organ: Clive Driskill-Smith"
 contentHtml: |-
   <h1>Music for Boys' Voices by Benjamin Britten</h1>
   <p>Benjamin Britten was renowned throughout his life as a prolific composer of children's music, and his affection for young people and interest in their world was a defining characteristic of his personality as an artist. In addition to this he showed an enduring affinity for choral writing, and - combining these two interests - the pieces on this disc represent some of the best examples of his music for young voices. Britten began writing for choirs whilst still at school, including in his early output such works as the Hymn to the Virgin and A Boy was Born. He never compromised his often highly modernistic style when writing for young performers, and always managed to challenge his singers' technical abilities as well as cover a broad spectrum of emotions in his works for children.</p>
@@ -32,28 +33,27 @@ recordingDetailsHtml: |-
       Cover lino print by Jane Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">The Golden Vanity</span>
-  <p><span class="composer">A Ceremony of Carols</span></p>
-  <p><span class="trackname">Procession<br>
-      Wolcum Yole!<br>
-      There is no rose<br>
-      That yongë child<br>
-      Balulalow<br>
-      As dew in Aprille<br>
-      This little babe<br>
-      Interlude<br>
-      In freezing winter night<br>
-      Spring carol<br>
-      Adam lay i-bounden<br>
-      Recession</span></p>
-- |-
-  <span class="composer">Missa Brevis in D</span>
-  <p><span class="trackname">Kyrie<br>
-      Gloria</span><br>
-    <span class="trackname"> Sanctus and Benedictu<br>
-      Agnus Dei</span></p>
-  <p><span class="composer">Children's Crusade</span></p>
-  <p><span id="playingtime">Total playing time 71m 14s</span></p>
+  - |-
+    <span class="composer">The Golden Vanity</span>
+    <p><span class="composer">A Ceremony of Carols</span></p>
+    <p><span class="trackname">Procession<br>
+        Wolcum Yole!<br>
+        There is no rose<br>
+        That yongë child<br>
+        Balulalow<br>
+        As dew in Aprille<br>
+        This little babe<br>
+        Interlude<br>
+        In freezing winter night<br>
+        Spring carol<br>
+        Adam lay i-bounden<br>
+        Recession</span></p>
+  - |-
+    <span class="composer">Missa Brevis in D</span>
+    <p><span class="trackname">Kyrie<br>
+        Gloria</span><br>
+      <span class="trackname"> Sanctus and Benedictu<br>
+        Agnus Dei</span></p>
+    <p><span class="composer">Children's Crusade</span></p>
+    <p><span id="playingtime">Total playing time 71m 14s</span></p>
 ---
-

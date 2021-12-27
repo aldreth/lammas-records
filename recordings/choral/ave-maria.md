@@ -1,13 +1,14 @@
 ---
-new_slug: ave-maria
+slug: ave-maria
 title: Ave Maria
 serialNumber: LAMM132
 coverImage: "../../src/images/recordings/ave-maria.jpg"
 performer: The Girl Choristers of Wells Cathedral
 directors:
-- 'Director: Malcolm Archer'
-- 'Organ: Rupert Gough'
-contentHtml: "<h1>Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Fauré (1845-1924)
+  - "Director: Malcolm Archer"
+  - "Organ: Rupert Gough"
+contentHtml:
+  "<h1>Ave Maria</h1>\n<p>Both Saint-Saëns (1835-1921) and Fauré (1845-1924)
   worked in the most fashionable church in Paris, the Madeleine, parish church of
   the Elysée. Despite serving the church for almost fifty years between them, both
   were essentially atheist and took church employment until they could achieve financial
@@ -151,30 +152,29 @@ recordingDetailsHtml: |-
     <p>Cover photograph: Mary Andrews of a 13th Century stall in the Cathedral of St Peter, Poitiers.</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Ave Maria </span> <span class="composer">Camille Saint-Saëns</span>
-  <p><span class="trackname">How like an Angel </span> <span class="composer">Malcolm Archer</span></p>
-  <p><span class="trackname">Magnificat The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
-  <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
-  <p><span class="trackname">Ave Maria </span> <span class="composer">Daniel Roth</span></p>
-  <p><span class="trackname">Ave verum, Op. 65 No. 1 </span> <span class="composer">Gabriel Fauré</span></p>
-  <p><span class="trackname">The Tree </span> <span class="composer">Jonathan Harvey</span></p>
-  <p><span class="trackname">Ave Maria, Op. 93 </span> <span class="composer">Gabriel Fauré</span></p>
-- |-
-  <span class="trackname">Mass in E flat, Op. 155 </span> <span class="composer">Joseph Rheinberger</span><br>
-  <span class="trackname"> Kyrie<br>
-    Gloria<br>
-    Credo<br>
-    Sanctus<br>
-    Benedictus<br>
-    Agnus Dei</span>
-  <p><span class="trackname">My song is in sighing </span> <span class="composer">Martin Dalby</span></p>
-  <p><span class="trackname">Third Symphonic Canzona, Op. 85, No. 3</span><span class="composer"> Sigfrid Karg-Elert</span><br>
-    <span class="trackname"> Fugue<br>
-      Canzona<br>
-      Epilogue<br>
-      Violin: Rachel Gough<br>
-    </span><br>
-    <span id="playingtime">Total playing time 63m 08s</span></p>
+  - |-
+    <span class="trackname">Ave Maria </span> <span class="composer">Camille Saint-Saëns</span>
+    <p><span class="trackname">How like an Angel </span> <span class="composer">Malcolm Archer</span></p>
+    <p><span class="trackname">Magnificat The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
+    <p><span class="trackname">Nunc Dimittis The Four Cathedrals' Service </span> <span class="composer">Malcolm Archer</span></p>
+    <p><span class="trackname">Ave Maria </span> <span class="composer">Daniel Roth</span></p>
+    <p><span class="trackname">Ave verum, Op. 65 No. 1 </span> <span class="composer">Gabriel Fauré</span></p>
+    <p><span class="trackname">The Tree </span> <span class="composer">Jonathan Harvey</span></p>
+    <p><span class="trackname">Ave Maria, Op. 93 </span> <span class="composer">Gabriel Fauré</span></p>
+  - |-
+    <span class="trackname">Mass in E flat, Op. 155 </span> <span class="composer">Joseph Rheinberger</span><br>
+    <span class="trackname"> Kyrie<br>
+      Gloria<br>
+      Credo<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</span>
+    <p><span class="trackname">My song is in sighing </span> <span class="composer">Martin Dalby</span></p>
+    <p><span class="trackname">Third Symphonic Canzona, Op. 85, No. 3</span><span class="composer"> Sigfrid Karg-Elert</span><br>
+      <span class="trackname"> Fugue<br>
+        Canzona<br>
+        Epilogue<br>
+        Violin: Rachel Gough<br>
+      </span><br>
+      <span id="playingtime">Total playing time 63m 08s</span></p>
 ---
-

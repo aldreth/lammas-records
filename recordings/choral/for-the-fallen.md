@@ -1,12 +1,12 @@
 ---
-new_slug: for-the-fallen
+slug: for-the-fallen
 title: For The Fallen
 serialNumber: LAMM113
 coverImage: "../../src/images/recordings/for-the-fallen.jpg"
 performer: Waltham Abbey Choir
 directors:
-- 'Director: Jamie Hitel'
-- 'Organ: Stuart Nicholson'
+  - "Director: Jamie Hitel"
+  - "Organ: Stuart Nicholson"
 contentHtml: |-
   <h1>For the Fallen</h1>
   <p>Put cd details here.</p>
@@ -34,31 +34,30 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  For the fallen <span class="composer">Edward Elgar</span><br>
-  <br>
-  Call to remembrance<span class="composer"> Richard Farrant </span><br>
-  <br>
-  Darkening skies <span class="composer">Alastair Stout</span><br>
-  <br>
-  Lord let me know mine end <span class="composer">Maurice Greene</span><br>
-  <br>
-  Give us the wings of faith <span class="composer">Ernest Bullock</span><br>
-  <br>
-  For the fallen <span class="composer">Douglas Guest<br>
-  </span>
-- |-
-  hey that go down to the sea in ships <span class="composer">Herbert Sumsion</span><br>
-  <br>
-  Et Ressurexit <span class="composer">Kenneth Leighton</span><br>
-  <br>
-  Greater love hath no man <span class="composer">John Ireland</span><br>
-  <br>
-  Nunc dimittis from the Second Service <span class="composer">Kenneth Leighton</span><br>
-  <br>
-  How lovely are thy dwellings <span class="composer">Johannes Brahms</span><br>
-  <br>
-  <br>
-  <span id="playingtime">Total playing time 62m 54s</span>
+  - |-
+    For the fallen <span class="composer">Edward Elgar</span><br>
+    <br>
+    Call to remembrance<span class="composer"> Richard Farrant </span><br>
+    <br>
+    Darkening skies <span class="composer">Alastair Stout</span><br>
+    <br>
+    Lord let me know mine end <span class="composer">Maurice Greene</span><br>
+    <br>
+    Give us the wings of faith <span class="composer">Ernest Bullock</span><br>
+    <br>
+    For the fallen <span class="composer">Douglas Guest<br>
+    </span>
+  - |-
+    hey that go down to the sea in ships <span class="composer">Herbert Sumsion</span><br>
+    <br>
+    Et Ressurexit <span class="composer">Kenneth Leighton</span><br>
+    <br>
+    Greater love hath no man <span class="composer">John Ireland</span><br>
+    <br>
+    Nunc dimittis from the Second Service <span class="composer">Kenneth Leighton</span><br>
+    <br>
+    How lovely are thy dwellings <span class="composer">Johannes Brahms</span><br>
+    <br>
+    <br>
+    <span id="playingtime">Total playing time 62m 54s</span>
 ---
-

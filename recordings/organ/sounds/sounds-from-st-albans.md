@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-from-st-albans
+slug: sounds-from-st-albans
 title: Sounds from St Albans
 serialNumber: LAMM178
 coverImage: "../../../src/images/recordings/sounds-from-st-albans.jpg"
@@ -24,20 +24,19 @@ recordingDetailsHtml: |-
       Photograph by David Humphreys</p>
   </div>
 trackListingsHtml:
-- |-
-  Allegro vivace from Symphonie V <span class="composer">Charles-Marie Widor</span>
-  <p>Prélude sur une Antienne <span class="composer">Jean Langlais</span></p>
-  <p>Suite Modale <span class="composer">Flor Peeters</span><br>
-    Koraal<br>
-    <span class="composer"> </span>Scherzo<br>
-    Adagio<br>
-    Toccata</p>
-  <p>Moto Ostinato from Ned<font face="Verdana">ě</font>lni hudba <span class="composer">Petr Eben</span></p>
-- |-
-  Benedictus <span class="composer">Max Reger</span>
-  <p>Choral No. 3 in A minor <span class="composer">César Franck</span></p>
-  <p>Meditation from Suite ‘Laudate Dominum’ <span class="composer">Peter Hurford</span></p>
-  <p>Dieu Parmi Nous from La Nativité du Seigneur <span class="composer">Olivier Messiaen</span></p>
-  <p><span id="playingtime">Total playing time 67m 36s</span></p>
+  - |-
+    Allegro vivace from Symphonie V <span class="composer">Charles-Marie Widor</span>
+    <p>Prélude sur une Antienne <span class="composer">Jean Langlais</span></p>
+    <p>Suite Modale <span class="composer">Flor Peeters</span><br>
+      Koraal<br>
+      <span class="composer"> </span>Scherzo<br>
+      Adagio<br>
+      Toccata</p>
+    <p>Moto Ostinato from Ned<font face="Verdana">ě</font>lni hudba <span class="composer">Petr Eben</span></p>
+  - |-
+    Benedictus <span class="composer">Max Reger</span>
+    <p>Choral No. 3 in A minor <span class="composer">César Franck</span></p>
+    <p>Meditation from Suite ‘Laudate Dominum’ <span class="composer">Peter Hurford</span></p>
+    <p>Dieu Parmi Nous from La Nativité du Seigneur <span class="composer">Olivier Messiaen</span></p>
+    <p><span id="playingtime">Total playing time 67m 36s</span></p>
 ---
-

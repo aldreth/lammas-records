@@ -1,12 +1,12 @@
 ---
-new_slug: a-celebration-of-british-cathedral-music
+slug: a-celebration-of-british-cathedral-music
 title: A Celebration of British Cathedral Music
 serialNumber: LAMM091
 coverImage: "../../src/images/recordings/a-celebration-of-british-cathedral-music.jpg"
 performer: The Choirs of All Saints, Northampton
 directors:
-- 'Director: Richard Tanner'
-- 'Organ: Ronald Gates and Roger Palmer'
+  - "Director: Richard Tanner"
+  - "Organ: Ronald Gates and Roger Palmer"
 contentHtml: |-
   <h1>A Celebration of British Cathedral Music</h1>
   <p>The title of this recording takes its name from the festival at St. John the Evangelist, Newport, Rhode Island USA, which the choir (boys and men) of All Saints Church, Northampton was invited to take part in as choir in residence during the summer of 1995. Many of the pieces selected here were heard by enthusiasts who attended some thirteen choral services within just six days.</p>
@@ -47,27 +47,26 @@ recordingDetailsHtml: |-
       The choirs would like to thank the following: Simon Heyward, Mary Matthews, David Cain, Philippa Hyde &amp; Charles Cole.</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Sicut Cervus</span> <span class="composer">Giovanni Pierluigi da Palestrina</span><br>
-  <span class="trackname">If ye love me</span> <span class="composer">Thomas Tallis</span><br>
-  <span class="trackname">Let my complaint</span> <span class="composer">Thomas Morley</span><br>
-  <span class="trackname">There shall a star from Jacob come forth</span> <span class="composer">Felix Mendelssohn</span><br>
-  <span class="trackname">Wash me throughly from my wickedness</span> <span class="composer">Samuel Sebastian Wesley</span><br>
-  <span class="trackname">Magnificat in B flat</span> <span class="composer">Charles Villiers Stanford</span><br>
-  <span class="trackname">Salve Regina</span> <span class="composer">Plainsong</span><br>
-  <span class="trackname">Nunc Dimittis in B flat</span> <span class="composer">Charles Villiers Stanford</span><br>
-  <span class="trackname">Fear not, O Land</span> <span class="composer">Edward Elgar</span>
-- |-
-  <span class="trackname">Save us, O Lord</span> <span class="composer">Edward Cuthbert Bairstow</span><br>
-  <span class="trackname">Jesu, grant me this I pray</span> <span class="composer">Percy Whitlock</span><br>
-  <span class="trackname">Prevent us, O Lord</span> <span class="composer">Derek Holman</span><br>
-  <span class="trackname">Like as the hart desireth the waterbrooks</span> <span class="composer">Herbert Howells</span><br>
-  <span class="trackname">Ave Maria</span> <span class="composer">Simon Lindley</span><br>
-  <span class="trackname">Jubilate Deo</span> <span class="composer">Benjamin Britten</span><br>
-  <span class="trackname">Love Eternal</span> <span class="composer">Simon Lole</span><br>
-  <span class="trackname">Father, we thank thee</span> <span class="composer">David Sanger</span><br>
-  <span class="trackname">Let all the world in every corner sing </span><span class="composer">Kenneth Leighton</span><br>
-  <br>
-  <span id="playingtime">Total playing time 64m 01s</span>
+  - |-
+    <span class="trackname">Sicut Cervus</span> <span class="composer">Giovanni Pierluigi da Palestrina</span><br>
+    <span class="trackname">If ye love me</span> <span class="composer">Thomas Tallis</span><br>
+    <span class="trackname">Let my complaint</span> <span class="composer">Thomas Morley</span><br>
+    <span class="trackname">There shall a star from Jacob come forth</span> <span class="composer">Felix Mendelssohn</span><br>
+    <span class="trackname">Wash me throughly from my wickedness</span> <span class="composer">Samuel Sebastian Wesley</span><br>
+    <span class="trackname">Magnificat in B flat</span> <span class="composer">Charles Villiers Stanford</span><br>
+    <span class="trackname">Salve Regina</span> <span class="composer">Plainsong</span><br>
+    <span class="trackname">Nunc Dimittis in B flat</span> <span class="composer">Charles Villiers Stanford</span><br>
+    <span class="trackname">Fear not, O Land</span> <span class="composer">Edward Elgar</span>
+  - |-
+    <span class="trackname">Save us, O Lord</span> <span class="composer">Edward Cuthbert Bairstow</span><br>
+    <span class="trackname">Jesu, grant me this I pray</span> <span class="composer">Percy Whitlock</span><br>
+    <span class="trackname">Prevent us, O Lord</span> <span class="composer">Derek Holman</span><br>
+    <span class="trackname">Like as the hart desireth the waterbrooks</span> <span class="composer">Herbert Howells</span><br>
+    <span class="trackname">Ave Maria</span> <span class="composer">Simon Lindley</span><br>
+    <span class="trackname">Jubilate Deo</span> <span class="composer">Benjamin Britten</span><br>
+    <span class="trackname">Love Eternal</span> <span class="composer">Simon Lole</span><br>
+    <span class="trackname">Father, we thank thee</span> <span class="composer">David Sanger</span><br>
+    <span class="trackname">Let all the world in every corner sing </span><span class="composer">Kenneth Leighton</span><br>
+    <br>
+    <span id="playingtime">Total playing time 64m 01s</span>
 ---
-

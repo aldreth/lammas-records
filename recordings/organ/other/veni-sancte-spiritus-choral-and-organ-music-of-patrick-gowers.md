@@ -1,13 +1,14 @@
 ---
-new_slug: veni-sancte-spiritus-choral-and-organ-music-of-patrick-gowers
+slug: veni-sancte-spiritus-choral-and-organ-music-of-patrick-gowers
 title: Veni, Sancte Spiritus - Choral and Organ music of Patrick Gowers
 serialNumber: LAMM196
 coverImage: "../../../src/images/recordings/veni-sancte-spiritus-choral-and-organ-music-of-patrick-gowers.jpg"
-performer: "Guildford Philharmonic Orchestra\n\t\tGuildford Camerata\n\t\tGuildford
+performer:
+  "Guildford Philharmonic Orchestra\n\t\tGuildford Camerata\n\t\tGuildford
   Cathedral Choir"
 directors:
-- 'Director: David Hill and Stephen Farr'
-- 'Organ: David Davies and Stephen Farr'
+  - "Director: David Hill and Stephen Farr"
+  - "Organ: David Davies and Stephen Farr"
 contentHtml: |-
   <h1>Veni, Sancte Spiritus - Choral and Organ music of Patrick Gowers</h1>
   <h2>Veni, Sancte Spiritus</h2>
@@ -64,21 +65,20 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Veni, Sancte Spiritus</span>
-  <p><span class="composer">Cantata</span><br>
-    <span class="trackname"> No. 1: Each inmost peece<br>
-      No. 2: But loe, thy love<br>
-      No. 3: To shunn thy notice</span><br>
-    <span class="trackname"> No. 4: O Lord, thou hast searched me out<br>
-      No. 5: Ev’n before Kings</span></p>
-  <p><span class="composer">Adagio</span><span class="trackname"> organ</span></p>
-- |-
-  <p><span class="composer">Chester Lullaby</span></p>
-  <p><span class="composer">Toccata</span><span class="trackname"> organ</span></p>
-  <p><span class="composer">Fugue </span><span class="trackname">organ</span></p>
-  <p><span class="composer">Libera me</span></p>
-  <p><span class="composer">An Occasional Trumpet Voluntary</span><span class="trackname"> organ</span></p>
-  <p><span id="playingtime">Total playing time 69m 48s</span></p>
+  - |-
+    <span class="composer">Veni, Sancte Spiritus</span>
+    <p><span class="composer">Cantata</span><br>
+      <span class="trackname"> No. 1: Each inmost peece<br>
+        No. 2: But loe, thy love<br>
+        No. 3: To shunn thy notice</span><br>
+      <span class="trackname"> No. 4: O Lord, thou hast searched me out<br>
+        No. 5: Ev’n before Kings</span></p>
+    <p><span class="composer">Adagio</span><span class="trackname"> organ</span></p>
+  - |-
+    <p><span class="composer">Chester Lullaby</span></p>
+    <p><span class="composer">Toccata</span><span class="trackname"> organ</span></p>
+    <p><span class="composer">Fugue </span><span class="trackname">organ</span></p>
+    <p><span class="composer">Libera me</span></p>
+    <p><span class="composer">An Occasional Trumpet Voluntary</span><span class="trackname"> organ</span></p>
+    <p><span id="playingtime">Total playing time 69m 48s</span></p>
 ---
-

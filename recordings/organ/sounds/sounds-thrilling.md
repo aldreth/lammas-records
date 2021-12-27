@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-thrilling
+slug: sounds-thrilling
 title: Sounds Thrilling
 serialNumber: LAMM189
 coverImage: "../../../src/images/recordings/sounds-thrilling.jpg"
@@ -46,20 +46,19 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Symphony ‘Missa pro defunctis’ </span> <span class="composer">David Briggs</span><br>
-  <span class="trackname"> Prélude<br>
-    Arioso<br>
-    Intermezzo</span><br>
-  <span class="trackname"> Toccata<br>
-    Agité<br>
-    Adagio<br>
-    Final</span>
-- |-
-  <span class="trackname">‘Suite’ Op. 5 </span> <span class="composer">Maurice Duruflé</span><br>
-  <span class="trackname"> Prélude<br>
-    Sicilienne<br>
-    Toccata</span>
-  <p><span id="playingtime">Total playing time 63m 50s</span></p>
+  - |-
+    <span class="trackname">Symphony ‘Missa pro defunctis’ </span> <span class="composer">David Briggs</span><br>
+    <span class="trackname"> Prélude<br>
+      Arioso<br>
+      Intermezzo</span><br>
+    <span class="trackname"> Toccata<br>
+      Agité<br>
+      Adagio<br>
+      Final</span>
+  - |-
+    <span class="trackname">‘Suite’ Op. 5 </span> <span class="composer">Maurice Duruflé</span><br>
+    <span class="trackname"> Prélude<br>
+      Sicilienne<br>
+      Toccata</span>
+    <p><span id="playingtime">Total playing time 63m 50s</span></p>
 ---
-

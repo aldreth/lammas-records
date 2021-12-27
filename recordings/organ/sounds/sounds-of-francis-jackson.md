@@ -1,5 +1,5 @@
 ---
-new_slug: sounds-of-francis-jackson
+slug: sounds-of-francis-jackson
 title: Sounds of Francis Jackson
 serialNumber: LAMM127
 coverImage: "../../../src/images/recordings/sounds-of-francis-jackson.jpg"
@@ -50,25 +50,24 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  March in C (Opus 109)
-  <p>Prelude and Fugue in C (Opus 43a) "The Brook"<br>
-    Prelude<br>
-    Fugue</p>
-  <p>Sonata no. 3 (Opus 50)<br>
-    Allegro placido<br>
-    Andante<br>
-    Vivace</p>
-  <p>Prelude on an American Folk Hymn (1973)<br>
-   </p>
-- |-
-  Festival Toccata (Opus 37)
-  <p>Improvisation on a Chant</p>
-  <p>Partita on a Somerset Carol (Opust 45 no. 3)</p>
-  <p>Toccata, Chorale and Fugue (Opus 16)<br>
-    Toccata<br>
-    Chorale<br>
-    Fugue</p>
-  <p><span id="playingtime">Total playing time 71m 41s</span></p>
+  - |-
+    March in C (Opus 109)
+    <p>Prelude and Fugue in C (Opus 43a) "The Brook"<br>
+      Prelude<br>
+      Fugue</p>
+    <p>Sonata no. 3 (Opus 50)<br>
+      Allegro placido<br>
+      Andante<br>
+      Vivace</p>
+    <p>Prelude on an American Folk Hymn (1973)<br>
+     </p>
+  - |-
+    Festival Toccata (Opus 37)
+    <p>Improvisation on a Chant</p>
+    <p>Partita on a Somerset Carol (Opust 45 no. 3)</p>
+    <p>Toccata, Chorale and Fugue (Opus 16)<br>
+      Toccata<br>
+      Chorale<br>
+      Fugue</p>
+    <p><span id="playingtime">Total playing time 71m 41s</span></p>
 ---
-

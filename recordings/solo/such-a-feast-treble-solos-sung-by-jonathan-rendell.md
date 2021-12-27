@@ -1,11 +1,11 @@
 ---
-new_slug: such-a-feast-treble-solos-sung-by-jonathan-rendell
+slug: such-a-feast-treble-solos-sung-by-jonathan-rendell
 title: Such a Feast - Treble solos sung by Jonathan Rendell
 serialNumber: LAMM138
 coverImage: "../../src/images/recordings/such-a-feast-treble-solos-sung-by-jonathan-rendell.jpg"
-performer: 
+performer:
 directors:
-- 'Director/Organ: Matthew Owens'
+  - "Director/Organ: Matthew Owens"
 contentHtml: |-
   <p id="subtitle">Treble solos sung by Jonathan Rendell</p>
   <h1>Such a Feast</h1>
@@ -35,26 +35,25 @@ recordingDetailsHtml: |-
       Photograph by Peter Backhouse</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Bist du bei mir</span><span class="composer"> Johann Sebastian Bach</span>
-  <p><span class="trackname">I know that my redeemer liveth (Messiah) </span> <span class="composer">Georg Friderick Handel</span></p>
-  <p><span class="trackname">Evening Hymn </span> <span class="composer">Henry Purcell</span></p>
-  <p><span class="trackname">Pie Jesu </span> <span class="composer">Gabriel Fauré</span></p>
-  <p><span class="trackname">Long since in Egypt’s plenteous land </span> <span class="composer">Charles Hubert Hastings Parry</span></p>
-  <p><span class="trackname">No small wonder</span><span class="composer"> Paul Edwards</span></p>
-  <p><span class="trackname">A New Year Carol </span> <span class="composer">Benjamin Britten</span></p>
-  <p><span class="trackname">Nunc dimittis</span><span class="composer"> Geoffrey Burgon</span></p>
-  <p><span class="trackname">Zwei geistliches Lieder </span> <span class="composer">Max Reger</span><br>
-    <span class="trackname"> Ich sehe dich in tausend Bildern<br>
-      Meine Seele ist still zu Gott</span></p>
-- |-
-  <span class="trackname">O sacrum convivium </span> <span class="composer">Matthew Owens</span>
-  <p><span class="trackname">The Lord’s Prayer </span> <span class="composer">Frank Martin arr. Ian Tracey</span></p>
-  <p><span class="trackname">The Call </span> <span class="composer">Ralph Vaughan Williams</span></p>
-  <p><span class="trackname">Panis Angelicus </span> <span class="composer">César Franck</span></p>
-  <p><span class="trackname">Amazing grace </span> <span class="composer">American trad. arr. Powell</span></p>
-  <p><span class="trackname">Pie Jesu </span> <span class="composer">Maurice Duruflé</span></p>
-  <p><span class="trackname">Lord of the dance </span> <span class="composer">Shaker tune arr. Matthew Owens</span></p>
-  <p><span id="playingtime">Total playing time 57m 57s</span></p>
+  - |-
+    <span class="trackname">Bist du bei mir</span><span class="composer"> Johann Sebastian Bach</span>
+    <p><span class="trackname">I know that my redeemer liveth (Messiah) </span> <span class="composer">Georg Friderick Handel</span></p>
+    <p><span class="trackname">Evening Hymn </span> <span class="composer">Henry Purcell</span></p>
+    <p><span class="trackname">Pie Jesu </span> <span class="composer">Gabriel Fauré</span></p>
+    <p><span class="trackname">Long since in Egypt’s plenteous land </span> <span class="composer">Charles Hubert Hastings Parry</span></p>
+    <p><span class="trackname">No small wonder</span><span class="composer"> Paul Edwards</span></p>
+    <p><span class="trackname">A New Year Carol </span> <span class="composer">Benjamin Britten</span></p>
+    <p><span class="trackname">Nunc dimittis</span><span class="composer"> Geoffrey Burgon</span></p>
+    <p><span class="trackname">Zwei geistliches Lieder </span> <span class="composer">Max Reger</span><br>
+      <span class="trackname"> Ich sehe dich in tausend Bildern<br>
+        Meine Seele ist still zu Gott</span></p>
+  - |-
+    <span class="trackname">O sacrum convivium </span> <span class="composer">Matthew Owens</span>
+    <p><span class="trackname">The Lord’s Prayer </span> <span class="composer">Frank Martin arr. Ian Tracey</span></p>
+    <p><span class="trackname">The Call </span> <span class="composer">Ralph Vaughan Williams</span></p>
+    <p><span class="trackname">Panis Angelicus </span> <span class="composer">César Franck</span></p>
+    <p><span class="trackname">Amazing grace </span> <span class="composer">American trad. arr. Powell</span></p>
+    <p><span class="trackname">Pie Jesu </span> <span class="composer">Maurice Duruflé</span></p>
+    <p><span class="trackname">Lord of the dance </span> <span class="composer">Shaker tune arr. Matthew Owens</span></p>
+    <p><span id="playingtime">Total playing time 57m 57s</span></p>
 ---
-

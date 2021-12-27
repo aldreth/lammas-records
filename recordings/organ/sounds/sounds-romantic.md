@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-romantic
+slug: sounds-romantic
 title: Sounds Romantic
 serialNumber: LAMM160
 coverImage: "../../../src/images/recordings/sounds-romantic.jpg"
-performer: Organ Music of Elgar and Stanford played by Christopher Stokes on the organ
+performer:
+  Organ Music of Elgar and Stanford played by Christopher Stokes on the organ
   of Manchester Cathedral
 directors: []
 contentHtml: |-
@@ -35,24 +36,23 @@ recordingDetailsHtml: |-
       Photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Organ Sonata op.28 <span class="composer">Edward Elgar</span><br>
-  Allegro maestoso<br>
-  Allegretto<br>
-  Andante espressivo<br>
-  Presto comodo
-  <p>Fantasia and Toccata, op.57 <span class="composer">Charles Villiers Stanford</span><br>
-    Fantasia<br>
-    Toccata</p>
-- |-
-  Six Short Preludes and Postludes, set 2 op.105 <span class="composer">C V Stanford</span><br>
-  I. On a theme of Orlando Gibbons (Song 34) The Angel’s Song<br>
-  II. On a theme of Orlando Gibbons (Song 22)<br>
-  III. Lento<br>
-  IV. On a theme of Orlando Gibbons (Song 24)<br>
-  V. Trio<br>
-  VI. Allegro
-  <p>Pomp and Circumstance march no.4, op.39 <span class="composer">Edward Elgar</span></p>
-  <p><span id="playingtime">Total playing time 66m 53s</span></p>
+  - |-
+    Organ Sonata op.28 <span class="composer">Edward Elgar</span><br>
+    Allegro maestoso<br>
+    Allegretto<br>
+    Andante espressivo<br>
+    Presto comodo
+    <p>Fantasia and Toccata, op.57 <span class="composer">Charles Villiers Stanford</span><br>
+      Fantasia<br>
+      Toccata</p>
+  - |-
+    Six Short Preludes and Postludes, set 2 op.105 <span class="composer">C V Stanford</span><br>
+    I. On a theme of Orlando Gibbons (Song 34) The Angel’s Song<br>
+    II. On a theme of Orlando Gibbons (Song 22)<br>
+    III. Lento<br>
+    IV. On a theme of Orlando Gibbons (Song 24)<br>
+    V. Trio<br>
+    VI. Allegro
+    <p>Pomp and Circumstance march no.4, op.39 <span class="composer">Edward Elgar</span></p>
+    <p><span id="playingtime">Total playing time 66m 53s</span></p>
 ---
-

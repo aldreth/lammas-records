@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-exuberant
+slug: sounds-exuberant
 title: Sounds Exuberant
 serialNumber: LAMM143
 coverImage: "../../../src/images/recordings/sounds-exuberant.jpg"
-performer: Neil Weston plays organ at Spencerville Seventh Day Adventist Church, Maryland,
+performer:
+  Neil Weston plays organ at Spencerville Seventh Day Adventist Church, Maryland,
   USA
 directors: []
 contentHtml: |-
@@ -30,29 +31,28 @@ recordingDetailsHtml: |-
       Photographs by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  Fanfare for the Millennium with Canons
-  <p>Jazz-Fantasy on an American Spiritual</p>
-  <p>Scherzo</p>
-  <p>Christmas Sleigh-Ride</p>
-  <p>Toccata Éclatante</p>
-  <p>Little Organ Book<br>
-    Song of Joy<br>
-    Interlude<br>
-    Song of Peace<br>
-    Carillon<br>
-    Aria<br>
-    Canon<br>
-    Beside Still Waters<br>
-    Pastorale<br>
-   </p>
-- |-
-  Carillon Symphony<br>
-  Carillon Processional<br>
-  Carillon Trio<br>
-  Carillon Counterpoints<br>
-  Carillon Intermezzo<br>
-  Carillon Finale
-  <p><span id="playingtime">Total playing time 71m 44s</span></p>
+  - |-
+    Fanfare for the Millennium with Canons
+    <p>Jazz-Fantasy on an American Spiritual</p>
+    <p>Scherzo</p>
+    <p>Christmas Sleigh-Ride</p>
+    <p>Toccata Éclatante</p>
+    <p>Little Organ Book<br>
+      Song of Joy<br>
+      Interlude<br>
+      Song of Peace<br>
+      Carillon<br>
+      Aria<br>
+      Canon<br>
+      Beside Still Waters<br>
+      Pastorale<br>
+     </p>
+  - |-
+    Carillon Symphony<br>
+    Carillon Processional<br>
+    Carillon Trio<br>
+    Carillon Counterpoints<br>
+    Carillon Intermezzo<br>
+    Carillon Finale
+    <p><span id="playingtime">Total playing time 71m 44s</span></p>
 ---
-

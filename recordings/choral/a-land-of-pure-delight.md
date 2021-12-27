@@ -1,12 +1,12 @@
 ---
-new_slug: a-land-of-pure-delight
+slug: a-land-of-pure-delight
 title: A Land of Pure Delight
 serialNumber: LAMM140
 coverImage: "../../src/images/recordings/a-land-of-pure-delight.jpg"
 performer: RSCM Millennium Youth Choir
 directors:
-- 'Director: Gordon Stewart'
-- 'Organ: Timothy Byram-Wigfield'
+  - "Director: Gordon Stewart"
+  - "Organ: Timothy Byram-Wigfield"
 contentHtml: |-
   <h1>RSCM Millennium Youth Choir</h1>
   <p>The RSCM Millennium Youth Choir was formed in 1999 at the suggestion of the Archbishop of Canterbury, President of the Royal School of Church Music. There are 38 singers, aged 16 to 23 and selected on merit alone, who meet two or three times per year for courses that culminate in services and concerts. The choir was formed under the direction of Dr Martin Neary and first performed in London at the beginning of the Millennium Celebrations in the presence of Her Majesty the Queen on 1 January 2000. Other engagements have included concerts in York Minster, Guildford Cathedral and Merton College Oxford, and an appearance at the Queen Mother’s 100th birthday celebrations.</p>
@@ -26,27 +26,26 @@ recordingDetailsHtml: |-
       Photograph by Eadon Lilley Photography, Cambridge</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Ev’ry time I feel the Spirit </span><span class="composer">arr. Bob Chilcott</span><br>
-  <span class="trackname"> Tantum erg</span><span class="composer">o Déodat de Séverac</span><br>
-  <span class="trackname"> Were you there? </span><span class="composer">arr. Bob Chilcott</span><br>
-  <span class="trackname"> Take this moment</span><span class="composer"> John Bell</span><br>
-  <span class="trackname"> A touching place </span><span class="composer">John Bell</span><br>
-  <span class="trackname"> Magnificat (‘The Southwell Service’) </span><span class="composer">Andrew Carter</span><br>
-  <span class="trackname"> Pater Noster </span><span class="composer">Charles Villiers Stanford</span><br>
-  <span class="trackname"> O Lord of every constellation </span><span class="composer">Paul Leddington Wright</span><br>
-  <span class="trackname"> Pueri Hebraeorum Tomas </span><span class="composer">Luis de Victoria</span><br>
-  <span class="trackname"> There is a land of pure delight</span><span class="composer"> Grayston Ives</span>
-- |-
-  <span class="trackname">Come, labour on </span> <span class="composer">T. Tertius Noble</span><br>
-  <span class="trackname"> Peccantem me quotidie </span><span class="composer">Cristobel Morales</span><br>
-  <span class="trackname"> Nobody knows the trouble I’ve seen </span><span class="composer">arr. Bob Chilcott</span><br>
-  <span class="trackname"> The last journey </span><span class="composer">John Bell</span><br>
-  <span class="trackname"> Civitas sancti tui </span><span class="composer">William Byrd</span><br>
-  <span class="trackname"> Be still for the presence of the Lord </span><span class="composer">arr. Robert Ramskill</span><br>
-  <span class="trackname"> Nunc Dimittis (‘The Southwell Service’) </span><span class="composer"> Andrew Carter</span><br>
-  <span class="trackname"> There’s a wideness in God’s mercy (‘Corvedale’)</span><span class="composer"> Maurice Bevan<br>
-  </span><br>
-  <span id="playingtime">Total playing time 60m 4s</span>
+  - |-
+    <span class="trackname">Ev’ry time I feel the Spirit </span><span class="composer">arr. Bob Chilcott</span><br>
+    <span class="trackname"> Tantum erg</span><span class="composer">o Déodat de Séverac</span><br>
+    <span class="trackname"> Were you there? </span><span class="composer">arr. Bob Chilcott</span><br>
+    <span class="trackname"> Take this moment</span><span class="composer"> John Bell</span><br>
+    <span class="trackname"> A touching place </span><span class="composer">John Bell</span><br>
+    <span class="trackname"> Magnificat (‘The Southwell Service’) </span><span class="composer">Andrew Carter</span><br>
+    <span class="trackname"> Pater Noster </span><span class="composer">Charles Villiers Stanford</span><br>
+    <span class="trackname"> O Lord of every constellation </span><span class="composer">Paul Leddington Wright</span><br>
+    <span class="trackname"> Pueri Hebraeorum Tomas </span><span class="composer">Luis de Victoria</span><br>
+    <span class="trackname"> There is a land of pure delight</span><span class="composer"> Grayston Ives</span>
+  - |-
+    <span class="trackname">Come, labour on </span> <span class="composer">T. Tertius Noble</span><br>
+    <span class="trackname"> Peccantem me quotidie </span><span class="composer">Cristobel Morales</span><br>
+    <span class="trackname"> Nobody knows the trouble I’ve seen </span><span class="composer">arr. Bob Chilcott</span><br>
+    <span class="trackname"> The last journey </span><span class="composer">John Bell</span><br>
+    <span class="trackname"> Civitas sancti tui </span><span class="composer">William Byrd</span><br>
+    <span class="trackname"> Be still for the presence of the Lord </span><span class="composer">arr. Robert Ramskill</span><br>
+    <span class="trackname"> Nunc Dimittis (‘The Southwell Service’) </span><span class="composer"> Andrew Carter</span><br>
+    <span class="trackname"> There’s a wideness in God’s mercy (‘Corvedale’)</span><span class="composer"> Maurice Bevan<br>
+    </span><br>
+    <span id="playingtime">Total playing time 60m 4s</span>
 ---
-

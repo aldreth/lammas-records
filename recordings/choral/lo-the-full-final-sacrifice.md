@@ -1,12 +1,12 @@
 ---
-new_slug: lo-the-full-final-sacrifice
+slug: lo-the-full-final-sacrifice
 title: lo, the full, final sacrifice
 serialNumber: LAMM155
 coverImage: "../../src/images/recordings/lo-the-full-final-sacrifice.jpg"
 performer: St Albans Abbey Girls Choir - Lay Clerks of St Albans Cathedral Choir
 directors:
-- 'Director: Simon Johnson'
-- 'Organ: James McVinnie'
+  - "Director: Simon Johnson"
+  - "Organ: James McVinnie"
 contentHtml: |-
   <h1>St Albans Abbey Girls Choir</h1>
   <p>In January 1996 a group of 25 girls aged 7-15 and from many different backgrounds came together to form the St Albans Abbey Girls’ Choir. Most had no experience of Evensong, of psalms, of robes or of processions. Under the inspirational guidance of the choir’s founder, Andrew Parnell, the girls achieved fine results in a very short space of time, and it soon became accepted that they were an important and valuable part of the life of the Abbey. The raison d’être of the choir is the office of evensong on Wednesdays and Fridays – these had formerly been plain days with no music. The choir also takes on more service work in the busy seasons to spread the load previously borne entirely by the Cathedral Choir, and is increasingly developing a concert role. An important part of the choir’s ethos is that it should be ‘different, but complementary’ to the boys’ choir.</p>
@@ -25,20 +25,19 @@ recordingDetailsHtml: |-
     Recorded and edited by Lance Andrews<br>
     Cover Photograph: The Crucifixion by Graham Sutherland (1946), taken by Michael Moralee</div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Rejoice in the Lamb</span> <span class="composer">Benjamin Britten</span>
-  <p><span class="trackname">A Festival Anthem</span> <span class="composer">Lennox Berkeley</span></p>
-  <p><span class="trackname">Lo, the Full, Final Sacrifice</span><span class="composer"> Gerald Finzi</span><br>
-   </p>
-- |-
-  <span class="trackname">Five Carols</span><span class="composer"> Richard Rodney Bennett</span><br>
-  <span class="trackname">There is no rose </span><br>
-  <span class="trackname">Out of your sleep</span><br>
-  <span class="trackname">That younge child </span><br>
-  <span class="trackname">Sweet was the song</span><br>
-  <span class="trackname">Susanni</span><br>
-  <span class="trackname"> </span><br>
-  <span class="trackname">Let all the World in every Corner Sing</span><span class="composer"> Kenneth Leighton</span>
-  <p><span id="playingtime">Total playing time 63m 00s</span></p>
+  - |-
+    <span class="trackname">Rejoice in the Lamb</span> <span class="composer">Benjamin Britten</span>
+    <p><span class="trackname">A Festival Anthem</span> <span class="composer">Lennox Berkeley</span></p>
+    <p><span class="trackname">Lo, the Full, Final Sacrifice</span><span class="composer"> Gerald Finzi</span><br>
+     </p>
+  - |-
+    <span class="trackname">Five Carols</span><span class="composer"> Richard Rodney Bennett</span><br>
+    <span class="trackname">There is no rose </span><br>
+    <span class="trackname">Out of your sleep</span><br>
+    <span class="trackname">That younge child </span><br>
+    <span class="trackname">Sweet was the song</span><br>
+    <span class="trackname">Susanni</span><br>
+    <span class="trackname"> </span><br>
+    <span class="trackname">Let all the World in every Corner Sing</span><span class="composer"> Kenneth Leighton</span>
+    <p><span id="playingtime">Total playing time 63m 00s</span></p>
 ---
-

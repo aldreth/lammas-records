@@ -1,12 +1,12 @@
 ---
-new_slug: the-crucifixion
+slug: the-crucifixion
 title: The Crucifixion
 serialNumber: LAMM154
 coverImage: "../../src/images/recordings/the-crucifixion.jpg"
 performer: Guildford Philharmonic Orchestra
 directors:
-- "Director: Barry Rose\n\t\tOrgan: Stephen Farr\n\t\tTenor: Peter Auty\n\t\tBaritone:
-  RoderickWilliams"
+  - "Director: Barry Rose\n\t\tOrgan: Stephen Farr\n\t\tTenor: Peter Auty\n\t\tBaritone:
+    RoderickWilliams"
 contentHtml: |-
   <p id="performer">Guildford Camerata</p>
   <h1>Guildford Philharmonic Orchestra</h1>
@@ -41,29 +41,28 @@ recordingDetailsHtml: |-
       courtesy of the Isabella Stewart Gardner Museum, Boston, USA</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Recitative:</span><span class="trackname"> And they came to a place named Gethsemane</span><br>
-  <span class="composer">Aria with chorus: </span> <span class="trackname">Could ye not watch with Me one brief hour?</span><br>
-  <span class="composer">Recitative:</span> <span class="trackname">And they laid their hands on him and took him</span><br>
-  <span class="composer">Chorus:</span> <span class="trackname">Processional to Calvary (Fling wide the gates)</span><br>
-  <span class="composer">Recitative: </span><span class="trackname">And when they were come to the place called Calvary</span><br>
-  <span class="composer">Hymn:</span> <span class="trackname">Cross of Jesus, Cross of sorrow</span><br>
-  <span class="composer">Recitative:</span> <span class="trackname">He made himself of no reputation</span><br>
-  <span class="composer">Aria:</span> <span class="trackname">King ever glorious</span><br>
-  <span class="composer">Recitative:</span> <span class="trackname">And as Moses lifted up the serpent</span><br>
-  <span class="composer">Unaccompanied chorus:</span><span class="trackname"> God so loved the world</span><br>
-  <span class="composer">Hymn: </span><span class="trackname">Holy Jesu, by Thy Passion</span><br>
-- |-
-  <span class="composer">Recitative &amp; men’s chorus:</span><span class="trackname"> Jesus said “Father, forgive them”<br>
-  </span><span class="composer">Duet:</span><span class="trackname"> So Thou liftest thy divine petition<br>
-  </span><span class="composer">Hymn:</span><span class="trackname"> Jesus, the Crucified, pleads for me<br>
-  </span><span class="composer">Recitative &amp; men’s chorus: </span> <span class="trackname">And one of the malefactors<br>
-  </span><span class="composer">Hymn: </span> <span class="trackname">I adore Thee<br>
-  </span><span class="composer">Recitative &amp; men’s chorus:</span><span class="trackname"> When Jesus therefore saw his mother<br>
-  </span><span class="composer">Recitative: </span> <span class="trackname">Is it nothing to you?<br>
-  </span><span class="composer">Chorus: </span> <span class="trackname">From the Throne of His Cross</span><span class="composer"> </span><br>
-  <span class="trackname"> </span><span class="composer">Recitative &amp; men’s chorus: </span> <span class="trackname">After this, Jesus knowing that all things were now accomplished<br>
-  </span><span class="composer">Hymn:</span><span class="trackname"> All for Jesus</span>
-  <p><span id="playingtime">Total playing time 67m 34s</span></p>
+  - |-
+    <span class="composer">Recitative:</span><span class="trackname"> And they came to a place named Gethsemane</span><br>
+    <span class="composer">Aria with chorus: </span> <span class="trackname">Could ye not watch with Me one brief hour?</span><br>
+    <span class="composer">Recitative:</span> <span class="trackname">And they laid their hands on him and took him</span><br>
+    <span class="composer">Chorus:</span> <span class="trackname">Processional to Calvary (Fling wide the gates)</span><br>
+    <span class="composer">Recitative: </span><span class="trackname">And when they were come to the place called Calvary</span><br>
+    <span class="composer">Hymn:</span> <span class="trackname">Cross of Jesus, Cross of sorrow</span><br>
+    <span class="composer">Recitative:</span> <span class="trackname">He made himself of no reputation</span><br>
+    <span class="composer">Aria:</span> <span class="trackname">King ever glorious</span><br>
+    <span class="composer">Recitative:</span> <span class="trackname">And as Moses lifted up the serpent</span><br>
+    <span class="composer">Unaccompanied chorus:</span><span class="trackname"> God so loved the world</span><br>
+    <span class="composer">Hymn: </span><span class="trackname">Holy Jesu, by Thy Passion</span><br>
+  - |-
+    <span class="composer">Recitative &amp; men’s chorus:</span><span class="trackname"> Jesus said “Father, forgive them”<br>
+    </span><span class="composer">Duet:</span><span class="trackname"> So Thou liftest thy divine petition<br>
+    </span><span class="composer">Hymn:</span><span class="trackname"> Jesus, the Crucified, pleads for me<br>
+    </span><span class="composer">Recitative &amp; men’s chorus: </span> <span class="trackname">And one of the malefactors<br>
+    </span><span class="composer">Hymn: </span> <span class="trackname">I adore Thee<br>
+    </span><span class="composer">Recitative &amp; men’s chorus:</span><span class="trackname"> When Jesus therefore saw his mother<br>
+    </span><span class="composer">Recitative: </span> <span class="trackname">Is it nothing to you?<br>
+    </span><span class="composer">Chorus: </span> <span class="trackname">From the Throne of His Cross</span><span class="composer"> </span><br>
+    <span class="trackname"> </span><span class="composer">Recitative &amp; men’s chorus: </span> <span class="trackname">After this, Jesus knowing that all things were now accomplished<br>
+    </span><span class="composer">Hymn:</span><span class="trackname"> All for Jesus</span>
+    <p><span id="playingtime">Total playing time 67m 34s</span></p>
 ---
-

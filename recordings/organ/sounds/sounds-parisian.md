@@ -1,9 +1,9 @@
 ---
-new_slug: sounds-parisian
+slug: sounds-parisian
 title: Sounds Parisian
 serialNumber: LAMM175
 coverImage: "../../../src/images/recordings/sounds-parisian.jpg"
-performer: 
+performer:
 directors: []
 contentHtml: |-
   <p id="cdtitle">French organ music played in Blackburn Cathedral by David Bednall</p>
@@ -60,22 +60,21 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <p>Le Tombeau d’Olivier Messiaen (Three Symphonic Meditations) <span class="composer">Naji Hakim</span><br>
-    I Par ma vie, par ma mort (By my life, by my death)<br>
-    II Je rends grâce à mon Dieu (I give thanks to my God)<br>
-    III Christ avec le Saint-Esprit dans la gloire du Père (Christ with the Holy Spirit in the Glory of the Father)</p>
-  <p>Apparition de l’Église eternelle <span class="composer">Oliver Messiaen</span></p>
-- |-
-  <p>Messe Basse pour les défunts Op. 62 <span class="composer">Louis Vierne</span><br>
-    Prélude<br>
-    Introït<br>
-    Offertoire<br>
-    Élévation<br>
-    Communion<br>
-    Défilé</p>
-  <p>Vexilla Regis Prodeunt <span class="composer">Naji Hakim</span></p>
-  <p> </p>
-  <p><span id="playingtime">Total playing time 73m 42s</span></p>
+  - |-
+    <p>Le Tombeau d’Olivier Messiaen (Three Symphonic Meditations) <span class="composer">Naji Hakim</span><br>
+      I Par ma vie, par ma mort (By my life, by my death)<br>
+      II Je rends grâce à mon Dieu (I give thanks to my God)<br>
+      III Christ avec le Saint-Esprit dans la gloire du Père (Christ with the Holy Spirit in the Glory of the Father)</p>
+    <p>Apparition de l’Église eternelle <span class="composer">Oliver Messiaen</span></p>
+  - |-
+    <p>Messe Basse pour les défunts Op. 62 <span class="composer">Louis Vierne</span><br>
+      Prélude<br>
+      Introït<br>
+      Offertoire<br>
+      Élévation<br>
+      Communion<br>
+      Défilé</p>
+    <p>Vexilla Regis Prodeunt <span class="composer">Naji Hakim</span></p>
+    <p> </p>
+    <p><span id="playingtime">Total playing time 73m 42s</span></p>
 ---
-

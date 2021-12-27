@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-atmospheric
+slug: sounds-atmospheric
 title: Sounds Atmospheric
 serialNumber: LAMM192
 coverImage: "../../../src/images/recordings/sounds-atmospheric.jpg"
-performer: Organ Music of Herbert Howells played by Christopher Stokes on the organ
+performer:
+  Organ Music of Herbert Howells played by Christopher Stokes on the organ
   of Manchester Cathedral
 directors: []
 contentHtml: |-
@@ -55,20 +56,19 @@ recordingDetailsHtml: |-
       Photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">Psalm Prelude Set 1 No. 1</span>
-  <p><span class="composer">Psalm Prelude Set 1 No. 2</span></p>
-  <p><span class="composer">Rhapsody No. 3 in C# minor</span></p>
-  <p><span class="composer">Psalm Prelude Set 2 No. 1</span></p>
-  <p><span class="composer">Saraband For the morning of Easter</span></p>
-- |-
-  <span class="composer">Master Tallis’s Testament</span>
-  <p><span class="composer">Saraband In modo elegiaco</span></p>
-  <p><span class="composer">Partita</span><br>
-    <span class="trackname"> Intrata<br>
-      Interlude<br>
-      Scherzo and Epilogue<br>
-      Sarabande for the 12th day of any October</span></p>
-  <p><span id="playingtime">Total playing time 67m 29s</span></p>
+  - |-
+    <span class="composer">Psalm Prelude Set 1 No. 1</span>
+    <p><span class="composer">Psalm Prelude Set 1 No. 2</span></p>
+    <p><span class="composer">Rhapsody No. 3 in C# minor</span></p>
+    <p><span class="composer">Psalm Prelude Set 2 No. 1</span></p>
+    <p><span class="composer">Saraband For the morning of Easter</span></p>
+  - |-
+    <span class="composer">Master Tallis’s Testament</span>
+    <p><span class="composer">Saraband In modo elegiaco</span></p>
+    <p><span class="composer">Partita</span><br>
+      <span class="trackname"> Intrata<br>
+        Interlude<br>
+        Scherzo and Epilogue<br>
+        Sarabande for the 12th day of any October</span></p>
+    <p><span id="playingtime">Total playing time 67m 29s</span></p>
 ---
-

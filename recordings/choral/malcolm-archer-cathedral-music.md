@@ -1,12 +1,12 @@
 ---
-new_slug: malcolm-archer-cathedral-music
+slug: malcolm-archer-cathedral-music
 title: Malcolm Archer - Cathedral Music
 serialNumber: LAMM165
 coverImage: "../../src/images/recordings/malcolm-archer-cathedral-music.jpg"
 performer: Wells Cathedral Choir
 directors:
-- 'Director: Malcolm Archer'
-- 'Organ: Rupert Gough'
+  - "Director: Malcolm Archer"
+  - "Organ: Rupert Gough"
 contentHtml: |-
   <h1>Malcolm Archer - Cathedral Music</h1>
   <p>All of the music on this disc was composed in a five year period between the years 1998 and 2003, many works being commissions.</p>
@@ -35,26 +35,25 @@ recordingDetailsHtml: |-
       Photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="composer">The Desert shall Rejoice</span>
-  <p><span class="composer">The Wells Service<br>
-    </span><span class="trackname">Magnificat<br>
-      Nunc Dimittis</span></p>
-  <p><span class="composer">Blest are the pure in heart</span></p>
-  <p><span class="composer">The Clifton Service<br>
-    </span><span class="trackname">Magnificat<br>
-      Nunc Dimittis</span></p>
-  <p><span class="composer">Missa Brevis<br>
-    </span><span class="trackname">Kyrie<br>
-      Gloria<br>
-      Sanctus<br>
-      Benedictus<br>
-      Agnus Dei</span></p>
-- |-
-  <span class="composer">The Son of the most high</span>
-  <p><span class="composer">O where can I go from your Spirit</span></p>
-  <p><span class="composer">A Hymn to Wisdom</span><span class="trackname"> Organ played by David Bednall</span></p>
-  <p><span class="composer">O magnum mysterium</span></p>
-  <p><span id="playingtime">Total playing time 64m 17s</span></p>
+  - |-
+    <span class="composer">The Desert shall Rejoice</span>
+    <p><span class="composer">The Wells Service<br>
+      </span><span class="trackname">Magnificat<br>
+        Nunc Dimittis</span></p>
+    <p><span class="composer">Blest are the pure in heart</span></p>
+    <p><span class="composer">The Clifton Service<br>
+      </span><span class="trackname">Magnificat<br>
+        Nunc Dimittis</span></p>
+    <p><span class="composer">Missa Brevis<br>
+      </span><span class="trackname">Kyrie<br>
+        Gloria<br>
+        Sanctus<br>
+        Benedictus<br>
+        Agnus Dei</span></p>
+  - |-
+    <span class="composer">The Son of the most high</span>
+    <p><span class="composer">O where can I go from your Spirit</span></p>
+    <p><span class="composer">A Hymn to Wisdom</span><span class="trackname"> Organ played by David Bednall</span></p>
+    <p><span class="composer">O magnum mysterium</span></p>
+    <p><span id="playingtime">Total playing time 64m 17s</span></p>
 ---
-

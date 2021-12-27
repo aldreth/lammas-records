@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-from-the-heart
+slug: sounds-from-the-heart
 title: Sounds from the Heart
 serialNumber: LAMM185
 coverImage: "../../../src/images/recordings/sounds-from-the-heart.jpg"
-performer: Peter St.John Stokes plays the Copeman Hart organ of St Silas Church, Kentish
+performer:
+  Peter St.John Stokes plays the Copeman Hart organ of St Silas Church, Kentish
   Town
 directors: []
 contentHtml: |-
@@ -56,27 +57,26 @@ recordingDetailsHtml: |-
       Photograph by John Salmon</p>
   </div>
 trackListingsHtml:
-- |-
-  Offertoire in D minor (Gravement – Marqué) <span class="composer"> Jean-François Dandrieu</span>
-  <p><span class="composer">from the Livre d’orgue <span class="composer"> Antoine Dornel<br>
-        i Récit en taille<br>
-        ii Basse et dessus de trompette<br>
-        iii Récit en dialogue</span></span></p>
-  <p><span class="composer">Toccata and Fugue in D minor BWV 565 <span class="composer">Johann Sebastian Bach<br>
-        i Toccata<br>
-        ii Fugue</span></span></p>
-  <p><span class="composer">Jesu, Joy of Man’s Desiring <span class="composer">Johann Sebastian Bach</span></span></p>
-  <p><span class="composer">Noël dans le goût de la symphonie-concertante <span class="composer"> Jean-Jacques Beauvarlet-Charpentier</span></span></p>
-- |-
-  Offertoire pour la messe du Jeudi saint <span class="composer"> Alexandre Pierre François Boëly</span>
-  <p><span class="composer">Offertoire pour le jour de Pâques <span class="composer"> Alexandre Pierre François Boëly</span></span></p>
-  <p><span class="composer">Fantasia and Fugue on BACH <span class="composer">Franz Liszt<br>
-        i Fantasia<br>
-        ii Fugue</span></span></p>
-  <p><span class="composer">from Sept pièces <span class="composer">Théodore Dubois<br>
-        i Interlude<br>
-        ii Marcietta</span></span></p>
-  <p><span class="composer">Choral III in A minor <span class="composer">César Franck</span></span></p>
-  <p><span class="composer"><span id="playingtime">Total playing time 70m 44s</span></span></p>
+  - |-
+    Offertoire in D minor (Gravement – Marqué) <span class="composer"> Jean-François Dandrieu</span>
+    <p><span class="composer">from the Livre d’orgue <span class="composer"> Antoine Dornel<br>
+          i Récit en taille<br>
+          ii Basse et dessus de trompette<br>
+          iii Récit en dialogue</span></span></p>
+    <p><span class="composer">Toccata and Fugue in D minor BWV 565 <span class="composer">Johann Sebastian Bach<br>
+          i Toccata<br>
+          ii Fugue</span></span></p>
+    <p><span class="composer">Jesu, Joy of Man’s Desiring <span class="composer">Johann Sebastian Bach</span></span></p>
+    <p><span class="composer">Noël dans le goût de la symphonie-concertante <span class="composer"> Jean-Jacques Beauvarlet-Charpentier</span></span></p>
+  - |-
+    Offertoire pour la messe du Jeudi saint <span class="composer"> Alexandre Pierre François Boëly</span>
+    <p><span class="composer">Offertoire pour le jour de Pâques <span class="composer"> Alexandre Pierre François Boëly</span></span></p>
+    <p><span class="composer">Fantasia and Fugue on BACH <span class="composer">Franz Liszt<br>
+          i Fantasia<br>
+          ii Fugue</span></span></p>
+    <p><span class="composer">from Sept pièces <span class="composer">Théodore Dubois<br>
+          i Interlude<br>
+          ii Marcietta</span></span></p>
+    <p><span class="composer">Choral III in A minor <span class="composer">César Franck</span></span></p>
+    <p><span class="composer"><span id="playingtime">Total playing time 70m 44s</span></span></p>
 ---
-

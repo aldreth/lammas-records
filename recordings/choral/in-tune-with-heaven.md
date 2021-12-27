@@ -1,12 +1,12 @@
 ---
-new_slug: in-tune-with-heaven
+slug: in-tune-with-heaven
 title: In Tune with Heaven
 serialNumber: LAMM169
 coverImage: "../../src/images/recordings/in-tune-with-heaven.jpg"
 performer: The Girls and Men of Norwich Cathedral Choir
 directors:
-- 'Director: Julian Thomas'
-- 'Organ: Thomas Leech'
+  - "Director: Julian Thomas"
+  - "Organ: Thomas Leech"
 contentHtml: |-
   <h1>In Tune with Heaven</h1>
   <p>Charles Hubert Hastings Parry (1848-1918) and Charles Villiers Stanford (1852-1924) rose above the insular mediocrity of the British musical establishment of the time, exemplified in cathedrals throughout the country. Their prodigious musical abilities, together with wide-ranging intellect, energetic personality and a cosmopolitan outlook fostered by study abroad, allowed them to escape from the shadows of Mendelssohn and Spohr and lay the foundations of British musical renaissance.</p>
@@ -33,28 +33,27 @@ recordingDetailsHtml: |-
       Producers: Andrew Carwood and Jeremy Summerly</p>
   </div>
 trackListingsHtml:
-- |-
-  <br>
-  <span class="trackname">Blest Pair of Sirens </span> <span class="composer">Hubert Parry</span>
-  <p><span class="trackname">Faire is the Heaven </span> <span class="composer">William Harris</span></p>
-  <p><span class="trackname">Come, my Way </span> <span class="composer"> William Harris</span></p>
-  <p><span class="trackname">O for a Closer Walk with God </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Justorum Animae </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Coelos Ascendit Hodie </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Beati Quorum Via </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Magnificat in G </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Nunc Dimittis in G </span> <span class="composer"> Charles Stanford</span></p>
-- |-
-  <span class="trackname">My Soul, there is a Country</span><span class="composer"> Hubert Parry</span>
-  <p><span class="trackname">I know my Soul hath Power </span> <span class="composer"> Hubert Parry</span></p>
-  <p><span class="trackname">Never Weather Beaten Sail </span> <span class="composer"> Hubert Parry</span></p>
-  <p><span class="trackname">There is an Old Belief </span> <span class="composer"> Hubert Parry</span></p>
-  <p><span class="trackname">A Song of Peace </span> <span class="composer"> Charles Stanford</span></p>
-  <p><span class="trackname">Come Down, O Love Divine </span> <span class="composer"> William Harris</span></p>
-  <p><span class="trackname">Bring us, O Lord God </span> <span class="composer"> William Harris</span></p>
-  <p><span class="trackname">Strengthen Ye the Weak Hands </span> <span class="composer"> William Harris</span><br>
-   </p>
-  <p><br>
-    <span id="playingtime">Total playing time 72m 23s</span></p>
+  - |-
+    <br>
+    <span class="trackname">Blest Pair of Sirens </span> <span class="composer">Hubert Parry</span>
+    <p><span class="trackname">Faire is the Heaven </span> <span class="composer">William Harris</span></p>
+    <p><span class="trackname">Come, my Way </span> <span class="composer"> William Harris</span></p>
+    <p><span class="trackname">O for a Closer Walk with God </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Justorum Animae </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Coelos Ascendit Hodie </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Beati Quorum Via </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Magnificat in G </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Nunc Dimittis in G </span> <span class="composer"> Charles Stanford</span></p>
+  - |-
+    <span class="trackname">My Soul, there is a Country</span><span class="composer"> Hubert Parry</span>
+    <p><span class="trackname">I know my Soul hath Power </span> <span class="composer"> Hubert Parry</span></p>
+    <p><span class="trackname">Never Weather Beaten Sail </span> <span class="composer"> Hubert Parry</span></p>
+    <p><span class="trackname">There is an Old Belief </span> <span class="composer"> Hubert Parry</span></p>
+    <p><span class="trackname">A Song of Peace </span> <span class="composer"> Charles Stanford</span></p>
+    <p><span class="trackname">Come Down, O Love Divine </span> <span class="composer"> William Harris</span></p>
+    <p><span class="trackname">Bring us, O Lord God </span> <span class="composer"> William Harris</span></p>
+    <p><span class="trackname">Strengthen Ye the Weak Hands </span> <span class="composer"> William Harris</span><br>
+     </p>
+    <p><br>
+      <span id="playingtime">Total playing time 72m 23s</span></p>
 ---
-

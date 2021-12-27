@@ -1,9 +1,10 @@
 ---
-new_slug: sounds-of-fotheringhay
+slug: sounds-of-fotheringhay
 title: Sounds of Fotheringhay
 serialNumber: LAMM191
 coverImage: "../../../src/images/recordings/sounds-of-fotheringhay.jpg"
-performer: Malcolm Archer plays the Vincent Woodstock organ at St Mary and All Saints
+performer:
+  Malcolm Archer plays the Vincent Woodstock organ at St Mary and All Saints
   Church, Fotheringhay
 directors: []
 contentHtml: |-
@@ -39,23 +40,22 @@ recordingDetailsHtml: |-
       Photograph by Malcolm Archer</p>
   </div>
 trackListingsHtml:
-- |-
-  <span class="trackname">Sonatina in D minor </span> <span class="composer">Christian Ritter</span>
-  <p><span class="trackname">Voluntary in D major </span> <span class="composer">John Stanley</span></p>
-  <p><span class="trackname">Voluntary in C major </span> <span class="composer">John Travers</span></p>
-  <p><span class="trackname">Four movements from Messe pour les Couvents</span><span class="composer"> François Couperin</span><br>
-    <span class="trackname"> Plein jeu</span><br>
-    <span class="composer"> </span><span class="trackname">Fugue sur la Trompette<br>
-      Elevation (Tierce en Taille)</span><br>
-    <span class="trackname"> Dialogue sur les grands jeux</span></p>
-  <p><span class="trackname">Variations on Unter der Linden Grüne</span><span class="composer"> Jan Pieterszoon Sweelinck</span></p>
-  <p><span class="trackname">Ciacona in E minor </span> <span class="composer">Dietrich Buxtehude</span></p>
-- |-
-  <span class="trackname">Chorale Prelude on Ein feste burg </span> <span class="composer">Dietrich Buxtehude</span>
-  <p><span class="trackname">Chorale Prelude on Komm, heiliger Geist, Herre Gott</span><span class="composer"> Dietrich Buxtehude</span></p>
-  <p><span class="trackname">Fugue (a la Gigue) in G major (BWV 577)</span><span class="composer"> Johann Sebastian Bach</span></p>
-  <p><span class="trackname">Chorale Prelude on O mensch, bewein (BWV 622) </span> <span class="composer">Johann Sebastian Bach</span></p>
-  <p><span class="trackname">Prelude and Fugue in E flat - St. Anne (BWV 552) </span> <span class="composer">Johann Sebastian Bach</span></p>
-  <p><span id="playingtime">Total playing time 66m 44s</span></p>
+  - |-
+    <span class="trackname">Sonatina in D minor </span> <span class="composer">Christian Ritter</span>
+    <p><span class="trackname">Voluntary in D major </span> <span class="composer">John Stanley</span></p>
+    <p><span class="trackname">Voluntary in C major </span> <span class="composer">John Travers</span></p>
+    <p><span class="trackname">Four movements from Messe pour les Couvents</span><span class="composer"> François Couperin</span><br>
+      <span class="trackname"> Plein jeu</span><br>
+      <span class="composer"> </span><span class="trackname">Fugue sur la Trompette<br>
+        Elevation (Tierce en Taille)</span><br>
+      <span class="trackname"> Dialogue sur les grands jeux</span></p>
+    <p><span class="trackname">Variations on Unter der Linden Grüne</span><span class="composer"> Jan Pieterszoon Sweelinck</span></p>
+    <p><span class="trackname">Ciacona in E minor </span> <span class="composer">Dietrich Buxtehude</span></p>
+  - |-
+    <span class="trackname">Chorale Prelude on Ein feste burg </span> <span class="composer">Dietrich Buxtehude</span>
+    <p><span class="trackname">Chorale Prelude on Komm, heiliger Geist, Herre Gott</span><span class="composer"> Dietrich Buxtehude</span></p>
+    <p><span class="trackname">Fugue (a la Gigue) in G major (BWV 577)</span><span class="composer"> Johann Sebastian Bach</span></p>
+    <p><span class="trackname">Chorale Prelude on O mensch, bewein (BWV 622) </span> <span class="composer">Johann Sebastian Bach</span></p>
+    <p><span class="trackname">Prelude and Fugue in E flat - St. Anne (BWV 552) </span> <span class="composer">Johann Sebastian Bach</span></p>
+    <p><span id="playingtime">Total playing time 66m 44s</span></p>
 ---
-
