@@ -24,21 +24,21 @@ recordingDetailsHtml: |-
     <p>Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Carillon de Longpont </span> <span class="composer">Louis Vierne</span>
-    <p><span class="trackname">Fantaisie in E flat Camille </span> <span class="composer">Saint-Sans</span></p>
-    <p><span class="trackname">Lied </span> <span class="composer">Louis Vierne</span></p>
-    <p><span class="trackname">Toccata </span> <span class="composer">Georgi Mushel</span></p>
-    <p><span class="trackname">Arabesque</span><span class="composer"> Louis Vierne</span></p>
-    <p><span class="trackname">Vom Himmel hoch </span> <span class="composer">Garth Edmundson</span></p>
-    <p><span class="trackname">Weihnachten </span> <span class="composer">Max Reger</span></p>
-  - |-
-    <span class="trackname">Vom Himmel hoch </span> <span class="composer">Sigfrid Karg-Elert</span>
-    <p><span class="trackname">Toccata and Fugue Op. 59 </span> <span class="composer">Max Reger</span></p>
-    <p><span class="trackname">Intermezzo </span> <span class="composer">Malcolm Archer</span></p>
-    <p><span class="trackname">Sicilienne Malcolm Archer</span></p>
-    <p><span class="trackname">Prelude on 'Noel Nouvelet' </span> <span class="composer">Malcolm Archer</span> </p>
-    <p><span class="trackname">Largo </span> <span class="composer">Flor Peeters</span></p>
-    <p><span class="trackname">Dankpsalm </span> <span class="composer">Max Reger</span></p>
-    <p><span id="playingtime">Total playing time 70m 34s</span></p>
----
+- |-
+  <span class="trackname">Carillon de Longpont </span> <span class="composer">Louis Vierne</span>
+  <p><span class="trackname">Fantaisie in E flat Camille </span> <span class="composer">Saint-Sans</span></p>
+  <p><span class="trackname">Lied </span> <span class="composer">Louis Vierne</span></p>
+  <p><span class="trackname">Toccata </span> <span class="composer">Georgi Mushel</span></p>
+  <p><span class="trackname">Arabesque</span><span class="composer"> Louis Vierne</span></p>
+  <p><span class="trackname">Vom Himmel hoch </span> <span class="composer">Garth Edmundson</span></p>
+  <p><span class="trackname">Weihnachten </span> <span class="composer">Max Reger</span></p>
+- |-
+  <span class="trackname">Vom Himmel hoch </span> <span class="composer">Sigfrid Karg-Elert</span>
+  <p><span class="trackname">Toccata and Fugue Op. 59 </span> <span class="composer">Max Reger</span></p>
+  <p><span class="trackname">Intermezzo </span> <span class="composer">Malcolm Archer</span></p>
+  <p><span class="trackname">Sicilienne Malcolm Archer</span></p>
+  <p><span class="trackname">Prelude on 'Noel Nouvelet' </span> <span class="composer">Malcolm Archer</span> </p>
+  <p><span class="trackname">Largo </span> <span class="composer">Flor Peeters</span></p>
+  <p><span class="trackname">Dankpsalm </span> <span class="composer">Max Reger</span></p>
+  <p><span id="playingtime">Total playing time 70m 34s</span></p>
+spotify_url: https://open.spotify.com/album/1EwbY2OtN1JFYOLyKz4nH9

@@ -5,8 +5,8 @@ serialNumber: LAMM139
 coverImage: "../../src/images/recordings/no-small-wonder.jpg"
 performer: The Concord Singers
 directors:
-  - "Director: Mary Bainbridge"
-  - "Organ: Paul Edwards"
+- 'Director: Mary Bainbridge'
+- 'Organ: Paul Edwards'
 contentHtml: |-
   <p id="cdtitle">Music for Christmas and Remembrance by Paul Edwards</p>
   <h1>No Small Wonder</h1>
@@ -36,33 +36,33 @@ recordingDetailsHtml: |-
       CD Cover picture - water-colour of Turvey Church by David James.</p>
   </div>
 trackListingsHtml:
-  - |-
-    No small wonder<br>
-    In Memoriam<br>
-    Strong Son of God<br>
-    Ad amicum absentem suspiria<br>
-    My Lord, my life, my love<br>
-    Vox dilecti<br>
-    Carminis hic finem<br>
-    The unutterable beauty
-    <p>What sweeter music</p>
-    <p>All poor men and humble</p>
-    <p>I sing of a maiden</p>
-    <p>The wild swans at Coole</p>
-    <p>The humble few</p>
-    <p>Balulalow<br>
-     </p>
-  - |-
-    Turvey Tuba Tune organ
-    <p>In freezing winter night</p>
-    <p>In excelsis gloria</p>
-    <p>Love came down at Christmas</p>
-    <p>Carol of the Adoration</p>
-    <p>Pie Iesu Jeni Melia, soprano solo</p>
-    <p>Tryste Noel</p>
-    <p>Wise men three in starry night</p>
-    <p>The stars of Bethlehem</p>
-    <p>O love that wilt not let me go `Colkirk’</p>
-    <p>Norfolk Requiem</p>
-    <p><span id="playingtime">Total playing time 73m 35s</span></p>
----
+- |-
+  No small wonder<br>
+  In Memoriam<br>
+  Strong Son of God<br>
+  Ad amicum absentem suspiria<br>
+  My Lord, my life, my love<br>
+  Vox dilecti<br>
+  Carminis hic finem<br>
+  The unutterable beauty
+  <p>What sweeter music</p>
+  <p>All poor men and humble</p>
+  <p>I sing of a maiden</p>
+  <p>The wild swans at Coole</p>
+  <p>The humble few</p>
+  <p>Balulalow<br>
+   </p>
+- |-
+  Turvey Tuba Tune organ
+  <p>In freezing winter night</p>
+  <p>In excelsis gloria</p>
+  <p>Love came down at Christmas</p>
+  <p>Carol of the Adoration</p>
+  <p>Pie Iesu Jeni Melia, soprano solo</p>
+  <p>Tryste Noel</p>
+  <p>Wise men three in starry night</p>
+  <p>The stars of Bethlehem</p>
+  <p>O love that wilt not let me go `Colkirk’</p>
+  <p>Norfolk Requiem</p>
+  <p><span id="playingtime">Total playing time 73m 35s</span></p>
+spotify_url: https://open.spotify.com/album/4maOYM1cuCQplYhuEjUcJh

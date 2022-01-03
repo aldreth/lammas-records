@@ -5,8 +5,8 @@ serialNumber: LAMM173
 coverImage: "../../src/images/recordings/mixing-their-music.jpg"
 performer: St Albans Chamber Choir
 directors:
-  - "Director: David Hansell"
-  - "Organ: Roger Judd"
+- 'Director: David Hansell'
+- 'Organ: Roger Judd'
 contentHtml: |-
   <h1>Mixing their Music</h1>
   <p>St Albans Chamber Choir's 2001 recording <a href="xmasacross.htm">Christmas across the Centuries</a> was a tightly themed programme not just of Christmas music but also of paired settings of the same text from widely contrasting historical periods. This present issue is a more varied anthology selected from the Choir's core repertoire of unaccompanied or organ accompanied music from circa 1600 to the present day. If there is a sub-theme running through the programme it is that of music for double choir. This means that instead of being divided into the standard four (SATB) vocal parts, each of those parts is divided to produce two four part ensembles which composers can combine and contrast in a variety of ways. The origins of this practice were in liturgical music, which from earliest times has used antiphonal devices of various kinds - either a soloist or a small ensemble singing in alternation with the main body of worshippers or the available forces being divided into two or more equal groups.</p>
@@ -24,20 +24,20 @@ recordingDetailsHtml: |-
     <p>Photograph: The Aldenham window (detail; St Albans Cathedral, east wall of the Saint's chapel) by David Kelsall</p>
   </div>
 trackListingsHtml:
-  - |-
-    God is gone up <span class="composer">Gerald Finzi</span>
-    <p>A Sequence for St Michael <span class="composer">Herbert Howells</span></p>
-    <p>Alma redemptoris mater <span class="composer">Plainchant</span></p>
-    <p>Alma redemptoris mater <span class="composer">Tomás Luis de Victoria</span></p>
-    <p>Regina coeli <span class="composer">Plainchant</span></p>
-    <p>Regina coeli <span class="composer">Tomás Luis de Victoria</span></p>
-    <p>Unsere Trübsal <span class="composer">Johann Ludwig Bach</span></p>
-  - |-
-    Der Geist hilft unsrer Schwachheit auf <span class="composer">Johann Sebastian Bach</span>
-    <p>Richte mich, Gott <span class="composer">Felix Mendelssohn</span></p>
-    <p>Tröstet, tröstet mein Volk <span class="composer">Heinrich Schütz</span></p>
-    <p>Te Deum <span class="composer">Kenneth Leighton</span></p>
-    <p>Antiphon <span class="composer">Benjamin Britten</span></p>
-    <p>Jubilate <span class="composer">Malcolm Singer</span></p>
-    <p><span id="playingtime">Total playing time 68m 00s</span></p>
----
+- |-
+  God is gone up <span class="composer">Gerald Finzi</span>
+  <p>A Sequence for St Michael <span class="composer">Herbert Howells</span></p>
+  <p>Alma redemptoris mater <span class="composer">Plainchant</span></p>
+  <p>Alma redemptoris mater <span class="composer">Tomás Luis de Victoria</span></p>
+  <p>Regina coeli <span class="composer">Plainchant</span></p>
+  <p>Regina coeli <span class="composer">Tomás Luis de Victoria</span></p>
+  <p>Unsere Trübsal <span class="composer">Johann Ludwig Bach</span></p>
+- |-
+  Der Geist hilft unsrer Schwachheit auf <span class="composer">Johann Sebastian Bach</span>
+  <p>Richte mich, Gott <span class="composer">Felix Mendelssohn</span></p>
+  <p>Tröstet, tröstet mein Volk <span class="composer">Heinrich Schütz</span></p>
+  <p>Te Deum <span class="composer">Kenneth Leighton</span></p>
+  <p>Antiphon <span class="composer">Benjamin Britten</span></p>
+  <p>Jubilate <span class="composer">Malcolm Singer</span></p>
+  <p><span id="playingtime">Total playing time 68m 00s</span></p>
+spotify_url: https://open.spotify.com/album/5FbSsJmPjF9XpDxcXuspZz

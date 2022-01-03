@@ -5,8 +5,8 @@ serialNumber: LAMM167
 coverImage: "../../src/images/recordings/geistliches-lied.jpg"
 performer: German Choral and Organ Music in the Romantic Tradition
 directors:
-  - "Director: Andrew Lucas"
-  - "Organ: Simon Johnson"
+- 'Director: Andrew Lucas'
+- 'Organ: Simon Johnson'
 contentHtml: |-
   <p id="performer">St Albans Cathedral Choir</p>
   <h1>Geistliches Lied - German Choral and Organ Music in the Romantic Tradition</h1>
@@ -51,23 +51,23 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Geistliches lied Op. 30 </span> <span class="composer">Johannes Brahms</span>
-    <p><span class="trackname">Ach, arme welt Op. 110 No. 2 </span> <span class="composer">Johannes Brahms</span></p>
-    <p><span class="trackname">O welt, ich muß dich lassen ORGAN </span> <span class="composer">Johannes Brahms</span></p>
-    <p><span class="trackname">Abendlied Op. 69 No. 3 </span> <span class="composer">Josef Rheinberger</span></p>
-    <p><span class="trackname">Cantus Missae (Mass in E flat) Op. 109 </span> <span class="composer">Josef Rheinberger</span><br>
-      <span class="trackname"> Kyrie<br>
-        Gloria<br>
-        Credo<br>
-        Sanctus<br>
-        Benedictus<br>
-        Agnus Dei</span></p>
-  - |-
-    <span class="trackname">Benedictus ORGAN </span> <span class="composer">Max Reger</span>
-    <p><span class="trackname">Ave Maria Op. 23 No. 2 </span> <span class="composer">Felix Mendelssohn</span></p>
-    <p><span class="trackname">Verlieh uns frieden </span> <span class="composer">Felix Mendelssohn</span></p>
-    <p><span class="trackname">Os justi </span> <span class="composer">Anton Bruckner</span></p>
-    <p><span class="trackname">Locus iste </span> <span class="composer">Anton Bruckner</span></p>
-    <p><span id="playingtime">Total playing time 64m 36s</span></p>
----
+- |-
+  <span class="trackname">Geistliches lied Op. 30 </span> <span class="composer">Johannes Brahms</span>
+  <p><span class="trackname">Ach, arme welt Op. 110 No. 2 </span> <span class="composer">Johannes Brahms</span></p>
+  <p><span class="trackname">O welt, ich muß dich lassen ORGAN </span> <span class="composer">Johannes Brahms</span></p>
+  <p><span class="trackname">Abendlied Op. 69 No. 3 </span> <span class="composer">Josef Rheinberger</span></p>
+  <p><span class="trackname">Cantus Missae (Mass in E flat) Op. 109 </span> <span class="composer">Josef Rheinberger</span><br>
+    <span class="trackname"> Kyrie<br>
+      Gloria<br>
+      Credo<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</span></p>
+- |-
+  <span class="trackname">Benedictus ORGAN </span> <span class="composer">Max Reger</span>
+  <p><span class="trackname">Ave Maria Op. 23 No. 2 </span> <span class="composer">Felix Mendelssohn</span></p>
+  <p><span class="trackname">Verlieh uns frieden </span> <span class="composer">Felix Mendelssohn</span></p>
+  <p><span class="trackname">Os justi </span> <span class="composer">Anton Bruckner</span></p>
+  <p><span class="trackname">Locus iste </span> <span class="composer">Anton Bruckner</span></p>
+  <p><span id="playingtime">Total playing time 64m 36s</span></p>
+spotify_url: https://open.spotify.com/album/4PeoOqgpLjhHNGvb17uXNq

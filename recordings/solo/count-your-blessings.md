@@ -5,8 +5,8 @@ serialNumber: LAMM121
 coverImage: "../../src/images/recordings/count-your-blessings.jpg"
 performer: David Wigram
 directors:
-  - "Organ: Christopher Muhley"
-  - " Piano: Tony Wigram"
+- 'Organ: Christopher Muhley'
+- " Piano: Tony Wigram"
 contentHtml: |-
   <p id="performer">BBC Choirboy of the Year 1999</p>
   <h1>Count Your Blessings</h1>
@@ -34,31 +34,31 @@ contentHtml: |-
   <p>Produced by Tony Wigram and Christopher Muhley.<br>
     Musical Associate: Jenny Wigram<br>
     Recorded and edited by Lance Andrews</p>
-recordingDetailsHtml:
+recordingDetailsHtml: 
 trackListingsHtml:
-  - |-
-    Here I am, Lord <span class="composer">Dan Schutte</span><br>
-    O rest in the Lord <span class="composer">Felix Mendelssohn</span><br>
-    Ave Maria<span class="composer"> Simon Lindley</span><br>
-    Ave verum corpus <span class="composer">Wolfgang Amadeus Mozart</span><br>
-    Count your blessings<span class="composer"> Reginald Morgan</span><br>
-    Hear my prayer <span class="composer">Felix Mendelssohn</span><br>
-    The little road to Bethlehem <span class="composer">Michael Head</span><br>
-    Be still, for the presence of the Lord <span class="composer">David Evans arr. Norman Warren</span><br>
-    The Ash Grove <span class="composer">Welsh Trad. arr. Tony Wigram</span><br>
-    Lead me Lord <span class="composer">Samuel Sebastian Wesley</span><br>
-    Ave Maria <span class="composer">J S Bach arr. Charles Gounod</span><br>
-    God be in my head <span class="composer">Henry Walford Davies</span>
-  - |-
-    All things bright and beautiful<span class="composer"> John Rutter</span><br>
-    Panis Angelicus <span class="composer">César Franck</span><br>
-    Sun of my soul <span class="composer">Herbert Oakley</span><br>
-    Sleep song from Hansel and Gretel <span class="composer">Engelbert Humperdinck</span><br>
-    Walking in the air from The Snowman<span class="composer"> Howard Blake</span><br>
-    Ave verum corpus <span class="composer">Edward Elgar</span><br>
-    Pie Jesu from the Requiem Mass <span class="composer">Gabriel Faur</span><br>
-    Brother James' Air Psalm 23 <span class="composer">James Leith MacBeth Bain</span><br>
-    Bless this house <span class="composer">May H Brahe</span><br>
-    The Lord bless you and keep you<span class="composer"> John Rutter</span>
-    <p><span id="playingtime">Total playing time 66m 00s</span></p>
----
+- |-
+  Here I am, Lord <span class="composer">Dan Schutte</span><br>
+  O rest in the Lord <span class="composer">Felix Mendelssohn</span><br>
+  Ave Maria<span class="composer"> Simon Lindley</span><br>
+  Ave verum corpus <span class="composer">Wolfgang Amadeus Mozart</span><br>
+  Count your blessings<span class="composer"> Reginald Morgan</span><br>
+  Hear my prayer <span class="composer">Felix Mendelssohn</span><br>
+  The little road to Bethlehem <span class="composer">Michael Head</span><br>
+  Be still, for the presence of the Lord <span class="composer">David Evans arr. Norman Warren</span><br>
+  The Ash Grove <span class="composer">Welsh Trad. arr. Tony Wigram</span><br>
+  Lead me Lord <span class="composer">Samuel Sebastian Wesley</span><br>
+  Ave Maria <span class="composer">J S Bach arr. Charles Gounod</span><br>
+  God be in my head <span class="composer">Henry Walford Davies</span>
+- |-
+  All things bright and beautiful<span class="composer"> John Rutter</span><br>
+  Panis Angelicus <span class="composer">César Franck</span><br>
+  Sun of my soul <span class="composer">Herbert Oakley</span><br>
+  Sleep song from Hansel and Gretel <span class="composer">Engelbert Humperdinck</span><br>
+  Walking in the air from The Snowman<span class="composer"> Howard Blake</span><br>
+  Ave verum corpus <span class="composer">Edward Elgar</span><br>
+  Pie Jesu from the Requiem Mass <span class="composer">Gabriel Faur</span><br>
+  Brother James' Air Psalm 23 <span class="composer">James Leith MacBeth Bain</span><br>
+  Bless this house <span class="composer">May H Brahe</span><br>
+  The Lord bless you and keep you<span class="composer"> John Rutter</span>
+  <p><span id="playingtime">Total playing time 66m 00s</span></p>
+spotify_url: https://open.spotify.com/album/10PSJd105YrA2bAXhsVxqo

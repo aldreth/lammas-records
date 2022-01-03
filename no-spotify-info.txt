@@ -1,0 +1,264 @@
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Come, Come, My Voice"
+"Treble Solos sung by Nicholas Fletcherwith Southwell Minster Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"A Flight of Angels"
+"Recorded in Lancing College Chapel"
+"**** Failed"
+#<TypeError: no implicit conversion of nil into String>
+"Such a Feast Treble solos sung by Jonathan Rendell"
+nil
+"**** Failed"
+#<TypeError: no implicit conversion of nil into String>
+"Songs by Michael Head and Friends"
+nil
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds from St Albans"
+"David Humphreys plays the organ at St Albans Cathedral"
+"**** Failed"
+#<TypeError: no implicit conversion of nil into String>
+"Sounds Parisian"
+nil
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Messianic"
+"Jamie Hitel plays the organ of St Paul's Episcopal Church, Akron, Ohio, USA"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Alan Ridout"
+"Robert Crowley plays organ music of Alan Ridout at Canterbury Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Bach"
+"Music by Johann Sebastian Bach"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Contemporary"
+"Organ music by Alan Ridout, Humphrey Clucas and Bernard Rose"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Exuberant"
+"Neil Weston plays organ at Spencerville Seventh Day Adventist Church, Maryland, USA"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Symphonic"
+"Ian Ball plays the organ in Gloucester Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Arthur Wills"
+"Robert Crowley plays the music of Arthur Wills on the organ of Ely Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Francis Jackson"
+"Organ works of Francis Jackson"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Artistic"
+"David Briggs plays the organ of Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Humphrey Clucas"
+"Robert Crowley plays the organ of the Cathedral and Abbey Church of St Albans"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Atmospheric"
+"Organ Music of Herbert Howells played by Christopher Stokes on the organ of Manchester Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Romantic"
+"Organ Music of Elgar and Stanford played by Christopher Stokes on the organ of Manchester Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds from the Heart"
+"Peter St.John Stokes plays the Copeman Hart organ of St Silas Church, Kentish Town"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Fotheringhay"
+"Malcolm Archer plays the Vincent Woodstock organ at St Mary and All Saints Church, Fotheringhay"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Awesome"
+"Robert Crowley plays music by Alan Ridout, Humphrey Clucas, Peter Wishart and Humphrey Searle on the organ of Canterbury Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Spontaneous"
+"Improvisations Through the Church’s Year by Malcolm Archer and David Bednall at the organ of Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Majestic"
+"The organ of Lichfield Cathedralplayed by Robert Sharpe"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds of Celebration"
+"Kevin Bowyer plays the organ works of Paul Fisher at Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Thrilling"
+"Stephen Farr plays the organ in Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Orchestral"
+"Symphonies by Schubert and Mendelssohntranscribed for Organ Duet by David Gibbs"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Sounds Baroque"
+"Terence Charlston plays the IOFS organ in St Saviour’s Church, St Albans"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"The Complete Orgelbüchlein"
+"45 Chorale Preludes by Johann Sebastian Bach played on the historic Arp Schnitger organ in Steinkirchen, Germany"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Bach and German Romantic Organ Music"
+"Alexander Fiseisky on the Klais organ in the Stadtkirche, Rotenburg/Wümme, Germany"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Russian Organ Music"
+"Alexander Fiseisky on the Lobback Organ in the Kreuzkirche, Hamburg-Ottensen, Germany"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Purple"
+"Simon Johnson at the organ of St Albans Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Toccatas from Coventry"
+"David Poulter on the Organ of Coventry Cathedral"
+"**** Failed"
+#<TypeError: no implicit conversion of nil into String>
+"JS Bach Organ Mass"
+nil
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Veni, Sancte Spiritus Choral and Organ music of Patrick Gowers"
+"Guildford Philharmonic OrchestraGuildford CamerataGuildford Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Saints & Souls"
+"The Choirs of All Saints' Church, Northampton"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Fauré Requiem"
+"Choir of St Mary's Cathedral, Edinburgh"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"A Celebration of British Cathedral Music"
+"The Choirs of All Saints, Northampton"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"The Crucifixion"
+"Guildford Philharmonic Orchestra"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Loving Shepherd"
+"Hymns sung by the Choirs and Congregation of Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Awake my Glory"
+"The Choirs of Jesus College, Cambridge"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Praise On High"
+"The Boys of St.George's Parish Church Choir, Belfast"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"My Spirit Rejoiceth"
+"Blackburn Cathedral Choir, Blackburn Cathedral Girls’ Choir and The Renaissance Singers of Blackburn Cathedral"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Over The Rainbow"
+"The Boys and Men of the Choir The Cathedral and Abbey Church of St Albans"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"The Churchgoer And The Composer"
+"The Choir of Selwyn College, Cambridge with the Selwyn College Instrumental Ensemble"
+"**** Failed"
+#<TypeError: no implicit conversion of nil into String>
+"I Look from Afar Music for the Season of Advent"
+nil
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Chichester Psalms"
+"The Boys And Men Of Wells Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"A Land of Pure Delight"
+"RSCM Millennium Youth Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Maurice Duruflé complete sacred choral works"
+"Truro Cathedral Choir with Dawid Kimberg Baritone"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Awake My Soul"
+"St Albans Abbey Girls Choir and Lay-clerks of the Cathedral and Abbey Church of St Alban"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Angelus ad Virginem"
+"Choir of St Mary's Cathedral, Edinburgh"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Thy Word is a Lantern"
+"Blackburn Cathedral Choir, The Renaissance Singers of Blackburn Cathedral and Zeneka Brass"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"A Crown of Light"
+"Choral and Organ music from The Cathedral and Abbey Church of St. AlbanWith the Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Christmastide at Blackburn Cathedral"
+"Blackburn Cathedral's Choir of Men and Boys Girls' Choir Young People's Choir and Renaissance Singers"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Rheinberger Masses"
+"The Choirs of Blackburn Cathedral sing the music of Josef Rheinberger"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Britten Missa Brevis"
+"Britten - Missa Brevis and other works for treble voices featuring Kieran White"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"En Prière"
+"The Girl Choristers of All Saints’ Church, Northampton"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Living Bread"
+"Truro Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Christmas At St Albans"
+"The Cathedral Choir and St Albans Bach Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"The Golden Vanity"
+"Music for Boys' Voices by Benjamin Britten - The Choristers of Christ Church Cathedral, Oxford"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Crux Fidelis"
+"The Girls and Men of Sheffield Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"So Come to Him"
+"The choir of St Paul’s, Rock Creek Parish, Washington DC, USA"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"lo, the full, final sacrifice"
+"St Albans Abbey Girls Choir - Lay Clerks of St Albans Cathedral Choir"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"A Celebration In Music"
+"The choirs of Jesus College Cambridge"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"Stabat Mater Pergolesi"
+"St Albans Abbey Girls ChoirEmma KirkbyCatherine DenleyLondon Baroque"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"In His Temple the music of Sir Edward Elgar"
+"The Choir and Organ of St Paul’s, Rock Creek Parish, Washington DC USA"
+"**** Failed"
+#<NoMethodError: undefined method `[]' for nil:NilClass>
+"God So Loved The World A Passiontide Sequence"
+"The Chapel Choir of University College, Durham"

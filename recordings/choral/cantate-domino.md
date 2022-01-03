@@ -5,8 +5,8 @@ serialNumber: LAMM162
 coverImage: "../../src/images/recordings/cantate-domino.jpg"
 performer: The Chapel Choir Of University College, Durham
 directors:
-  - "Director: Christopher Totney"
-  - "Organ: David Jackson"
+- 'Director: Christopher Totney'
+- 'Organ: David Jackson'
 contentHtml: |-
   <h1>University College and its Chapels</h1>
   <p>University College is part of the University of Durham, which was founded in 1832, and occupies the historic Durham Castle, until 1837 a residence of the Bishops of Durham. Today it is home to over 300 undergraduates studying for degrees in all disciplines, and has over 600 junior members and a large senior common room. It is fortunate to possess two chapels, once the private chapels of the Bishops, now those of the College community.</p>
@@ -31,32 +31,32 @@ recordingDetailsHtml: |-
       Photograph © University College, Durham and Jarrold Publishing, Norwich. Used by permission.</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">O Sing Joyfully</span><span class="composer"> Adrian Batten</span><br>
-    <span class="trackname"> Psalm 114 </span> <span class="composer">Tonus Peregrinus ed. Christopher Totney</span><br>
-    <span class="trackname"> Psalm 115 </span> <span class="composer">chant by Gerald Knight</span><br>
-    <span class="trackname"> Magnificat from the Short Service </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> Nunc Dimittis from the Short Service </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> Cantate Domino</span><span class="composer"> Richard Nicolson</span><br>
-    <span class="trackname"> Hymn: Glory to Thee, my God </span> <span class="composer">Thomas Tallis</span><br>
-    <span class="trackname"> Lord, for thy tender mercy’s sake</span><span class="composer"> Richard Farrant or John Hilton</span><br>
-    <span class="trackname"> Psalm 126</span><span class="composer"> chant by George Garrett</span><br>
-    <span class="trackname"> Psalm 127</span><span class="composer"> chant by John Leman Rogers<br>
-      Psalm 128 </span><span class="trackname">chant by Christopher Totney<br>
-      Psalm 129 </span> <span class="composer">chant by George Garrett</span><br>
-    <span class="trackname"> Psalm 130 </span> <span class="composer">chant by William Ellis</span><br>
-    <span class="trackname"> Psalm 131 </span> <span class="composer">chant by David Willcocks</span>
-  - |-
-    <span class="trackname">Magnificat from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
-    <span class="trackname"> Nunc Dimittis from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
-    <span class="trackname"> Ave Maria</span><span class="composer"> Robert Parsons</span><br>
-    <span class="trackname"> Hymn: Love of the Father </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> If ye love me </span> <span class="composer">Thomas Tallis</span><br>
-    <span class="trackname"> Psalm 142 </span> <span class="composer">chant by Joseph Barnby</span><br>
-    <span class="trackname"> Psalm 143 </span> <span class="composer">melody by Martin Hurst harm. Christopher Totney</span><br>
-    <span class="trackname"> Magnificat from the Short Service (Dorian Mode) </span> <span class="composer">Thomas Tallis</span><br>
-    <span class="trackname"> Nunc Dimittis from the Short Service (Dorian Mode) </span> <span class="composer">Thomas Tallis</span><br>
-    <span class="trackname"> Loquebantur variis linguis</span><span class="composer"> Thomas Tallis</span><br>
-    <span class="trackname"> </span><br>
-    <span id="playingtime">Total playing time 68m 55s</span>
----
+- |-
+  <span class="trackname">O Sing Joyfully</span><span class="composer"> Adrian Batten</span><br>
+  <span class="trackname"> Psalm 114 </span> <span class="composer">Tonus Peregrinus ed. Christopher Totney</span><br>
+  <span class="trackname"> Psalm 115 </span> <span class="composer">chant by Gerald Knight</span><br>
+  <span class="trackname"> Magnificat from the Short Service </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> Nunc Dimittis from the Short Service </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> Cantate Domino</span><span class="composer"> Richard Nicolson</span><br>
+  <span class="trackname"> Hymn: Glory to Thee, my God </span> <span class="composer">Thomas Tallis</span><br>
+  <span class="trackname"> Lord, for thy tender mercy’s sake</span><span class="composer"> Richard Farrant or John Hilton</span><br>
+  <span class="trackname"> Psalm 126</span><span class="composer"> chant by George Garrett</span><br>
+  <span class="trackname"> Psalm 127</span><span class="composer"> chant by John Leman Rogers<br>
+    Psalm 128 </span><span class="trackname">chant by Christopher Totney<br>
+    Psalm 129 </span> <span class="composer">chant by George Garrett</span><br>
+  <span class="trackname"> Psalm 130 </span> <span class="composer">chant by William Ellis</span><br>
+  <span class="trackname"> Psalm 131 </span> <span class="composer">chant by David Willcocks</span>
+- |-
+  <span class="trackname">Magnificat from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
+  <span class="trackname"> Nunc Dimittis from the Evening Service for four voices </span> <span class="composer">Thomas Caustun</span><br>
+  <span class="trackname"> Ave Maria</span><span class="composer"> Robert Parsons</span><br>
+  <span class="trackname"> Hymn: Love of the Father </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> If ye love me </span> <span class="composer">Thomas Tallis</span><br>
+  <span class="trackname"> Psalm 142 </span> <span class="composer">chant by Joseph Barnby</span><br>
+  <span class="trackname"> Psalm 143 </span> <span class="composer">melody by Martin Hurst harm. Christopher Totney</span><br>
+  <span class="trackname"> Magnificat from the Short Service (Dorian Mode) </span> <span class="composer">Thomas Tallis</span><br>
+  <span class="trackname"> Nunc Dimittis from the Short Service (Dorian Mode) </span> <span class="composer">Thomas Tallis</span><br>
+  <span class="trackname"> Loquebantur variis linguis</span><span class="composer"> Thomas Tallis</span><br>
+  <span class="trackname"> </span><br>
+  <span id="playingtime">Total playing time 68m 55s</span>
+spotify_url: https://open.spotify.com/album/3YqvtqeCnOrgvaOehDJoMM

@@ -5,8 +5,8 @@ serialNumber: LAMM128
 coverImage: "../../src/images/recordings/christmas-across-the-centuries.jpg"
 performer: St. Albans Chamber Choir
 directors:
-  - "Director: David Hansell"
-  - "Organ: Roger Judd"
+- 'Director: David Hansell'
+- 'Organ: Roger Judd'
 contentHtml: |-
   <h1>Christmas Across the Centuries</h1>
   <p>This recording grew from a performance of Mathias' Ave Rex (22-25) given by St Albans Chamber Choir in 1999. The original medieval melodies for three of the texts were already known to us (3,10,15) but did the old melody survive for the fourth? The discovery that it did (21) and our knowledge of several other medieval/modern pairs (1/5, 8/12, 16/18, 19/26) provided an ample framework for what became an interesting and wide-ranging project. The time-span of the programme was extended backwards by the inclusion of plainchant (4,9,13) and the 15th/20th century gap was bridged by the inclusion of music from the core Renaissance/Baroque SACC repertoire (2,6,7,14,20). All this meant that a piece from the first concert the choir gave in 1958 (20) was included and the programme was completed by two motets by Francis Poulenc (11,17 - linked to 9/20 and 13 respectively) whose music was prominent in SACC programmes 1998-2001.</p>
@@ -26,31 +26,31 @@ recordingDetailsHtml: |-
     <p>Photograph: Nativity scene (detail, South Aisle window, Ely Cathedral) © copyright Woodmansterne </p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Angelus ad Virginem </span> <span class="composer"> Anon </span><br>
-    <span class="trackname"> Ne timeas </span> <span class="composer">Maria Tomas Luis da Victoria </span><br>
-    <span class="trackname"> Ther is no rose </span> <span class="composer">Anon </span><br>
-    <span class="trackname"> Ne timeas </span> <span class="composer">Maria Plainchant</span><br>
-    <span class="trackname"> Angelus ad </span> <span class="trackname">Virginem</span><span class="composer"> arr. David Willcocks</span><br>
-    <span class="trackname"> Vom Himmel hoch</span><span class="composer"> Luther arr. M Praetorius </span><br>
-    <span class="trackname"> Vom Himmel hoch </span> <span class="composer">Luther arr. J S Bach</span><span class="trackname"> <br>
-      Nowel: Owt of your slepe </span> <span class="composer">Anon</span><br>
-    <span class="trackname"> Hodie Christus natus est</span><span class="composer"> Plainchant</span><br>
-    <span class="trackname"> Alleluya: A nywe werk</span><span class="composer"> Anon </span><br>
-    <span class="trackname"> Hodie Christus natus est </span> <span class="composer">Francis Poulenc </span><br>
-    <span class="trackname"> Out of your sleep </span> <span class="composer">Richard Rodney Bennett</span>
-  - |-
-    <span class="trackname">Quem vidistis pastores </span> <span class="composer"> Plainchant</span><br>
-    <span class="trackname"> In dulci jubilo </span> <span class="composer">Anon </span><br>
-    <span class="trackname"> Nowell: Dieus wous garde</span><span class="composer"> Richard Smert </span><br>
-    <span class="trackname"> The Coventry Carol </span> <span class="composer">Anon </span><br>
-    <span class="trackname"> Quem vidistis pastores </span> <span class="composer">Francis Poulenc </span><br>
-    <span class="trackname"> The Coventry Carol </span> <span class="composer">Kenneth Leighton </span><br>
-    <span class="trackname"> Resonemus laudibus</span><span class="composer"> Anon</span><br>
-    <span class="trackname"> Hodie Christus natus est</span><span class="composer"> J P Sweelinck </span><br>
-    <span class="trackname"> Ave rex angelorum </span> <span class="composer">Anon </span><br>
-    <span class="trackname"> Carol Sequence: Ave Rex</span><span class="composer"> William Mathias </span><br>
-    <span class="trackname"> Resonemus laudibus </span> <span class="composer">arr. David Willcocks </span><br>
-    <span class="trackname"> </span><br>
-    <span id="playingtime">Total playing time 71m 14s</span>
----
+- |-
+  <span class="trackname">Angelus ad Virginem </span> <span class="composer"> Anon </span><br>
+  <span class="trackname"> Ne timeas </span> <span class="composer">Maria Tomas Luis da Victoria </span><br>
+  <span class="trackname"> Ther is no rose </span> <span class="composer">Anon </span><br>
+  <span class="trackname"> Ne timeas </span> <span class="composer">Maria Plainchant</span><br>
+  <span class="trackname"> Angelus ad </span> <span class="trackname">Virginem</span><span class="composer"> arr. David Willcocks</span><br>
+  <span class="trackname"> Vom Himmel hoch</span><span class="composer"> Luther arr. M Praetorius </span><br>
+  <span class="trackname"> Vom Himmel hoch </span> <span class="composer">Luther arr. J S Bach</span><span class="trackname"> <br>
+    Nowel: Owt of your slepe </span> <span class="composer">Anon</span><br>
+  <span class="trackname"> Hodie Christus natus est</span><span class="composer"> Plainchant</span><br>
+  <span class="trackname"> Alleluya: A nywe werk</span><span class="composer"> Anon </span><br>
+  <span class="trackname"> Hodie Christus natus est </span> <span class="composer">Francis Poulenc </span><br>
+  <span class="trackname"> Out of your sleep </span> <span class="composer">Richard Rodney Bennett</span>
+- |-
+  <span class="trackname">Quem vidistis pastores </span> <span class="composer"> Plainchant</span><br>
+  <span class="trackname"> In dulci jubilo </span> <span class="composer">Anon </span><br>
+  <span class="trackname"> Nowell: Dieus wous garde</span><span class="composer"> Richard Smert </span><br>
+  <span class="trackname"> The Coventry Carol </span> <span class="composer">Anon </span><br>
+  <span class="trackname"> Quem vidistis pastores </span> <span class="composer">Francis Poulenc </span><br>
+  <span class="trackname"> The Coventry Carol </span> <span class="composer">Kenneth Leighton </span><br>
+  <span class="trackname"> Resonemus laudibus</span><span class="composer"> Anon</span><br>
+  <span class="trackname"> Hodie Christus natus est</span><span class="composer"> J P Sweelinck </span><br>
+  <span class="trackname"> Ave rex angelorum </span> <span class="composer">Anon </span><br>
+  <span class="trackname"> Carol Sequence: Ave Rex</span><span class="composer"> William Mathias </span><br>
+  <span class="trackname"> Resonemus laudibus </span> <span class="composer">arr. David Willcocks </span><br>
+  <span class="trackname"> </span><br>
+  <span id="playingtime">Total playing time 71m 14s</span>
+spotify_url: https://open.spotify.com/album/2uYS7YpfLG8yycSOA6J1Um

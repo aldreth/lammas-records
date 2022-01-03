@@ -5,8 +5,8 @@ serialNumber: LAMM195
 coverImage: "../../src/images/recordings/there-is-a-spirit-music-from-worcester-college-oxford.jpg"
 performer: The Chapel Choir of Worcester College
 directors:
-  - "Director: Thomas Primrose"
-  - "Organ: Daniel Chambers"
+- 'Director: Thomas Primrose'
+- 'Organ: Daniel Chambers'
 contentHtml: |-
   <h1>There is a Spirit - Music from Worcester College, Oxford</h1>
   <p>Worcester is one of the oldest and prettiest Colleges in the University of Oxford. Founded as Gloucester College, a Benedictine house, in 1238, it became Gloucester Hall at the dissolution and Worcester College in 1714. Its varied history has left the College with a remarkable collection of buildings, including some of the original mediaeval Benedictine cottages alongside Wyatt’s Hall and Chapel and Hawksmoor’s magnificent library, set in landscaped grounds with a lake and the only contiguous cricket pitch in Oxford.</p>
@@ -33,30 +33,30 @@ recordingDetailsHtml: |-
       Recording Assistant: Andrew Bell</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Ave verum corpus </span> <span class="composer">Andrew Gant</span>
-    <p><span class="trackname">A Christmas Caroll </span> <span class="composer">Kenneth Leighton</span></p>
-    <p><span class="trackname">Infant holy </span> <span class="composer">Polish arr. Edmund Rubbra</span></p>
-    <p><span class="trackname">The child of light </span> <span class="composer">Robert Saxton</span></p>
-    <p><span class="trackname">Missa Aedis Christi </span> <span class="composer">Robert Sherlaw Johnson</span><br>
-      <span class="trackname"> Kyrie<br>
-        Gloria<br>
-        Sanctus<br>
-        Benedictus<br>
-        Agnus Dei</span></p>
-    <p><span class="trackname">Psalm 150 </span> <span class="composer">Stephen Oliver</span></p>
-    <p><span class="trackname">Let us now praise famous men </span> <span class="composer">Edmund Rubbra</span></p>
-  - |-
-    <p><span class="trackname">There is a spirit </span> <span class="composer">Edmund Rubbra</span></p>
-    <p><span class="trackname">Except the Lord build the house </span> <span class="composer">Edmund Rubbra</span></p>
-    <p><span class="trackname">Missa brevis </span> <span class="composer">Kenneth Leighton</span><br>
-      <span class="trackname"> Kyrie<br>
-        Gloria<br>
-        Sanctus<br>
-        Benedictus</span><br>
-      <span class="trackname"> Agnus Dei</span></p>
-    <p><span class="trackname">And when the builders </span> <span class="composer">Edmund Rubbra</span></p>
-    <p><span class="trackname">A hymn to the Virgin </span> <span class="composer">Edmund Rubbra</span></p>
-    <p><span class="trackname">A good-night </span> <span class="composer">Andrew Gant</span></p>
-    <p><span id="playingtime">Total playing time 64m 16s</span></p>
----
+- |-
+  <span class="trackname">Ave verum corpus </span> <span class="composer">Andrew Gant</span>
+  <p><span class="trackname">A Christmas Caroll </span> <span class="composer">Kenneth Leighton</span></p>
+  <p><span class="trackname">Infant holy </span> <span class="composer">Polish arr. Edmund Rubbra</span></p>
+  <p><span class="trackname">The child of light </span> <span class="composer">Robert Saxton</span></p>
+  <p><span class="trackname">Missa Aedis Christi </span> <span class="composer">Robert Sherlaw Johnson</span><br>
+    <span class="trackname"> Kyrie<br>
+      Gloria<br>
+      Sanctus<br>
+      Benedictus<br>
+      Agnus Dei</span></p>
+  <p><span class="trackname">Psalm 150 </span> <span class="composer">Stephen Oliver</span></p>
+  <p><span class="trackname">Let us now praise famous men </span> <span class="composer">Edmund Rubbra</span></p>
+- |-
+  <p><span class="trackname">There is a spirit </span> <span class="composer">Edmund Rubbra</span></p>
+  <p><span class="trackname">Except the Lord build the house </span> <span class="composer">Edmund Rubbra</span></p>
+  <p><span class="trackname">Missa brevis </span> <span class="composer">Kenneth Leighton</span><br>
+    <span class="trackname"> Kyrie<br>
+      Gloria<br>
+      Sanctus<br>
+      Benedictus</span><br>
+    <span class="trackname"> Agnus Dei</span></p>
+  <p><span class="trackname">And when the builders </span> <span class="composer">Edmund Rubbra</span></p>
+  <p><span class="trackname">A hymn to the Virgin </span> <span class="composer">Edmund Rubbra</span></p>
+  <p><span class="trackname">A good-night </span> <span class="composer">Andrew Gant</span></p>
+  <p><span id="playingtime">Total playing time 64m 16s</span></p>
+spotify_url: https://open.spotify.com/album/1XjUoS5J3ZO89sbmgsNzZk

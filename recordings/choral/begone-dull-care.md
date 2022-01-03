@@ -5,8 +5,8 @@ serialNumber: LAMM107
 coverImage: "../../src/images/recordings/begone-dull-care.jpg"
 performer: The Choristers of Lichfield Cathedral
 directors:
-  - "Director: Andrew Lumsden"
-  - "Organ: Robert Sharpe"
+- 'Director: Andrew Lumsden'
+- 'Organ: Robert Sharpe'
 contentHtml: |-
   <h1>Begone Dull Care</h1>
   <p>At the heart of a Cathedral Chorister's life is the beautiful service of Evensong (in many places sung at least six times a week) and it therefore seems appropriate to open our disc with one of the most popular unison settings of the Evening Canticles. George Dyson studied composition at the Royal College of Music from 1900-04 and was later Director there, having been Director of Music at several leading schools, including Winchester College. The Magnificat sweeps along with enormous vigour and energy whilst the completely contrasting Nunc Dimittis is more reflective. The piece is particularly well-crafted with some very mellifluous lines and can be just as easily performed by young broken voices as by upper voices.</p>
@@ -26,18 +26,18 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Magnificat from the Service in C minor </span> <span class="composer"> George Dyson</span><br>
-    <span class="trackname"> O mysterium ineffabile</span><span class="composer"> Jean Fran</span>ç<span class="composer">ois Lallouette</span><br>
-    <span class="trackname"> A prayer of St Richard of Chichester</span><span class="composer"> LJ White</span><br>
-    <span class="trackname"> An Easter Sequence </span> <span class="composer">Kenneth Leighton</span><br>
-    <span class="trackname"> Ex ore innocentium</span><span class="composer"> John Ireland</span><br>
-  - |-
-    <span class="trackname">The Song of the Tree of Life </span> <span class="composer"> Ralph Vaughan Williams</span><br>
-    <span class="trackname"> Nunc Dimittis from the Service in C minor </span> <span class="composer"> George Dyson</span><br>
-    <span class="trackname"> Friday Afternoons </span> <span class="composer">Benjamin Britten</span><br>
-    <span class="trackname"> The Salley Gardens</span><span class="composer"> Benjamin Britten</span><br>
-    <span class="trackname"> Oliver Cromwell</span><span class="composer"> Benjamin Britten<br>
-    </span><br>
-    <span id="playingtime">Total playing time 59m 43s</span>
----
+- |-
+  <span class="trackname">Magnificat from the Service in C minor </span> <span class="composer"> George Dyson</span><br>
+  <span class="trackname"> O mysterium ineffabile</span><span class="composer"> Jean Fran</span>ç<span class="composer">ois Lallouette</span><br>
+  <span class="trackname"> A prayer of St Richard of Chichester</span><span class="composer"> LJ White</span><br>
+  <span class="trackname"> An Easter Sequence </span> <span class="composer">Kenneth Leighton</span><br>
+  <span class="trackname"> Ex ore innocentium</span><span class="composer"> John Ireland</span><br>
+- |-
+  <span class="trackname">The Song of the Tree of Life </span> <span class="composer"> Ralph Vaughan Williams</span><br>
+  <span class="trackname"> Nunc Dimittis from the Service in C minor </span> <span class="composer"> George Dyson</span><br>
+  <span class="trackname"> Friday Afternoons </span> <span class="composer">Benjamin Britten</span><br>
+  <span class="trackname"> The Salley Gardens</span><span class="composer"> Benjamin Britten</span><br>
+  <span class="trackname"> Oliver Cromwell</span><span class="composer"> Benjamin Britten<br>
+  </span><br>
+  <span id="playingtime">Total playing time 59m 43s</span>
+spotify_url: https://open.spotify.com/album/4dnM5ML4c7PV6xq6yIuAzq

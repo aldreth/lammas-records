@@ -5,8 +5,8 @@ serialNumber: LAMM158
 coverImage: "../../src/images/recordings/when-he-is-king.jpg"
 performer: Truro Cathedral Choir
 directors:
-  - "Director: Robert Sharpe"
-  - "Organ: Christopher Gray"
+- 'Director: Robert Sharpe'
+- 'Organ: Christopher Gray'
 contentHtml: |-
   <h1>When He is King</h1>
   <p>Philip Ledger made his arrangement of the traditional Sussex Carol melody for broadcast in the Festival of Nine Lessons and Carols from King’s College, Cambridge where he was Director of Music in the 1970s. The very first Festival of Nine Lessons and Carols actually took place in Truro Cathedral under the direction of Archbishop Benson and was later simplified for use in King’s College in 1918. It continues annually in Truro, recently expanding because of popular demand, to two services each year. Sir Philip’s arrangement combines a sparkling organ accompaniment with different combinations of voices culminating with a strong unison verse with descant.</p>
@@ -50,33 +50,33 @@ recordingDetailsHtml: |-
       Photograph by Lance Andrews</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Sussex Carol </span> <span class="composer">traditional, arranged Philip Ledger<br>
+- |-
+  <span class="trackname">Sussex Carol </span> <span class="composer">traditional, arranged Philip Ledger<br>
+  </span><br>
+  <span class="trackname"> Jesus Christ the Apple Tree </span><span class="composer">Elizabeth Poston</span>
+  <p><span class="trackname"> O little town of Bethlehem </span><span class="composer">Henry Walford Davies</span></p>
+  <p><span class="trackname"> Benedicamus Domino </span><span class="composer">Peter Warlock</span></p>
+  <p><span class="trackname"> In the bleak mid-winter</span><span class="composer"> Harold Darke</span></p>
+  <p><span class="trackname"> I saw three ships</span><span class="composer"> traditional, arranged Philip Marshall</span></p>
+  <p><span class="trackname"> A New Year Carol </span><span class="composer">Benjamin Britten</span></p>
+  <p><span class="trackname"> The Lamb </span><span class="composer">John Tavener</span></p>
+  <p><span class="trackname"> Quem vidistis pastores </span><span class="composer">Francis Poulenc</span></p>
+  <p><span class="trackname"> Away in a manger</span><span class="composer"> W J Kirkpatrick, arranged David Willcocks</span></p>
+  <p><span class="trackname"> Noël nouvelet </span><span class="composer"> traditional French, arranged Stephen Jackson</span><br>
+    <span class="trackname"> </span></p>
+- |-
+  <span class="trackname">Ave Maria</span><span class="composer"> Robert Parsons<br>
+  </span><br>
+  <span class="trackname"> Silent night </span><span class="composer">Franz Grüber, arranged Simon Morley</span>
+  <p><span class="trackname"> When Jesus our Lord </span><span class="composer">Felix Mendelssohn</span></p>
+  <p><span class="trackname"> O magnum mysterium </span><span class="composer">Francis Poulenc</span></p>
+  <p><span class="trackname"> Once in Royal David’s city</span><span class="composer"> melody H J Gauntlett, harmony A H Mann</span></p>
+  <p><span class="trackname">Bethlehem Down </span> <span class="composer">Peter Warlock</span><br>
+    <span class="trackname"> </span><br>
+    <span class="composer"> </span><span class="trackname">Here is the little door </span> <span class="composer">Herbert Howells</span></p>
+  <p><span class="trackname"> Little Jesus, sweetly sleep</span><span class="composer"> Czech melody, arranged Andrew Nethsingha<br>
     </span><br>
-    <span class="trackname"> Jesus Christ the Apple Tree </span><span class="composer">Elizabeth Poston</span>
-    <p><span class="trackname"> O little town of Bethlehem </span><span class="composer">Henry Walford Davies</span></p>
-    <p><span class="trackname"> Benedicamus Domino </span><span class="composer">Peter Warlock</span></p>
-    <p><span class="trackname"> In the bleak mid-winter</span><span class="composer"> Harold Darke</span></p>
-    <p><span class="trackname"> I saw three ships</span><span class="composer"> traditional, arranged Philip Marshall</span></p>
-    <p><span class="trackname"> A New Year Carol </span><span class="composer">Benjamin Britten</span></p>
-    <p><span class="trackname"> The Lamb </span><span class="composer">John Tavener</span></p>
-    <p><span class="trackname"> Quem vidistis pastores </span><span class="composer">Francis Poulenc</span></p>
-    <p><span class="trackname"> Away in a manger</span><span class="composer"> W J Kirkpatrick, arranged David Willcocks</span></p>
-    <p><span class="trackname"> Noël nouvelet </span><span class="composer"> traditional French, arranged Stephen Jackson</span><br>
-      <span class="trackname"> </span></p>
-  - |-
-    <span class="trackname">Ave Maria</span><span class="composer"> Robert Parsons<br>
-    </span><br>
-    <span class="trackname"> Silent night </span><span class="composer">Franz Grüber, arranged Simon Morley</span>
-    <p><span class="trackname"> When Jesus our Lord </span><span class="composer">Felix Mendelssohn</span></p>
-    <p><span class="trackname"> O magnum mysterium </span><span class="composer">Francis Poulenc</span></p>
-    <p><span class="trackname"> Once in Royal David’s city</span><span class="composer"> melody H J Gauntlett, harmony A H Mann</span></p>
-    <p><span class="trackname">Bethlehem Down </span> <span class="composer">Peter Warlock</span><br>
-      <span class="trackname"> </span><br>
-      <span class="composer"> </span><span class="trackname">Here is the little door </span> <span class="composer">Herbert Howells</span></p>
-    <p><span class="trackname"> Little Jesus, sweetly sleep</span><span class="composer"> Czech melody, arranged Andrew Nethsingha<br>
-      </span><br>
-      <span class="trackname"> Tomorrow shall be my dancing day </span><span class="composer">John Gardner</span><br>
-     </p>
-    <p><span id="playingtime">Total playing time 68m 04s</span></p>
----
+    <span class="trackname"> Tomorrow shall be my dancing day </span><span class="composer">John Gardner</span><br>
+   </p>
+  <p><span id="playingtime">Total playing time 68m 04s</span></p>
+spotify_url: https://open.spotify.com/album/04CfpZdVjhR4d0Nqkuocvh

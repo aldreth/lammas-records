@@ -5,7 +5,7 @@ serialNumber: LAMM096
 coverImage: "../../src/images/recordings/behold-it-is-christ.jpg"
 performer: The Choir of Selwyn College, Cambridge
 directors:
-  - "Director: Andrew Gant"
+- 'Director: Andrew Gant'
 contentHtml: |-
   <p id="cdtitle">Behold, It Is Christ<br>
     Anthems and services by Edmund Hooper and his contemporaries</p>
@@ -21,24 +21,24 @@ recordingDetailsHtml: |-
       Recorded and edited by Lance Andrews</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Blow out the trumpet </span> <span class="composer">Martin Peerson</span><br>
-    <span class="trackname"> O, had I wings like to a dove </span> <span class="composer">John Milton</span><br>
-    <span class="trackname"> Alas that I offended</span><span class="composer"> Edmund Hooper</span><br>
-    <span class="trackname"> O, clap your hands together </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> The Blessed Lamb </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> A song of joy </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> Magnificat - The Short Service </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> Nunc Dimittis - The Short Service</span><span class="composer"> Edmund Hooper</span><br>
-    <span class="trackname"> Wellspring of bounty </span> <span class="composer">Edmund Hooper</span>
-  - |-
-    <span class="trackname">Magnificat - The Great Service </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> Nunc Dimittis - The Great Service</span><span class="composer"> Edmund Hooper</span><br>
-    <span class="trackname"> When one among the twelve there was </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> Magnificat - The Verse Service </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> Nunc Dimittis - The Verse Service </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> Behold, it is Christ </span> <span class="composer">Edmund Hooper</span><br>
-    <span class="trackname"> Now shall the praises of the Lord be sung </span> <span class="composer">Edmund Hooper
-      <p></p>
-    </span> <span id="playingtime">Total playing time 57m 00s</span>
----
+- |-
+  <span class="trackname">Blow out the trumpet </span> <span class="composer">Martin Peerson</span><br>
+  <span class="trackname"> O, had I wings like to a dove </span> <span class="composer">John Milton</span><br>
+  <span class="trackname"> Alas that I offended</span><span class="composer"> Edmund Hooper</span><br>
+  <span class="trackname"> O, clap your hands together </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> The Blessed Lamb </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> A song of joy </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> Magnificat - The Short Service </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> Nunc Dimittis - The Short Service</span><span class="composer"> Edmund Hooper</span><br>
+  <span class="trackname"> Wellspring of bounty </span> <span class="composer">Edmund Hooper</span>
+- |-
+  <span class="trackname">Magnificat - The Great Service </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> Nunc Dimittis - The Great Service</span><span class="composer"> Edmund Hooper</span><br>
+  <span class="trackname"> When one among the twelve there was </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> Magnificat - The Verse Service </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> Nunc Dimittis - The Verse Service </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> Behold, it is Christ </span> <span class="composer">Edmund Hooper</span><br>
+  <span class="trackname"> Now shall the praises of the Lord be sung </span> <span class="composer">Edmund Hooper
+    <p></p>
+  </span> <span id="playingtime">Total playing time 57m 00s</span>
+spotify_url: https://open.spotify.com/album/3GVRejsq13QE2G5B9fFdv9

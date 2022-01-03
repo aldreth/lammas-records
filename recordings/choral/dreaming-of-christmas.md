@@ -5,10 +5,9 @@ serialNumber: LAMM116
 coverImage: "../../src/images/recordings/dreaming-of-christmas.jpg"
 performer: Wells Cathedral Choir
 directors:
-  - "Director: Malcolm Archer"
-  - "Organ: Rupert Gough"
-contentHtml:
-  "<h1>Dreaming Of Christmas</h1>\n \n<p> It all seemed so perfect. We
+- 'Director: Malcolm Archer'
+- 'Organ: Rupert Gough'
+contentHtml: "<h1>Dreaming Of Christmas</h1>\n \n<p> It all seemed so perfect. We
   had the cathedral, we had the choir, we had the recording dates, and we had all
   the music carefully rehearsed, since we were to sing it in our annual concert of
   Christmas Music by Candlelight. We even had an arrangement of \"I\"m dreaming of
@@ -65,8 +64,7 @@ contentHtml:
   place on two consecutive nights. The disc opens with a bright and lively setting
   of I saw three ships which sets the spirited mood of the recording and hopefully
   will fill all who listen with plenty of seasonal cheer! </p>"
-recordingDetailsHtml:
-  "<div id=\"details\"> \n  <p> Air Products plc kindly sponsored
+recordingDetailsHtml: "<div id=\"details\"> \n  <p> Air Products plc kindly sponsored
   the photoshoot for this CD by providing the PolarSnow©.<br>\n     The process for
   producing PolarSnow© uses air and water mixed at high pressure which is then rapidly
   frozen using liquid nitrogen to create naturally identical snow. </p>\n \n  <p>
@@ -74,29 +72,29 @@ recordingDetailsHtml:
   of the Dean and Chapter.<br>\n    Produced by Barry Rose and David Terry<br>\n    Photograph
   by Tony Bolton<br>\n    Recorded and edited by Lance Andrews </p>\n </div>"
 trackListingsHtml:
-  - |-
-    <span class="trackname">I saw three ships </span> <span class="composer"> Trad English, arr. Malcolm Archer</span><br>
-     <span class="trackname"> Up good Christen folk</span><span class="composer"> from Piae Cantiones text and arr. G.R. Woodward </span><br>
-     <span class="trackname"> In the bleak mid-winter</span><span class="composer"> Harold Darke </span><br>
-     <span class="trackname"> O magnum mysterium </span> <span class="composer">Tomas Luis de Victoria</span><br>
-     <span class="trackname"> Silent night</span><span class="composer"> Franz Gruber, arr. Barry Rose</span><br>
-     <span class="trackname"> Good King Wenceslas </span> <span class="composer">from Piae Cantiones arr. Reginald Jaques</span><br>
-     <span class="trackname"> Where do Christmas songs begin </span> <span class="composer">Malcolm Archer</span><br>
-     <span class="trackname"> Christmas cradle song</span><span class="composer"> Alfred Hollins<br>
-     </span> <span class="trackname">Unto us is born a son </span> <span class="composer">from Piae Cantiones arr. David Willcocks</span><br>
-     <span class="trackname"> Hodie Christus natus est </span> <span class="composer">Francis Poulenc</span><br>
-     <span class="trackname"> As I outrode this enderes night </span> <span class="composer">Gerald Hendrie</span>
-  - |-
-    <span class="trackname">Ding, dong! merrily on high </span> <span class="composer"> 16c French, arr. David WillcockS</span><br>
-     <span class="trackname"> O little ton of Bethlehem </span> <span class="composer">Joseph Barnby, arr. Malcolm Archer</span><br>
-     <span class="trackname"> Today, maiden Mary </span> <span class="composer">Trad Irish, arr. Michael Nicholas</span><br>
-     <span class="trackname"> There is no rose </span> <span class="composer">15c English, ed. John Stevens</span><br>
-     <span class="trackname"> Of the Father's heart begotten</span><span class="composer"> from Piae Cantiones arr. David Willcocks</span><br>
-     <span class="trackname"> The blessed son of God from Hodie </span> <span class="composer">Ralph Vaughan Williams </span><br>
-     <span class="trackname"> Ou s'en vont ces gais bergers?</span><span class="composer"> Claude Balbastre</span><br>
-     <span class="trackname"> Infant Holy, infant lowly </span> <span class="composer">Polish, arr. David Willcocks</span><br>
-     <span class="trackname"> I'm dreaming of a white Christmas</span><span class="composer"> Irving Berlin, arr. Malcolm Archer</span><span class="trackname"><br>
-       The twelve days of Christmas</span><span class="composer"> Trad. English, arr. Malcolm Archer </span><br>
-     <span class="trackname"> </span><br>
-     <span id="playingtime">Total playing time 65m 03s</span>
----
+- |-
+  <span class="trackname">I saw three ships </span> <span class="composer"> Trad English, arr. Malcolm Archer</span><br>
+   <span class="trackname"> Up good Christen folk</span><span class="composer"> from Piae Cantiones text and arr. G.R. Woodward </span><br>
+   <span class="trackname"> In the bleak mid-winter</span><span class="composer"> Harold Darke </span><br>
+   <span class="trackname"> O magnum mysterium </span> <span class="composer">Tomas Luis de Victoria</span><br>
+   <span class="trackname"> Silent night</span><span class="composer"> Franz Gruber, arr. Barry Rose</span><br>
+   <span class="trackname"> Good King Wenceslas </span> <span class="composer">from Piae Cantiones arr. Reginald Jaques</span><br>
+   <span class="trackname"> Where do Christmas songs begin </span> <span class="composer">Malcolm Archer</span><br>
+   <span class="trackname"> Christmas cradle song</span><span class="composer"> Alfred Hollins<br>
+   </span> <span class="trackname">Unto us is born a son </span> <span class="composer">from Piae Cantiones arr. David Willcocks</span><br>
+   <span class="trackname"> Hodie Christus natus est </span> <span class="composer">Francis Poulenc</span><br>
+   <span class="trackname"> As I outrode this enderes night </span> <span class="composer">Gerald Hendrie</span>
+- |-
+  <span class="trackname">Ding, dong! merrily on high </span> <span class="composer"> 16c French, arr. David WillcockS</span><br>
+   <span class="trackname"> O little ton of Bethlehem </span> <span class="composer">Joseph Barnby, arr. Malcolm Archer</span><br>
+   <span class="trackname"> Today, maiden Mary </span> <span class="composer">Trad Irish, arr. Michael Nicholas</span><br>
+   <span class="trackname"> There is no rose </span> <span class="composer">15c English, ed. John Stevens</span><br>
+   <span class="trackname"> Of the Father's heart begotten</span><span class="composer"> from Piae Cantiones arr. David Willcocks</span><br>
+   <span class="trackname"> The blessed son of God from Hodie </span> <span class="composer">Ralph Vaughan Williams </span><br>
+   <span class="trackname"> Ou s'en vont ces gais bergers?</span><span class="composer"> Claude Balbastre</span><br>
+   <span class="trackname"> Infant Holy, infant lowly </span> <span class="composer">Polish, arr. David Willcocks</span><br>
+   <span class="trackname"> I'm dreaming of a white Christmas</span><span class="composer"> Irving Berlin, arr. Malcolm Archer</span><span class="trackname"><br>
+     The twelve days of Christmas</span><span class="composer"> Trad. English, arr. Malcolm Archer </span><br>
+   <span class="trackname"> </span><br>
+   <span id="playingtime">Total playing time 65m 03s</span>
+spotify_url: https://open.spotify.com/album/0oB81zvIGZTEQPISQexSVx

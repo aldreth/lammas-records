@@ -5,8 +5,8 @@ serialNumber: LAMM115
 coverImage: "../../src/images/recordings/advent-to-candlemass.jpg"
 performer: St Edmundsbury Choir
 directors:
-  - "Director: James Thomas"
-  - "Organ: Scott Farrell"
+- 'Director: James Thomas'
+- 'Organ: Scott Farrell'
 contentHtml: |-
   <h1>Advent to Candlemass</h1>
   <p> </p>
@@ -38,33 +38,33 @@ contentHtml: |-
   <p>The race that long in darkness pined are the the words of John Morison (1750-1798) which he based on Isaiah IX, 2-7. The tune is Dundee as adapted by Christopher Tye (c. 1497-1573) in his ÒActs of the ApostlesÓ and found in the Scottish Psalter of 1615.</p>
   <p>The programme fittingly ends with the Nunc Dimittis, the Song of Simeon, as set to music in 1979 by the English composer Geoffrey Burgon (born 1941, Hambledon, Hampshire). Burgon, originally a trumpeter, is now better known for his music in the televised version of Evelyn Waugh's Brideshead Revisited, and for the use of this 'Nunc Dimittis' in Tinker, Tailor, Soldier, Spy adapted from John le Carre's novel. He has written many works including a Requiem and a Trumpet Concerto.</p>
   <p>Grant Vicat 1999</p>
-recordingDetailsHtml:
+recordingDetailsHtml: 
 trackListingsHtml:
-  - |-
-    <span class="trackname">Matin responsory </span><span class="composer">Palestrina</span><br>
-    <span class="trackname"> Lo! he comes with clouds descending </span> <span class="composer">Helmsley desc. James Thomas</span><br>
-    <span class="trackname"> I waited for the Lord </span><span class="composer">Felix Mendelssohn</span><br>
-    <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
-    <span class="trackname"> Expectans expectavi</span><span class="composer"> Charles Wood</span><br>
-    <span class="trackname"> On Jordan's banks the Baptist's cry Winchester New </span> <span class="composer">German chorale</span><br>
-    <span class="trackname"> I wonder as I wander </span> <span class="composer">Appalachian carol arr. John Rutter</span><br>
-    <span class="trackname"> Hosanna to the son of David </span> <span class="composer">Thomas Weelkes</span><br>
-    <span class="trackname"> Up! good Christen folk </span> <span class="composer">harm. G R Woodward </span><br>
-    <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn arr. David Willcocks</span><br>
-    <span class="trackname"> The crown of roses </span> <span class="composer">Peter Ilyich Tchaikovsky<br>
-    </span>
-  - |-
-    <span class="trackname">Adam lay bounden </span> <span class="composer">Boris Ord</span><br>
-    <span class="trackname"> Mary's lullaby </span> <span class="composer">John Rutter</span><br>
-    <span class="trackname">Joys seven </span> <span class="composer">arr Stephen Cleobury</span><br>
-    <span class="trackname"> A babe is born </span> <span class="composer">William Mathias</span><br>
-    <span class="trackname"> O come, all ye faithful Adeste fidelis </span> <span class="composer">arr David Willcocks</span><br>
-    <span class="trackname"> Bethlehem of noblest cities Stuttgart </span> <span class="composer">German</span><br>
-    <span class="trackname"> The three kings </span> <span class="composer">Peter Cornelius arr Ivor Atkins</span><br>
-    <span class="trackname"> Lo! star-led chiefs (from 'Palestine') </span> <span class="composer">William Crotch</span><br>
-    <span class="trackname"> Senex puerum </span> <span class="composer">William Byrd<br>
-    </span><span class="trackname">When to the temple Mary went </span> <span class="composer">Johannes Eccard<br>
-    </span><span class="trackname">The race that long in darkness pined </span> <span class="composer">Scottish</span><br>
-    <span class="trackname"> Nunc Dimittis </span> <span class="composer">Geoffrey Burgon</span>
-    <p><span id="playingtime">Total playing time 72m 06s</span></p>
----
+- |-
+  <span class="trackname">Matin responsory </span><span class="composer">Palestrina</span><br>
+  <span class="trackname"> Lo! he comes with clouds descending </span> <span class="composer">Helmsley desc. James Thomas</span><br>
+  <span class="trackname"> I waited for the Lord </span><span class="composer">Felix Mendelssohn</span><br>
+  <span class="trackname"> This is the record of John </span> <span class="composer">Orlando Gibbons</span><br>
+  <span class="trackname"> Expectans expectavi</span><span class="composer"> Charles Wood</span><br>
+  <span class="trackname"> On Jordan's banks the Baptist's cry Winchester New </span> <span class="composer">German chorale</span><br>
+  <span class="trackname"> I wonder as I wander </span> <span class="composer">Appalachian carol arr. John Rutter</span><br>
+  <span class="trackname"> Hosanna to the son of David </span> <span class="composer">Thomas Weelkes</span><br>
+  <span class="trackname"> Up! good Christen folk </span> <span class="composer">harm. G R Woodward </span><br>
+  <span class="trackname"> Hark! the herald angels sing </span> <span class="composer">Felix Mendelssohn arr. David Willcocks</span><br>
+  <span class="trackname"> The crown of roses </span> <span class="composer">Peter Ilyich Tchaikovsky<br>
+  </span>
+- |-
+  <span class="trackname">Adam lay bounden </span> <span class="composer">Boris Ord</span><br>
+  <span class="trackname"> Mary's lullaby </span> <span class="composer">John Rutter</span><br>
+  <span class="trackname">Joys seven </span> <span class="composer">arr Stephen Cleobury</span><br>
+  <span class="trackname"> A babe is born </span> <span class="composer">William Mathias</span><br>
+  <span class="trackname"> O come, all ye faithful Adeste fidelis </span> <span class="composer">arr David Willcocks</span><br>
+  <span class="trackname"> Bethlehem of noblest cities Stuttgart </span> <span class="composer">German</span><br>
+  <span class="trackname"> The three kings </span> <span class="composer">Peter Cornelius arr Ivor Atkins</span><br>
+  <span class="trackname"> Lo! star-led chiefs (from 'Palestine') </span> <span class="composer">William Crotch</span><br>
+  <span class="trackname"> Senex puerum </span> <span class="composer">William Byrd<br>
+  </span><span class="trackname">When to the temple Mary went </span> <span class="composer">Johannes Eccard<br>
+  </span><span class="trackname">The race that long in darkness pined </span> <span class="composer">Scottish</span><br>
+  <span class="trackname"> Nunc Dimittis </span> <span class="composer">Geoffrey Burgon</span>
+  <p><span id="playingtime">Total playing time 72m 06s</span></p>
+spotify_url: https://open.spotify.com/album/3wXKeXFIXcJOmbLbwHM6Ec

@@ -46,35 +46,35 @@ recordingDetailsHtml: |-
       Photograph by Shaun Ward</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="composer">A LITTLE ORGAN BOOK IN MEMORY OF HUBERT PARRY </span><br>
-    ‘Preston’ <span class="composer">C Hubert H Parry</span><br>
-    ‘Why does azure deck the sky’ <span class="composer">C V Stanford</span><br>
-    Carillon <span class="composer">A Herbert Brewer</span><br>
-    Slow <span class="composer">Alan Gray</span><br>
-    Andante soavemente e dolce <span class="composer">Charles Macpherson</span><br>
-    Chorale Prelude on ‘Worcester’ <span class="composer">Ivor Atkins</span><br>
-    Lento <span class="composer">Frank Bridge</span><br>
-    Andantino <span class="composer">Harold E Darke</span><br>
-    Andante <span class="composer">Charles Wood</span><br>
-    Rather slowly <span class="composer">Walter G Alcock</span><br>
-    Elegy <span class="composer">George Thalben Ball</span><br>
-    Improvisation<span class="composer"> Henry G Ley</span><br>
-    Prelude on ‘Jesu Dulcis Memoria’ <span class="composer">H Walford Davies</span>
-  - |-
-    <span class="composer">SIX SHORT PRELUDES AND POSTLUDES, Op. 101 Charles Villiers Stanford</span><br>
-    Allegretto in F<br>
-    Allegro non troppo e pesante in G minor<br>
-    Allegro non troppo in E flat<br>
-    Andante tranquillo in F<br>
-    Andante maestoso in G<br>
-    Andante con moto in E flat
-    <p><span class="composer">SIX ORGAN PIECES Frank Bridge</span><br>
-      Allegretto grazioso in A<br>
-      Allegro comodo in B flat<br>
-      Allegro marziale e ben marcato in D<br>
-      Andante con moto in D flat<br>
-      Andantino in F minor<br>
-      Allegro ben moderato in D</p>
-    <p><span id="playingtime">Total playing time 70m 30s</span></p>
----
+- |-
+  <span class="composer">A LITTLE ORGAN BOOK IN MEMORY OF HUBERT PARRY </span><br>
+  ‘Preston’ <span class="composer">C Hubert H Parry</span><br>
+  ‘Why does azure deck the sky’ <span class="composer">C V Stanford</span><br>
+  Carillon <span class="composer">A Herbert Brewer</span><br>
+  Slow <span class="composer">Alan Gray</span><br>
+  Andante soavemente e dolce <span class="composer">Charles Macpherson</span><br>
+  Chorale Prelude on ‘Worcester’ <span class="composer">Ivor Atkins</span><br>
+  Lento <span class="composer">Frank Bridge</span><br>
+  Andantino <span class="composer">Harold E Darke</span><br>
+  Andante <span class="composer">Charles Wood</span><br>
+  Rather slowly <span class="composer">Walter G Alcock</span><br>
+  Elegy <span class="composer">George Thalben Ball</span><br>
+  Improvisation<span class="composer"> Henry G Ley</span><br>
+  Prelude on ‘Jesu Dulcis Memoria’ <span class="composer">H Walford Davies</span>
+- |-
+  <span class="composer">SIX SHORT PRELUDES AND POSTLUDES, Op. 101 Charles Villiers Stanford</span><br>
+  Allegretto in F<br>
+  Allegro non troppo e pesante in G minor<br>
+  Allegro non troppo in E flat<br>
+  Andante tranquillo in F<br>
+  Andante maestoso in G<br>
+  Andante con moto in E flat
+  <p><span class="composer">SIX ORGAN PIECES Frank Bridge</span><br>
+    Allegretto grazioso in A<br>
+    Allegro comodo in B flat<br>
+    Allegro marziale e ben marcato in D<br>
+    Andante con moto in D flat<br>
+    Andantino in F minor<br>
+    Allegro ben moderato in D</p>
+  <p><span id="playingtime">Total playing time 70m 30s</span></p>
+spotify_url: https://open.spotify.com/album/5sKboAnxaeued351Ioi8DT

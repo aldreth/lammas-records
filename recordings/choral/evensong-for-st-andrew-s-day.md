@@ -5,8 +5,8 @@ serialNumber: LAMM134
 coverImage: "../../src/images/recordings/evensong-for-st-andrew-s-day.jpg"
 performer: Wells Cathedral Choir
 directors:
-  - "Director: Malcolm Archer"
-  - "Organ: Rupert Gough"
+- 'Director: Malcolm Archer'
+- 'Organ: Rupert Gough'
 contentHtml: |-
   <h1>Evensong for St Andrew's Day</h1>
   <p>The history of choral music at Wells Cathedral goes back before the creation of the present building in 1180. The first Cathedral was built in 705 and the records of the Vicars Choral go back to 1136. It is known that there were boys singing at Wells even earlier than that.</p>
@@ -32,26 +32,26 @@ recordingDetailsHtml: |-
       Colour Photograph by Unichrome (Bath) Ltd.</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Calling Bell<br>
-      Opening voluntary: Prelude No.5 in G (Opus 101) </span> <span class="composer"> C.V.Stanford</span><br>
-    <span class="trackname"> Introit: Justorum animae</span><span class="composer"> C.V. Stanford</span><br>
-    <span class="trackname"> Welcome and Preces </span> <span class="composer">Bernard Rose</span><br>
-    <span class="trackname"> Psalm 149 Chant by </span> <span class="composer">J. Turle</span><br>
-    <span class="trackname"> Psalm 150 Chant by</span><span class="composer"> C.V.Stanford</span><br>
-    <span class="trackname"> First lesson: Zechariah Chapter 8. Verse 20<br>
-      Office hymn: Jesus calls us! o'er the tumult (St.Andrew) </span> <span class="composer"> E H Thorne</span><br>
-    <span class="trackname"> Magnificat in A flat </span> <span class="composer">Edmund Rubbra</span><br>
-    <span class="trackname"> Second Lesson: St. John, Chapter 1. Verse 35</span>
-  - |-
-    <span class="trackname">Nunc Dimittis in A flat </span> <span class="composer"> Edmund Rubbra</span><br>
-    <span class="trackname"> Apostles' Creed<br>
-      Responses </span> <span class="composer">Bernard Rose</span><br>
-    <span class="trackname"> Collects<br>
-      Anthem: The Twelve </span> <span class="composer">William Walton</span><br>
-    <span class="trackname"> Intercessions by the Precentor<br>
-      Hymn: Light's abode, celestial Salem (Regent Square) </span> <span class="composer"> Henry Smart</span><span class="trackname"> Descant and Amen: </span> <span class="composer"> Malcolm Archer</span><br>
-    <span class="trackname"> Blessing<br>
-      Voluntary: Fantasia and Toccata (Opus 57) </span> <span class="composer"> C.V. Stanford</span>
-    <p><span id="playingtime">Total playing time 64m 32s</span></p>
----
+- |-
+  <span class="trackname">Calling Bell<br>
+    Opening voluntary: Prelude No.5 in G (Opus 101) </span> <span class="composer"> C.V.Stanford</span><br>
+  <span class="trackname"> Introit: Justorum animae</span><span class="composer"> C.V. Stanford</span><br>
+  <span class="trackname"> Welcome and Preces </span> <span class="composer">Bernard Rose</span><br>
+  <span class="trackname"> Psalm 149 Chant by </span> <span class="composer">J. Turle</span><br>
+  <span class="trackname"> Psalm 150 Chant by</span><span class="composer"> C.V.Stanford</span><br>
+  <span class="trackname"> First lesson: Zechariah Chapter 8. Verse 20<br>
+    Office hymn: Jesus calls us! o'er the tumult (St.Andrew) </span> <span class="composer"> E H Thorne</span><br>
+  <span class="trackname"> Magnificat in A flat </span> <span class="composer">Edmund Rubbra</span><br>
+  <span class="trackname"> Second Lesson: St. John, Chapter 1. Verse 35</span>
+- |-
+  <span class="trackname">Nunc Dimittis in A flat </span> <span class="composer"> Edmund Rubbra</span><br>
+  <span class="trackname"> Apostles' Creed<br>
+    Responses </span> <span class="composer">Bernard Rose</span><br>
+  <span class="trackname"> Collects<br>
+    Anthem: The Twelve </span> <span class="composer">William Walton</span><br>
+  <span class="trackname"> Intercessions by the Precentor<br>
+    Hymn: Light's abode, celestial Salem (Regent Square) </span> <span class="composer"> Henry Smart</span><span class="trackname"> Descant and Amen: </span> <span class="composer"> Malcolm Archer</span><br>
+  <span class="trackname"> Blessing<br>
+    Voluntary: Fantasia and Toccata (Opus 57) </span> <span class="composer"> C.V. Stanford</span>
+  <p><span id="playingtime">Total playing time 64m 32s</span></p>
+spotify_url: https://open.spotify.com/album/4oZhYscarKNEgkJAydesEk

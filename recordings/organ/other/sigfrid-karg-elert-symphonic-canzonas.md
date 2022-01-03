@@ -5,8 +5,8 @@ serialNumber: LAMM186
 coverImage: "../../../src/images/recordings/sigfrid-karg-elert-symphonic-canzonas.jpg"
 performer: Gough Duo
 directors:
-  - "Organ: Rupert Gough"
-  - "Violin: Rachel Gough"
+- 'Organ: Rupert Gough'
+- 'Violin: Rachel Gough'
 contentHtml: |-
   <p id="organist">Soprano: Natalie Clifton-Griffith</p>
   <h1>Sigfrid Karg-Elert - Symphonic Canzonas</h1>
@@ -46,18 +46,18 @@ recordingDetailsHtml: |-
       Photograph of Karg-Elert copyright Karg-Elert Gesellschaft</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="composer">Symphonic Chorale “Ach bleib mit deiner Gnade”, op. 87, no. 1</span> for organ
-    <p><span class="composer">Völlige Hingabe, op.66, no.1</span> for voice, violin and organ </p>
-    <p><span class="composer">Sphärenmusik, op. 66, no. 2</span> for voice, violin and organ</p>
-    <p><span class="composer">Ich steh an deiner Krippe hier, op. 66, no. 3</span> for voice, violin and organ</p>
-    <p><span class="composer">Sanctus, op. 48B, no. 1</span> for violin and organ</p>
-    <p><span class="composer">Pastorale, op. 48B, no. 2</span> for violin and organ</p>
-  - |-
-    <span class="composer">Abendstern, op. 98, no. 1</span> for soprano and organ
-    <p><span class="composer">Nun danket alle Gott, op. 65, no. 59</span> for organ</p>
-    <p><span class="composer">Vom Himmel hoch, op. 65, no. 10 </span>for organ</p>
-    <p><span class="composer">Vom Himmel hoch, op. 78, no. 20</span> for soprano, violin and organ</p>
-    <p><span class="composer">Symphonic Chorale “Nun ruhen alle Wälder”, op. 87, no. 3 </span>for soprano, violin and organ</p>
-    <p><span id="playingtime">Total playing time 64m 55s</span></p>
----
+- |-
+  <span class="composer">Symphonic Chorale “Ach bleib mit deiner Gnade”, op. 87, no. 1</span> for organ
+  <p><span class="composer">Völlige Hingabe, op.66, no.1</span> for voice, violin and organ </p>
+  <p><span class="composer">Sphärenmusik, op. 66, no. 2</span> for voice, violin and organ</p>
+  <p><span class="composer">Ich steh an deiner Krippe hier, op. 66, no. 3</span> for voice, violin and organ</p>
+  <p><span class="composer">Sanctus, op. 48B, no. 1</span> for violin and organ</p>
+  <p><span class="composer">Pastorale, op. 48B, no. 2</span> for violin and organ</p>
+- |-
+  <span class="composer">Abendstern, op. 98, no. 1</span> for soprano and organ
+  <p><span class="composer">Nun danket alle Gott, op. 65, no. 59</span> for organ</p>
+  <p><span class="composer">Vom Himmel hoch, op. 65, no. 10 </span>for organ</p>
+  <p><span class="composer">Vom Himmel hoch, op. 78, no. 20</span> for soprano, violin and organ</p>
+  <p><span class="composer">Symphonic Chorale “Nun ruhen alle Wälder”, op. 87, no. 3 </span>for soprano, violin and organ</p>
+  <p><span id="playingtime">Total playing time 64m 55s</span></p>
+spotify_url: https://open.spotify.com/album/7wsxlMse1WjqBCwnXehxzJ

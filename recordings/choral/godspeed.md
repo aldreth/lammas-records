@@ -5,10 +5,9 @@ serialNumber: LAMM135
 coverImage: "../../src/images/recordings/godspeed.jpg"
 performer: St Edmundsbury Cathedral Choir
 directors:
-  - "Director: James Thomas"
-  - "Organ: Michael Bawtree"
-contentHtml:
-  "<h1>Godspeed</h1>\n<p>This CD was recorded in response to many requests
+- 'Director: James Thomas'
+- 'Organ: Michael Bawtree'
+contentHtml: "<h1>Godspeed</h1>\n<p>This CD was recorded in response to many requests
   from visitors for something 'local' by which to remember St Edmundsbury Cathedral.
   It therefore contains not only many universally popular pieces of choral music,
   but also two items peculiar to the Cathedral Choir. Both were commissioned by the
@@ -78,24 +77,24 @@ recordingDetailsHtml: |-
       The sculptor Jonathan Clarke, who is based in Bury St Edmunds, created the image on the cover, Godspeed V, from cast aluminium. The Cathedral acquired it in 2001, with the assistance of a grant from the Jerusalem Trust.</p>
   </div>
 trackListingsHtml:
-  - |-
-    I was glad <span class="composer">C H H Parry</span><br>
-    Ave verum<span class="composer"> W A Mozart</span><br>
-    Magnificat in G <span class="composer">C V Stanford</span><br>
-    Gloria<span class="composer"> W A Mozart</span><br>
-    Jesu, joy of man's desiring <span class="composer">J S Bach</span><br>
-    Kyrie <span class="composer">William Byrd</span><br>
-    Hail true body <span class="composer">Stanley Vann</span><br>
-    Pilgrim's Song <span class="composer">Philip Wilby</span><br>
-    I saw the Lord <span class="composer">John Stainer </span><br>
-  - |-
-    Ave verum <span class="composer">Edward Elgar</span><br>
-    Blessed be the God and Father <span class="composer">S S Wesley</span><br>
-    O Lord, make thy servant Elizabeth <span class="composer">William Byrd</span><br>
-    Psalm 23 <span class="composer">Chant by Wilfrid Mothersole</span><br>
-    If ye love me <span class="composer">Philip Wilby</span><br>
-    Agnus Dei <span class="composer">David Horne</span><br>
-    Pie Jesu <span class="composer">Malcolm Archer</span><br>
-    Jerusalem <span class="composer">C H H Parry</span>
-    <p><span id="playingtime">Total playing time 70m 43s</span></p>
----
+- |-
+  I was glad <span class="composer">C H H Parry</span><br>
+  Ave verum<span class="composer"> W A Mozart</span><br>
+  Magnificat in G <span class="composer">C V Stanford</span><br>
+  Gloria<span class="composer"> W A Mozart</span><br>
+  Jesu, joy of man's desiring <span class="composer">J S Bach</span><br>
+  Kyrie <span class="composer">William Byrd</span><br>
+  Hail true body <span class="composer">Stanley Vann</span><br>
+  Pilgrim's Song <span class="composer">Philip Wilby</span><br>
+  I saw the Lord <span class="composer">John Stainer </span><br>
+- |-
+  Ave verum <span class="composer">Edward Elgar</span><br>
+  Blessed be the God and Father <span class="composer">S S Wesley</span><br>
+  O Lord, make thy servant Elizabeth <span class="composer">William Byrd</span><br>
+  Psalm 23 <span class="composer">Chant by Wilfrid Mothersole</span><br>
+  If ye love me <span class="composer">Philip Wilby</span><br>
+  Agnus Dei <span class="composer">David Horne</span><br>
+  Pie Jesu <span class="composer">Malcolm Archer</span><br>
+  Jerusalem <span class="composer">C H H Parry</span>
+  <p><span id="playingtime">Total playing time 70m 43s</span></p>
+spotify_url: https://open.spotify.com/album/5RnuLMcqZnx2xcra44Mf6n

@@ -5,7 +5,7 @@ serialNumber: LAMM1000
 coverImage: "../../../src/images/recordings/the-gallery-organ-of-all-saints-northampton.jpg"
 performer: The Gallery Organ of All Saints, Northampton
 directors:
-  - "Organ: Richard Tanner"
+- 'Organ: Richard Tanner'
 contentHtml: |-
   <h1>The Gallery Organ of All Saints, Northampton</h1>
   <p>All Saints is the principal and civic church of Northampton and was built in the last quarter of the 17th century on the site of an earlier Collegiate Church. An organ by Schwarbrick was built circa 1730 and rebuilt beyond recognition during the nineteenth and twentieth centuries.</p>
@@ -24,25 +24,25 @@ recordingDetailsHtml: |-
       Photograph by Harvest Studios</p>
   </div>
 trackListingsHtml:
-  - |-
-    <span class="trackname">Toccata and Fugue in D minor BWV 565</span> <span class="composer">J S Bach</span><br>
-    <span class="trackname">O Mensch, bewein' dein' Sünde gross BWV 622</span> <span class="composer">J S Bach</span>
-    <p><span class="trackname">Plein Jeu</span><br>
-      <span class="trackname">Fugue</span><br>
-      <span class="trackname">Trio</span><br>
-      <span class="trackname">Tierce en Taille</span><br>
-      <span class="trackname">Basse de Trompette</span><br>
-      <span class="trackname">Récit</span><br>
-      <span class="trackname">Duo</span><br>
-      <span class="trackname">Grand Jeu</span></p>
-  - |-
-    <span class="trackname">Voluntary I Opus 5</span> <span class="composer">John Stanley</span><br>
-    <span class="trackname">Adagio</span><br>
-    <span class="trackname">Andante</span><br>
-    <span class="trackname">Slow</span><br>
-    <span class="trackname">Allegro</span><br>
-    <span class="trackname">Fantasia</span> <span class="composer">York Bowen</span><br>
-    <span class="trackname">Fantasia and Fugue on B.A.C.H.</span> <span class="composer">Franz Liszt</span><br>
-    <span class="trackname">Finale from Symphony No. 6</span> <span class="composer">Charles-Marie Widor</span>
-    <p><span id="playingtime">Total playing time 68m 09s</span></p>
----
+- |-
+  <span class="trackname">Toccata and Fugue in D minor BWV 565</span> <span class="composer">J S Bach</span><br>
+  <span class="trackname">O Mensch, bewein' dein' Sünde gross BWV 622</span> <span class="composer">J S Bach</span>
+  <p><span class="trackname">Plein Jeu</span><br>
+    <span class="trackname">Fugue</span><br>
+    <span class="trackname">Trio</span><br>
+    <span class="trackname">Tierce en Taille</span><br>
+    <span class="trackname">Basse de Trompette</span><br>
+    <span class="trackname">Récit</span><br>
+    <span class="trackname">Duo</span><br>
+    <span class="trackname">Grand Jeu</span></p>
+- |-
+  <span class="trackname">Voluntary I Opus 5</span> <span class="composer">John Stanley</span><br>
+  <span class="trackname">Adagio</span><br>
+  <span class="trackname">Andante</span><br>
+  <span class="trackname">Slow</span><br>
+  <span class="trackname">Allegro</span><br>
+  <span class="trackname">Fantasia</span> <span class="composer">York Bowen</span><br>
+  <span class="trackname">Fantasia and Fugue on B.A.C.H.</span> <span class="composer">Franz Liszt</span><br>
+  <span class="trackname">Finale from Symphony No. 6</span> <span class="composer">Charles-Marie Widor</span>
+  <p><span id="playingtime">Total playing time 68m 09s</span></p>
+spotify_url: https://open.spotify.com/album/5H0U3InomMmvPaPNNNbYEy

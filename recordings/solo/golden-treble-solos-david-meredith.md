@@ -5,7 +5,7 @@ serialNumber: LAMM093
 coverImage: "../../src/images/recordings/golden-treble-solos-david-meredith.jpg"
 performer: David Meredith
 directors:
-  - "Organ: Malcolm Archer"
+- 'Organ: Malcolm Archer'
 contentHtml: |-
   <p id="cdtitle">Golden Treble Solos</p>
   <h1>Golden Treble Solos</h1>
@@ -18,29 +18,29 @@ contentHtml: |-
   <h2>David Meredith</h2>
   <p>David Meredith was born in Bristol on 23rd March 1982 and was raised in Bath where he attended St Stephen's Church of England Primary School. He started singing at the age of six, encouraged by his piano teacher, Sue Ferguson. In September 1990 he became a chorister at Wells Cathedral with Dr Anthony Crossland, eventually being appointed Head Chorister, a position which he held for two years.</p>
   <p>He is a pupil at Wells Cathedral School and he plays the piano and percussion and is a member of the school orchestra.With Wells Cathedral Choir, David has sung many solos and has taken part in several broadcasts and recordings as well as concert tours to Belgium, France, Brazil, Germany and the USA. He is also a soloist on the CD 'The Gift of Christmas'. Apart from singing, his other interests include tennis, which he plays for the school, athletics and horse riding.</p>
-recordingDetailsHtml:
+recordingDetailsHtml: 
 trackListingsHtml:
-  - |-
-    Ave Maria <span class="composer">Franz Schubert</span><br>
-    The little road to Bethlehem <span class="composer">Michael Head</span><br>
-    The Lord's my Shepherd <span class="composer">Jessie Irvine, harm. T C L Pritchard</span><br>
-    Pie Jesu from the Requiem<span class="composer"> Gabriel Fauré</span><br>
-    The Call <span class="composer">Ralph Vaughan Williams</span><br>
-    Agnus Dei from the Coronation Mass<span class="composer"> Wolfgang Amadeus Mozart</span><br>
-    Jesu, joy of man's desiring<span class="composer"> Johann Sebastian Bach</span><br>
-    The day thou gavest <span class="composer">Clement Cotterill Scholefield</span><br>
-    Ave verum corpus <span class="composer">Wolfgang Amadeus Mozart</span><br>
-    Sleep my baby <span class="composer">Trad. Welsh arr. Malcolm Archer</span>
-  - |-
-    Laudate Dominum from the Vespers <span class="composer">Wolfgang Amadeus Mozart</span><br>
-    Jerusalem<span class="composer"> Hubert Parry</span><br>
-    Panis angelicus <span class="composer">César Franck</span><br>
-    Morning has broken<span class="composer"> Trad. Gaelic</span><br>
-    Ave Maria <span class="composer">J S Bach, adapted Charles Gounod</span><br>
-    O for the wings of a dove<span class="composer"> Felix Mendelssohn</span><br>
-    Dear Lord and Father of mankind <span class="composer">Hubert Parry</span><br>
-    Amazing Grace <span class="composer">Trad. American arr. Malcolm Archer</span><br>
-    Love one another <span class="composer">Samuel Sebastian Wesley</span><br>
-    A grateful heart<span class="composer"> Mary Plumstead</span>
-    <p><span id="playingtime">Total playing time 62m 00s</span></p>
----
+- |-
+  Ave Maria <span class="composer">Franz Schubert</span><br>
+  The little road to Bethlehem <span class="composer">Michael Head</span><br>
+  The Lord's my Shepherd <span class="composer">Jessie Irvine, harm. T C L Pritchard</span><br>
+  Pie Jesu from the Requiem<span class="composer"> Gabriel Fauré</span><br>
+  The Call <span class="composer">Ralph Vaughan Williams</span><br>
+  Agnus Dei from the Coronation Mass<span class="composer"> Wolfgang Amadeus Mozart</span><br>
+  Jesu, joy of man's desiring<span class="composer"> Johann Sebastian Bach</span><br>
+  The day thou gavest <span class="composer">Clement Cotterill Scholefield</span><br>
+  Ave verum corpus <span class="composer">Wolfgang Amadeus Mozart</span><br>
+  Sleep my baby <span class="composer">Trad. Welsh arr. Malcolm Archer</span>
+- |-
+  Laudate Dominum from the Vespers <span class="composer">Wolfgang Amadeus Mozart</span><br>
+  Jerusalem<span class="composer"> Hubert Parry</span><br>
+  Panis angelicus <span class="composer">César Franck</span><br>
+  Morning has broken<span class="composer"> Trad. Gaelic</span><br>
+  Ave Maria <span class="composer">J S Bach, adapted Charles Gounod</span><br>
+  O for the wings of a dove<span class="composer"> Felix Mendelssohn</span><br>
+  Dear Lord and Father of mankind <span class="composer">Hubert Parry</span><br>
+  Amazing Grace <span class="composer">Trad. American arr. Malcolm Archer</span><br>
+  Love one another <span class="composer">Samuel Sebastian Wesley</span><br>
+  A grateful heart<span class="composer"> Mary Plumstead</span>
+  <p><span id="playingtime">Total playing time 62m 00s</span></p>
+spotify_url: https://open.spotify.com/album/1V2NinPAW6Hpr3YgUSXDmW
